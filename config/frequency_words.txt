@@ -1,5 +1,6 @@
 DeepSeek
-梁文锋
+
+Qwen
 
 谷歌
 google
@@ -8,12 +9,6 @@ gemini
 chatgpt
 openai
 
-金价
-
-黄金
-+价格
-
-美债
 
 美股
 
@@ -22,4 +17,7 @@ openai
 
 特朗普
 
-伊朗
+Claude
+
+AI Coding
+
