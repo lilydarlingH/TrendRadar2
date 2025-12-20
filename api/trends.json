@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T20:47:39.162587+08:00",
-  "total_titles_processed": 1404,
+  "generated_at": "2025-12-20T21:31:34.724315+08:00",
+  "total_titles_processed": 1466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
@@ -150,6 +150,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "Coinbase：特朗普的“大漂亮法案”或将赌客推向预测市场",
+          "url": "https://wallstreetcn.com/livenews/3024294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
           "url": "https://wallstreetcn.com/articles/3761652",
           "source": "华尔街见闻",
@@ -166,11 +177,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时47分]"
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 21时31分]"
         },
         {
           "title": "扎克伯格旗下Meta Platforms刚刚履新八个月的董事Dina Powell McCormick将退出。 在美国总统特朗普第一任期内，Powell McCormick曾担任副国家安全顾问。（彭博）",
@@ -456,6 +468,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "特朗普为何推出史上最高金额对台军售",
+          "url": "https://www.toutiao.com/trending/7585013065943859238/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
           "title": "特朗普：只需在联邦政府增聘人员，就能马上将失业率降至2%",
           "url": "https://flash.jin10.com/detail/20251220004628893800",
           "source": "金十数据",
@@ -514,8 +537,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时53分 ~ 20时47分]"
+          "appearance_count": 13,
+          "time_info": "[09时53分 ~ 21时31分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -528,8 +551,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时53分 ~ 20时47分]"
+          "appearance_count": 13,
+          "time_info": "[09时53分 ~ 21时31分]"
         },
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -566,8 +589,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时31分 ~ 20时47分]"
+          "appearance_count": 11,
+          "time_info": "[12时31分 ~ 21时31分]"
         },
         {
           "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
@@ -592,11 +615,12 @@
           "ranks": [
             4,
             13,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 20时47分]"
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 21时31分]"
         },
         {
           "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
@@ -694,7 +718,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
@@ -727,6 +751,18 @@
           "time_info": "[01时22分 ~ 11时20分]"
         },
         {
+          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
+          "url": "https://wallstreetcn.com/articles/3761757",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时25分 ~ 21时31分]"
+        },
+        {
           "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
           "url": "https://wallstreetcn.com/livenews/3024206",
           "source": "华尔街见闻-快讯",
@@ -740,26 +776,27 @@
           "time_info": "[09时53分 ~ 12时31分]"
         },
         {
-          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
-          "url": "https://wallstreetcn.com/articles/3761757",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时25分 ~ 19时20分]"
-        },
-        {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
           "url": "https://wallstreetcn.com/articles/3761763",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 21时31分]"
+        },
+        {
+          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
+          "url": "https://wallstreetcn.com/articles/3761764",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时47分"
+          "time_info": "21时31分"
         }
       ]
     },
@@ -789,11 +826,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时47分]"
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 21时31分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
