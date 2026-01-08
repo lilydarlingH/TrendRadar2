@@ -1,62 +1,7 @@
 {
-  "generated_at": "2026-01-08T10:33:38.997356+08:00",
-  "total_titles_processed": 949,
+  "generated_at": "2026-01-08T11:12:02.991626+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "建设+标准 建筑施工政策 建筑法律法规 建设+规范 建+专家 工程招聘 建造师 造价师 建设工程+工程师职务 建设科研项目 一人公司 马斯克 -广告",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
-          "url": "https://wallstreetcn.com/articles/3762706",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 10时33分]"
-        },
-        {
-          "title": "马斯克：中国AI算力领先世界",
-          "url": "https://www.toutiao.com/trending/7592779381248888362/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时37分 ~ 10时33分]"
-        },
-        {
-          "title": "马斯克称未来3到7年将非常坎坷",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E6%9C%AA%E6%9D%A53%E5%88%B07%E5%B9%B4%E5%B0%86%E9%9D%9E%E5%B8%B8%E5%9D%8E%E5%9D%B7%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时37分 ~ 10时33分]"
-        },
-        {
-          "title": "马斯克：中国会搞定芯片问题",
-          "url": "https://www.toutiao.com/trending/7592616746437541942/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
