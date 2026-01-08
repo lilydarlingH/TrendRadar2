@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T19:40:57.280262+08:00",
-  "total_titles_processed": 1779,
+  "generated_at": "2026-01-08T21:56:17.789424+08:00",
+  "total_titles_processed": 1921,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "建设 施工 建筑 工程 在建 工地 物业 招标 评标 投标 招聘 招募 建造师 造价工程师 科研项目 一人公司 -广告",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "百大UP主盛典观众招募开启",
@@ -25,6 +25,18 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时37分 ~ 19时40分]"
+        },
+        {
+          "title": "新疆生产建设兵团副司令员李旭被查",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E7%94%9F%E4%BA%A7%E5%BB%BA%E8%AE%BE%E5%85%B5%E5%9B%A2%E5%89%AF%E5%8F%B8%E4%BB%A4%E5%91%98%E6%9D%8E%E6%97%AD%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 21时56分]"
         },
         {
           "title": "进出口行发行15月期债券，规模130亿元，发行利率1.4444%，预期1.3400%，投标倍数2.60倍，边际倍数1.00倍； 进出口行发行66月期债券，规模30亿元，发行利率1.7827%，预期1.7600%，投标倍数4.08倍，边际倍数6.25倍。",
@@ -51,18 +63,6 @@
           "time_info": "[17时02分 ~ 17时55分]"
         },
         {
-          "title": "新疆生产建设兵团副司令员李旭被查",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E7%94%9F%E4%BA%A7%E5%BB%BA%E8%AE%BE%E5%85%B5%E5%9B%A2%E5%89%AF%E5%8F%B8%E4%BB%A4%E5%91%98%E6%9D%8E%E6%97%AD%E8%A2%AB%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 19时40分]"
-        },
-        {
           "title": "国开行发行3年期债券，规模60亿元，发行利率1.6783%，预期1.6900%，投标倍数3.43倍，边际倍数1.43倍； 国开行发行7年期债券，规模20亿元，发行利率1.9400%，预期1.9100%，投标倍数4.96倍，边际倍数3.67倍。",
           "url": "https://wallstreetcn.com/livenews/3032880",
           "source": "华尔街见闻-快讯",
@@ -81,11 +81,23 @@
           "source": "百度热搜",
           "ranks": [
             18,
-            16
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 21时56分]"
+        },
+        {
+          "title": "新一轮“双一流”高校建设将启动",
+          "url": "https://www.toutiao.com/trending/7592922249796046377/",
+          "source": "今日头条",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时55分 ~ 19时40分]"
+          "time_info": "[21时55分 ~ 21时56分]"
         },
         {
           "title": "杨澜对话中国工程院院士王坚",
@@ -109,6 +121,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
+        },
+        {
+          "title": "美国能源部长：预计雪佛龙在委内瑞拉的业务将快速增长。 预计康菲石油、埃克森美孚等公司将寻求发挥建设性作用。 目前没有在伊朗采取任何行动的计划。",
+          "url": "https://wallstreetcn.com/livenews/3033368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "广州：推动南沙中科宇航液体火箭总装测试基地建设和黄埔星河动力火箭总装基地尽快落地",
@@ -172,7 +195,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
