@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T04:50:09.696718+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2026-01-09T05:43:02.417455+08:00",
+  "total_titles_processed": 567,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             23,
             22,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 04时50分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 05时43分]"
         },
         {
           "title": "百大UP主盛典观众招募开启",
@@ -30,8 +31,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 04时50分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 05时43分]"
         },
         {
           "title": "新疆生产建设兵团副司令员李旭被查",
@@ -40,11 +41,12 @@
           "ranks": [
             29,
             26,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时00分 ~ 04时50分]"
+          "appearance_count": 8,
+          "time_info": "[03时00分 ~ 05时43分]"
         },
         {
           "title": "今年将启动新一轮双一流高校建设",
