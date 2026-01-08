@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T18:55:30.807883+08:00",
-  "total_titles_processed": 1698,
+  "generated_at": "2026-01-08T19:40:57.280262+08:00",
+  "total_titles_processed": 1779,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "建设 施工 建筑 工程 在建 工地 物业 招标 评标 投标 招聘 招募 建造师 造价工程师 科研项目 一人公司 -广告",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "百大UP主盛典观众招募开启",
@@ -23,19 +23,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时37分 ~ 18时55分]"
-        },
-        {
-          "title": "新疆生产建设兵团副司令员李旭被查",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E7%94%9F%E4%BA%A7%E5%BB%BA%E8%AE%BE%E5%85%B5%E5%9B%A2%E5%89%AF%E5%8F%B8%E4%BB%A4%E5%91%98%E6%9D%8E%E6%97%AD%E8%A2%AB%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
+          "appearance_count": 21,
+          "time_info": "[00时37分 ~ 19时40分]"
         },
         {
           "title": "进出口行发行15月期债券，规模130亿元，发行利率1.4444%，预期1.3400%，投标倍数2.60倍，边际倍数1.00倍； 进出口行发行66月期债券，规模30亿元，发行利率1.7827%，预期1.7600%，投标倍数4.08倍，边际倍数6.25倍。",
@@ -62,6 +51,18 @@
           "time_info": "[17时02分 ~ 17时55分]"
         },
         {
+          "title": "新疆生产建设兵团副司令员李旭被查",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E7%94%9F%E4%BA%A7%E5%BB%BA%E8%AE%BE%E5%85%B5%E5%9B%A2%E5%89%AF%E5%8F%B8%E4%BB%A4%E5%91%98%E6%9D%8E%E6%97%AD%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 19时40分]"
+        },
+        {
           "title": "国开行发行3年期债券，规模60亿元，发行利率1.6783%，预期1.6900%，投标倍数3.43倍，边际倍数1.43倍； 国开行发行7年期债券，规模20亿元，发行利率1.9400%，预期1.9100%，投标倍数4.96倍，边际倍数3.67倍。",
           "url": "https://wallstreetcn.com/livenews/3032880",
           "source": "华尔街见闻-快讯",
@@ -75,13 +76,37 @@
           "time_info": "[11时12分 ~ 12时28分]"
         },
         {
+          "title": "今年将启动新一轮双一流高校建设",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%B0%86%E5%90%AF%E5%8A%A8%E6%96%B0%E4%B8%80%E8%BD%AE%E5%8F%8C%E4%B8%80%E6%B5%81%E9%AB%98%E6%A0%A1%E5%BB%BA%E8%AE%BE",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 19时40分]"
+        },
+        {
+          "title": "杨澜对话中国工程院院士王坚",
+          "url": "https://www.toutiao.com/trending/7592469544493613075/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 19时40分]"
+        },
+        {
           "title": "泰胜风能：近期，部分网站将公司股票纳入商业航天板块。公司在商业航天领域相关规划目前处于业务布局起步阶段，正在开展产线改造建设、市场拓展等前期工作。",
           "url": "https://wallstreetcn.com/livenews/3033235",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -141,6 +166,17 @@
           "time_info": "17时55分"
         },
         {
+          "title": "杭萧钢构：联合体中标杭州箭元航天科技有限公司相关工程项目",
+          "url": "https://wallstreetcn.com/livenews/3033275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "日本30年期债券拍卖投标倍数为3.14，上一次拍卖为4.04。",
           "url": "https://flash.jin10.com/detail/20260108113534449800",
           "source": "金十数据",
@@ -161,17 +197,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
-        },
-        {
-          "title": "今年将启动新一轮双一流高校建设",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%B0%86%E5%90%AF%E5%8A%A8%E6%96%B0%E4%B8%80%E8%BD%AE%E5%8F%8C%E4%B8%80%E6%B5%81%E9%AB%98%E6%A0%A1%E5%BB%BA%E8%AE%BE",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
         },
         {
           "title": "美国财政部拍卖四个月期国债，得标利率3.510%，投标倍数3.02。",
@@ -202,18 +227,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "杨澜对话中国工程院院士王坚",
-          "url": "https://www.toutiao.com/trending/7592469544493613075/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -257,7 +271,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -290,7 +304,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         }
