@@ -1,340 +1,66 @@
 {
-  "generated_at": "2026-01-08T23:55:06.306394+08:00",
-  "total_titles_processed": 2110,
+  "generated_at": "2026-01-09T01:05:22.021687+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "建设 施工 建筑 工程 在建 工地 物业 招标 评标 投标 招聘 招募 建造师 造价工程师 科研项目 一人公司 -广告",
-      "match_count": 28,
+      "match_count": 5,
       "titles": [
         {
-          "title": "百大UP主盛典观众招募开启",
-          "url": "https://search.bilibili.com/all?keyword=%E7%99%BE%E5%A4%A7UP%E4%B8%BB%E7%9B%9B%E5%85%B8%E8%A7%82%E4%BC%97%E6%8B%9B%E5%8B%9F%E5%BC%80%E5%90%AF",
-          "source": "bilibili 热搜",
+          "title": "美国财政部拍卖四周期国债，得标利率3.550%，投标倍数3.18。 拍卖八周期国债，得标利率3.540%，投标倍数2.85。",
+          "url": "https://wallstreetcn.com/livenews/3033460",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            10,
-            5,
-            15,
-            14,
-            18,
-            22,
-            29,
-            25
+            10
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时37分 ~ 19时40分]"
+          "appearance_count": 1,
+          "time_info": "01时05分"
         },
         {
-          "title": "新疆生产建设兵团副司令员李旭被查",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E7%94%9F%E4%BA%A7%E5%BB%BA%E8%AE%BE%E5%85%B5%E5%9B%A2%E5%89%AF%E5%8F%B8%E4%BB%A4%E5%91%98%E6%9D%8E%E6%97%AD%E8%A2%AB%E6%9F%A5",
-          "source": "百度热搜",
+          "title": "美国至1月8日8周国债竞拍-投标倍数 2.85，前值2.83。",
+          "url": "https://flash.jin10.com/detail/20260109003243098800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            12,
-            14
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时55分 ~ 23时55分]"
+          "appearance_count": 1,
+          "time_info": "01时05分"
         },
         {
-          "title": "今年将启动新一轮双一流高校建设",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%B0%86%E5%90%AF%E5%8A%A8%E6%96%B0%E4%B8%80%E8%BD%AE%E5%8F%8C%E4%B8%80%E6%B5%81%E9%AB%98%E6%A0%A1%E5%BB%BA%E8%AE%BE",
-          "source": "百度热搜",
+          "title": "美国至1月8日4周国债竞拍-投标倍数 3.18，前值2.9。",
+          "url": "https://flash.jin10.com/detail/20260109003204511800",
+          "source": "金十数据",
           "ranks": [
-            18,
-            16,
-            15,
-            20,
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时55分 ~ 23时55分]"
-        },
-        {
-          "title": "进出口行发行15月期债券，规模130亿元，发行利率1.4444%，预期1.3400%，投标倍数2.60倍，边际倍数1.00倍； 进出口行发行66月期债券，规模30亿元，发行利率1.7827%，预期1.7600%，投标倍数4.08倍，边际倍数6.25倍。",
-          "url": "https://wallstreetcn.com/livenews/3032903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 12时28分]"
+          "appearance_count": 1,
+          "time_info": "01时05分"
         },
         {
           "title": "新一轮“双一流”高校建设将启动",
           "url": "https://www.toutiao.com/trending/7592922249796046377/",
           "source": "今日头条",
           "ranks": [
-            10,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时55分 ~ 23时55分]"
-        },
-        {
-          "title": "上海市住建委：进一步健招投标全公平竞争审查机制 防止“内卷式”竞争",
-          "url": "https://wallstreetcn.com/livenews/3033150",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 17时55分]"
-        },
-        {
-          "title": "国开行发行3年期债券，规模60亿元，发行利率1.6783%，预期1.6900%，投标倍数3.43倍，边际倍数1.43倍； 国开行发行7年期债券，规模20亿元，发行利率1.9400%，预期1.9100%，投标倍数4.96倍，边际倍数3.67倍。",
-          "url": "https://wallstreetcn.com/livenews/3032880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时12分 ~ 12时28分]"
-        },
-        {
-          "title": "杨澜对话中国工程院院士王坚",
-          "url": "https://www.toutiao.com/trending/7592469544493613075/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 19时40分]"
-        },
-        {
-          "title": "泰胜风能：近期，部分网站将公司股票纳入商业航天板块。公司在商业航天领域相关规划目前处于业务布局起步阶段，正在开展产线改造建设、市场拓展等前期工作。",
-          "url": "https://wallstreetcn.com/livenews/3033235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "美国能源部长：预计雪佛龙在委内瑞拉的业务将快速增长。 预计康菲石油、埃克森美孚等公司将寻求发挥建设性作用。 目前没有在伊朗采取任何行动的计划。",
-          "url": "https://wallstreetcn.com/livenews/3033368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "广州：推动南沙中科宇航液体火箭总装测试基地建设和黄埔星河动力火箭总装基地尽快落地",
-          "url": "https://wallstreetcn.com/livenews/3033170",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
-          "title": "贵州：统筹省级财政专项资金、地方政府专项债券等 支持县域加快开发区供排水、输气管网等产业配套基础设施项目建设",
-          "url": "https://wallstreetcn.com/livenews/3033023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "加拿大阿尔伯塔省省长表示，委内瑞拉的事件凸显了建设管道的迫切需求。",
-          "url": "https://flash.jin10.com/detail/20260108032541384800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "国家铁路局：推进铁路数智化建设，推进关键核心技术装备研发",
-          "url": "https://wallstreetcn.com/livenews/3033019",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "广州：大力发展低空经济和商业航天，探索建设民用无人驾驶航空试验区",
-          "url": "https://wallstreetcn.com/livenews/3033159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
-          "title": "杭萧钢构：联合体中标杭州箭元航天科技有限公司相关工程项目",
-          "url": "https://wallstreetcn.com/livenews/3033275",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "日本30年期债券拍卖投标倍数为3.14，上一次拍卖为4.04。",
-          "url": "https://flash.jin10.com/detail/20260108113534449800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "美国司法部表示，已就天然气禁令起诉加州部分城市（此前加州两座城市限制或禁止新建建筑使用天然气）。",
-          "url": "https://flash.jin10.com/detail/20260108065019246800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "美国财政部拍卖四个月期国债，得标利率3.510%，投标倍数3.02。",
-          "url": "https://wallstreetcn.com/livenews/3032606",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "广州：加快建设先进制造业强市 2035年工业增加值翻一番",
-          "url": "https://wallstreetcn.com/livenews/3033153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
-          "title": "教育部：2026年将启动新一轮“双一流”高校建设",
-          "url": "https://wallstreetcn.com/livenews/3033216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "机构：非农报告或证实近期招聘疲软的趋势",
-          "url": "https://flash.jin10.com/detail/20260108111649558800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "陕西印发方案推进美丽河湖保护与建设",
-          "url": "https://wallstreetcn.com/livenews/3032940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
-          "title": "美国12月挑战者企业就业数据显示，12月招聘人数为2022年以来最高。自1989年以来，2025年的裁员幅度居第七。",
-          "url": "https://flash.jin10.com/detail/20260108171306600800",
-          "source": "金十数据",
-          "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时55分"
+          "time_info": "01时05分"
         },
         {
-          "title": "新疆生产建设兵团党委常委、副司令员李旭接受审查调查",
-          "url": "https://wallstreetcn.com/livenews/3033212",
-          "source": "华尔街见闻-快讯",
+          "title": "百大UP主盛典观众招募开启",
+          "url": "https://search.bilibili.com/all?keyword=%E7%99%BE%E5%A4%A7UP%E4%B8%BB%E7%9B%9B%E5%85%B8%E8%A7%82%E4%BC%97%E6%8B%9B%E5%8B%9F%E5%BC%80%E5%90%AF",
+          "source": "bilibili 热搜",
           "ranks": [
-            23
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "业主与物业纠纷被民警强制传唤受伤",
-          "url": "https://www.toutiao.com/trending/7592643446167355443/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "美国挑战者公司首席营收官Andy Challenger：年底宣布的裁员计划是2025年最少的。虽然12月的裁员通常是缓慢的，但加上更多的招聘计划，这是一个积极的信号。",
-          "url": "https://flash.jin10.com/detail/20260108170928212800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
-          "title": "新疆生产建设兵团党委常委、副司令员李旭接受审查调查。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3033205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时55分"
+          "time_info": "01时05分"
         }
       ]
     }
