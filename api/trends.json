@@ -1,190 +1,22 @@
 {
-  "generated_at": "2026-01-09T23:55:40.866238+08:00",
-  "total_titles_processed": 1901,
+  "generated_at": "2026-01-10T01:06:38.311046+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 建造 造价 科研项目 一人公司 机器人 马斯克 AI -广告",
-      "match_count": 64,
+      "match_count": 16,
       "titles": [
         {
-          "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
-          "url": "https://news.ifeng.com/c/8piRkGGmo9f",
-          "source": "凤凰网",
+          "title": "美国商务部长卢特尼克会见住房营建商们，寻求提高住房建设（规模/速度）。",
+          "url": "https://wallstreetcn.com/livenews/3034312",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时54分 ~ 23时55分]"
-        },
-        {
-          "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
-          "url": "https://www.cls.cn/detail/2253208",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时56分 ~ 23时55分]"
-        },
-        {
-          "title": "新一轮“双一流”高校建设将启动",
-          "url": "https://www.toutiao.com/trending/7592922249796046377/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            22,
-            9,
-            16,
-            30,
-            17,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时05分 ~ 19时36分]"
-        },
-        {
-          "title": "卷王遇硬茬,马斯克开除加班党",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348833&amp;topic_name=%E5%8D%B7%E7%8E%8B%E9%81%87%E7%A1%AC%E8%8C%AC%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BC%80%E9%99%A4%E5%8A%A0%E7%8F%AD%E5%85%9A",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            11,
-            21,
-            22,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时05分 ~ 17时02分]"
-        },
-        {
-          "title": "加速AI落地 谷歌为Gmail引入更多Gemini功能",
-          "url": "https://www.cls.cn/detail/2252328",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时05分 ~ 06时50分]"
-        },
-        {
-          "title": "人形机器人量产提速，背后有哪些联动支撑？｜出发，2026",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32300324",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时05分 ~ 07时34分]"
-        },
-        {
-          "title": "宇树人形机器人空翻踢爆西瓜",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A9%BA%E7%BF%BB%E8%B8%A2%E7%88%86%E8%A5%BF%E7%93%9C",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            26,
-            2,
-            15,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时56分 ~ 23时55分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
-          "url": "https://www.cls.cn/detail/2251902",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 03时37分]"
-        },
-        {
-          "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
-          "url": "https://www.cls.cn/detail/2253101",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时56分 ~ 23时55分]"
-        },
-        {
-          "title": "如何分辨AI音乐骗局",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%88%86%E8%BE%A8AI%E9%9F%B3%E4%B9%90%E9%AA%97%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            9,
-            8,
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时05分 ~ 19时36分]"
-        },
-        {
-          "title": "新疆生产建设兵团副司令员李旭被查",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E7%94%9F%E4%BA%A7%E5%BB%BA%E8%AE%BE%E5%85%B5%E5%9B%A2%E5%89%AF%E5%8F%B8%E4%BB%A4%E5%91%98%E6%9D%8E%E6%97%AD%E8%A2%AB%E6%9F%A5",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            26,
-            18,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时00分 ~ 06时50分]"
-        },
-        {
-          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
-          "url": "https://wallstreetcn.com/articles/3762915",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时54分 ~ 23时55分]"
-        },
-        {
-          "title": "马斯克一句话“引爆”脑机接口",
-          "url": "https://www.toutiao.com/trending/7592923450755255817/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            30,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时00分 ~ 07时34分]"
+          "appearance_count": 1,
+          "time_info": "01时06分"
         },
         {
           "title": "27项重大水利工程开工",
@@ -194,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[23时00分 ~ 23时55分]"
+          "appearance_count": 1,
+          "time_info": "01时06分"
         },
         {
           "title": "马斯克：人类可以实现半永生",
@@ -205,43 +37,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[23时00分 ~ 23时55分]"
+          "appearance_count": 1,
+          "time_info": "01时06分"
         },
         {
-          "title": "市值近900亿港元！MiniMax今日上市 AI大模型进入“上海时刻”",
-          "url": "https://www.cls.cn/detail/2252812",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时02分 ~ 19时36分]"
-        },
-        {
-          "title": "《纽约时报》整版报道中国AI胰腺癌早筛",
+          "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
           "url": "https://news.ifeng.com/c/8piRkGGmo9f",
           "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 17时57分]"
+          "appearance_count": 1,
+          "time_info": "01时06分"
         },
         {
-          "title": "供应告急与AI需求共振 伦铜再创历史纪元",
-          "url": "https://flash.jin10.com/detail/20260109193303108800",
-          "source": "金十数据",
+          "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
+          "url": "https://www.cls.cn/detail/2253208",
+          "source": "财联社热门",
           "ranks": [
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时36分"
+          "time_info": "01时06分"
         },
         {
           "title": "马斯克：人类可以实现半永生",
@@ -251,524 +70,118 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时58分 ~ 23时55分]"
+          "appearance_count": 1,
+          "time_info": "01时06分"
         },
         {
           "title": "上海：加速商业火箭、人形机器人等创新产品突破产业规模化发展瓶颈",
           "url": "https://www.cls.cn/detail/2253306",
           "source": "财联社热门",
           "ranks": [
-            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时58分 ~ 23时55分]"
+          "appearance_count": 1,
+          "time_info": "01时06分"
         },
         {
-          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨80%",
+          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
           "url": "https://wallstreetcn.com/articles/3762915",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时02分 ~ 17时57分]"
+          "appearance_count": 1,
+          "time_info": "01时06分"
         },
         {
-          "title": "便利店卖“鞋底豆干” 网友：以为是AI",
-          "url": "https://www.baidu.com/s?wd=%E4%BE%BF%E5%88%A9%E5%BA%97%E5%8D%96%E2%80%9C%E9%9E%8B%E5%BA%95%E8%B1%86%E5%B9%B2%E2%80%9D+%E7%BD%91%E5%8F%8B%EF%BC%9A%E4%BB%A5%E4%B8%BA%E6%98%AFAI",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时02分 ~ 15时05分]"
-        },
-        {
-          "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
-          "url": "https://www.cls.cn/detail/2253184",
+          "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
+          "url": "https://www.cls.cn/detail/2253101",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12,
-            11
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时58分 ~ 23时55分]"
-        },
-        {
-          "title": "“中国OpenAI”登陆港交所 2026将成大模型资本化关键年?",
-          "url": "https://www.cls.cn/detail/2252286",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时49分 ~ 06时50分]"
-        },
-        {
-          "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32349158",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时58分 ~ 23时55分]"
-        },
-        {
-          "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325616",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时58分 ~ 23时55分]"
-        },
-        {
-          "title": "报道：OpenAI拟收购高管教练AI工具Convogo核心团队",
-          "url": "https://wallstreetcn.com/livenews/3033598",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时50分 ~ 07时34分]"
-        },
-        {
-          "title": "报道：英伟达+OpenAI支持的数据中心公司Nscale考虑融资20亿美元",
-          "url": "https://wallstreetcn.com/livenews/3033538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时43分]"
-        },
-        {
-          "title": "OpenAI推出OpenAI for Healthcare。",
-          "url": "https://wallstreetcn.com/livenews/3033531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时43分]"
-        },
-        {
-          "title": "智元第一、宇树第二！中国企业正主宰全球人形机器人市场",
-          "url": "https://www.cls.cn/detail/2252663",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 19时36分]"
-        },
-        {
-          "title": "金靖章若楠剧宣诡异的像AI",
-          "url": "https://www.douyin.com/hot/2362078",
-          "source": "抖音",
-          "ranks": [
-            27,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时02分 ~ 18时54分]"
+          "appearance_count": 1,
+          "time_info": "01时06分"
         },
         {
           "title": "马斯克：人类可以实现半永生，如果能“改写”设定的程序，就能活得更久",
           "url": "https://m.thepaper.cn/newsDetail_forward_32351798",
           "source": "澎湃新闻",
           "ranks": [
-            11,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
+        },
+        {
+          "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
+          "url": "https://www.cls.cn/detail/2253184",
+          "source": "财联社热门",
+          "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[23时00分 ~ 23时55分]"
+          "appearance_count": 1,
+          "time_info": "01时06分"
         },
         {
-          "title": "马斯克：大力发展电动汽车、光伏储能，我说的那些设想都被中国实现了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32342568",
+          "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32349158",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时02分 ~ 17时57分]"
-        },
-        {
-          "title": "微软与Shopify、PayPal、Stripe推出零售AI Copilot Checkout。 微软将在Copilot.com内赋能“会话内购买”，而无需引导购物者切换到外部网站。",
-          "url": "https://wallstreetcn.com/livenews/3033517",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时37分 ~ 04时50分]"
-        },
-        {
-          "title": "“短缺终将导致过剩”！a16z安德森2026年展望：AI芯片将迎来产能爆发与价格崩塌",
-          "url": "https://wallstreetcn.com/articles/3762810",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时50分 ~ 07时34分]"
-        },
-        {
-          "title": "今年将启动新一轮双一流高校建设",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E5%B0%86%E5%90%AF%E5%8A%A8%E6%96%B0%E4%B8%80%E8%BD%AE%E5%8F%8C%E4%B8%80%E6%B5%81%E9%AB%98%E6%A0%A1%E5%BB%BA%E8%AE%BE",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 04时50分]"
-        },
-        {
-          "title": "核能助推AI革命：Meta签下巨额订单 Oklo与Vistra股价齐飙升",
-          "url": "https://flash.jin10.com/detail/20260109232712672800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "加皇银行：12月季节性招聘达峰 失业率有望回落至4.5%",
-          "url": "https://flash.jin10.com/detail/20260109173301534800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时57分"
+          "time_info": "01时06分"
         },
         {
-          "title": "据英国电讯报：马斯克旗下的社交媒体平台“X”可能因人工智能聊天机器人争议在英国被禁。",
-          "url": "https://flash.jin10.com/detail/20260109055249345800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时50分"
-        },
-        {
-          "title": "上海：到2028年推动大型企业实现智能工厂全覆盖，机器人密度提高到600台/万人",
-          "url": "https://wallstreetcn.com/livenews/3034025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "中国机器人亮相CES",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8CES",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "上海：加速商业火箭、人形机器人等创新产品突破产业规模化发展瓶颈",
-          "url": "https://wallstreetcn.com/livenews/3034024",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "杭萧钢构：近日，公司作为联合体成员与湖南建工集团有限公司（联合体牵头人）联合中标杭州箭元航天科技有限公司相关工程项目，公司在该项目中负责部分的合同金额较小，占公司2024年度经审计的营业收入的比例不到1%，对公司全年业绩不产生重大影响。",
-          "url": "https://wallstreetcn.com/livenews/3034067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
-          "title": "航天晨光：预计2025年净亏损2.2亿元。专用车改装业务受2025年5月军队物资工程采购资格暂停影响，相关项目订货未能落地；压力容器业务受煤化工产业政策变化影响，相关订单暂缓实施。",
-          "url": "https://wallstreetcn.com/livenews/3034064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
-          "title": "香港交易所称推出六只新的股票期权类别，涵盖紫金黄金国际、老铺黄金、地平线机器人等",
-          "url": "https://wallstreetcn.com/livenews/3033761",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时05分"
-        },
-        {
-          "title": "机器人概念龙头汇川技术据悉考虑赴港股上市。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3033824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时05分"
-        },
-        {
-          "title": "东方明珠：间接持有超聚变1.3182%股份 公司不直接从事AI业务",
-          "url": "https://wallstreetcn.com/livenews/3034062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
-          "title": "OpenAI发布ChatGPT健康 AI医疗市场有望加速爆发",
-          "url": "https://www.cls.cn/detail/2252487",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基9日在社交媒体上称，卡塔尔驻乌克兰使馆的建筑在俄罗斯的袭击中受损。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3033932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "美国建筑商信心低迷 行业仍处于“踩刹车”状态",
-          "url": "https://flash.jin10.com/detail/20260109214316271800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "日本大阪地标建筑通天阁附近发生火灾",
-          "url": "https://flash.jin10.com/detail/20260109105434708800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "市场监管总局发布综合整治“内卷式”竞争十大制度建设成果",
-          "url": "https://wallstreetcn.com/livenews/3033923",
+          "title": "英首相府指责聊天机器人“格罗克”整改具“侮辱性”",
+          "url": "https://wallstreetcn.com/livenews/3034295",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时02分"
+          "time_info": "01时06分"
         },
         {
-          "title": "聚变新能发布BEST环布系统总装工程采购项目中标结果",
-          "url": "https://wallstreetcn.com/livenews/3033816",
-          "source": "华尔街见闻-快讯",
+          "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325616",
+          "source": "澎湃新闻",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时05分"
+          "time_info": "01时06分"
         },
         {
-          "title": "标普综合1500中住宅建筑分类指数触及逾三周高位，最新涨幅达3.7%。",
-          "url": "https://flash.jin10.com/detail/20260109230710566800",
-          "source": "金十数据",
+          "title": "宇树人形机器人空翻踢爆西瓜",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A9%BA%E7%BF%BB%E8%B8%A2%E7%88%86%E8%A5%BF%E7%93%9C",
+          "source": "百度热搜",
           "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "欧盟责令X平台保存聊天机器人数据至年底",
-          "url": "https://wallstreetcn.com/livenews/3033445",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时05分"
+          "time_info": "01时06分"
         },
         {
-          "title": "广西：加快建设“AI＋金属新材料”、“AI＋生物育种””等标杆级应用平台",
-          "url": "https://wallstreetcn.com/livenews/3033950",
-          "source": "华尔街见闻-快讯",
+          "title": "如何分辨AI音乐骗局",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%88%86%E8%BE%A8AI%E9%9F%B3%E4%B9%90%E9%AA%97%E5%B1%80",
+          "source": "bilibili 热搜",
           "ranks": [
-            22
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "水利部：力争2026年水利基础设施建设和投资持续保持大规模、高水平态势",
-          "url": "https://wallstreetcn.com/livenews/3033709",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "英国首相斯塔默发誓，要对马斯克旗下社交媒体平台X（原名推特）采取“紧急”行动。 斯塔默希望，马斯克能就自家人工智能（AI）工具Grok生成的、涉及儿童的性化图像（含有性暗示的图像）“改正自身表现”。 “这简直是耻辱，太恶心了，绝对不能就这么算了！”",
-          "url": "https://wallstreetcn.com/livenews/3033439",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "深成指涨超1%，沪指涨0.7%，创业板指涨0.24%，北证50指数涨超2%，AI应用、商业航天、军工等方向涨幅居前，沪深京三市上涨个股近3700只。",
-          "url": "https://wallstreetcn.com/livenews/3033706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "OpenAI的应用内支付结算计划的推进速度低于预期，因为该公司在统一商家数据方面遇到了困难。",
-          "url": "https://flash.jin10.com/detail/20260109024531943800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时37分"
-        },
-        {
-          "title": "NAMI INSIGHT One亮相2026 CES：纳米盒（Namibox）领跑AI学习穿戴设备市场",
-          "url": "https://wallstreetcn.com/livenews/3034220",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时01分"
-        },
-        {
-          "title": "OpenAI将收购执Convogo背后的团队，后者是一款帮助执行教练、顾问、人才领导和人力资源团队实现领导力评估与反馈报告自动化和优化的商业软件平台。",
-          "url": "https://flash.jin10.com/detail/20260109021642687800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "欧盟责令X平台保存聊天机器人数据至年底",
-          "url": "https://flash.jin10.com/detail/20260109001607088800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "上海：到2028年广告业营收超过4500亿元 加强“AI+数字广告”融合赋能",
-          "url": "https://wallstreetcn.com/livenews/3033699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "01时06分"
         }
       ]
     }
