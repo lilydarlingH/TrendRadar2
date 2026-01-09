@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T18:54:20.014329+08:00",
-  "total_titles_processed": 1449,
+  "generated_at": "2026-01-09T19:36:58.028617+08:00",
+  "total_titles_processed": 1548,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 建造 造价 科研项目 一人公司 机器人 马斯克 AI -广告",
-      "match_count": 48,
+      "match_count": 52,
       "titles": [
         {
           "title": "新一轮“双一流”高校建设将启动",
@@ -21,8 +21,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时05分 ~ 18时54分]"
+          "appearance_count": 17,
+          "time_info": "[01时05分 ~ 19时36分]"
         },
         {
           "title": "卷王遇硬茬,马斯克开除加班党",
@@ -77,6 +77,21 @@
           "time_info": "[01时05分 ~ 03时37分]"
         },
         {
+          "title": "如何分辨AI音乐骗局",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%88%86%E8%BE%A8AI%E9%9F%B3%E4%B9%90%E9%AA%97%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            9,
+            8,
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时05分 ~ 19时36分]"
+        },
+        {
           "title": "新疆生产建设兵团副司令员李旭被查",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E7%96%86%E7%94%9F%E4%BA%A7%E5%BB%BA%E8%AE%BE%E5%85%B5%E5%9B%A2%E5%89%AF%E5%8F%B8%E4%BB%A4%E5%91%98%E6%9D%8E%E6%97%AD%E8%A2%AB%E6%9F%A5",
           "source": "百度热搜",
@@ -92,21 +107,6 @@
           "time_info": "[03时00分 ~ 06时50分]"
         },
         {
-          "title": "如何分辨AI音乐骗局",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%88%86%E8%BE%A8AI%E9%9F%B3%E4%B9%90%E9%AA%97%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            9,
-            8,
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时05分 ~ 18时54分]"
-        },
-        {
           "title": "马斯克一句话“引爆”脑机接口",
           "url": "https://www.toutiao.com/trending/7592923450755255817/",
           "source": "今日头条",
@@ -120,6 +120,19 @@
           "time_info": "[03时00分 ~ 07时34分]"
         },
         {
+          "title": "市值近900亿港元！MiniMax今日上市 AI大模型进入“上海时刻”",
+          "url": "https://www.cls.cn/detail/2252812",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时02分 ~ 19时36分]"
+        },
+        {
           "title": "《纽约时报》整版报道中国AI胰腺癌早筛",
           "url": "https://news.ifeng.com/c/8piRkGGmo9f",
           "source": "凤凰网",
@@ -131,17 +144,50 @@
           "time_info": "[17时56分 ~ 17时57分]"
         },
         {
-          "title": "市值近900亿港元！MiniMax今日上市 AI大模型进入“上海时刻”",
-          "url": "https://www.cls.cn/detail/2252812",
-          "source": "财联社热门",
+          "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
+          "url": "https://news.ifeng.com/c/8piRkGGmo9f",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时36分]"
+        },
+        {
+          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
+          "url": "https://wallstreetcn.com/articles/3762915",
+          "source": "华尔街见闻",
+          "ranks": [
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时36分]"
+        },
+        {
+          "title": "供应告急与AI需求共振 伦铜再创历史纪元",
+          "url": "https://flash.jin10.com/detail/20260109193303108800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "宇树人形机器人空翻踢爆西瓜",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A9%BA%E7%BF%BB%E8%B8%A2%E7%88%86%E8%A5%BF%E7%93%9C",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            26,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时02分 ~ 18时54分]"
+          "time_info": "[17时56分 ~ 19时36分]"
         },
         {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨80%",
@@ -156,17 +202,6 @@
           "time_info": "[17时02分 ~ 17时57分]"
         },
         {
-          "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
-          "url": "https://news.ifeng.com/c/8piRkGGmo9f",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
           "title": "便利店卖“鞋底豆干” 网友：以为是AI",
           "url": "https://www.baidu.com/s?wd=%E4%BE%BF%E5%88%A9%E5%BA%97%E5%8D%96%E2%80%9C%E9%9E%8B%E5%BA%95%E8%B1%86%E5%B9%B2%E2%80%9D+%E7%BD%91%E5%8F%8B%EF%BC%9A%E4%BB%A5%E4%B8%BA%E6%98%AFAI",
           "source": "百度热搜",
@@ -178,17 +213,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时02分 ~ 15时05分]"
-        },
-        {
-          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
-          "url": "https://wallstreetcn.com/articles/3762915",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
         },
         {
           "title": "“中国OpenAI”登陆港交所 2026将成大模型资本化关键年?",
@@ -226,6 +250,31 @@
           "time_info": "[04时50分 ~ 05时43分]"
         },
         {
+          "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
+          "url": "https://www.cls.cn/detail/2253208",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时56分 ~ 19时36分]"
+        },
+        {
+          "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
+          "url": "https://www.cls.cn/detail/2253101",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时56分 ~ 19时36分]"
+        },
+        {
           "title": "OpenAI推出OpenAI for Healthcare。",
           "url": "https://wallstreetcn.com/livenews/3033531",
           "source": "华尔街见闻-快讯",
@@ -236,6 +285,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时50分 ~ 05时43分]"
+        },
+        {
+          "title": "智元第一、宇树第二！中国企业正主宰全球人形机器人市场",
+          "url": "https://www.cls.cn/detail/2252663",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时56分 ~ 19时36分]"
         },
         {
           "title": "金靖章若楠剧宣诡异的像AI",
@@ -251,42 +313,6 @@
           "time_info": "[17时02分 ~ 18时54分]"
         },
         {
-          "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
-          "url": "https://www.cls.cn/detail/2253208",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时56分 ~ 18时54分]"
-        },
-        {
-          "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
-          "url": "https://www.cls.cn/detail/2253101",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时56分 ~ 18时54分]"
-        },
-        {
-          "title": "智元第一、宇树第二！中国企业正主宰全球人形机器人市场",
-          "url": "https://www.cls.cn/detail/2252663",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时56分 ~ 18时54分]"
-        },
-        {
           "title": "马斯克：大力发展电动汽车、光伏储能，我说的那些设想都被中国实现了",
           "url": "https://m.thepaper.cn/newsDetail_forward_32342568",
           "source": "澎湃新闻",
@@ -297,18 +323,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时02分 ~ 17时57分]"
-        },
-        {
-          "title": "宇树人形机器人空翻踢爆西瓜",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A9%BA%E7%BF%BB%E8%B8%A2%E7%88%86%E8%A5%BF%E7%93%9C",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时56分 ~ 18时54分]"
         },
         {
           "title": "微软与Shopify、PayPal、Stripe推出零售AI Copilot Checkout。 微软将在Copilot.com内赋能“会话内购买”，而无需引导购物者切换到外部网站。",
@@ -374,7 +388,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -385,7 +399,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -396,9 +410,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
+        },
+        {
+          "title": "杭萧钢构：近日，公司作为联合体成员与湖南建工集团有限公司（联合体牵头人）联合中标杭州箭元航天科技有限公司相关工程项目，公司在该项目中负责部分的合同金额较小，占公司2024年度经审计的营业收入的比例不到1%，对公司全年业绩不产生重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3034067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "航天晨光：预计2025年净亏损2.2亿元。专用车改装业务受2025年5月军队物资工程采购资格暂停影响，相关项目订货未能落地；压力容器业务受煤化工产业政策变化影响，相关订单暂缓实施。",
+          "url": "https://wallstreetcn.com/livenews/3034064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "香港交易所称推出六只新的股票期权类别，涵盖紫金黄金国际、老铺黄金、地平线机器人等",
@@ -421,6 +457,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
+        },
+        {
+          "title": "东方明珠：间接持有超聚变1.3182%股份 公司不直接从事AI业务",
+          "url": "https://wallstreetcn.com/livenews/3034062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "OpenAI发布ChatGPT健康 AI医疗市场有望加速爆发",
