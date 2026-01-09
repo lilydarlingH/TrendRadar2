@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T12:02:53.160888+08:00",
-  "total_titles_processed": 885,
+  "generated_at": "2026-01-09T13:05:39.985260+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "ranks": [
             10,
             11,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时05分 ~ 12时02分]"
+          "appearance_count": 13,
+          "time_info": "[01时05分 ~ 13时05分]"
         },
         {
           "title": "百大UP主盛典观众招募开启",
@@ -106,7 +107,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -117,7 +118,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
