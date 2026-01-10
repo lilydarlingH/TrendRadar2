@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T13:02:32.624562+08:00",
-  "total_titles_processed": 941,
+  "generated_at": "2026-01-10T13:46:12.672585+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 建造 造价 科研项目 一人公司 机器人 马斯克 AI -广告",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时06分 ~ 13时02分]"
+          "appearance_count": 15,
+          "time_info": "[01时06分 ~ 13时46分]"
         },
         {
           "title": "马斯克：人类可以实现半永生",
@@ -75,8 +75,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时06分 ~ 13时02分]"
+          "appearance_count": 15,
+          "time_info": "[01时06分 ~ 13时46分]"
         },
         {
           "title": "如何分辨AI音乐骗局",
@@ -116,8 +116,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时06分 ~ 13时02分]"
+          "appearance_count": 15,
+          "time_info": "[01时06分 ~ 13时46分]"
         },
         {
           "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
@@ -173,6 +173,31 @@
           "time_info": "[01时06分 ~ 05时41分]"
         },
         {
+          "title": "Deepseek或将发布新AI模型",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时55分 ~ 13时46分]"
+        },
+        {
+          "title": "人民日报钟才平：统筹促消费和扩投资，建设强大国内市场",
+          "url": "https://www.cls.cn/detail/2253730",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时55分 ~ 13时46分]"
+        },
+        {
           "title": "27项重大水利工程开工",
           "url": "https://s.weibo.com/weibo?q=%2327%E9%A1%B9%E9%87%8D%E5%A4%A7%E6%B0%B4%E5%88%A9%E5%B7%A5%E7%A8%8B%E5%BC%80%E5%B7%A5%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -182,18 +207,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时06分 ~ 01时56分]"
-        },
-        {
-          "title": "Deepseek或将发布新AI模型",
-          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 13时02分]"
         },
         {
           "title": "OpenAI和软银向“星门”合作伙伴SB Energy投资10亿美元",
@@ -216,6 +229,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
+          "url": "https://wallstreetcn.com/articles/3762982",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时40分 ~ 13时46分]"
         },
         {
           "title": "OpenAI和软银向合作伙伴SB Energy投资10亿美元。",
@@ -241,18 +266,6 @@
           "time_info": "[01时06分 ~ 01时56分]"
         },
         {
-          "title": "人民日报钟才平：统筹促消费和扩投资，建设强大国内市场",
-          "url": "https://www.cls.cn/detail/2253730",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 13时02分]"
-        },
-        {
           "title": "OpenAI与软银向“星际之门”合作伙伴SB Energy投资10亿美元",
           "url": "https://wallstreetcn.com/livenews/3034365",
           "source": "华尔街见闻-快讯",
@@ -265,28 +278,17 @@
           "time_info": "[03时37分 ~ 04时49分]"
         },
         {
-          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
-          "url": "https://wallstreetcn.com/articles/3762982",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时40分 ~ 13时02分]"
-        },
-        {
           "title": "据华尔街日报：OpenAI承诺投入1000万美元支持投票提案，与倡导组织就儿童安全措施达成和解。",
           "url": "https://flash.jin10.com/detail/20260110094533475800",
           "source": "金十数据",
           "ranks": [
             9,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[11时55分 ~ 13时46分]"
         },
         {
           "title": "美国里士满联储主席Barkin：不确定性和生产力增长造成招聘偏低。 （非农）就业人口增幅与企业报告的情况吻合。 失业率下降受人欢迎，但这也仅仅是一个月的数据而已。 美联储必须继续观察职责所面临的两哥方面。 整体经济需求仍然看似健康。",
@@ -311,6 +313,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时46分 ~ 07时40分]"
+        },
+        {
+          "title": "山东一企业主称承接学校工程被拖欠工程款，达成协议后每月还款又被“缩水”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32352423",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 13时46分]"
         },
         {
           "title": "马斯克旗下初创公司xAI限制Grok图像生成功能。 此前，Grok生成与儿童相关的性化图片，招致欧洲强烈反感。",
