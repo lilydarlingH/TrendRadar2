@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T01:39:10.874490+08:00",
-  "total_titles_processed": 333,
+  "generated_at": "2026-01-11T02:58:04.597459+08:00",
+  "total_titles_processed": 351,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 01时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 02时58分]"
         },
         {
           "title": "山东一企业主称承接学校工程被拖欠工程款，达成协议后每月还款又被“缩水”",
@@ -26,19 +26,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 01时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 02时58分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
           "url": "https://www.cls.cn/detail/2253847",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 01时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 02时58分]"
         },
         {
           "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
@@ -48,8 +49,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 01时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 02时58分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -59,8 +60,20 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 02时58分]"
+        },
+        {
+          "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
+          "url": "https://www.cls.cn/detail/2253876",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时51分 ~ 01时39分]"
+          "time_info": "[01时38分 ~ 02时58分]"
         },
         {
           "title": "人形机器人为何进不了寻常百姓家",
@@ -82,8 +95,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 02时58分]"
         },
         {
           "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
@@ -93,19 +106,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时39分]"
-        },
-        {
-          "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
-          "url": "https://www.cls.cn/detail/2253876",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 01时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 02时58分]"
         }
       ]
     }
