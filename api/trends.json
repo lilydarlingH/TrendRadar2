@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T07:40:32.671901+08:00",
-  "total_titles_processed": 673,
+  "generated_at": "2026-01-10T11:55:33.186933+08:00",
+  "total_titles_processed": 884,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 建造 造价 科研项目 一人公司 机器人 马斯克 AI -广告",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
@@ -43,15 +43,17 @@
           "time_info": "[01时06分 ~ 07时40分]"
         },
         {
-          "title": "马斯克：人类可以实现半永生",
-          "url": "https://www.toutiao.com/trending/7593161177908379702/",
-          "source": "今日头条",
+          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
+          "url": "https://wallstreetcn.com/articles/3762915",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            8,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时06分 ~ 07时40分]"
+          "appearance_count": 12,
+          "time_info": "[01时06分 ~ 11时55分]"
         },
         {
           "title": "上海：加速商业火箭、人形机器人等创新产品突破产业规模化发展瓶颈",
@@ -61,15 +63,14 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时06分 ~ 07时40分]"
+          "appearance_count": 12,
+          "time_info": "[01时06分 ~ 11时55分]"
         },
         {
-          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
-          "url": "https://wallstreetcn.com/articles/3762915",
-          "source": "华尔街见闻",
+          "title": "马斯克：人类可以实现半永生",
+          "url": "https://www.toutiao.com/trending/7593161177908379702/",
+          "source": "今日头条",
           "ranks": [
-            8,
             6
           ],
           "is_new": false,
@@ -114,8 +115,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时06分 ~ 07时40分]"
+          "appearance_count": 12,
+          "time_info": "[01时06分 ~ 11时55分]"
         },
         {
           "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
@@ -126,8 +127,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时06分 ~ 07时40分]"
+          "appearance_count": 12,
+          "time_info": "[01时06分 ~ 11时55分]"
         },
         {
           "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
@@ -199,9 +200,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "Deepseek或将发布新AI模型",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "OpenAI和软银向合作伙伴SB Energy投资10亿美元。",
@@ -237,6 +249,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时37分 ~ 04时49分]"
+        },
+        {
+          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
+          "url": "https://wallstreetcn.com/articles/3762982",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时40分 ~ 11时55分]"
         },
         {
           "title": "美国里士满联储主席Barkin：不确定性和生产力增长造成招聘偏低。 （非农）就业人口增幅与企业报告的情况吻合。 失业率下降受人欢迎，但这也仅仅是一个月的数据而已。 美联储必须继续观察职责所面临的两哥方面。 整体经济需求仍然看似健康。",
@@ -275,15 +299,26 @@
           "time_info": "[03时07分 ~ 03时37分]"
         },
         {
-          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
-          "url": "https://wallstreetcn.com/articles/3762982",
-          "source": "华尔街见闻",
+          "title": "人民日报钟才平：统筹促消费和扩投资，建设强大国内市场",
+          "url": "https://www.cls.cn/detail/2253730",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI承诺投入1000万美元支持投票提案，与倡导组织就儿童安全措施达成和解。",
+          "url": "https://flash.jin10.com/detail/20260110094533475800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时40分"
+          "time_info": "11时55分"
         },
         {
           "title": "标普500（住房）建筑商指数涨6.9%，创7月以来最大单日涨幅。",
@@ -372,6 +407,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "马斯克：白领劳动力将最先消失",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E7%99%BD%E9%A2%86%E5%8A%B3%E5%8A%A8%E5%8A%9B%E5%B0%86%E6%9C%80%E5%85%88%E6%B6%88%E5%A4%B1",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "美联储巴尔金：尚不清楚就业市场是会走向更多招聘还是更多裁员。",
