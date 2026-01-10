@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T05:36:20.191802+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2026-01-11T06:43:57.238043+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 建造 造价 科研项目 一人公司 机器人 马斯克 AI -广告",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "人民日报钟才平：统筹促消费和扩投资，建设强大国内市场",
@@ -15,55 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 05时36分]"
-        },
-        {
-          "title": "山东一企业主称承接学校工程被拖欠工程款，达成协议后每月还款又被“缩水”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32352423",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 05时36分]"
-        },
-        {
-          "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
-          "url": "https://www.cls.cn/detail/2253847",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 05时36分]"
-        },
-        {
-          "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32349975",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 05时36分]"
-        },
-        {
-          "title": "Deepseek或将发布新AI模型",
-          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 05时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 06时43分]"
         },
         {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
@@ -76,8 +29,57 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时38分 ~ 05时36分]"
+          "appearance_count": 10,
+          "time_info": "[01时38分 ~ 06时43分]"
+        },
+        {
+          "title": "山东一企业主称承接学校工程被拖欠工程款，达成协议后每月还款又被“缩水”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32352423",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 06时43分]"
+        },
+        {
+          "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
+          "url": "https://www.cls.cn/detail/2253847",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 06时43分]"
+        },
+        {
+          "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32349975",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 06时43分]"
+        },
+        {
+          "title": "Deepseek或将发布新AI模型",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 06时43分]"
         },
         {
           "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
@@ -87,19 +89,31 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 05时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 06时43分]"
         },
         {
           "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
           "url": "https://wallstreetcn.com/livenews/3034560",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 05时36分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 06时43分]"
+        },
+        {
+          "title": "Grok人工智能色情图片争议升级，马斯克诟骂英国政府“法西斯”",
+          "url": "https://wallstreetcn.com/livenews/3034576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
         },
         {
           "title": "人形机器人为何进不了寻常百姓家",
