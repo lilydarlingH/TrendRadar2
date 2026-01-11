@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T12:23:24.188722+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2026-01-11T13:52:17.918170+08:00",
+  "total_titles_processed": 683,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 建造 造价 科研项目 一人公司 机器人 马斯克 AI -广告",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "人民日报钟才平：统筹促消费和扩投资，建设强大国内市场",
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时51分 ~ 12时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时51分 ~ 13时52分]"
         },
         {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
@@ -31,8 +31,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时38分 ~ 12时23分]"
+          "appearance_count": 14,
+          "time_info": "[01时38分 ~ 13时52分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
@@ -44,8 +44,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时51分 ~ 12时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时51分 ~ 13时52分]"
         },
         {
           "title": "山东一企业主称承接学校工程被拖欠工程款，达成协议后每月还款又被“缩水”",
@@ -81,8 +81,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时51分 ~ 12时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时51分 ~ 13时52分]"
         },
         {
           "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
@@ -109,6 +109,17 @@
           "time_info": "[00时52分 ~ 07时36分]"
         },
         {
+          "title": "中国扫地机器人扫全球",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%AB%E5%85%A8%E7%90%83%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 13时52分]"
+        },
+        {
           "title": "Grok人工智能色情图片争议升级，马斯克诟骂英国政府“法西斯”",
           "url": "https://wallstreetcn.com/livenews/3034576",
           "source": "华尔街见闻-快讯",
@@ -121,15 +132,15 @@
           "time_info": "[06时43分 ~ 07时36分]"
         },
         {
-          "title": "中国扫地机器人扫全球",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%AB%E5%85%A8%E7%90%83%23&t=31&band_rank=3&Refer=top",
+          "title": "AI照片竟然拿了摄影比赛第一名",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%85%A7%E7%89%87%E7%AB%9F%E7%84%B6%E6%8B%BF%E4%BA%86%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%90%8D%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 12时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         },
         {
           "title": "美国参议员们要求谷歌和苹果下架马斯克的X和Grok应用",
@@ -171,22 +182,24 @@
           "url": "https://www.zhihu.com/question/1990551534715556923",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 12时23分]"
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 13时52分]"
         },
         {
           "title": "马斯克宣布“X将在7天内公开所有算法”，包括推荐算法，以后每四周1次",
           "url": "https://wallstreetcn.com/articles/3763028",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 12时23分]"
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 13时52分]"
         },
         {
           "title": "全球首次！印尼暂时封禁马斯克旗下AI",
@@ -204,11 +217,23 @@
           "url": "https://wallstreetcn.com/livenews/3034612",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时52分]"
+        },
+        {
+          "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
+          "url": "https://wallstreetcn.com/articles/3763033",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时23分"
+          "time_info": "13时52分"
         },
         {
           "title": "山东将分区分类高质量推进高标准农田建设，逐步把永久基本农田建成高标准农田",
@@ -217,9 +242,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        },
+        {
+          "title": "AI时代还有学画画的必要吗",
+          "url": "https://www.baidu.com/s?wd=AI%E6%97%B6%E4%BB%A3%E8%BF%98%E6%9C%89%E5%AD%A6%E7%94%BB%E7%94%BB%E7%9A%84%E5%BF%85%E8%A6%81%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         }
       ]
     }
