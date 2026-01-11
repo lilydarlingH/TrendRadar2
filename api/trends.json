@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T22:48:05.607737+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2026-01-11T23:41:01.371155+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 建造 造价 科研项目 一人公司 机器人 马斯克 AI -广告",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "人民日报钟才平：统筹促消费和扩投资，建设强大国内市场",
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时22分 ~ 22时48分]"
+          "appearance_count": 16,
+          "time_info": "[12时22分 ~ 23时41分]"
         },
         {
           "title": "柳州一小区因大部分业主欠缴物业费，46 部电梯全部停运，有人一个半月没下过楼，为什么会出现这个情况？",
@@ -46,8 +46,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时41分 ~ 22时48分]"
+          "appearance_count": 12,
+          "time_info": "[15时41分 ~ 23时41分]"
         },
         {
           "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
@@ -62,8 +62,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时52分 ~ 22时48分]"
+          "appearance_count": 14,
+          "time_info": "[13时52分 ~ 23时41分]"
         },
         {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
@@ -79,8 +79,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[01时38分 ~ 22时48分]"
+          "appearance_count": 27,
+          "time_info": "[01时38分 ~ 23时41分]"
+        },
+        {
+          "title": "启动个人医保云建设试点",
+          "url": "https://www.douyin.com/hot/2363990",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时46分 ~ 23时41分]"
         },
         {
           "title": "AI每回答一个问题要消耗多少水",
@@ -94,11 +105,24 @@
             19,
             24,
             18,
-            22
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[15时02分 ~ 23时41分]"
+        },
+        {
+          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
+          "url": "https://wallstreetcn.com/articles/3763032",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 11,
-          "time_info": "[15时02分 ~ 22时48分]"
+          "time_info": "[16时53分 ~ 23时41分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
@@ -111,8 +135,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时51分 ~ 22时48分]"
+          "appearance_count": 29,
+          "time_info": "[00时51分 ~ 23时41分]"
         },
         {
           "title": "山东一企业主称承接学校工程被拖欠工程款，达成协议后每月还款又被“缩水”",
@@ -148,8 +172,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时51分 ~ 22时48分]"
+          "appearance_count": 29,
+          "time_info": "[00时51分 ~ 23时41分]"
         },
         {
           "title": "AI照片竟然拿了摄影比赛第一名",
@@ -168,27 +192,26 @@
           "time_info": "[13时52分 ~ 19时38分]"
         },
         {
-          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
-          "url": "https://wallstreetcn.com/articles/3763032",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时53分 ~ 22时48分]"
-        },
-        {
-          "title": "启动个人医保云建设试点",
-          "url": "https://www.douyin.com/hot/2363990",
-          "source": "抖音",
+          "title": "“个人医保云”建设试点启动",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AA%E4%BA%BA%E5%8C%BB%E4%BF%9D%E4%BA%91%E2%80%9D%E5%BB%BA%E8%AE%BE%E8%AF%95%E7%82%B9%E5%90%AF%E5%8A%A8",
+          "source": "百度热搜",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[21时46分 ~ 22时48分]"
+          "time_info": "[22时47分 ~ 23时41分]"
+        },
+        {
+          "title": "AI登顶LOL韩服,Faker劲敌来袭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348968&amp;topic_name=AI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%2CFaker%E5%8A%B2%E6%95%8C%E6%9D%A5%E8%A2%AD",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时47分 ~ 23时41分]"
         },
         {
           "title": "金正恩指导平壤一万套住宅建设工程",
@@ -227,6 +250,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时52分 ~ 07时36分]"
+        },
+        {
+          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时52分 ~ 23时41分]"
         },
         {
           "title": "AI时代还有学画画的必要吗",
@@ -294,28 +330,6 @@
           "time_info": "[06时43分 ~ 07时36分]"
         },
         {
-          "title": "“个人医保云”建设试点启动",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AA%E4%BA%BA%E5%8C%BB%E4%BF%9D%E4%BA%91%E2%80%9D%E5%BB%BA%E8%AE%BE%E8%AF%95%E7%82%B9%E5%90%AF%E5%8A%A8",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时47分 ~ 22时48分]"
-        },
-        {
-          "title": "AI登顶LOL韩服,Faker劲敌来袭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348968&amp;topic_name=AI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%2CFaker%E5%8A%B2%E6%95%8C%E6%9D%A5%E8%A2%AD",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时47分 ~ 22时48分]"
-        },
-        {
           "title": "中国扫地机器人占全球份额近7成",
           "url": "https://www.douyin.com/hot/2363670",
           "source": "抖音",
@@ -338,6 +352,17 @@
           "time_info": "19时38分"
         },
         {
+          "title": "市场消息：家得宝与谷歌云联合推出Agentic AI工具，助力顾客与员工将项目从“如何做”转化为“已完成”。",
+          "url": "https://flash.jin10.com/detail/20260111230441184800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "美国参议员们要求谷歌和苹果下架马斯克的X和Grok应用",
           "url": "https://wallstreetcn.com/livenews/3034579",
           "source": "华尔街见闻-快讯",
@@ -349,17 +374,15 @@
           "time_info": "07时36分"
         },
         {
-          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
-          "source": "澎湃新闻",
+          "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
+          "url": "https://wallstreetcn.com/livenews/3034757",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17,
-            20,
-            14
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时52分 ~ 22时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "马斯克：推特将在七天内开源其算法",
@@ -443,8 +466,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时47分 ~ 22时48分]"
+          "appearance_count": 4,
+          "time_info": "[22时47分 ~ 23时41分]"
         },
         {
           "title": "全球首次！印尼暂时封禁马斯克旗下AI",
