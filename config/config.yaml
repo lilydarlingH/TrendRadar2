@@ -94,3 +94,7 @@ platforms:
     name: "腾讯网"
   - id: "mp.weixin.qq"
     name: "公众号"
+  - id: "eastmoney"
+    name: "东方财富网"
+   - id: "cih-index"
+    name: "中指研究院"   
