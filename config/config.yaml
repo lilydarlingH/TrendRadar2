@@ -96,4 +96,5 @@ platforms:
     name: "公众号"
   - id: "eastmoney"
     name: "东方财富网"
-
+  - id: "cih-index"
+    name: "中指"
