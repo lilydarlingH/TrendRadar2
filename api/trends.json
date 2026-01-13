@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T17:03:16.780565+08:00",
-  "total_titles_processed": 875,
+  "generated_at": "2026-01-13T17:55:46.499309+08:00",
+  "total_titles_processed": 957,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 建造 造价 科研项目 一人公司 机器人 马斯克 AI -广告",
-      "match_count": 50,
+      "match_count": 53,
       "titles": [
         {
           "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时53分 ~ 17时03分]"
+          "appearance_count": 10,
+          "time_info": "[09时53分 ~ 17时55分]"
         },
         {
           "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
@@ -71,8 +71,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时53分 ~ 17时03分]"
+          "appearance_count": 10,
+          "time_info": "[09时53分 ~ 17时55分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -83,11 +83,25 @@
             11,
             18,
             12,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时53分 ~ 17时03分]"
+          "appearance_count": 10,
+          "time_info": "[09时53分 ~ 17时55分]"
+        },
+        {
+          "title": "青海 4 名评标专家因送餐延时导致低血糖，就餐后坚持要求 120 急救服务，官方通报解聘，如何评价？",
+          "url": "https://www.zhihu.com/question/1994227745014702347",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时05分 ~ 17时55分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -105,19 +119,6 @@
           "time_info": "[09时53分 ~ 17时03分]"
         },
         {
-          "title": "青海 4 名评标专家因送餐延时导致低血糖，就餐后坚持要求 120 急救服务，官方通报解聘，如何评价？",
-          "url": "https://www.zhihu.com/question/1994227745014702347",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 17时03分]"
-        },
-        {
           "title": "英伟达与礼来共投10亿美元 建设AI药物研发实验室",
           "url": "https://www.cls.cn/detail/2255501",
           "source": "财联社热门",
@@ -128,6 +129,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时53分 ~ 13时05分]"
+        },
+        {
+          "title": "4名专家因“送餐延误身体不适”拒评标，青海省数据局：正在研究进一步处理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32374160",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时04分 ~ 17时55分]"
         },
         {
           "title": "张文宏称拒绝把AI引入医院病历系统",
@@ -171,16 +184,31 @@
           "time_info": "[09时53分 ~ 10时58分]"
         },
         {
-          "title": "4名专家因“送餐延误身体不适”拒评标，青海省数据局：正在研究进一步处理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32374160",
-          "source": "澎湃新闻",
+          "title": "中国核聚变装置融入AI技术",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%A3%85%E7%BD%AE%E8%9E%8D%E5%85%A5AI%E6%8A%80%E6%9C%AF",
+          "source": "bilibili 热搜",
           "ranks": [
             5,
             4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时04分 ~ 17时03分]"
+          "time_info": "[17时02分 ~ 17时55分]"
+        },
+        {
+          "title": "在我国开始大规模建设高铁之前的讨论中，「轮轨派」是如何战胜「磁浮派」和「缓建派」的？",
+          "url": "https://www.zhihu.com/question/586680189",
+          "source": "知乎",
+          "ranks": [
+            18,
+            15,
+            17,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时57分 ~ 17时55分]"
         },
         {
           "title": "AI登顶LOL韩服,Faker劲敌来袭",
@@ -196,29 +224,17 @@
           "time_info": "[09时53分 ~ 15时04分]"
         },
         {
-          "title": "中国核聚变装置融入AI技术",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%A3%85%E7%BD%AE%E8%9E%8D%E5%85%A5AI%E6%8A%80%E6%9C%AF",
-          "source": "bilibili 热搜",
+          "title": "广州：争取国家集成电路产业基金支持重大项目建设 引导社会资本参与集成电路企业兼并重组",
+          "url": "https://www.cls.cn/detail/2255843",
+          "source": "财联社热门",
           "ranks": [
-            5
+            9,
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 17时03分]"
-        },
-        {
-          "title": "在我国开始大规模建设高铁之前的讨论中，「轮轨派」是如何战胜「磁浮派」和「缓建派」的？",
-          "url": "https://www.zhihu.com/question/586680189",
-          "source": "知乎",
-          "ranks": [
-            18,
-            15,
-            17,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时57分 ~ 17时03分]"
+          "appearance_count": 5,
+          "time_info": "[13时05分 ~ 17时55分]"
         },
         {
           "title": "扎克伯格启动Meta Compute项目 2030年前狂建数十吉瓦AI基建",
@@ -233,17 +249,16 @@
           "time_info": "[09时53分 ~ 13时05分]"
         },
         {
-          "title": "广州：争取国家集成电路产业基金支持重大项目建设 引导社会资本参与集成电路企业兼并重组",
-          "url": "https://www.cls.cn/detail/2255843",
+          "title": "工信部：实施工业互联网与人工智能融合赋能行动 推动人工智能技术在工业全链条渗透",
+          "url": "https://www.cls.cn/detail/2256114",
           "source": "财联社热门",
           "ranks": [
-            9,
-            7,
-            2
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 17时03分]"
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 17时55分]"
         },
         {
           "title": "马斯克最新访谈：瓦特是未来货币，电力优势将令中国AI算力一骑绝尘",
@@ -273,11 +288,37 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时04分 ~ 17时03分]"
+          "appearance_count": 4,
+          "time_info": "[15时04分 ~ 17时55分]"
+        },
+        {
+          "title": "EDG官宣Maokai回归",
+          "url": "https://search.bilibili.com/all?keyword=EDG%E5%AE%98%E5%AE%A3Maokai%E5%9B%9E%E5%BD%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
+          "title": "UP主分析AI将如何影响电竞行业",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            19,
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时05分 ~ 17时55分]"
         },
         {
           "title": "美防长称马斯克旗下AI聊天机器人将接入五角大楼系统",
@@ -290,19 +331,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时58分 ~ 11时58分]"
-        },
-        {
-          "title": "UP主分析AI将如何影响电竞行业",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            19,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 17时03分]"
         },
         {
           "title": "万字解析中国AI产业",
@@ -330,6 +358,66 @@
           "time_info": "[11时57分 ~ 13时05分]"
         },
         {
+          "title": "【午报】三大指数小幅下挫，AI医疗方向全线爆发，商业航天概念股大幅分化",
+          "url": "https://www.cls.cn/detail/2255873",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 17时55分]"
+        },
+        {
+          "title": "张文宏称拒绝将AI引入医院病历系统",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E6%8B%92%E7%BB%9D%E5%B0%86AI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 17时55分]"
+        },
+        {
+          "title": "AI引爆存储芯片需求！SK海力士将豪掷近130亿美元建设封装厂",
+          "url": "https://www.cls.cn/detail/2255787",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 17时55分]"
+        },
+        {
+          "title": "太子集团在柬埔寨的房地产项目被禁止销售",
+          "url": "https://news.ifeng.com/c/8psqNg8tozg",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 17时55分]"
+        },
+        {
+          "title": "市场延续结构性行情，AI 应用与商业航天成资金共识，把握核心方向轮动机会",
+          "url": "https://www.cls.cn/detail/2255684",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 17时55分]"
+        },
+        {
           "title": "美防长访问SpaceX 马斯克热情迎接",
           "url": "https://www.toutiao.com/trending/7594412913869586470/",
           "source": "今日头条",
@@ -342,15 +430,16 @@
           "time_info": "[11时57分 ~ 13时05分]"
         },
         {
-          "title": "工信部：实施工业互联网与人工智能融合赋能行动 推动人工智能技术在工业全链条渗透",
-          "url": "https://www.cls.cn/detail/2256114",
-          "source": "财联社热门",
+          "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
+          "url": "https://www.zhihu.com/question/1994352106249873378",
+          "source": "知乎",
           "ranks": [
-            6
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 17时03分]"
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 17时55分]"
         },
         {
           "title": "发改委：将指导地方安排不少于1%的产业用地支持资源循环利用设施建设",
@@ -363,50 +452,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时58分 ~ 11时58分]"
-        },
-        {
-          "title": "【午报】三大指数小幅下挫，AI医疗方向全线爆发，商业航天概念股大幅分化",
-          "url": "https://www.cls.cn/detail/2255873",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 17时03分]"
-        },
-        {
-          "title": "张文宏称拒绝将AI引入医院病历系统",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E6%8B%92%E7%BB%9D%E5%B0%86AI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 17时03分]"
-        },
-        {
-          "title": "AI引爆存储芯片需求！SK海力士将豪掷近130亿美元建设封装厂",
-          "url": "https://www.cls.cn/detail/2255787",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 17时03分]"
-        },
-        {
-          "title": "太子集团在柬埔寨的房地产项目被禁止销售",
-          "url": "https://news.ifeng.com/c/8psqNg8tozg",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 17时03分]"
         },
         {
           "title": "戴德梁行胡峰：房地产大规模增量扩张的时代已经结束，存量提质增效的新阶段已然开启",
@@ -433,17 +478,6 @@
           "time_info": "[13时05分 ~ 15时04分]"
         },
         {
-          "title": "市场延续结构性行情，AI 应用与商业航天成资金共识，把握核心方向轮动机会",
-          "url": "https://www.cls.cn/detail/2255684",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 17时03分]"
-        },
-        {
           "title": "广州：争取国家集成电路产业基金支持重大项目建设 引导社会资本参与集成电路企业兼并重组",
           "url": "https://wallstreetcn.com/livenews/3035773",
           "source": "华尔街见闻-快讯",
@@ -461,17 +495,6 @@
           "source": "财联社热门",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 17时03分]"
-        },
-        {
-          "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
-          "url": "https://www.zhihu.com/question/1994352106249873378",
-          "source": "知乎",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -523,6 +546,28 @@
           "time_info": "15时04分"
         },
         {
+          "title": "4名专家饿晕拒评标 官方最新回应",
+          "url": "https://www.baidu.com/s?wd=4%E5%90%8D%E4%B8%93%E5%AE%B6%E9%A5%BF%E6%99%95%E6%8B%92%E8%AF%84%E6%A0%87+%E5%AE%98%E6%96%B9%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
+          "title": "【焦点复盘】科创50低开低走跌近3%，全市场超500股跌超5%，AI医疗概念强势依旧",
+          "url": "https://www.cls.cn/detail/2256259",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "现代汽车系市值本月激增240亿美元 机器人叙事催化扩张行情",
           "url": "https://flash.jin10.com/detail/20260113114920665800",
           "source": "金十数据",
@@ -540,7 +585,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -562,7 +607,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -573,7 +618,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -595,7 +640,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
