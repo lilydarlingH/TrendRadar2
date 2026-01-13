@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T04:52:10.077577+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-01-14T05:43:19.603744+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 建造 造价 科研项目 一人公司 机器人 马斯克 AI -广告",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "技术拆解疑似马斯克AI账号",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 04时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 05时43分]"
         },
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 04时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 05时43分]"
         },
         {
           "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
@@ -49,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 04时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 05时43分]"
         },
         {
           "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
@@ -60,8 +60,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 04时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 05时43分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -74,8 +74,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 04时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 05时43分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -88,8 +88,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 04时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 05时43分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -98,11 +98,12 @@
           "ranks": [
             22,
             19,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 04时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 05时43分]"
         },
         {
           "title": "4名专家因送餐延误身体不适拒评标",
@@ -114,8 +115,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时01分 ~ 04时52分]"
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 05时43分]"
         },
         {
           "title": "为什么物业公司的物业费越来越难收？",
@@ -126,8 +127,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时01分 ~ 04时52分]"
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 05时43分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -174,13 +175,24 @@
           "time_info": "01时05分"
         },
         {
+          "title": "人工智能（AI）芯片初创公司Etched融资5亿美元，将挑战英伟达。",
+          "url": "https://wallstreetcn.com/livenews/3036406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        },
+        {
           "title": "消息人士：美国百货公司和商业地产控股公司Saks Global预计将“很快”申请破产，正接近在申请破产前敲定一项17.5亿美元的融资方案。即将与由Pentwater和Bracebridge牵头的放贷方财团达成融资协议。",
           "url": "https://flash.jin10.com/detail/20260114041108913800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -202,7 +214,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
