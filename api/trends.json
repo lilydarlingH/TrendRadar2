@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T03:37:55.459555+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-01-15T04:45:31.391877+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 03时37分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 04时45分]"
         },
         {
           "title": "中方回应泰国在建高铁项目事故",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 03时37分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 04时45分]"
         },
         {
           "title": "泰国在建铁路事故造成重大伤亡",
@@ -37,11 +37,24 @@
           "ranks": [
             2,
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 03时37分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 04时45分]"
+        },
+        {
+          "title": "马光远：2026年房地产大概率见底",
+          "url": "https://www.toutiao.com/trending/7594701672845836307/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时37分 ~ 04时45分]"
         },
         {
           "title": "美国亚特兰大联储主席Bostic：与美联储通胀目标仍然相去甚远。 在利率政策上仍然需要限制性立场。 劳动力市场走软，但并不明显。 入门级招聘疲软，可能与人工智能（AI）有关。 美联储主席鲍威尔对美国司法部调查的反应“非常直接”。",
@@ -62,18 +75,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时37分"
-        },
-        {
-          "title": "马光远：2026年房地产大概率见底",
-          "url": "https://www.toutiao.com/trending/7594701672845836307/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
         },
@@ -84,7 +86,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
         },
