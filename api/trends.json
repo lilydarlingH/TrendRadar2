@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T05:44:27.566713+08:00",
-  "total_titles_processed": 567,
+  "generated_at": "2026-01-15T06:52:10.544198+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 建造 造价 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "3D还原泰国在建铁路事故",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 06时52分]"
         },
         {
           "title": "中方回应泰国在建高铁项目事故",
@@ -39,11 +39,23 @@
             2,
             13,
             14,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 06时52分]"
+        },
+        {
+          "title": "美国司法部：已就加州对联邦土地的监管规定提起诉讼。",
+          "url": "https://flash.jin10.com/detail/20260115063342086800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         },
         {
           "title": "马光远：2026年房地产大概率见底",
@@ -51,11 +63,12 @@
           "source": "今日头条",
           "ranks": [
             22,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时37分 ~ 04时45分]"
+          "appearance_count": 4,
+          "time_info": "[03时37分 ~ 06时52分]"
         },
         {
           "title": "美国亚特兰大联储主席Bostic：与美联储通胀目标仍然相去甚远。 在利率政策上仍然需要限制性立场。 劳动力市场走软，但并不明显。 入门级招聘疲软，可能与人工智能（AI）有关。 美联储主席鲍威尔对美国司法部调查的反应“非常直接”。",
