@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T19:42:56.011837+08:00",
-  "total_titles_processed": 1564,
+  "generated_at": "2026-01-14T21:56:19.682228+08:00",
+  "total_titles_processed": 1726,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 建造 造价 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "太子集团在柬埔寨的房地产项目被禁止销售",
@@ -33,6 +33,18 @@
           "time_info": "[03时01分 ~ 07时34分]"
         },
         {
+          "title": "中方回应泰国在建高铁项目事故",
+          "url": "https://news.ifeng.com/c/8puOSwiV4gd",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时56分 ~ 21时56分]"
+        },
+        {
           "title": "4名专家因送餐延误身体不适拒评标",
           "url": "https://www.toutiao.com/trending/7594598355976798250/",
           "source": "今日头条",
@@ -50,22 +62,12 @@
           "url": "https://www.cls.cn/detail/2257323",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时03分 ~ 19时42分]"
-        },
-        {
-          "title": "中方回应泰国在建高铁项目事故",
-          "url": "https://news.ifeng.com/c/8puOSwiV4gd",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时56分 ~ 19时42分]"
+          "appearance_count": 6,
+          "time_info": "[17时03分 ~ 21时56分]"
         },
         {
           "title": "中方回应泰国在建铁路事故",
@@ -73,11 +75,12 @@
           "source": "百度热搜",
           "ranks": [
             2,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时56分 ~ 19时42分]"
+          "appearance_count": 5,
+          "time_info": "[18时56分 ~ 21时56分]"
         },
         {
           "title": "中方回应泰国在建高铁项目超20死事故",
@@ -115,6 +118,19 @@
           "time_info": "[13时53分 ~ 18时57分]"
         },
         {
+          "title": "泰国在建铁路事故造成重大伤亡",
+          "url": "https://www.douyin.com/hot/2367588",
+          "source": "抖音",
+          "ranks": [
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时56分 ~ 21时56分]"
+        },
+        {
           "title": "诸葛亮五次北伐，以一州之地对抗曹魏九个州，双方兵力和人口土地均很悬殊，为什么那么自信能打得过曹魏？",
           "url": "https://www.zhihu.com/question/459123997",
           "source": "知乎",
@@ -140,18 +156,6 @@
           "time_info": "[18时56分 ~ 19时42分]"
         },
         {
-          "title": "泰国在建铁路事故造成重大伤亡",
-          "url": "https://www.douyin.com/hot/2367588",
-          "source": "抖音",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时56分 ~ 19时42分]"
-        },
-        {
           "title": "如何看待基辅部分建筑无供暖",
           "url": "https://www.toutiao.com/trending/7594975405954875433/",
           "source": "今日头条",
@@ -162,6 +166,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时03分 ~ 17时03分]"
+        },
+        {
+          "title": "青海4名评标专家被“除名”引关注，当事人回应：未见标书，传言不实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382481",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
         },
         {
           "title": "泰国在建铁路事故已致至少30人死亡",
@@ -303,7 +318,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
