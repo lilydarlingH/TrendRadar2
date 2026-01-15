@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T13:05:59.393341+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2026-01-15T15:03:57.369022+08:00",
+  "total_titles_processed": 1106,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 建造 造价 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "3D还原泰国在建铁路事故",
@@ -71,6 +71,19 @@
           "time_info": "[06时52分 ~ 07时33分]"
         },
         {
+          "title": "南京信息工程大学期末考试泄题，校方安排重考并承担学生返校费用，如何看待此事？有别的解决方案吗？",
+          "url": "https://www.zhihu.com/question/1994786737562615891",
+          "source": "知乎",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时00分 ~ 15时03分]"
+        },
+        {
           "title": "马光远：2026年房地产大概率见底",
           "url": "https://www.toutiao.com/trending/7594701672845836307/",
           "source": "今日头条",
@@ -82,18 +95,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时37分 ~ 06时52分]"
-        },
-        {
-          "title": "南京信息工程大学期末考试泄题，校方安排重考并承担学生返校费用，如何看待此事？有别的解决方案吗？",
-          "url": "https://www.zhihu.com/question/1994786737562615891",
-          "source": "知乎",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时00分 ~ 13时05分]"
         },
         {
           "title": "工程师拒绝调岗至流水线操作工，仍在原岗打卡被辞退，法院判了",
@@ -131,6 +132,28 @@
           "time_info": "[03时37分 ~ 05时44分]"
         },
         {
+          "title": "英国11月建筑业产出环比 -1.3%，预期 -0.3%，前值 -0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3037644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "英国11月建筑业产出同比 -1.1%，预期 -0.1%，前值 0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3037643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
           "title": "丹麦外交大臣：我们与美国官员进行了坦诚而富有建设性的讨论。",
           "url": "https://flash.jin10.com/detail/20260115025604473800",
           "source": "金十数据",
@@ -140,6 +163,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
+        },
+        {
+          "title": "台积电：德国晶圆厂建设正在推进。",
+          "url": "https://flash.jin10.com/detail/20260115143027331800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "台积电：日本第二座晶圆厂建设已启动。",
+          "url": "https://flash.jin10.com/detail/20260115143006513800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
         },
         {
           "title": "中方回应泰国在建铁路事故",
