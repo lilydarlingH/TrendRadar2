@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T17:02:34.926172+08:00",
-  "total_titles_processed": 1253,
+  "generated_at": "2026-01-15T17:54:58.616374+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
@@ -58,8 +58,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时00分 ~ 17时02分]"
+          "appearance_count": 6,
+          "time_info": "[12时00分 ~ 17时54分]"
+        },
+        {
+          "title": "国家电网“十五五”计划投资4万亿元建设新型电力系统",
+          "url": "https://www.cls.cn/detail/2258945",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 17时54分]"
         },
         {
           "title": "泰总理现场听取在建铁路事故汇报",
@@ -71,17 +83,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
-        },
-        {
-          "title": "国家电网“十五五”计划投资4万亿元建设新型电力系统",
-          "url": "https://www.cls.cn/detail/2258945",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
         },
         {
           "title": "美国司法部：已就加州对联邦土地的监管规定提起诉讼。",
@@ -118,6 +119,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时00分 ~ 12时02分]"
+        },
+        {
+          "title": "泰国高铁工地起重机砸中火车致 28 死，为什么会发生这种事故？直接诱因可能是什么？",
+          "url": "https://www.zhihu.com/question/1994755866621128788",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 17时54分]"
+        },
+        {
+          "title": "工程师拒绝调岗至流水线操作工，仍在原岗打卡被辞退，公司被判赔 25 万余，调岗的合理界限在哪？",
+          "url": "https://www.zhihu.com/question/1994784556411266373",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 17时54分]"
         },
         {
           "title": "美国亚特兰大联储主席Bostic：与美联储通胀目标仍然相去甚远。 在利率政策上仍然需要限制性立场。 劳动力市场走软，但并不明显。 入门级招聘疲软，可能与人工智能（AI）有关。 美联储主席鲍威尔对美国司法部调查的反应“非常直接”。",
@@ -177,17 +200,6 @@
           "time_info": "03时37分"
         },
         {
-          "title": "泰国高铁工地起重机砸中火车致 28 死，为什么会发生这种事故？直接诱因可能是什么？",
-          "url": "https://www.zhihu.com/question/1994755866621128788",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
           "title": "台积电：德国晶圆厂建设正在推进。",
           "url": "https://flash.jin10.com/detail/20260115143027331800",
           "source": "金十数据",
@@ -197,17 +209,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
-        },
-        {
-          "title": "工程师拒绝调岗至流水线操作工，仍在原岗打卡被辞退，公司被判赔 25 万余，调岗的合理界限在哪？",
-          "url": "https://www.zhihu.com/question/1994784556411266373",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
         },
         {
           "title": "台积电：日本第二座晶圆厂建设已启动。",
@@ -227,7 +228,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
