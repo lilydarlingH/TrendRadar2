@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T18:56:12.085258+08:00",
-  "total_titles_processed": 1444,
+  "generated_at": "2026-01-15T19:41:09.214687+08:00",
+  "total_titles_processed": 1541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 建造 造价 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "3D还原泰国在建铁路事故",
@@ -20,6 +20,33 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时04分 ~ 07时33分]"
+        },
+        {
+          "title": "南京信息工程大学期末考试泄题，校方安排重考并承担学生返校费用，如何看待此事？有别的解决方案吗？",
+          "url": "https://www.zhihu.com/question/1994786737562615891",
+          "source": "知乎",
+          "ranks": [
+            9,
+            10,
+            8,
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时00分 ~ 19时41分]"
+        },
+        {
+          "title": "国家电网“十五五”计划投资4万亿元建设新型电力系统",
+          "url": "https://www.cls.cn/detail/2258945",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时02分 ~ 19时41分]"
         },
         {
           "title": "泰国在建铁路事故造成重大伤亡",
@@ -48,31 +75,29 @@
           "time_info": "[01时04分 ~ 04时45分]"
         },
         {
-          "title": "南京信息工程大学期末考试泄题，校方安排重考并承担学生返校费用，如何看待此事？有别的解决方案吗？",
-          "url": "https://www.zhihu.com/question/1994786737562615891",
+          "title": "工程师拒绝调岗至流水线操作工，仍在原岗打卡被辞退，公司被判赔 25 万余，调岗的合理界限在哪？",
+          "url": "https://www.zhihu.com/question/1994784556411266373",
           "source": "知乎",
           "ranks": [
-            9,
-            10,
-            8,
-            4,
-            12
+            18,
+            14,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时00分 ~ 18时56分]"
+          "appearance_count": 6,
+          "time_info": "[17时02分 ~ 19时41分]"
         },
         {
-          "title": "国家电网“十五五”计划投资4万亿元建设新型电力系统",
-          "url": "https://www.cls.cn/detail/2258945",
-          "source": "财联社热门",
+          "title": "泰国高铁工地起重机砸中火车致 28 死，为什么会发生这种事故？直接诱因可能是什么？",
+          "url": "https://www.zhihu.com/question/1994755866621128788",
+          "source": "知乎",
           "ranks": [
-            4,
-            3
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时02分 ~ 18时56分]"
+          "appearance_count": 6,
+          "time_info": "[17时02分 ~ 19时41分]"
         },
         {
           "title": "泰总理现场听取在建铁路事故汇报",
@@ -98,30 +123,6 @@
           "time_info": "[06时52分 ~ 07时33分]"
         },
         {
-          "title": "工程师拒绝调岗至流水线操作工，仍在原岗打卡被辞退，公司被判赔 25 万余，调岗的合理界限在哪？",
-          "url": "https://www.zhihu.com/question/1994784556411266373",
-          "source": "知乎",
-          "ranks": [
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时02分 ~ 18时56分]"
-        },
-        {
-          "title": "泰国高铁工地起重机砸中火车致 28 死，为什么会发生这种事故？直接诱因可能是什么？",
-          "url": "https://www.zhihu.com/question/1994755866621128788",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时02分 ~ 18时56分]"
-        },
-        {
           "title": "马光远：2026年房地产大概率见底",
           "url": "https://www.toutiao.com/trending/7594701672845836307/",
           "source": "今日头条",
@@ -133,6 +134,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时37分 ~ 06时52分]"
+        },
+        {
+          "title": "为何曾经躺着赚钱的物业现在不香了",
+          "url": "https://www.toutiao.com/trending/7595518058609790502/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 19时41分]"
         },
         {
           "title": "工程师拒绝调岗至流水线操作工，仍在原岗打卡被辞退，法院判了",
@@ -170,13 +182,24 @@
           "time_info": "[03时37分 ~ 05时44分]"
         },
         {
+          "title": "泰国总理要求终止连续两起施工事故涉事公司项目合同",
+          "url": "https://wallstreetcn.com/livenews/3037956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "北京将推进“3个100”重点工程 2026年计划完成投资超3000亿",
           "url": "https://wallstreetcn.com/livenews/3037918",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -214,6 +237,17 @@
           "time_info": "03时37分"
         },
         {
+          "title": "航天发展：公司控股股东中国航天系统工程有限公司于本次股票交易异常波动期间，将2024年通过交易所集中竞价方式增持的股份中的1226.09万股通过集中竞价方式减持。截至2026年1月15日，上述增持的股份剩余730.76万股。",
+          "url": "https://wallstreetcn.com/livenews/3037943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "台积电：德国晶圆厂建设正在推进。",
           "url": "https://flash.jin10.com/detail/20260115143027331800",
           "source": "金十数据",
@@ -236,6 +270,17 @@
           "time_info": "15时03分"
         },
         {
+          "title": "土耳其外长：高度重视对华关系 期待中方在地区局势中发挥建设性作用",
+          "url": "https://wallstreetcn.com/livenews/3037935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "我国西北地区在建最大高铁站西安东站金属屋面顺利封顶",
           "url": "https://wallstreetcn.com/livenews/3037796",
           "source": "华尔街见闻-快讯",
@@ -256,6 +301,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "水利部：加快建设“系统完备、安全可靠，集约高效、绿色智能，循环通畅、调控有序”的现代化水网",
+          "url": "https://wallstreetcn.com/livenews/3037932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "核电公司Oklo的CEO Jacob DeWitte：劳动力短缺可能对电站的建设不利。",
