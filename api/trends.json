@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T12:02:03.486716+08:00",
-  "total_titles_processed": 889,
+  "generated_at": "2026-01-15T13:05:59.393341+08:00",
+  "total_titles_processed": 967,
   "failed_sources": [],
   "trends": [
     {
@@ -88,11 +88,12 @@
           "url": "https://www.zhihu.com/question/1994786737562615891",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时02分]"
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 13时05分]"
         },
         {
           "title": "工程师拒绝调岗至流水线操作工，仍在原岗打卡被辞退，法院判了",
