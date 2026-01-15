@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T06:49:42.554688+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2026-01-16T07:41:44.526885+08:00",
+  "total_titles_processed": 694,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 07时41分]"
         },
         {
           "title": "工程师拒绝调岗至流水线操作工，仍在原岗打卡被辞退，公司被判赔 25 万余，调岗的合理界限在哪？",
@@ -53,7 +53,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
         },
