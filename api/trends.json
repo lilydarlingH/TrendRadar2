@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-15T19:41:09.214687+08:00",
-  "total_titles_processed": 1541,
+  "generated_at": "2026-01-15T21:56:13.225992+08:00",
+  "total_titles_processed": 1691,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 建造 造价 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
       "match_count": 27,
       "titles": [
+        {
+          "title": "国家电网“十五五”计划投资4万亿元建设新型电力系统",
+          "url": "https://www.cls.cn/detail/2258945",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时02分 ~ 21时56分]"
+        },
         {
           "title": "3D还原泰国在建铁路事故",
           "url": "https://www.toutiao.com/trending/7595093969034461238/",
@@ -37,16 +50,18 @@
           "time_info": "[12时00分 ~ 19时41分]"
         },
         {
-          "title": "国家电网“十五五”计划投资4万亿元建设新型电力系统",
-          "url": "https://www.cls.cn/detail/2258945",
-          "source": "财联社热门",
+          "title": "工程师拒绝调岗至流水线操作工，仍在原岗打卡被辞退，公司被判赔 25 万余，调岗的合理界限在哪？",
+          "url": "https://www.zhihu.com/question/1994784556411266373",
+          "source": "知乎",
           "ranks": [
-            4,
-            3
+            18,
+            14,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时02分 ~ 19时41分]"
+          "appearance_count": 8,
+          "time_info": "[17时02分 ~ 21时56分]"
         },
         {
           "title": "泰国在建铁路事故造成重大伤亡",
@@ -75,19 +90,6 @@
           "time_info": "[01时04分 ~ 04时45分]"
         },
         {
-          "title": "工程师拒绝调岗至流水线操作工，仍在原岗打卡被辞退，公司被判赔 25 万余，调岗的合理界限在哪？",
-          "url": "https://www.zhihu.com/question/1994784556411266373",
-          "source": "知乎",
-          "ranks": [
-            18,
-            14,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时02分 ~ 19时41分]"
-        },
-        {
           "title": "泰国高铁工地起重机砸中火车致 28 死，为什么会发生这种事故？直接诱因可能是什么？",
           "url": "https://www.zhihu.com/question/1994755866621128788",
           "source": "知乎",
@@ -96,8 +98,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时02分 ~ 19时41分]"
+          "appearance_count": 8,
+          "time_info": "[17时02分 ~ 21时56分]"
         },
         {
           "title": "泰总理现场听取在建铁路事故汇报",
@@ -188,7 +190,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -243,7 +245,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -276,7 +278,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -309,7 +311,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
