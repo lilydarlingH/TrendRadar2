@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T05:42:51.395937+08:00",
-  "total_titles_processed": 596,
+  "generated_at": "2026-01-16T06:49:42.554688+08:00",
+  "total_titles_processed": 660,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 建造 造价 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "天津大学原校长金东寒已从中国工程院院士名单中撤下",
@@ -15,11 +15,12 @@
             20,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时49分]"
         },
         {
           "title": "工程师拒绝调岗至流水线操作工，仍在原岗打卡被辞退，公司被判赔 25 万余，调岗的合理界限在哪？",
@@ -44,6 +45,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 00时03分]"
+        },
+        {
+          "title": "比航母还贵 “特朗普级”战列舰首舰造价或高达220亿美元",
+          "url": "https://flash.jin10.com/detail/20260116053421034800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时49分"
         },
         {
           "title": "美国国防部：美国国务院批准向秘鲁出售卡亚俄海军基地的设计和建造项目，预计金额为15亿美元。",
