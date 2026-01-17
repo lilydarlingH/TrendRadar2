@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T04:42:41.667567+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-01-18T05:34:50.184557+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3039147",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 05时34分]"
         },
         {
           "title": "刘世锦：建设消费强国 助推实现长期增长目标",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 05时34分]"
         },
         {
           "title": "贵州省黔西南州一医院招聘存多个问题，官方：取消本次笔试成绩",
@@ -39,19 +40,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时37分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时37分 ~ 05时34分]"
         },
         {
           "title": "内蒙古包头启动建设国家级零碳园区",
           "url": "https://wallstreetcn.com/livenews/3039121",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 04时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时49分 ~ 05时34分]"
         }
       ]
     }
