@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T00:49:00.963828+08:00",
-  "total_titles_processed": 321,
+  "generated_at": "2026-01-18T01:37:53.216902+08:00",
+  "total_titles_processed": 345,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 建造 造价 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "刘世锦：建设消费强国，助推实现长期增长目标",
@@ -14,9 +14,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时37分]"
         },
         {
           "title": "刘世锦：建设消费强国 助推实现长期增长目标",
@@ -25,9 +25,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时37分]"
         },
         {
           "title": "内蒙古包头启动建设国家级零碳园区",
@@ -36,9 +36,20 @@
           "ranks": [
             26
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时37分]"
+        },
+        {
+          "title": "贵州省黔西南州一医院招聘存多个问题，官方：取消本次笔试成绩",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32408083",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时49分"
+          "time_info": "01时37分"
         }
       ]
     }
