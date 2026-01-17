@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T21:39:53.870359+08:00",
-  "total_titles_processed": 1391,
+  "generated_at": "2026-01-17T22:42:43.593628+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 21时39分]"
+          "appearance_count": 3,
+          "time_info": "[19时33分 ~ 22时42分]"
         },
         {
           "title": "美国法官在公司针对弗吉尼亚海上风电项目的诉讼中下达禁令，允许施工恢复，多米尼恩能源股价上涨1.5%。",
