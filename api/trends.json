@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T03:30:56.368312+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2026-01-18T04:42:41.667567+08:00",
+  "total_titles_processed": 383,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 03时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 04时42分]"
         },
         {
           "title": "刘世锦：建设消费强国 助推实现长期增长目标",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 03时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 04时42分]"
         },
         {
           "title": "贵州省黔西南州一医院招聘存多个问题，官方：取消本次笔试成绩",
@@ -39,8 +39,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时37分 ~ 03时30分]"
+          "appearance_count": 6,
+          "time_info": "[01时37分 ~ 04时42分]"
         },
         {
           "title": "内蒙古包头启动建设国家级零碳园区",
@@ -50,8 +50,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 03时30分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 04时42分]"
         }
       ]
     }
