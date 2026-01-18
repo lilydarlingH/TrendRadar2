@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T18:46:10.475791+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2026-01-18T19:33:02.345268+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时37分 ~ 18时46分]"
+          "appearance_count": 22,
+          "time_info": "[01时37分 ~ 19时33分]"
         },
         {
           "title": "内蒙古包头启动建设国家级零碳园区",
@@ -69,11 +69,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 18时46分]"
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 19时33分]"
         }
       ]
     }
