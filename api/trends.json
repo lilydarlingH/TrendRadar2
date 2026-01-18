@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T07:36:30.352467+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2026-01-18T12:06:40.908623+08:00",
+  "total_titles_processed": 628,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             2,
             5,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 07时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 12时06分]"
         },
         {
           "title": "贵州省黔西南州一医院招聘存多个问题，官方：取消本次笔试成绩",
@@ -43,8 +44,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时37分 ~ 07时36分]"
+          "appearance_count": 11,
+          "time_info": "[01时37分 ~ 12时06分]"
         },
         {
           "title": "内蒙古包头启动建设国家级零碳园区",
