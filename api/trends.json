@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-01-19T06:44:22.433242+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-01-19T07:37:58.662337+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 建造 造价 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
-          "title": "联合声明显示，卡塔尔重申致力于在加拿大国家建设项目中进行“重大战略投资”。",
-          "url": "https://flash.jin10.com/detail/20260119060333422800",
-          "source": "金十数据",
+          "title": "上海“十五五”规划建议：加快建成张江国际一流科学城，加强“大零号湾”建设",
+          "url": "https://wallstreetcn.com/livenews/3039334",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时44分"
+          "time_info": "07时37分"
         },
         {
           "title": "沪宁合高铁南京枢纽项目迎多个关键建设节点新进展",
@@ -31,6 +31,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时51分 ~ 04时43分]"
+        },
+        {
+          "title": "联合声明显示，卡塔尔重申致力于在加拿大国家建设项目中进行“重大战略投资”。",
+          "url": "https://flash.jin10.com/detail/20260119060333422800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时44分 ~ 07时37分]"
         }
       ]
     }
