@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T14:00:30.284626+08:00",
-  "total_titles_processed": 846,
+  "generated_at": "2026-01-19T15:43:42.918397+08:00",
+  "total_titles_processed": 978,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,19 @@
           "time_info": "[00时51分 ~ 04时43分]"
         },
         {
+          "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
+          "url": "https://wallstreetcn.com/articles/3763537",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时21分 ~ 15时43分]"
+        },
+        {
           "title": "联合声明显示，卡塔尔重申致力于在加拿大国家建设项目中进行“重大战略投资”。",
           "url": "https://flash.jin10.com/detail/20260119060333422800",
           "source": "金十数据",
@@ -45,27 +58,16 @@
           "time_info": "[06时44分 ~ 07时37分]"
         },
         {
-          "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
-          "url": "https://wallstreetcn.com/articles/3763537",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时21分 ~ 14时00分]"
-        },
-        {
           "title": "国家统计局：2025年12月份各线城市商品住宅销售价格总体下降",
           "url": "https://m.thepaper.cn/newsDetail_forward_32413860",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 14时00分]"
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 15时43分]"
         },
         {
           "title": "广州今年推动100个亿元以上项目开工建设",
@@ -96,7 +98,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时00分"
         },
@@ -107,7 +109,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时00分"
         }
