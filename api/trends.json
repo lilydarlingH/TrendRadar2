@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T03:02:02.212150+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2026-01-20T03:35:52.273387+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 03时35分]"
         },
         {
           "title": "网络工程师被控盗窃赌博网站资金，两地警方先后立案扣押183个比特币",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 03时35分]"
         },
         {
           "title": "国家统计局：2025年12月份各线城市商品住宅销售价格总体下降",
@@ -36,11 +36,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 03时35分]"
         }
       ]
     }
