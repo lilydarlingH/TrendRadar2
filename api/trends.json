@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T06:49:31.599109+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-01-20T07:41:36.145863+08:00",
+  "total_titles_processed": 618,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2262709",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 06时49分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 07时41分]"
         },
         {
           "title": "网络工程师被控盗窃赌博网站资金，两地警方先后立案扣押183个比特币",
@@ -27,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 06时49分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 07时41分]"
         },
         {
           "title": "国家统计局：2025年12月份各线城市商品住宅销售价格总体下降",
@@ -40,8 +41,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 06时49分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 07时41分]"
         }
       ]
     }
