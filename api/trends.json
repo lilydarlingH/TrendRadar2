@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T23:02:30.456824+08:00",
-  "total_titles_processed": 1549,
+  "generated_at": "2026-01-19T23:55:09.663565+08:00",
+  "total_titles_processed": 1635,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时59分 ~ 23时02分]"
+          "appearance_count": 13,
+          "time_info": "[13时59分 ~ 23时55分]"
+        },
+        {
+          "title": "网络工程师被控盗窃赌博网站资金，两地警方先后立案扣押183个比特币",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414856",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时44分 ~ 23时55分]"
         },
         {
           "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
@@ -71,17 +84,16 @@
           "time_info": "[19时00分 ~ 19时44分]"
         },
         {
-          "title": "网络工程师被控盗窃赌博网站资金，两地警方先后立案扣押183个比特币",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32414856",
-          "source": "澎湃新闻",
+          "title": "最高检：会同证监会深化资本市场法治建设 从严惩治财务造假、操纵市场等证券犯罪",
+          "url": "https://www.cls.cn/detail/2262709",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            7,
+            9,
             6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时44分 ~ 23时02分]"
+          "time_info": "[23时00分 ~ 23时55分]"
         },
         {
           "title": "联合声明显示，卡塔尔重申致力于在加拿大国家建设项目中进行“重大战略投资”。",
@@ -94,17 +106,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时44分 ~ 07时37分]"
-        },
-        {
-          "title": "最高检：会同证监会深化资本市场法治建设 从严惩治财务造假、操纵市场等证券犯罪",
-          "url": "https://www.cls.cn/detail/2262709",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时00分 ~ 23时02分]"
         },
         {
           "title": "长源电力：拟以现金方式增加公司全资子公司青山公司资本金8842.2万元，并由青山公司设立的分公司为主体投资建设国能长源武汉江夏湖泗120MW渔光互补光伏发电项目（一期80MW），静态总投资2.92亿。",
@@ -147,7 +148,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时02分"
         },
