@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T12:14:04.126634+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2026-01-20T13:57:47.187641+08:00",
+  "total_titles_processed": 1064,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "5 家光伏龙头合计预亏超 289 亿元，光伏产业为什么大面积亏损？接下来可能如何发展？",
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时02分 ~ 12时14分]"
+          "appearance_count": 15,
+          "time_info": "[01时02分 ~ 13时57分]"
         },
         {
           "title": "国家统计局：2025年12月份各线城市商品住宅销售价格总体下降",
@@ -71,16 +71,28 @@
           "time_info": "[01时02分 ~ 09时29分]"
         },
         {
+          "title": "社交媒体平台X工程团队表示，已将新的X算法开源，该算法采用与Grok模型相同的Transformer架构。马斯克转发称，这个算法很笨拙，需要大幅改进，但可以实时、透明地看到改进过程。",
+          "url": "https://flash.jin10.com/detail/20260120133012767800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
           "title": "一人公司悄然兴起",
           "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E6%82%84%E7%84%B6%E5%85%B4%E8%B5%B7",
           "source": "百度热搜",
           "ranks": [
             29,
-            1
+            1,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 12时14分]"
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 13时57分]"
         },
         {
           "title": "A股房地产板块盘中再度拉升，大悦城、我爱我家封涨停，此前城投控股涨停，招商蛇口、滨江集团、保利发展、中华企业集体大涨。",
@@ -89,7 +101,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -100,7 +112,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         }
