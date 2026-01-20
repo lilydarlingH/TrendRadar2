@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T01:07:02.903428+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-21T04:39:00.772890+08:00",
+  "total_titles_processed": 436,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1996217130480341123",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时39分]"
         },
         {
           "title": "宁夏取消17人评标专家资格",
@@ -26,8 +27,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时39分]"
         },
         {
           "title": "巴勒斯坦总统府：强烈谴责以军强拆近东救济工程处设施",
@@ -36,7 +37,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
         },
@@ -47,7 +48,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
         }
