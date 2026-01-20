@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T06:45:05.666908+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2026-01-21T07:44:57.817192+08:00",
+  "total_titles_processed": 611,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             14,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 06时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时06分 ~ 07时44分]"
         },
         {
           "title": "宁夏取消17人评标专家资格",
