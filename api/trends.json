@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T15:07:59.002656+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-01-20T17:06:53.255277+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时02分 ~ 15时07分]"
+          "appearance_count": 17,
+          "time_info": "[01时02分 ~ 17时06分]"
         },
         {
           "title": "国家统计局：2025年12月份各线城市商品住宅销售价格总体下降",
@@ -79,11 +79,12 @@
             29,
             1,
             17,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时29分 ~ 15时07分]"
+          "appearance_count": 6,
+          "time_info": "[09时29分 ~ 17时06分]"
         },
         {
           "title": "【A股收盘：创业板指高开低走跌1.79%，化工、黄金股逆势大涨】市场全天高开低走，化工股逆势大涨，沧州大化、新乡化纤等十余股涨停。贵金属板块午后走强，湖南白银、招金黄金涨停。消费股表现活跃，汉商集团、上海九百等涨停。地产股迎来反弹，城投控股、大悦城等涨停。下跌方面，商业航天概念再度调整，航天动力等多股跌停；算力硬件股下挫，天通股份跌停。个股跌多涨少，沪深京三市超3100股飘绿，今日成交2.8万亿。截止收盘沪指跌0.01%，深成指跌0.97%，创业板指跌1.79%。",
@@ -92,7 +93,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -114,7 +115,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -125,7 +126,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -136,7 +137,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -158,7 +159,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
