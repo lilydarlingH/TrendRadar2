@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T22:02:27.149567+08:00",
-  "total_titles_processed": 1602,
+  "generated_at": "2026-01-21T23:05:30.769225+08:00",
+  "total_titles_processed": 1696,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "刘嘉玲梅苑豪宅中大面积「红配绿」极繁主义装修，为何她花千万把家装得「眼花缭乱」？",
@@ -47,6 +47,21 @@
           "time_info": "[01时06分 ~ 07时44分]"
         },
         {
+          "title": "土木工程招生减章",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B%E6%8B%9B%E7%94%9F%E5%87%8F%E7%AB%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            5,
+            6,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时57分 ~ 23时05分]"
+        },
+        {
           "title": "宁夏取消17人评标专家资格",
           "url": "https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E5%8F%96%E6%B6%8817%E4%BA%BA%E8%AF%84%E6%A0%87%E4%B8%93%E5%AE%B6%E8%B5%84%E6%A0%BC",
           "source": "百度热搜",
@@ -58,18 +73,17 @@
           "time_info": "[01时06分 ~ 06时45分]"
         },
         {
-          "title": "土木工程招生减章",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B%E6%8B%9B%E7%94%9F%E5%87%8F%E7%AB%A0",
-          "source": "bilibili 热搜",
+          "title": "“十五五”新开局，房地产高质量发展有哪些着力点？住建部部长倪虹发声",
+          "url": "https://www.cls.cn/detail/2265380",
+          "source": "财联社热门",
           "ranks": [
-            8,
+            13,
             5,
-            6,
-            25
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时57分 ~ 22时02分]"
+          "appearance_count": 4,
+          "time_info": "[19时49分 ~ 23时05分]"
         },
         {
           "title": "住建部部长：今年将着力稳定房地产市场，支持房企合理的融资需求",
@@ -81,18 +95,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
-        },
-        {
-          "title": "“十五五”新开局，房地产高质量发展有哪些着力点？住建部部长倪虹发声",
-          "url": "https://www.cls.cn/detail/2265380",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时49分 ~ 22时02分]"
         },
         {
           "title": "多国谴责以强拆近东救济工程处办公地",
@@ -111,11 +113,12 @@
           "url": "https://www.cls.cn/detail/2265410",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
+          "appearance_count": 3,
+          "time_info": "[22时01分 ~ 23时05分]"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：欧盟在格陵兰岛的首要行动举措将是大幅增加投资，以支持该地区的经济和基础设施建设。",
@@ -146,7 +149,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -179,9 +182,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
+        },
+        {
+          "title": "美国总统特朗普：房屋是为人民建造的，而不是为企业，美国不会成为租客之国。已经签署命令，严禁机构买家购买住房。",
+          "url": "https://flash.jin10.com/detail/20260121222922488800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "中国央行：加快建设人民币跨境支付体系，严格实施支付机构穿透式监管和支付业务功能监管",
@@ -201,7 +215,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -223,7 +237,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
