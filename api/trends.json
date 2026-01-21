@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T19:49:49.303910+08:00",
-  "total_titles_processed": 1461,
+  "generated_at": "2026-01-21T22:02:27.149567+08:00",
+  "total_titles_processed": 1602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "刘嘉玲梅苑豪宅中大面积「红配绿」极繁主义装修，为何她花千万把家装得「眼花缭乱」？",
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时07分 ~ 19时49分]"
+          "appearance_count": 11,
+          "time_info": "[12时07分 ~ 22时02分]"
         },
         {
           "title": "这些重大工程 正谋划推进",
@@ -63,11 +64,12 @@
           "ranks": [
             8,
             5,
-            6
+            6,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 17时04分]"
+          "appearance_count": 6,
+          "time_info": "[13时57分 ~ 22时02分]"
         },
         {
           "title": "住建部部长：今年将着力稳定房地产市场，支持房企合理的融资需求",
@@ -81,6 +83,18 @@
           "time_info": "12时08分"
         },
         {
+          "title": "“十五五”新开局，房地产高质量发展有哪些着力点？住建部部长倪虹发声",
+          "url": "https://www.cls.cn/detail/2265380",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时49分 ~ 22时02分]"
+        },
+        {
           "title": "多国谴责以强拆近东救济工程处办公地",
           "url": "https://www.toutiao.com/trending/7597369727270862889/",
           "source": "今日头条",
@@ -91,6 +105,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时57分 ~ 15时08分]"
+        },
+        {
+          "title": "央行：加快建设人民币跨境支付体系 推进跨境支付互联互通",
+          "url": "https://www.cls.cn/detail/2265410",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：欧盟在格陵兰岛的首要行动举措将是大幅增加投资，以支持该地区的经济和基础设施建设。",
@@ -115,6 +140,17 @@
           "time_info": "01时07分"
         },
         {
+          "title": "核电再迎民资 阿里系、雅戈尔等多家浙江民企入股金七门核电工程",
+          "url": "https://wallstreetcn.com/livenews/3041310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "美国特使维特科夫：过去几周，俄乌取得了很大进展。 将在周四的某个时候见到俄罗斯人。 土地交易仍是最大的症结所在。 认为普京会达成协议。 哈马斯“愿意”接受非军事化。 周四要见普京，俄罗斯方面要求会面。 格陵兰岛对美国具有重要的战略意义。 将会在达沃斯讨论格陵兰岛问题。 我将和库什纳一起去莫斯科，周四出发。 每一方都希望达成和平协议。",
           "url": "https://wallstreetcn.com/livenews/3041204",
           "source": "华尔街见闻-快讯",
@@ -124,17 +160,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
-        },
-        {
-          "title": "“十五五”新开局，房地产高质量发展有哪些着力点？住建部部长倪虹发声",
-          "url": "https://www.cls.cn/detail/2265380",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时49分"
         },
         {
           "title": "韩国总统李在明：如有必要，韩国可以考虑建设核电站。",
@@ -148,15 +173,37 @@
           "time_info": "12时08分"
         },
         {
+          "title": "标普：人工智能基础设施建设掩盖了一些风险。",
+          "url": "https://flash.jin10.com/detail/20260121212132839800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "中国央行：加快建设人民币跨境支付体系，严格实施支付机构穿透式监管和支付业务功能监管",
           "url": "https://wallstreetcn.com/livenews/3041244",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
+        },
+        {
+          "title": "OpenAI CFO：星际之门（Stargate）园区建设进度已过半。",
+          "url": "https://wallstreetcn.com/livenews/3041298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "美国商务部长卢特尼克：新房建造停滞，因为利率很高。",
@@ -170,13 +217,24 @@
           "time_info": "01时07分"
         },
         {
+          "title": "贝莱德首席运营官：人工智能交易彰显金融工程的“创造力”。",
+          "url": "https://flash.jin10.com/detail/20260121210255723800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "倪虹：有序搭建房地产开发、融资、销售等基础制度",
           "url": "https://wallstreetcn.com/livenews/3041222",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -187,7 +245,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -209,7 +267,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         }
