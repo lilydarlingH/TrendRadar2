@@ -1,289 +1,55 @@
 {
-  "generated_at": "2026-01-21T23:05:30.769225+08:00",
-  "total_titles_processed": 1696,
+  "generated_at": "2026-01-22T02:12:17.206503+08:00",
+  "total_titles_processed": 316,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 24,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "刘嘉玲梅苑豪宅中大面积「红配绿」极繁主义装修，为何她花千万把家装得「眼花缭乱」？",
-          "url": "https://www.zhihu.com/question/1995103702713852093",
-          "source": "知乎",
-          "ranks": [
-            7,
-            3,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时07分 ~ 22时02分]"
-        },
-        {
-          "title": "这些重大工程 正谋划推进",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E9%87%8D%E5%A4%A7%E5%B7%A5%E7%A8%8B+%E6%AD%A3%E8%B0%8B%E5%88%92%E6%8E%A8%E8%BF%9B",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时07分 ~ 15时08分]"
-        },
-        {
-          "title": "二楼外挂管道排粪水，物业锯断管道后喷溅至一楼，投诉 616 次都没结果，问题卡在哪？有更好的解决方式吗？",
-          "url": "https://www.zhihu.com/question/1996217130480341123",
-          "source": "知乎",
-          "ranks": [
-            7,
-            14,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时06分 ~ 07时44分]"
-        },
-        {
-          "title": "土木工程招生减章",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B%E6%8B%9B%E7%94%9F%E5%87%8F%E7%AB%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            5,
-            6,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时57分 ~ 23时05分]"
-        },
-        {
-          "title": "宁夏取消17人评标专家资格",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%81%E5%A4%8F%E5%8F%96%E6%B6%8817%E4%BA%BA%E8%AF%84%E6%A0%87%E4%B8%93%E5%AE%B6%E8%B5%84%E6%A0%BC",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 06时45分]"
-        },
         {
           "title": "“十五五”新开局，房地产高质量发展有哪些着力点？住建部部长倪虹发声",
           "url": "https://www.cls.cn/detail/2265380",
           "source": "财联社热门",
           "ranks": [
-            13,
-            5,
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时49分 ~ 23时05分]"
-        },
-        {
-          "title": "住建部部长：今年将着力稳定房地产市场，支持房企合理的融资需求",
-          "url": "https://wallstreetcn.com/livenews/3040937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "多国谴责以强拆近东救济工程处办公地",
-          "url": "https://www.toutiao.com/trending/7597369727270862889/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时57分 ~ 15时08分]"
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 02时12分]"
         },
         {
           "title": "央行：加快建设人民币跨境支付体系 推进跨境支付互联互通",
           "url": "https://www.cls.cn/detail/2265410",
           "source": "财联社热门",
           "ranks": [
-            13,
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时01分 ~ 23时05分]"
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 02时12分]"
         },
         {
-          "title": "欧盟委员会主席冯德莱恩：欧盟在格陵兰岛的首要行动举措将是大幅增加投资，以支持该地区的经济和基础设施建设。",
-          "url": "https://flash.jin10.com/detail/20260121162803003800",
-          "source": "金十数据",
+          "title": "土木工程招生减章",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B%E6%8B%9B%E7%94%9F%E5%87%8F%E7%AB%A0",
+          "source": "bilibili 热搜",
           "ranks": [
-            6
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时04分"
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 02时12分]"
         },
         {
-          "title": "巴勒斯坦总统府：强烈谴责以军强拆近东救济工程处设施",
-          "url": "https://wallstreetcn.com/livenews/3040606",
-          "source": "华尔街见闻-快讯",
+          "title": "刘嘉玲梅苑豪宅中大面积「红配绿」极繁主义装修，为何她花千万把家装得「眼花缭乱」？",
+          "url": "https://www.zhihu.com/question/1995103702713852093",
+          "source": "知乎",
           "ranks": [
-            6
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "核电再迎民资 阿里系、雅戈尔等多家浙江民企入股金七门核电工程",
-          "url": "https://wallstreetcn.com/livenews/3041310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "美国特使维特科夫：过去几周，俄乌取得了很大进展。 将在周四的某个时候见到俄罗斯人。 土地交易仍是最大的症结所在。 认为普京会达成协议。 哈马斯“愿意”接受非军事化。 周四要见普京，俄罗斯方面要求会面。 格陵兰岛对美国具有重要的战略意义。 将会在达沃斯讨论格陵兰岛问题。 我将和库什纳一起去莫斯科，周四出发。 每一方都希望达成和平协议。",
-          "url": "https://wallstreetcn.com/livenews/3041204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时03分"
-        },
-        {
-          "title": "韩国总统李在明：如有必要，韩国可以考虑建设核电站。",
-          "url": "https://wallstreetcn.com/livenews/3040924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "标普：人工智能基础设施建设掩盖了一些风险。",
-          "url": "https://flash.jin10.com/detail/20260121212132839800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "美国总统特朗普：房屋是为人民建造的，而不是为企业，美国不会成为租客之国。已经签署命令，严禁机构买家购买住房。",
-          "url": "https://flash.jin10.com/detail/20260121222922488800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时05分"
-        },
-        {
-          "title": "中国央行：加快建设人民币跨境支付体系，严格实施支付机构穿透式监管和支付业务功能监管",
-          "url": "https://wallstreetcn.com/livenews/3041244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时49分"
-        },
-        {
-          "title": "OpenAI CFO：星际之门（Stargate）园区建设进度已过半。",
-          "url": "https://wallstreetcn.com/livenews/3041298",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "美国商务部长卢特尼克：新房建造停滞，因为利率很高。",
-          "url": "https://flash.jin10.com/detail/20260121003716890800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "贝莱德首席运营官：人工智能交易彰显金融工程的“创造力”。",
-          "url": "https://flash.jin10.com/detail/20260121210255723800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "倪虹：有序搭建房地产开发、融资、销售等基础制度",
-          "url": "https://wallstreetcn.com/livenews/3041222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时49分"
-        },
-        {
-          "title": "住宅发生火灾 爆燃物险击中消防员",
-          "url": "https://www.toutiao.com/trending/7596719482047840297/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时49分"
-        },
-        {
-          "title": "工信部：将发布人形机器人与具身智能综合标准化体系建设指南",
-          "url": "https://wallstreetcn.com/livenews/3040894",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：人工智能是一场“平台变革”。 需要建设数万亿美元规模的基础设施项目。 人工智能产业正在创造就业机会。 GPU租赁服务的现货价格正在上涨。",
-          "url": "https://wallstreetcn.com/livenews/3041219",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时49分"
+          "appearance_count": 2,
+          "time_info": "[02时11分 ~ 02时12分]"
         }
       ]
     }
