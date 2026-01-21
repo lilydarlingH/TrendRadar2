@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T03:59:18.460935+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-01-22T05:03:36.726874+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时11分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[02时11分 ~ 05时03分]"
         },
         {
           "title": "央行：加快建设人民币跨境支付体系 推进跨境支付互联互通",
@@ -27,8 +27,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时11分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[02时11分 ~ 05时03分]"
+        },
+        {
+          "title": "土木工程招生减章",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B%E6%8B%9B%E7%94%9F%E5%87%8F%E7%AB%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时11分 ~ 05时03分]"
         },
         {
           "title": "刘嘉玲梅苑豪宅中大面积「红配绿」极繁主义装修，为何她花千万把家装得「眼花缭乱」？",
@@ -37,18 +50,6 @@
           "ranks": [
             19,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时11分 ~ 03时59分]"
-        },
-        {
-          "title": "土木工程招生减章",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B%E6%8B%9B%E7%94%9F%E5%87%8F%E7%AB%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            23
           ],
           "is_new": false,
           "appearance_count": 4,
