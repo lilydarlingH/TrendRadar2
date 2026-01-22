@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T19:48:13.915793+08:00",
-  "total_titles_processed": 1438,
+  "generated_at": "2026-01-22T22:02:29.674796+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "“十五五”新开局，房地产高质量发展有哪些着力点？住建部部长倪虹发声",
@@ -13,19 +13,6 @@
           "source": "财联社热门",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时11分 ~ 07时52分]"
-        },
-        {
-          "title": "央行：加快建设人民币跨境支付体系 推进跨境支付互联互通",
-          "url": "https://www.cls.cn/detail/2265410",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            10
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -40,8 +27,33 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时05分 ~ 22时02分]"
+        },
+        {
+          "title": "官方对预制菜国家标准征求意见",
+          "url": "https://www.douyin.com/hot/2376477",
+          "source": "抖音",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时47分 ~ 22时02分]"
+        },
+        {
+          "title": "央行：加快建设人民币跨境支付体系 推进跨境支付互联互通",
+          "url": "https://www.cls.cn/detail/2265410",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[15时05分 ~ 19时48分]"
+          "time_info": "[02时11分 ~ 07时52分]"
         },
         {
           "title": "土木工程招生减章",
@@ -59,6 +71,17 @@
           "time_info": "[02时11分 ~ 07时52分]"
         },
         {
+          "title": "事关预制菜国家标准 官方征求意见",
+          "url": "https://www.toutiao.com/trending/7598147229177613866/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
+        },
+        {
           "title": "房地产利好消息不断落地",
           "url": "https://www.baidu.com/s?wd=%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%88%A9%E5%A5%BD%E6%B6%88%E6%81%AF%E4%B8%8D%E6%96%AD%E8%90%BD%E5%9C%B0",
           "source": "百度热搜",
@@ -70,15 +93,26 @@
           "time_info": "[12时17分 ~ 12时18分]"
         },
         {
-          "title": "官方对预制菜国家标准征求意见",
-          "url": "https://www.douyin.com/hot/2376477",
-          "source": "抖音",
+          "title": "预制菜将有国家标准",
+          "url": "https://www.cls.cn/detail/2266827",
+          "source": "财联社热门",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时47分 ~ 19时48分]"
+          "time_info": "[22时01分 ~ 22时02分]"
+        },
+        {
+          "title": "对预制菜国家标准等公开征求意见",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AF%B9%E9%A2%84%E5%88%B6%E8%8F%9C%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E7%AD%89%E5%85%AC%E5%BC%80%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
         },
         {
           "title": "中方反对欧盟限制中企参与5G建设",
@@ -92,13 +126,24 @@
           "time_info": "[17时06分 ~ 17时07分]"
         },
         {
+          "title": "对预制菜国家标准等公开征求意见",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E9%A2%84%E5%88%B6%E8%8F%9C%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E7%AD%89%E5%85%AC%E5%BC%80%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
+        },
+        {
           "title": "国务院食安办等部门将对预制菜国家标准等公开征求意见",
           "url": "https://wallstreetcn.com/livenews/3042037",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -113,6 +158,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时11分 ~ 06时59分]"
+        },
+        {
+          "title": "预制菜将有国家标准",
+          "url": "https://www.baidu.com/s?wd=%E9%A2%84%E5%88%B6%E8%8F%9C%E5%B0%86%E6%9C%89%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时47分 ~ 22时02分]"
         },
         {
           "title": "农业农村部：加强农村宅基地规范管理",
@@ -150,17 +207,6 @@
           "time_info": "[13时57分 ~ 15时06分]"
         },
         {
-          "title": "预制菜将有国家标准",
-          "url": "https://www.baidu.com/s?wd=%E9%A2%84%E5%88%B6%E8%8F%9C%E5%B0%86%E6%9C%89%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时47分 ~ 19时48分]"
-        },
-        {
           "title": "宁波阿飞回应工地蹭饭乱象",
           "url": "https://www.toutiao.com/trending/7596997960728657958/",
           "source": "今日头条",
@@ -170,6 +216,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时05分 ~ 15时06分]"
+        },
+        {
+          "title": "国务院食安办等部门将对预制菜国家标准等公开征求意见",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32442186",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
         },
         {
           "title": "莱茵金属CEO：预计今年潜在订单额将达到800亿欧元。 莱茵金属公司将建造并运营42颗卫星。 欧洲在导弹防御系统方面的投入不够充足。 如果我们再采取更多行动，美国就无法对欧洲进行讹诈了。",
