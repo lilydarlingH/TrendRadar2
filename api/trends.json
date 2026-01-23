@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T17:03:20.427528+08:00",
-  "total_titles_processed": 1279,
+  "generated_at": "2026-01-23T17:57:05.892148+08:00",
+  "total_titles_processed": 1391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "预制菜将有国家标准",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时07分 ~ 07时42分]"
+        },
+        {
+          "title": "机器人、火箭、Robotaxi、光伏....马斯克在达沃斯“又画了很多饼”",
+          "url": "https://wallstreetcn.com/articles/3763964",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时00分 ~ 17时57分]"
         },
         {
           "title": "为什么第四代住宅普遍不被大家接受？",
@@ -35,16 +47,16 @@
           "time_info": "[01时07分 ~ 13时07分]"
         },
         {
-          "title": "机器人、火箭、Robotaxi、光伏....马斯克在达沃斯“又画了很多饼”",
-          "url": "https://wallstreetcn.com/articles/3763964",
-          "source": "华尔街见闻",
+          "title": "《酒泉市商业航天产业发展规划》正式发布 建设国家商业航天发射基地",
+          "url": "https://www.cls.cn/detail/2267558",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时00分 ~ 17时03分]"
+          "appearance_count": 4,
+          "time_info": "[17时02分 ~ 17时57分]"
         },
         {
           "title": "农业农村部：加强农村宅基地规范管理",
@@ -110,17 +122,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时07分 ~ 01时08分]"
-        },
-        {
-          "title": "《酒泉市商业航天产业发展规划》正式发布 建设国家商业航天发射基地",
-          "url": "https://www.cls.cn/detail/2267558",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 17时03分]"
         },
         {
           "title": "生态环境部部长黄润秋：大力发展新型储能，加快智能电网和微电网建设",
@@ -195,6 +196,28 @@
           "time_info": "[12时01分 ~ 13时07分]"
         },
         {
+          "title": "【每日收评】三大指数全线收红，两市成交额重回3万亿，商业航天与太空光伏概念双双爆发",
+          "url": "https://www.cls.cn/detail/2267863",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 17时57分]"
+        },
+        {
+          "title": "AH股震荡走高，商业航天、光伏大爆发，碳酸锂突破18万大关，沪银站上25000创历史新高",
+          "url": "https://wallstreetcn.com/articles/3763990",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 17时57分]"
+        },
+        {
           "title": "【午报】三大指数震荡分化涨跌不一，商业航天、太空光伏概念双双爆发，算力硬件股陷入调整",
           "url": "https://www.cls.cn/detail/2267486",
           "source": "财联社热门",
@@ -256,7 +279,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
