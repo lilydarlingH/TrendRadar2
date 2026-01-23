@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-23T17:57:05.892148+08:00",
-  "total_titles_processed": 1391,
+  "generated_at": "2026-01-23T18:57:18.503595+08:00",
+  "total_titles_processed": 1494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "机器人、火箭、Robotaxi、光伏....马斯克在达沃斯“又画了很多饼”",
+          "url": "https://wallstreetcn.com/articles/3763964",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时00分 ~ 18时57分]"
+        },
         {
           "title": "预制菜将有国家标准",
           "url": "https://www.cls.cn/detail/2266827",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时07分 ~ 07时42分]"
-        },
-        {
-          "title": "机器人、火箭、Robotaxi、光伏....马斯克在达沃斯“又画了很多饼”",
-          "url": "https://wallstreetcn.com/articles/3763964",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时00分 ~ 17时57分]"
         },
         {
           "title": "为什么第四代住宅普遍不被大家接受？",
@@ -55,8 +55,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时02分 ~ 17时57分]"
+          "appearance_count": 6,
+          "time_info": "[17时02分 ~ 18时57分]"
         },
         {
           "title": "农业农村部：加强农村宅基地规范管理",
@@ -146,6 +146,17 @@
           "time_info": "15时05分"
         },
         {
+          "title": "奥特维：近期资本市场对“太空光伏”等概念关注度较高，相关板块市场表现较为活跃。目前“太空光伏”尚处初期探索和研发阶段，产业化进程仍面临较大不确定性。产品研发到商业化应用仍需要一定周期，相关预期性利好对公司实际经营业绩的影响具有较大不确定性。",
+          "url": "https://wallstreetcn.com/livenews/3042870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
           "title": "我国将推进第二轮土地延包整省试点",
           "url": "https://www.toutiao.com/trending/7598062132965457983/",
           "source": "今日头条",
@@ -184,6 +195,17 @@
           "time_info": "[06时53分 ~ 12时01分]"
         },
         {
+          "title": "【每日收评】三大指数全线收红，两市成交额重回3万亿，商业航天与太空光伏概念双双爆发",
+          "url": "https://www.cls.cn/detail/2267863",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时56分 ~ 18时57分]"
+        },
+        {
           "title": "1月23日午间收评：北证50指数半日涨超3%，光伏、商业航天概念集体爆发",
           "url": "https://wallstreetcn.com/livenews/3042544",
           "source": "华尔街见闻-快讯",
@@ -196,17 +218,6 @@
           "time_info": "[12时01分 ~ 13时07分]"
         },
         {
-          "title": "【每日收评】三大指数全线收红，两市成交额重回3万亿，商业航天与太空光伏概念双双爆发",
-          "url": "https://www.cls.cn/detail/2267863",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 17时57分]"
-        },
-        {
           "title": "AH股震荡走高，商业航天、光伏大爆发，碳酸锂突破18万大关，沪银站上25000创历史新高",
           "url": "https://wallstreetcn.com/articles/3763990",
           "source": "华尔街见闻",
@@ -214,8 +225,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 17时57分]"
+          "appearance_count": 4,
+          "time_info": "[17时56分 ~ 18时57分]"
         },
         {
           "title": "【午报】三大指数震荡分化涨跌不一，商业航天、太空光伏概念双双爆发，算力硬件股陷入调整",
@@ -238,6 +249,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时07分 ~ 01时08分]"
+        },
+        {
+          "title": "太空光伏概念股集体狂欢，背后原因是什么？是万亿风口还是资本泡沫？太空光伏发电还有哪些未解决的技术难点？",
+          "url": "https://www.zhihu.com/question/1994784127807943840",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
         },
         {
           "title": "赵子龙祠墓修缮工程已完工",
@@ -295,6 +317,17 @@
           "time_info": "05时50分"
         },
         {
+          "title": "欧盟官员：印欧峰会将推动印欧走廊建设。",
+          "url": "https://flash.jin10.com/detail/20260123181635152800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
           "title": "光伏组件厂商报价不断破新高",
           "url": "https://wallstreetcn.com/livenews/3042642",
           "source": "华尔街见闻-快讯",
@@ -304,6 +337,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
+        },
+        {
+          "title": "紫金矿业：巨龙铜矿二期工程建成投产。在现有15万吨/日采选工程基础上，巨龙铜矿将新增生产规模20万吨/日，形成35万吨/日的总生产规模。",
+          "url": "https://wallstreetcn.com/livenews/3042844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         }
       ]
     }
