@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T04:52:20.515308+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-01-24T05:42:48.738699+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 04时52分]"
-        },
-        {
-          "title": "美国总统特朗普：加拿大反对在格陵兰岛建造“金穹”。",
-          "url": "https://wallstreetcn.com/livenews/3043110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 05时42分]"
         },
         {
           "title": "集体溢价大涨！光伏ETF成“香饽饽”，热门溢价品种梳理，这些方向也高热",
@@ -38,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 04时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 05时42分]"
         },
         {
           "title": "AH股震荡走高，商业航天、光伏大爆发，碳酸锂突破18万大关，沪银站上25000创历史新高",
@@ -49,8 +38,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 04时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 05时42分]"
         },
         {
           "title": "26岁工程师熟睡中突然大叫后猝死",
@@ -60,8 +49,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 04时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 05时42分]"
         },
         {
           "title": "26岁外派工程师家中熟睡中猝死",
@@ -71,11 +60,12 @@
             13,
             15,
             18,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 04时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 05时42分]"
         },
         {
           "title": "26岁工程师家里熟睡中猝死",
@@ -83,11 +73,12 @@
           "source": "微博",
           "ranks": [
             16,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 04时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 05时42分]"
         },
         {
           "title": "普京：俄罗斯正加强核动力破冰船的建设工作",
@@ -98,8 +89,20 @@
             24
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时04分 ~ 05时42分]"
+        },
+        {
+          "title": "美国总统特朗普：加拿大反对在格陵兰岛建造“金穹”。",
+          "url": "https://wallstreetcn.com/livenews/3043110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时04分 ~ 04时52分]"
+          "time_info": "[04时52分 ~ 05时42分]"
         },
         {
           "title": "普京：俄罗斯正加强核动力破冰船的建设工作",
