@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T13:01:30.527359+08:00",
-  "total_titles_processed": 823,
+  "generated_at": "2026-01-24T13:47:28.352273+08:00",
+  "total_titles_processed": 874,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "机器人、火箭、Robotaxi、光伏....马斯克在达沃斯“又画了很多饼”",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时04分 ~ 13时01分]"
+          "appearance_count": 13,
+          "time_info": "[01时04分 ~ 13时47分]"
         },
         {
           "title": "集体溢价大涨！光伏ETF成“香饽饽”，热门溢价品种梳理，这些方向也高热",
@@ -86,6 +86,17 @@
           "time_info": "[01时04分 ~ 07时42分]"
         },
         {
+          "title": "如何看待邯郸学院高层次人才招聘四名韩国和马来西亚低排名大学毕业的留学博士，学校回应「只是凑巧」？",
+          "url": "https://www.zhihu.com/question/1997198742508573342",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 13时47分]"
+        },
+        {
           "title": "普京：俄罗斯正加强核动力破冰船的建设工作",
           "url": "https://flash.jin10.com/detail/20260124022512842800",
           "source": "金十数据",
@@ -96,17 +107,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时04分 ~ 07时42分]"
-        },
-        {
-          "title": "如何看待邯郸学院高层次人才招聘四名韩国和马来西亚低排名大学毕业的留学博士，学校回应「只是凑巧」？",
-          "url": "https://www.zhihu.com/question/1997198742508573342",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 13时01分]"
         },
         {
           "title": "美国总统特朗普：加拿大反对在格陵兰岛建造“金穹”。",
@@ -125,11 +125,12 @@
           "url": "https://wallstreetcn.com/premium/articles/3764000?layout=wscn-layout",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 13时01分]"
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 13时47分]"
         },
         {
           "title": "普京：俄罗斯正加强核动力破冰船的建设工作",
@@ -142,6 +143,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时04分 ~ 04时52分]"
+        },
+        {
+          "title": "猝死工程师月收入7000元左右",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8C%9D%E6%AD%BB%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%9C%88%E6%94%B6%E5%85%A57000%E5%85%83%E5%B7%A6%E5%8F%B3%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "马来西亚工程公司Solarvest Holdings Bhd.（SOLAR.MK）收跌4.27%，报2.69，今年迄今累计下跌18.48%。 Maybank分析师Thong Kei Jun警告称，白银价格飙涨恐怕会推高该公司的光伏面板成本。",
