@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T18:50:10.522179+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2026-01-25T19:34:03.255360+08:00",
+  "total_titles_processed": 1065,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时52分 ~ 18时50分]"
+          "appearance_count": 22,
+          "time_info": "[00时52分 ~ 19时34分]"
         },
         {
           "title": "北京：支持多源卫星大数据平台建设",
@@ -33,6 +33,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时52分 ~ 07时37分]"
+        },
+        {
+          "title": "当中式建筑换上雪景皮肤",
+          "url": "https://www.douyin.com/hot/2378955",
+          "source": "抖音",
+          "ranks": [
+            8,
+            14,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时55分 ~ 19时34分]"
         },
         {
           "title": "江苏一工程因挖到7000年遗址延期",
@@ -84,17 +98,21 @@
           "time_info": "[00时53分 ~ 07时37分]"
         },
         {
-          "title": "当中式建筑换上雪景皮肤",
-          "url": "https://www.douyin.com/hot/2378955",
-          "source": "抖音",
+          "title": "北京市将全面实施“人工智能+”行动，建设国家人工智能应用中试基地",
+          "url": "https://wallstreetcn.com/livenews/3043343",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
+            10,
+            13,
             14,
-            18
+            19,
+            20,
+            22,
+            28
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[13时55分 ~ 18时50分]"
+          "time_info": "[12时23分 ~ 19时34分]"
         },
         {
           "title": "阿联酋政府发言人：由阿布扎比主办的俄乌会谈包括两国官员之间的“直接接触”。会谈在“建设性和积极的氛围”中进行。",
@@ -117,22 +135,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时53分 ~ 07时37分]"
-        },
-        {
-          "title": "北京市将全面实施“人工智能+”行动，建设国家人工智能应用中试基地",
-          "url": "https://wallstreetcn.com/livenews/3043343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            13,
-            14,
-            19,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时23分 ~ 18时50分]"
         },
         {
           "title": "阿联酋政府发言人表示，由阿布扎比主办的俄罗斯与乌克兰之间的会谈包含两国官员的“直接接触”。会谈是在“建设性和积极的氛围”中进行的。会谈聚焦于美国所提议和平框架的“未决要素”。",
@@ -186,6 +188,18 @@
           "time_info": "[00时52分 ~ 07时37分]"
         },
         {
+          "title": "中国为何加速建造052D而非055大驱",
+          "url": "https://www.toutiao.com/trending/7599217801131200050/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时49分 ~ 19时34分]"
+        },
+        {
           "title": "泽连斯基称乌美俄三方会谈“有建设性”",
           "url": "https://wallstreetcn.com/livenews/3043310",
           "source": "华尔街见闻-快讯",
@@ -196,17 +210,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时43分 ~ 07时37分]"
-        },
-        {
-          "title": "中国为何加速建造052D而非055大驱",
-          "url": "https://www.toutiao.com/trending/7599217801131200050/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 18时50分]"
         }
       ]
     }
