@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T04:48:16.131155+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-01-26T05:37:57.795930+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "多家光伏龙头锚定2026年业绩反转 天合光能“立军令状”目标盈利2亿",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时37分]"
         },
         {
           "title": "当中式建筑换上雪景皮肤",
@@ -24,11 +24,12 @@
           "source": "抖音",
           "ranks": [
             5,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时37分]"
         },
         {
           "title": "美国总统特使威特科夫：美国总统特朗普与以色列总理内塔尼亚胡就加沙举行的会谈富有建设性且积极。",
@@ -36,11 +37,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时37分]"
         },
         {
           "title": "圣城地产“解禁” 沙特房产股开启狂飙模式",
@@ -48,11 +50,23 @@
           "source": "金十数据",
           "ranks": [
             10,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 05时37分]"
+        },
+        {
+          "title": "特朗普称现在阻止白宫宴会厅建设“为时已晚”",
+          "url": "https://flash.jin10.com/detail/20260126050304284800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         }
       ]
     }
