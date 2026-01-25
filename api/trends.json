@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T15:41:26.257987+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2026-01-25T16:55:47.058248+08:00",
+  "total_titles_processed": 896,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时52分 ~ 15时41分]"
+          "appearance_count": 17,
+          "time_info": "[00时52分 ~ 16时55分]"
         },
         {
           "title": "北京：支持多源卫星大数据平台建设",
@@ -164,8 +164,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时55分 ~ 15时41分]"
+          "appearance_count": 5,
+          "time_info": "[13时55分 ~ 16时55分]"
+        },
+        {
+          "title": "北京市将全面实施“人工智能+”行动，建设国家人工智能应用中试基地",
+          "url": "https://wallstreetcn.com/livenews/3043343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            13,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时23分 ~ 16时55分]"
         },
         {
           "title": "泽连斯基称乌美俄三方会谈“有建设性”",
@@ -178,19 +192,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时43分 ~ 07时37分]"
-        },
-        {
-          "title": "北京市将全面实施“人工智能+”行动，建设国家人工智能应用中试基地",
-          "url": "https://wallstreetcn.com/livenews/3043343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时23分 ~ 15时41分]"
         }
       ]
     }
