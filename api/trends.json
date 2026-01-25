@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T22:44:26.198881+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2026-01-25T23:41:34.143675+08:00",
+  "total_titles_processed": 1279,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时52分 ~ 22时44分]"
+          "appearance_count": 26,
+          "time_info": "[00时52分 ~ 23时41分]"
         },
         {
           "title": "当中式建筑换上雪景皮肤",
@@ -28,11 +28,12 @@
             18,
             19,
             10,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时55分 ~ 22时44分]"
+          "appearance_count": 14,
+          "time_info": "[13时55分 ~ 23时41分]"
         },
         {
           "title": "北京：支持多源卫星大数据平台建设",
@@ -175,17 +176,6 @@
           "time_info": "[00时53分 ~ 06时43分]"
         },
         {
-          "title": "美国总统特使威特科夫：美国总统特朗普与以色列总理内塔尼亚胡就加沙举行的会谈富有建设性且积极。",
-          "url": "https://flash.jin10.com/detail/20260125220223986800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
           "title": "江苏一工程延期：挖到7000年遗址",
           "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%B7%A5%E7%A8%8B%E5%BB%B6%E6%9C%9F%EF%BC%9A%E6%8C%96%E5%88%B07000%E5%B9%B4%E9%81%97%E5%9D%80",
           "source": "百度热搜",
@@ -201,15 +191,28 @@
           "time_info": "[00时52分 ~ 07时37分]"
         },
         {
+          "title": "美国总统特使威特科夫：美国总统特朗普与以色列总理内塔尼亚胡就加沙举行的会谈富有建设性且积极。",
+          "url": "https://flash.jin10.com/detail/20260125220223986800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 23时41分]"
+        },
+        {
           "title": "圣城地产“解禁” 沙特房产股开启狂飙模式",
           "url": "https://flash.jin10.com/detail/20260125215522104800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 23时41分]"
         },
         {
           "title": "中国为何加速建造052D而非055大驱",
