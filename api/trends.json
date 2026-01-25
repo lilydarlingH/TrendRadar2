@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T16:55:47.058248+08:00",
-  "total_titles_processed": 896,
+  "generated_at": "2026-01-25T17:43:29.089150+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时52分 ~ 16时55分]"
+          "appearance_count": 18,
+          "time_info": "[00时52分 ~ 17时43分]"
         },
         {
           "title": "北京：支持多源卫星大数据平台建设",
@@ -142,6 +142,33 @@
           "time_info": "[00时53分 ~ 06时43分]"
         },
         {
+          "title": "当中式建筑换上雪景皮肤",
+          "url": "https://www.douyin.com/hot/2378955",
+          "source": "抖音",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时55分 ~ 17时43分]"
+        },
+        {
+          "title": "北京市将全面实施“人工智能+”行动，建设国家人工智能应用中试基地",
+          "url": "https://wallstreetcn.com/livenews/3043343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            13,
+            14,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时23分 ~ 17时43分]"
+        },
+        {
           "title": "江苏一工程延期：挖到7000年遗址",
           "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%B7%A5%E7%A8%8B%E5%BB%B6%E6%9C%9F%EF%BC%9A%E6%8C%96%E5%88%B07000%E5%B9%B4%E9%81%97%E5%9D%80",
           "source": "百度热搜",
@@ -155,31 +182,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时52分 ~ 07时37分]"
-        },
-        {
-          "title": "当中式建筑换上雪景皮肤",
-          "url": "https://www.douyin.com/hot/2378955",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时55分 ~ 16时55分]"
-        },
-        {
-          "title": "北京市将全面实施“人工智能+”行动，建设国家人工智能应用中试基地",
-          "url": "https://wallstreetcn.com/livenews/3043343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            13,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时23分 ~ 16时55分]"
         },
         {
           "title": "泽连斯基称乌美俄三方会谈“有建设性”",
