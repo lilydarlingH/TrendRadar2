@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T19:34:03.255360+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2026-01-25T21:47:18.753057+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时52分 ~ 19时34分]"
+          "appearance_count": 24,
+          "time_info": "[00时52分 ~ 21时47分]"
         },
         {
           "title": "北京：支持多源卫星大数据平台建设",
@@ -42,11 +42,12 @@
             8,
             14,
             18,
-            19
+            19,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时55分 ~ 19时34分]"
+          "appearance_count": 12,
+          "time_info": "[13时55分 ~ 21时47分]"
         },
         {
           "title": "江苏一工程因挖到7000年遗址延期",
