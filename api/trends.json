@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T07:40:42.266104+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-01-26T12:38:55.055194+08:00",
+  "total_titles_processed": 714,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "多家光伏龙头锚定2026年业绩反转 天合光能“立军令状”目标盈利2亿",
@@ -59,6 +59,17 @@
           "time_info": "[00时54分 ~ 05时37分]"
         },
         {
+          "title": "商业航天抢滩2026：蓝箭航天、星河动力、中科宇航三大总工程师同台披露最新时间表",
+          "url": "https://www.cls.cn/detail/2268972",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
           "title": "特朗普称现在阻止白宫宴会厅建设“为时已晚”",
           "url": "https://flash.jin10.com/detail/20260126050304284800",
           "source": "金十数据",
@@ -77,7 +88,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -88,7 +99,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -99,7 +110,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -110,7 +121,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         }
