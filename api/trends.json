@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T07:46:13.170624+08:00",
-  "total_titles_processed": 629,
+  "generated_at": "2026-01-27T12:16:12.799456+08:00",
+  "total_titles_processed": 831,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "巴西Kepler Weber公司表示将在委内瑞拉建设玉米储存和加工设施。",
@@ -30,6 +30,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时08分 ~ 03时06分]"
+        },
+        {
+          "title": "1月27日投资避雷针：太空光伏人气股提示风险 预计25年亏损23-29亿且光伏产品未直接供货卫星公司",
+          "url": "https://www.cls.cn/detail/2270555",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 12时16分]"
+        },
+        {
+          "title": "建议广东建设中国预制菜第一省",
+          "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%B9%BF%E4%B8%9C%E5%BB%BA%E8%AE%BE%E4%B8%AD%E5%9B%BD%E9%A2%84%E5%88%B6%E8%8F%9C%E7%AC%AC%E4%B8%80%E7%9C%81",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 12时16分]"
         },
         {
           "title": "我国民族医药领域首部疾病分类国家标准发布",
