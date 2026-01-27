@@ -1,177 +1,55 @@
 {
-  "generated_at": "2026-01-27T23:06:22.079211+08:00",
-  "total_titles_processed": 1711,
+  "generated_at": "2026-01-28T01:05:26.641333+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 14,
+      "match_count": 4,
       "titles": [
         {
-          "title": "1月27日投资避雷针：太空光伏人气股提示风险 预计25年亏损23-29亿且光伏产品未直接供货卫星公司",
-          "url": "https://www.cls.cn/detail/2270555",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时15分 ~ 15时06分]"
-        },
-        {
-          "title": "【每日收评】三大指数探底回升集体收红，半导体芯片板块全线爆发，太空光伏概念午后反弹",
-          "url": "https://www.cls.cn/detail/2271239",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            11,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时05分 ~ 23时06分]"
-        },
-        {
-          "title": "建议广东建设中国预制菜第一省",
-          "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%B9%BF%E4%B8%9C%E5%BB%BA%E8%AE%BE%E4%B8%AD%E5%9B%BD%E9%A2%84%E5%88%B6%E8%8F%9C%E7%AC%AC%E4%B8%80%E7%9C%81",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时15分 ~ 15时06分]"
-        },
-        {
-          "title": "“上海市智算产业高质量发展倡议”启动 推进新一代智算中心建设",
-          "url": "https://wallstreetcn.com/livenews/3044519",
+          "title": "明晟公司MSCI北欧国家指数涨0.6%，连续第六个交易日走高，报395.00点，至少创一年来收盘新高。 在十个板块中，北欧金融板块涨幅最大。 建筑与采矿机械供应商Epiroc AB（安百拓集团）涨4.1%，在一众北欧个股里领跑。",
+          "url": "https://wallstreetcn.com/livenews/3044893",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时06分"
+          "time_info": "01时05分"
         },
         {
-          "title": "大外交｜“一切都与土地有关”：俄美乌三方首次会谈难解“一个问题”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466151",
-          "source": "澎湃新闻",
+          "title": "【每日收评】三大指数探底回升集体收红，半导体芯片板块全线爆发，太空光伏概念午后反弹",
+          "url": "https://www.cls.cn/detail/2271239",
+          "source": "财联社热门",
           "ranks": [
-            19,
-            20
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时05分 ~ 19时49分]"
-        },
-        {
-          "title": "巴西Kepler Weber公司表示将在委内瑞拉建设玉米储存和加工设施。",
-          "url": "https://flash.jin10.com/detail/20260127052116020800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时51分 ~ 06时52分]"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数涨0.2%，连续第五个交易日走高，报392.95点，创2025年2月26日以来收盘新高。 在十个板块中，北欧工业板块涨幅最大。 建筑与采矿机械供应商Epiroc AB（安百拓集团）涨7.5%，在一众北欧个股里领跑。",
-          "url": "https://wallstreetcn.com/livenews/3044122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 03时06分]"
-        },
-        {
-          "title": "创业板指涨超1%，早盘一度跌超1%，沪指涨0.29%，深成指涨0.09%，半导体芯片、培育钻石、商业航天、光伏设备等方向领涨，沪深京三市上涨个股超1800只。",
-          "url": "https://wallstreetcn.com/livenews/3044479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 15时06分]"
+          "appearance_count": 1,
+          "time_info": "01时05分"
         },
         {
           "title": "等到合肥新桥机场 T3 彻底完工，建筑面积达到 80 万方，是否可以比肩 70 万方的成都天府机场?",
           "url": "https://www.zhihu.com/question/620720646",
           "source": "知乎",
           "ranks": [
-            17,
-            11
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时03分 ~ 23时06分]"
+          "appearance_count": 1,
+          "time_info": "01时05分"
         },
         {
-          "title": "上海将适度超前建设一批智算基础设施，加快沪产芯片规模化部署",
-          "url": "https://wallstreetcn.com/livenews/3044750",
+          "title": "美国农业部（USDA）更新政策，加速联邦石油与天然气（土地/水域）的租赁（审批）。",
+          "url": "https://wallstreetcn.com/livenews/3044878",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时49分"
-        },
-        {
-          "title": "A股光伏设备板块午后回暖，拉普拉斯涨超15%，中来股份涨超14%，赛伍技术、正泰电源、帝科股份、迈为股份纷纷上扬。",
-          "url": "https://wallstreetcn.com/livenews/3044457",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "印度总理：正致力于建造用于运输液化天然气的船舶。",
-          "url": "https://flash.jin10.com/detail/20260127130535956800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "李在明强调需改变资产过度集中于房地产现状",
-          "url": "https://flash.jin10.com/detail/20260127141445569800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "我国民族医药领域首部疾病分类国家标准发布",
-          "url": "https://wallstreetcn.com/livenews/3044085",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "time_info": "01时05分"
         }
       ]
     }
