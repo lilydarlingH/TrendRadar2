@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T17:06:01.577963+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2026-01-27T19:02:35.311205+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
@@ -84,22 +84,24 @@
           "url": "https://www.cls.cn/detail/2271239",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时05分 ~ 17时06分]"
+          "appearance_count": 3,
+          "time_info": "[17时05分 ~ 19时02分]"
         },
         {
           "title": "大外交｜“一切都与土地有关”：俄美乌三方首次会谈难解“一个问题”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32466151",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时05分 ~ 17时06分]"
+          "appearance_count": 3,
+          "time_info": "[17时05分 ~ 19时02分]"
         },
         {
           "title": "A股光伏设备板块午后回暖，拉普拉斯涨超15%，中来股份涨超14%，赛伍技术、正泰电源、帝科股份、迈为股份纷纷上扬。",
