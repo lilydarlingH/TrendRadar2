@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T19:02:52.867863+08:00",
-  "total_titles_processed": 1384,
+  "generated_at": "2026-01-28T19:48:01.395061+08:00",
+  "total_titles_processed": 1474,
   "failed_sources": [],
   "trends": [
     {
@@ -66,6 +66,18 @@
           "time_info": "[12时13分 ~ 17时06分]"
         },
         {
+          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
+          "url": "https://www.cls.cn/detail/2272316",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时06分 ~ 19时48分]"
+        },
+        {
           "title": "【每日收评】三大指数探底回升集体收红，半导体芯片板块全线爆发，太空光伏概念午后反弹",
           "url": "https://www.cls.cn/detail/2271239",
           "source": "财联社热门",
@@ -87,18 +99,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时57分 ~ 15时06分]"
-        },
-        {
-          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
-          "url": "https://www.cls.cn/detail/2272316",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时06分 ~ 19时02分]"
         },
         {
           "title": "生态环境部：加大对城市区域性环保建设项目的金融支持",
@@ -151,7 +151,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
