@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-01-29T03:07:19.685400+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-01-29T05:05:16.162314+08:00",
+  "total_titles_processed": 485,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "标普500指数初步大致收平，能源板块涨0.8%，科技板块涨0.6%，保健板块跌0.7%，房地产板块跌0.8%。 纳斯达克100指数初步收涨0.4%，成分股中，希捷科技初步收涨超19%，英特尔涨10.9%，西部数据涨10%，德州仪器、微芯科技、MPWR、美光科技、恩智浦至少涨超4.6%，拼多多则跌超3%，Arm控股跌4.4%，Palantir跌4.8%，AXON跌9.5%。 联合健康收盘初步反弹4%，英伟达、强生、SHW涨超1%，领跑道指成分股，波音则跌0.9%，家得宝跌1.3%，霍尼韦尔跌1.8%，安进跌2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3045825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
