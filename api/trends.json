@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T12:57:10.559525+08:00",
-  "total_titles_processed": 910,
+  "generated_at": "2026-01-29T15:33:01.087056+08:00",
+  "total_titles_processed": 1062,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 12时57分]"
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 15时33分]"
         },
         {
           "title": "OpenAI至少从编码初创公司Cline招聘了七名员工。",
@@ -59,7 +60,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
         }
