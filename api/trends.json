@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-29T18:06:49.404036+08:00",
-  "total_titles_processed": 1225,
+  "generated_at": "2026-01-29T20:00:18.627793+08:00",
+  "total_titles_processed": 1364,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "洛克希德马丁将在美国阿肯色州启动新的弹药加速中心建设。",
+          "url": "https://flash.jin10.com/detail/20260129194718555800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时00分"
+        },
         {
           "title": "工信部召开光伏行业企业家座谈会，要求坚决破除行业“内卷式”竞争",
           "url": "https://wallstreetcn.com/livenews/3045906",
@@ -43,6 +54,41 @@
           "time_info": "[12时56分 ~ 15时33分]"
         },
         {
+          "title": "【每日收评】上证50涨超1.5%，资源类周期股延续强势，白酒、地产板块迎暴力反弹",
+          "url": "https://www.cls.cn/detail/2274164",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时06分 ~ 20时00分]"
+        },
+        {
+          "title": "家长网购58元周岁宴装饰用完就退",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E7%BD%91%E8%B4%AD58%E5%85%83%E5%91%A8%E5%B2%81%E5%AE%B4%E8%A3%85%E9%A5%B0%E7%94%A8%E5%AE%8C%E5%B0%B1%E9%80%80%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 20时00分]"
+        },
+        {
+          "title": "沪指震荡收涨，白酒爆发、贵州茅台涨逾8%，地产大涨，恒科指跌1%，芯片调整，沪金银铜飙升",
+          "url": "https://wallstreetcn.com/articles/3764424",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时00分"
+        },
+        {
           "title": "OpenAI至少从编码初创公司Cline招聘了七名员工。",
           "url": "https://flash.jin10.com/detail/20260129071311535800",
           "source": "金十数据",
@@ -52,17 +98,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
-        },
-        {
-          "title": "【每日收评】上证50涨超1.5%，资源类周期股延续强势，白酒、地产板块迎暴力反弹",
-          "url": "https://www.cls.cn/detail/2274164",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时06分"
         },
         {
           "title": "港股地产股大涨，融创中国涨超30%，中国奥园涨26%、世茂集团、碧桂园、佳兆业集团均涨超20%，正荣地产、旭辉控股集团、富力地产涨超15%。",
@@ -82,7 +117,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         }
