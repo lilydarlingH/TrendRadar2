@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T22:49:04.111196+08:00",
-  "total_titles_processed": 1938,
+  "generated_at": "2026-01-30T23:38:34.791656+08:00",
+  "total_titles_processed": 2013,
   "failed_sources": [],
   "trends": [
     {
@@ -141,11 +141,12 @@
             18,
             16,
             15,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时32分 ~ 22时49分]"
+          "appearance_count": 8,
+          "time_info": "[19时32分 ~ 23时38分]"
         },
         {
           "title": "合盛硅业：预计2025年净亏损28亿元-33亿元，与上年同期相比，将出现亏损；本报告期业绩亏损的主要原因集中于光伏业务板块。",
