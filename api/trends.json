@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T13:02:43.291131+08:00",
-  "total_titles_processed": 891,
+  "generated_at": "2026-01-30T13:58:35.844700+08:00",
+  "total_titles_processed": 980,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时07分 ~ 13时02分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 13时58分]"
         },
         {
           "title": "学校完工多年施工方称被拖欠工程款超2000万，沈阳浑南区教育局称已向财政部⻔请款",
@@ -28,11 +28,12 @@
           "ranks": [
             19,
             20,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时07分 ~ 13时02分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 13时58分]"
         },
         {
           "title": "家长网购58元周岁宴装饰用完就退",
@@ -79,11 +80,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E7%AC%AC%E5%9B%9B%E8%89%98%E8%88%AA%E6%AF%8D%E5%BB%BA%E9%80%A0%E8%BF%9B%E5%B1%95",
           "source": "百度热搜",
           "ranks": [
-            1
+            1,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 13时58分]"
         },
         {
           "title": "国防部回应第四艘航母建造进展",
@@ -91,11 +93,12 @@
           "source": "今日头条",
           "ranks": [
             8,
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时55分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[07时55分 ~ 13时58分]"
         },
         {
           "title": "Sandisk第二财季营收30.3亿美元，增幅31%，高于公司原来所给指引区间。 数据中心营收增长64%，受AI基础设施建设方等强劲应用的驱动。 预计第三财季营收44亿-48亿美元。 Sandisk美股盘后涨13%。",
@@ -137,7 +140,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
