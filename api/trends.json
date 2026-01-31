@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-01-31T22:28:16.000203+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2026-01-31T23:27:41.555066+08:00",
+  "total_titles_processed": 1507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
       "match_count": 18,
       "titles": [
+        {
+          "title": "山西一县委原书记搞政绩工程被双开",
+          "url": "https://www.toutiao.com/trending/7601101630980866089/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            8,
+            7,
+            14,
+            17,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[12时27分 ~ 23时27分]"
+        },
         {
           "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
           "url": "https://m.thepaper.cn/newsDetail_forward_32498277",
@@ -21,21 +37,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时43分 ~ 15时32分]"
-        },
-        {
-          "title": "山西一县委原书记搞政绩工程被双开",
-          "url": "https://www.toutiao.com/trending/7601101630980866089/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            8,
-            7,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时27分 ~ 22时28分]"
         },
         {
           "title": "云南一事业单位招聘被质疑萝卜岗",
@@ -62,8 +63,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时04分 ~ 22时28分]"
+          "appearance_count": 18,
+          "time_info": "[10时04分 ~ 23时27分]"
         },
         {
           "title": "习近平：走好中国特色金融发展之路，建设金融强国",
@@ -75,8 +76,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时28分 ~ 22时28分]"
+          "appearance_count": 9,
+          "time_info": "[18时28分 ~ 23时27分]"
+        },
+        {
+          "title": "舟山「守岛人」招聘意外火爆，没有工资一个月才能下岛一次，为什么这么多人应聘？有哪些吸引人的地方？",
+          "url": "https://www.zhihu.com/question/2000932096663840747",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时53分 ~ 23时27分]"
         },
         {
           "title": "国防部回应第四艘航母建造进展",
@@ -124,22 +137,12 @@
           "url": "https://wallstreetcn.com/livenews/3047707",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "舟山「守岛人」招聘意外火爆，没有工资一个月才能下岛一次，为什么这么多人应聘？有哪些吸引人的地方？",
-          "url": "https://www.zhihu.com/question/2000932096663840747",
-          "source": "知乎",
-          "ranks": [
-            7
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时53分 ~ 22时28分]"
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 23时27分]"
         },
         {
           "title": "美国国家公路交通安全管理局：丰田汽车工程与制造公司召回161,268辆美国车辆，因为后视摄像头图像无法显示会导致驾驶员对车辆后方视野受限，从而增加发生碰撞的风险。",
@@ -215,11 +218,12 @@
           "ranks": [
             10,
             12,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时53分 ~ 22时28分]"
+          "appearance_count": 4,
+          "time_info": "[20时53分 ~ 23时27分]"
         },
         {
           "title": "报道：Peloton裁员11%，涉及工程师团队",
