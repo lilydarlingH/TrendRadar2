@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T14:43:23.414193+08:00",
-  "total_titles_processed": 980,
+  "generated_at": "2026-01-31T15:32:57.600979+08:00",
+  "total_titles_processed": 1030,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时43分 ~ 14时43分]"
+          "appearance_count": 18,
+          "time_info": "[00时43分 ~ 15时32分]"
         },
         {
           "title": "云南一事业单位招聘被质疑萝卜岗",
@@ -57,11 +57,12 @@
           "url": "https://wallstreetcn.com/livenews/3047647",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时43分 ~ 15时32分]"
         },
         {
           "title": "甘肃一拆迁工地挖出银元？假的",
@@ -71,8 +72,19 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时04分 ~ 15时32分]"
+        },
+        {
+          "title": "山西一县委原书记搞政绩工程被双开",
+          "url": "https://www.toutiao.com/trending/7601101630980866089/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时04分 ~ 14时43分]"
+          "time_info": "[12时27分 ~ 15时32分]"
         },
         {
           "title": "舟山公司招聘守岛人一个月不能下岛",
@@ -100,27 +112,17 @@
           "time_info": "[01时37分 ~ 02时46分]"
         },
         {
-          "title": "山西一县委原书记搞政绩工程被双开",
-          "url": "https://www.toutiao.com/trending/7601101630980866089/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 14时43分]"
-        },
-        {
           "title": "招聘守岛人不限男女但不能一男一女",
           "url": "https://s.weibo.com/weibo?q=%23%E6%8B%9B%E8%81%98%E5%AE%88%E5%B2%9B%E4%BA%BA%E4%B8%8D%E9%99%90%E7%94%B7%E5%A5%B3%E4%BD%86%E4%B8%8D%E8%83%BD%E4%B8%80%E7%94%B7%E4%B8%80%E5%A5%B3%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
             20,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时41分 ~ 14时43分]"
+          "appearance_count": 4,
+          "time_info": "[13时41分 ~ 15时32分]"
         },
         {
           "title": "报道：Peloton裁员11%，涉及工程师团队",
