@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T01:26:25.126111+08:00",
-  "total_titles_processed": 334,
+  "generated_at": "2026-02-01T02:36:51.745095+08:00",
+  "total_titles_processed": 353,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时36分]"
         },
         {
           "title": "中信证券发布房地产行业2025年业绩预告点评报告时指出，2026年房地产市场具备止跌回稳的基础，房价止跌回稳也是房企资产负债表修复的关键。",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时36分]"
         },
         {
           "title": "山西一县委原书记搞政绩工程被双开",
@@ -38,19 +38,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时36分]"
         },
         {
           "title": "习近平：走好中国特色金融发展之路，建设金融强国",
           "url": "https://www.cls.cn/detail/2276516",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时36分]"
         },
         {
           "title": "甘肃一拆迁工地挖出银元？假的",
@@ -60,8 +61,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时36分]"
         },
         {
           "title": "中指研究院发布2026年1月中国房地产企业销售业绩排行榜。",
@@ -71,8 +72,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时36分]"
         }
       ]
     }
