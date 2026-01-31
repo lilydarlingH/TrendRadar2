@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-01-31T17:32:54.369443+08:00",
-  "total_titles_processed": 1137,
+  "generated_at": "2026-01-31T18:29:21.646395+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "山西一县委原书记搞政绩工程被双开",
+          "url": "https://www.toutiao.com/trending/7601101630980866089/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            8,
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时27分 ~ 18时29分]"
+        },
         {
           "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
           "url": "https://m.thepaper.cn/newsDetail_forward_32498277",
@@ -47,21 +61,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时04分 ~ 17时32分]"
-        },
-        {
-          "title": "山西一县委原书记搞政绩工程被双开",
-          "url": "https://www.toutiao.com/trending/7601101630980866089/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时27分 ~ 17时32分]"
+          "appearance_count": 11,
+          "time_info": "[10时04分 ~ 18时29分]"
         },
         {
           "title": "国防部回应第四艘航母建造进展",
@@ -97,11 +98,12 @@
             2,
             5,
             11,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时43分 ~ 17时32分]"
+          "appearance_count": 5,
+          "time_info": "[14时43分 ~ 18时29分]"
         },
         {
           "title": "舟山公司招聘守岛人一个月不能下岛",
@@ -122,11 +124,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 17时32分]"
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 18时29分]"
         },
         {
           "title": "美国总统特朗普：美联储主席鲍威尔要么是无能之辈，要么是骗子（crook）。 （对于司法部对鲍威尔的刑事调查）翻修工程要么无能，要么就是盗窃。",
@@ -146,11 +149,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            9
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 18时29分]"
+        },
+        {
+          "title": "习近平：走好中国特色金融发展之路，建设金融强国",
+          "url": "https://www.cls.cn/detail/2276516",
+          "source": "财联社热门",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时35分 ~ 17时32分]"
+          "time_info": "[18时28分 ~ 18时29分]"
         },
         {
           "title": "报道：Peloton裁员11%，涉及工程师团队",
