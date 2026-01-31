@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T20:53:23.675939+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2026-01-31T21:44:03.821065+08:00",
+  "total_titles_processed": 1414,
   "failed_sources": [],
   "trends": [
     {
@@ -34,8 +34,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时27分 ~ 20时53分]"
+          "appearance_count": 14,
+          "time_info": "[12时27分 ~ 21时44分]"
         },
         {
           "title": "云南一事业单位招聘被质疑萝卜岗",
@@ -62,8 +62,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时04分 ~ 20时53分]"
+          "appearance_count": 15,
+          "time_info": "[10时04分 ~ 21时44分]"
         },
         {
           "title": "国防部回应第四艘航母建造进展",
@@ -107,6 +107,19 @@
           "time_info": "[14时43分 ~ 18时29分]"
         },
         {
+          "title": "习近平：走好中国特色金融发展之路，建设金融强国",
+          "url": "https://www.cls.cn/detail/2276516",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时28分 ~ 21时44分]"
+        },
+        {
           "title": "美国国家公路交通安全管理局：丰田汽车工程与制造公司召回161,268辆美国车辆，因为后视摄像头图像无法显示会导致驾驶员对车辆后方视野受限，从而增加发生碰撞的风险。",
           "url": "https://flash.jin10.com/detail/20260131160716286800",
           "source": "金十数据",
@@ -134,6 +147,19 @@
           "time_info": "[03时34分 ~ 06时30分]"
         },
         {
+          "title": "深圳房地产市场持续回暖：2026年1月新房、二手房累计网签1万余套",
+          "url": "https://wallstreetcn.com/livenews/3047679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 21时44分]"
+        },
+        {
           "title": "美国总统特朗普：美联储主席鲍威尔要么是无能之辈，要么是骗子（crook）。 （对于司法部对鲍威尔的刑事调查）翻修工程要么无能，要么就是盗窃。",
           "url": "https://wallstreetcn.com/livenews/3047514",
           "source": "华尔街见闻-快讯",
@@ -144,31 +170,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时37分 ~ 02时46分]"
-        },
-        {
-          "title": "深圳房地产市场持续回暖：2026年1月新房、二手房累计网签1万余套",
-          "url": "https://wallstreetcn.com/livenews/3047679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 20时53分]"
-        },
-        {
-          "title": "习近平：走好中国特色金融发展之路，建设金融强国",
-          "url": "https://www.cls.cn/detail/2276516",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时28分 ~ 20时53分]"
         },
         {
           "title": "《求是》杂志发表习近平总书记重要文章《走好中国特色金融发展之路，建设金融强国》",
@@ -185,6 +186,29 @@
           "time_info": "[16时35分 ~ 19时24分]"
         },
         {
+          "title": "舟山「守岛人」招聘意外火爆，没有工资一个月才能下岛一次，为什么这么多人应聘？有哪些吸引人的地方？",
+          "url": "https://www.zhihu.com/question/2000932096663840747",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 21时44分]"
+        },
+        {
+          "title": "中指研究院发布2026年1月中国房地产企业销售业绩排行榜。",
+          "url": "https://wallstreetcn.com/livenews/3047687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 21时44分]"
+        },
+        {
           "title": "报道：Peloton裁员11%，涉及工程师团队",
           "url": "https://wallstreetcn.com/livenews/3047572",
           "source": "华尔街见闻-快讯",
@@ -195,28 +219,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时30分]"
-        },
-        {
-          "title": "舟山「守岛人」招聘意外火爆，没有工资一个月才能下岛一次，为什么这么多人应聘？有哪些吸引人的地方？",
-          "url": "https://www.zhihu.com/question/2000932096663840747",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "中指研究院发布2026年1月中国房地产企业销售业绩排行榜。",
-          "url": "https://wallstreetcn.com/livenews/3047687",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
         },
         {
           "title": "房地产行业2026年将迎来转折吗",
