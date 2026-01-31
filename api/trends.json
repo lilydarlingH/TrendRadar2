@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T12:27:38.302097+08:00",
-  "total_titles_processed": 868,
+  "generated_at": "2026-01-31T13:42:02.736940+08:00",
+  "total_titles_processed": 921,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
@@ -15,11 +15,12 @@
             13,
             14,
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时43分 ~ 12时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时43分 ~ 13时42分]"
         },
         {
           "title": "云南一事业单位招聘被质疑萝卜岗",
@@ -84,8 +85,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 12时27分]"
+          "appearance_count": 4,
+          "time_info": "[10时04分 ~ 13时42分]"
+        },
+        {
+          "title": "山西一县委原书记搞政绩工程被双开",
+          "url": "https://www.toutiao.com/trending/7601101630980866089/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 13时42分]"
         },
         {
           "title": "报道：Peloton裁员11%，涉及工程师团队",
@@ -100,15 +112,15 @@
           "time_info": "[05时31分 ~ 06时30分]"
         },
         {
-          "title": "山西一县委原书记搞政绩工程被双开",
-          "url": "https://www.toutiao.com/trending/7601101630980866089/",
-          "source": "今日头条",
+          "title": "招聘守岛人不限男女但不能一男一女",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8B%9B%E8%81%98%E5%AE%88%E5%B2%9B%E4%BA%BA%E4%B8%8D%E9%99%90%E7%94%B7%E5%A5%B3%E4%BD%86%E4%B8%8D%E8%83%BD%E4%B8%80%E7%94%B7%E4%B8%80%E5%A5%B3%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            9
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 13时42分]"
         },
         {
           "title": "房地产行业2026年将迎来转折吗",
@@ -117,7 +129,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         }
