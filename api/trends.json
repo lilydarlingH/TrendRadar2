@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T06:28:51.973842+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-02-02T07:29:13.335915+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "以 2.5 吨白银建造的湖南永兴银楼拍卖未果，折算每克纯银 6.88 元，为什么不因银价大涨重新估值？",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时27分 ~ 06时28分]"
+          "appearance_count": 11,
+          "time_info": "[01时27分 ~ 07时29分]"
         },
         {
           "title": "习近平：走好中国特色金融发展之路，建设金融强国",
@@ -39,22 +39,24 @@
             8,
             9,
             11,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 06时28分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 07时29分]"
         },
         {
           "title": "当光伏“卷”上太空，产业苦等“廉价船票”，万亿赛道如何突围?",
           "url": "https://www.cls.cn/detail/2276702",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 06时28分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 07时29分]"
         },
         {
           "title": "1克纯银仅6.88元？以2.5吨白银建造的湖南永兴银楼被拍卖",
@@ -64,8 +66,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 06时28分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 07时29分]"
         },
         {
           "title": "武汉地铁工地龙门吊拆除过程中倾倒，致2台路过车辆受损1死1伤",
@@ -75,8 +77,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时27分 ~ 06时28分]"
+          "appearance_count": 11,
+          "time_info": "[01时27分 ~ 07时29分]"
+        },
+        {
+          "title": "武汉地铁施工工地大型机械倒向路面砸中轿车，应急部门回应伤者送医，事故正调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32511360",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 07时29分]"
         }
       ]
     }
