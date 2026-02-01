@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T14:54:05.077590+08:00",
-  "total_titles_processed": 804,
+  "generated_at": "2026-02-01T15:40:02.599729+08:00",
+  "total_titles_processed": 848,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             2,
             1,
             12,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 14时54分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 15时40分]"
         },
         {
           "title": "山西一县委原书记搞政绩工程被双开",
@@ -46,8 +47,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 14时54分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 15时40分]"
         },
         {
           "title": "中信证券发布房地产行业2025年业绩预告点评报告时指出，2026年房地产市场具备止跌回稳的基础，房价止跌回稳也是房企资产负债表修复的关键。",
@@ -65,6 +66,17 @@
           "time_info": "[00时33分 ~ 10时33分]"
         },
         {
+          "title": "“华龙一号”批量化建设加速",
+          "url": "https://www.douyin.com/hot/2385613",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时04分 ~ 15时40分]"
+        },
+        {
           "title": "甘肃一拆迁工地挖出银元？假的",
           "url": "https://www.toutiao.com/trending/7601083034758316068/",
           "source": "今日头条",
@@ -74,17 +86,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时32分 ~ 07时26分]"
-        },
-        {
-          "title": "“华龙一号”批量化建设加速",
-          "url": "https://www.douyin.com/hot/2385613",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时04分 ~ 14时54分]"
         },
         {
           "title": "中指研究院发布2026年1月中国房地产企业销售业绩排行榜。",
@@ -128,22 +129,24 @@
           "url": "https://flash.jin10.com/detail/20260201135808586800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时54分 ~ 15时40分]"
         },
         {
           "title": "印度预算案：继续聚焦基础设施建设，推动发展。",
           "url": "https://flash.jin10.com/detail/20260201135050880800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时54分 ~ 15时40分]"
         },
         {
           "title": "印度预算案：拟振兴传统工业部门，推动基础设施建设，发展城市经济区。",
@@ -152,7 +155,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         }
