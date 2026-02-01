@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T21:46:27.646543+08:00",
-  "total_titles_processed": 1221,
+  "generated_at": "2026-02-01T22:29:52.308628+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时32分 ~ 21时46分]"
+          "appearance_count": 27,
+          "time_info": "[00时32分 ~ 22时29分]"
         },
         {
           "title": "舟山「守岛人」招聘意外火爆，没有工资一个月才能下岛一次，为什么这么多人应聘？有哪些吸引人的地方？",
@@ -75,8 +75,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时36分 ~ 21时46分]"
+          "appearance_count": 11,
+          "time_info": "[16时36分 ~ 22时29分]"
         },
         {
           "title": "中信证券发布房地产行业2025年业绩预告点评报告时指出，2026年房地产市场具备止跌回稳的基础，房价止跌回稳也是房企资产负债表修复的关键。",
@@ -145,6 +145,18 @@
           "time_info": "[05时25分 ~ 10时33分]"
         },
         {
+          "title": "1克纯银仅6.88元？以2.5吨白银建造的湖南永兴银楼被拍卖",
+          "url": "https://news.ifeng.com/c/8qOM4ThmwoB",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时25分 ~ 22时29分]"
+        },
+        {
           "title": "工地拆卸龙门吊发生意外致人伤亡",
           "url": "https://www.toutiao.com/trending/7601108621828587562/",
           "source": "今日头条",
@@ -156,16 +168,28 @@
           "time_info": "[18时29分 ~ 19时25分]"
         },
         {
-          "title": "1克纯银仅6.88元？以2.5吨白银建造的湖南永兴银楼被拍卖",
-          "url": "https://news.ifeng.com/c/8qOM4ThmwoB",
-          "source": "凤凰网",
+          "title": "工地拆卸龙门吊发生意外致1死1伤",
+          "url": "https://www.toutiao.com/trending/7601108621828587562/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            11
+            14,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时25分 ~ 21时46分]"
+          "time_info": "[20时54分 ~ 22时29分]"
+        },
+        {
+          "title": "西方教堂一建就是百年，怎么保证工程会延续的?",
+          "url": "https://www.zhihu.com/question/7322907949",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 22时29分]"
         },
         {
           "title": "俄总统特别代表：俄美佛州会谈有建设性",
@@ -204,18 +228,6 @@
           "time_info": "[14时54分 ~ 15时40分]"
         },
         {
-          "title": "工地拆卸龙门吊发生意外致1死1伤",
-          "url": "https://www.toutiao.com/trending/7601108621828587562/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时54分 ~ 21时46分]"
-        },
-        {
           "title": "地铁工地龙门吊坍塌砸中轿车",
           "url": "https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E5%B7%A5%E5%9C%B0%E9%BE%99%E9%97%A8%E5%90%8A%E5%9D%8D%E5%A1%8C%E7%A0%B8%E4%B8%AD%E8%BD%BF%E8%BD%A6%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -225,17 +237,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时29分 ~ 18时30分]"
-        },
-        {
-          "title": "西方教堂一建就是百年，怎么保证工程会延续的?",
-          "url": "https://www.zhihu.com/question/7322907949",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时46分"
         },
         {
           "title": "印度预算案：拟振兴传统工业部门，推动基础设施建设，发展城市经济区。",
