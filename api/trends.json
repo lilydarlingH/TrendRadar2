@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T07:26:37.450757+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-02-01T10:33:19.350141+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "舟山「守岛人」招聘意外火爆，没有工资一个月才能下岛一次，为什么这么多人应聘？有哪些吸引人的地方？",
@@ -17,8 +17,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 10时33分]"
+        },
+        {
+          "title": "山西一县委原书记搞政绩工程被双开",
+          "url": "https://www.toutiao.com/trending/7601101630980866089/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            5,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 10时33分]"
         },
         {
           "title": "习近平：走好中国特色金融发展之路，建设金融强国",
@@ -29,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 10时33分]"
         },
         {
           "title": "中信证券发布房地产行业2025年业绩预告点评报告时指出，2026年房地产市场具备止跌回稳的基础，房价止跌回稳也是房企资产负债表修复的关键。",
@@ -40,25 +55,12 @@
             5,
             6,
             13,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 07时26分]"
-        },
-        {
-          "title": "山西一县委原书记搞政绩工程被双开",
-          "url": "https://www.toutiao.com/trending/7601101630980866089/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            5,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 10时33分]"
         },
         {
           "title": "甘肃一拆迁工地挖出银元？假的",
@@ -89,11 +91,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            9
+            9,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时25分 ~ 07时26分]"
+          "appearance_count": 4,
+          "time_info": "[05时25分 ~ 10时33分]"
+        },
+        {
+          "title": "俄总统特别代表：俄美佛州会谈有建设性",
+          "url": "https://flash.jin10.com/detail/20260201092524707800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         }
       ]
     }
