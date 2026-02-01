@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-02T01:27:59.922499+08:00",
-  "total_titles_processed": 345,
+  "generated_at": "2026-02-02T02:39:18.469765+08:00",
+  "total_titles_processed": 358,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
       "match_count": 6,
       "titles": [
+        {
+          "title": "以 2.5 吨白银建造的湖南永兴银楼拍卖未果，折算每克纯银 6.88 元，为什么不因银价大涨重新估值？",
+          "url": "https://www.zhihu.com/question/2001363427092821412",
+          "source": "知乎",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 02时39分]"
+        },
         {
           "title": "习近平：走好中国特色金融发展之路，建设金融强国",
           "url": "https://www.cls.cn/detail/2276516",
@@ -16,19 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时27分]"
-        },
-        {
-          "title": "以 2.5 吨白银建造的湖南永兴银楼拍卖未果，折算每克纯银 6.88 元，为什么不因银价大涨重新估值？",
-          "url": "https://www.zhihu.com/question/2001363427092821412",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时39分]"
         },
         {
           "title": "西方教堂一建就是百年，怎么保证工程会延续的?",
@@ -39,8 +40,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时39分]"
         },
         {
           "title": "当光伏“卷”上太空，产业苦等“廉价船票”，万亿赛道如何突围?",
@@ -50,8 +51,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时39分]"
         },
         {
           "title": "1克纯银仅6.88元？以2.5吨白银建造的湖南永兴银楼被拍卖",
@@ -61,8 +62,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时39分]"
         },
         {
           "title": "武汉地铁工地龙门吊拆除过程中倾倒，致2台路过车辆受损1死1伤",
@@ -71,9 +72,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 02时39分]"
         }
       ]
     }
