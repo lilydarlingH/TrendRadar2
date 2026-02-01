@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T05:27:33.822691+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-02-02T06:28:51.973842+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时27分 ~ 05时27分]"
+          "appearance_count": 9,
+          "time_info": "[01时27分 ~ 06时28分]"
         },
         {
           "title": "习近平：走好中国特色金融发展之路，建设金融强国",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 05时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "西方教堂一建就是百年，怎么保证工程会延续的?",
@@ -38,11 +38,12 @@
           "ranks": [
             8,
             9,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 05时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "当光伏“卷”上太空，产业苦等“廉价船票”，万亿赛道如何突围?",
@@ -52,8 +53,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 05时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "1克纯银仅6.88元？以2.5吨白银建造的湖南永兴银楼被拍卖",
@@ -63,8 +64,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 05时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "武汉地铁工地龙门吊拆除过程中倾倒，致2台路过车辆受损1死1伤",
@@ -74,8 +75,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时27分 ~ 05时27分]"
+          "appearance_count": 9,
+          "time_info": "[01时27分 ~ 06时28分]"
         }
       ]
     }
