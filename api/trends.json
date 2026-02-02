@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T01:41:31.410091+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-02-03T02:49:30.408943+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时49分]"
         },
         {
           "title": "江苏盐城一座在建桥梁垮塌",
           "url": "https://www.douyin.com/hot/2387750",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时49分]"
         },
         {
           "title": "江苏盐城一座在建桥梁垮塌",
@@ -36,22 +38,24 @@
           "source": "微博",
           "ranks": [
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时49分]"
         },
         {
           "title": "江苏盐城一在建桥梁垮塌 有人员落水",
           "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E7%9B%90%E5%9F%8E%E4%B8%80%E5%9C%A8%E5%BB%BA%E6%A1%A5%E6%A2%81%E5%9E%AE%E5%A1%8C+%E6%9C%89%E4%BA%BA%E5%91%98%E8%90%BD%E6%B0%B4",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时49分]"
         },
         {
           "title": "年营收超4千亿元的国企公开招聘总裁",
@@ -59,11 +63,12 @@
           "source": "今日头条",
           "ranks": [
             16,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时49分]"
         },
         {
           "title": "事关汽车门把手 强制性国家标准发布",
@@ -71,11 +76,12 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时49分]"
         },
         {
           "title": "十部门联合发布《低空经济标准体系建设指南（2025年版）》",
@@ -84,9 +90,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时49分]"
         }
       ]
     }
