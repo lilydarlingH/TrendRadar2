@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T07:29:13.335915+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-02-02T10:24:40.773200+08:00",
+  "total_titles_processed": 627,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "以 2.5 吨白银建造的湖南永兴银楼拍卖未果，折算每克纯银 6.88 元，为什么不因银价大涨重新估值？",
@@ -52,11 +52,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 07时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 10时24分]"
         },
         {
           "title": "1克纯银仅6.88元？以2.5吨白银建造的湖南永兴银楼被拍卖",
@@ -66,30 +67,65 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 07时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 10时24分]"
         },
         {
           "title": "武汉地铁工地龙门吊拆除过程中倾倒，致2台路过车辆受损1死1伤",
           "url": "https://m.thepaper.cn/newsDetail_forward_32511699",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时27分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[01时27分 ~ 10时24分]"
+        },
+        {
+          "title": "12306技术中心总工程师谈抢票",
+          "url": "https://www.baidu.com/s?wd=12306%E6%8A%80%E6%9C%AF%E4%B8%AD%E5%BF%83%E6%80%BB%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%B0%88%E6%8A%A2%E7%A5%A8",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "美媒曝特朗普计划建造76米巨型凯旋门，白宫回应(图)",
+          "url": "https://news.ifeng.com/c/8qOoTOMvfMS",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
           "title": "武汉地铁施工工地大型机械倒向路面砸中轿车，应急部门回应伤者送医，事故正调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_32511360",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时28分 ~ 07时29分]"
+          "appearance_count": 3,
+          "time_info": "[07时28分 ~ 10时24分]"
+        },
+        {
+          "title": "中央金融办：锚定建设金融强国目标 走好中国特色金融发展之路",
+          "url": "https://www.cls.cn/detail/2277013",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
         }
       ]
     }
