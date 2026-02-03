@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-03T14:56:02.430716+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2026-02-03T15:45:39.892975+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "事关汽车门把手安全，强制性国家标准发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32516211",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时14分 ~ 15时45分]"
+        },
         {
           "title": "中国国防部就第四艘航母建造进展做出回应，这对于中国海军战略部署有何意义？",
           "url": "https://www.zhihu.com/question/2000317269708931084",
@@ -19,18 +32,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时44分 ~ 10时14分]"
-        },
-        {
-          "title": "事关汽车门把手安全，强制性国家标准发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32516211",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时14分 ~ 14时56分]"
         },
         {
           "title": "江苏盐城一座在建桥梁垮塌",
@@ -56,6 +57,19 @@
           "time_info": "10时14分"
         },
         {
+          "title": "江苏盐城在建桥梁垮塌致5死",
+          "url": "https://www.douyin.com/hot/2387750",
+          "source": "抖音",
+          "ranks": [
+            19,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时49分 ~ 15时45分]"
+        },
+        {
           "title": "法庭文件显示，纽约市发展委员会起诉特朗普政府，指控其扣留连接纽约市和新泽西州、耗资160亿美元的隧道建设资金。",
           "url": "https://flash.jin10.com/detail/20260203133008885800",
           "source": "金十数据",
@@ -73,7 +87,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -87,18 +101,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
-        },
-        {
-          "title": "江苏盐城在建桥梁垮塌致5死",
-          "url": "https://www.douyin.com/hot/2387750",
-          "source": "抖音",
-          "ranks": [
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时49分 ~ 14时56分]"
         },
         {
           "title": "A股工程机械板块午后走强，建设机械涨停，中联重科、安徽合力、恒立液压、山推股份、三一重工跟涨。",
@@ -225,7 +227,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -247,7 +249,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -263,13 +265,24 @@
           "time_info": "10时14分"
         },
         {
+          "title": "许杰委员建议建设「银龄医生资源库」，能否有效缓解基层医疗资源不足问题？",
+          "url": "https://www.zhihu.com/question/1998686897384472582",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "非洲光伏产业跑出“加倍速” 2029年装机量看涨六倍",
           "url": "https://flash.jin10.com/detail/20260203141819736800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
