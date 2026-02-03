@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T05:38:42.056108+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2026-02-04T06:33:21.014994+08:00",
+  "total_titles_processed": 676,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "沪指涨1%，太空光伏、算力硬件爆发，寒武纪跌超9%，恒科指跌超1%，互联网平台盘中齐跳水，沪银暴跌16%",
@@ -15,8 +15,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 06时33分]"
+        },
+        {
+          "title": "澳大利亚12月AIG建筑业表现指数 5.2，前值-18.7。",
+          "url": "https://flash.jin10.com/detail/20260204060002188800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "北京2026年土地首拍，中铁投首次摘得北京涉宅地块",
@@ -62,6 +73,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "光伏逆变器供应商Enphase Energy Inc.四季度营收3.433亿美元，分析师预期3.365亿美元。 四季度电池发货量150.1 MWH，分析师预期151.08 MWH。 一季度为APP推出AI助理。 一季度是2026年需求的“低点”。 预计将在荷兰获得20亿美元电池机会。 预计将在2026年四季度启动新款电池的发货。 公司接近发布第五代电池。",
+          "url": "https://wallstreetcn.com/livenews/3049344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "上海今年全年重大工程投资将达2550亿元",
