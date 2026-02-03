@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T10:14:52.728598+08:00",
-  "total_titles_processed": 621,
+  "generated_at": "2026-02-03T12:49:48.341182+08:00",
+  "total_titles_processed": 795,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "中国国防部就第四艘航母建造进展做出回应，这对于中国海军战略部署有何意义？",
@@ -39,7 +39,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -50,9 +50,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        },
+        {
+          "title": "事关汽车门把手安全，强制性国家标准发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32516211",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 12时49分]"
         },
         {
           "title": "江苏盐城一座在建桥梁垮塌",
@@ -123,7 +135,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -134,18 +146,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "事关汽车门把手安全，强制性国家标准发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32516211",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -156,7 +157,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -167,7 +168,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -178,9 +179,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        },
+        {
+          "title": "江苏盐城在建桥梁垮塌致5死",
+          "url": "https://www.douyin.com/hot/2387750",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "创业板指涨超2%，沪指涨0.54%，深成指涨1.42%，光伏、算力硬件、存储芯片等方向涨幅居前，沪深京三市上涨个股近4400只。",
@@ -189,7 +201,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         }
