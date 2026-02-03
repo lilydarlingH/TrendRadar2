@@ -1,475 +1,55 @@
 {
-  "generated_at": "2026-02-03T23:54:26.051475+08:00",
-  "total_titles_processed": 1842,
+  "generated_at": "2026-02-04T00:57:30.487933+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 40,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "事关汽车门把手安全，强制性国家标准发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32516211",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时14分 ~ 19时38分]"
-        },
         {
           "title": "沪指涨1%，太空光伏、算力硬件爆发，寒武纪跌超9%，恒科指跌超1%，互联网平台盘中齐跳水，沪银暴跌16%",
           "url": "https://wallstreetcn.com/articles/3764803",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时44分 ~ 23时54分]"
-        },
-        {
-          "title": "江苏盐城在建桥梁垮塌致5死",
-          "url": "https://www.douyin.com/hot/2387750",
-          "source": "抖音",
-          "ranks": [
-            19,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时49分 ~ 21时05分]"
-        },
-        {
-          "title": "中国国防部就第四艘航母建造进展做出回应，这对于中国海军战略部署有何意义？",
-          "url": "https://www.zhihu.com/question/2000317269708931084",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 10时14分]"
-        },
-        {
-          "title": "江苏盐城一座在建桥梁垮塌",
-          "url": "https://www.douyin.com/hot/2387750",
-          "source": "抖音",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时49分]"
-        },
-        {
-          "title": "全球变暖是否会使得加拿大和俄罗斯的大片土地变成良田？",
-          "url": "https://www.zhihu.com/question/297934208",
-          "source": "知乎",
-          "ranks": [
-            14,
-            6,
-            5,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时40分 ~ 21时05分]"
-        },
-        {
-          "title": "上海市长龚正：推进老旧住宅加装、更新电梯",
-          "url": "https://wallstreetcn.com/livenews/3048729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "法庭文件显示，纽约市发展委员会起诉特朗普政府，指控其扣留连接纽约市和新泽西州、耗资160亿美元的隧道建设资金。",
-          "url": "https://flash.jin10.com/detail/20260203133008885800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "乌克兰基辅市长表示，在俄军夜间袭击后，有1170栋住宅楼没有供暖。",
-          "url": "https://flash.jin10.com/detail/20260203142953907800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
+          "time_info": "00时57分"
         },
         {
           "title": "美国住房开发商概念股普遍扩大涨幅，报道称行业力争为100万套住宅赢得支持",
           "url": "https://wallstreetcn.com/livenews/3049210",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "江苏盐城响水一在建大桥塌落致2死3失联",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32519154",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时14分"
+          "time_info": "00时57分"
         },
         {
-          "title": "碧桂园：2025年完成房屋交付近17万套",
-          "url": "https://wallstreetcn.com/livenews/3049176",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "A股工程机械板块午后走强，建设机械涨停，中联重科、安徽合力、恒立液压、山推股份、三一重工跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3048835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 14时56分]"
-        },
-        {
-          "title": "许杰委员建议建设「银龄医生资源库」，能否有效缓解基层医疗资源不足问题？",
-          "url": "https://www.zhihu.com/question/1998686897384472582",
-          "source": "知乎",
-          "ranks": [
-            20,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时45分 ~ 18时44分]"
-        },
-        {
-          "title": "江苏盐城一座在建桥梁垮塌",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E7%9B%90%E5%9F%8E%E4%B8%80%E5%BA%A7%E5%9C%A8%E5%BB%BA%E6%A1%A5%E6%A2%81%E5%9E%AE%E5%A1%8C%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时49分]"
-        },
-        {
-          "title": "江苏盐城一在建桥梁垮塌 有人员落水",
-          "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E7%9B%90%E5%9F%8E%E4%B8%80%E5%9C%A8%E5%BB%BA%E6%A1%A5%E6%A2%81%E5%9E%AE%E5%A1%8C+%E6%9C%89%E4%BA%BA%E5%91%98%E8%90%BD%E6%B0%B4",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时49分]"
-        },
-        {
-          "title": "年营收超4千亿元的国企公开招聘总裁",
-          "url": "https://www.toutiao.com/trending/7601448727152607273/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时49分]"
-        },
-        {
-          "title": "事关汽车门把手 强制性国家标准发布",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B3%E6%B1%BD%E8%BD%A6%E9%97%A8%E6%8A%8A%E6%89%8B+%E5%BC%BA%E5%88%B6%E6%80%A7%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E5%8F%91%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时49分]"
-        },
-        {
-          "title": "十部门联合发布《低空经济标准体系建设指南（2025年版）》",
-          "url": "https://www.cls.cn/detail/2277867",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时41分 ~ 02时49分]"
-        },
-        {
-          "title": "中央一号文件：全面开展第二轮土地承包到期后再延长三十年整省试点",
-          "url": "https://wallstreetcn.com/livenews/3049051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 19时38分]"
-        },
-        {
-          "title": "据悉美国主要开发商将考虑推出100万套“特朗普住宅”的计划。",
-          "url": "https://flash.jin10.com/detail/20260203231453724800",
+          "title": "市场消息：英伟达(NVDA.O)正在采用达索系统的基于模型的系统工程方法。",
+          "url": "https://flash.jin10.com/detail/20260204001329118800",
           "source": "金十数据",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "上海市长透露：推进全国足球发展重点城市建设",
-          "url": "https://wallstreetcn.com/livenews/3048716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "A股光伏设备板块午后进一步走强，帝科股份20cm涨停，晶盛机电、海优新材、拉普拉斯涨超10%，奥特维、双良节能、钧达股份此前封板。",
-          "url": "https://wallstreetcn.com/livenews/3048825",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
+          "time_info": "00时57分"
         },
         {
           "title": "上海今年全年重大工程投资将达2550亿元",
           "url": "https://wallstreetcn.com/livenews/3049204",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "上海：推进国际旅游度假区重点项目建设，办好首届上海旅游攻略大赛",
-          "url": "https://wallstreetcn.com/livenews/3048713",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "沪指涨1%，太空光伏、算力硬件爆发，寒武纪跌近8%，恒科指跌超1%，互联网平台盘中齐跳水，沪银暴跌17%",
-          "url": "https://wallstreetcn.com/articles/3764803",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
-          "title": "上海市长：支持民企参与新型基础设施项目，建设中小企业融资服务平台",
-          "url": "https://wallstreetcn.com/livenews/3048703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "美印协议重塑光伏外贸 印度光伏股集体狂飙",
-          "url": "https://flash.jin10.com/detail/20260203160136209800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
-          "title": "北京房地产中介门店咨询量大涨 上海二手房成交量大增24%",
-          "url": "https://wallstreetcn.com/livenews/3048964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
-          "title": "沪指午后涨超1%，深成指、创业板指均涨超1.8%，太空光伏、算力硬件、商业航天等方向领涨，沪深京三市上涨个股超4700只。",
-          "url": "https://wallstreetcn.com/livenews/3048862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
-          "title": "月薪最高2.4万元！蜜雪冰城招聘多个乐园岗位",
-          "url": "https://wallstreetcn.com/livenews/3049123",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "丹麦计划建造5艘能在北极作战的军舰",
-          "url": "https://wallstreetcn.com/livenews/3049165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "上海将加强科创板制度建设，培育壮大长期资本、耐心资本",
-          "url": "https://wallstreetcn.com/livenews/3048699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "利比亚国家石油公司主席：约37家公司参与了招标，结果将于2月11日公布。",
-          "url": "https://flash.jin10.com/detail/20260203141950901800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
-          "title": "上海：今年加快建设小洋山北作业区、东方枢纽上海东站、浦东国际机场四期等重大项目",
-          "url": "https://wallstreetcn.com/livenews/3048708",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "外媒：波音称“不再为印尼建造F-15战机”，印尼暂未回应",
-          "url": "https://wallstreetcn.com/livenews/3048979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时44分"
-        },
-        {
-          "title": "非洲光伏产业跑出“加倍速” 2029年装机量看涨六倍",
-          "url": "https://flash.jin10.com/detail/20260203141819736800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
-          "title": "金十数据整理：每日房地产行业动态汇总（2026-02-03）",
-          "url": "https://flash.jin10.com/detail/20260203155000125800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
-          "title": "创业板指涨超2%，沪指涨0.54%，深成指涨1.42%，光伏、算力硬件、存储芯片等方向涨幅居前，沪深京三市上涨个股近4400只。",
-          "url": "https://wallstreetcn.com/livenews/3048684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "北京发布今年第一轮拟供商品住宅用地清单，共5宗16公顷",
-          "url": "https://wallstreetcn.com/livenews/3049112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "00时57分"
         }
       ]
     }
