@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T13:54:15.806211+08:00",
-  "total_titles_processed": 882,
+  "generated_at": "2026-02-03T14:56:02.430716+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "中国国防部就第四艘航母建造进展做出回应，这对于中国海军战略部署有何意义？",
@@ -21,6 +21,18 @@
           "time_info": "[00时44分 ~ 10时14分]"
         },
         {
+          "title": "事关汽车门把手安全，强制性国家标准发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32516211",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时14分 ~ 14时56分]"
+        },
+        {
           "title": "江苏盐城一座在建桥梁垮塌",
           "url": "https://www.douyin.com/hot/2387750",
           "source": "抖音",
@@ -31,18 +43,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时44分 ~ 02时49分]"
-        },
-        {
-          "title": "事关汽车门把手安全，强制性国家标准发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32516211",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时14分 ~ 13时54分]"
         },
         {
           "title": "上海市长龚正：推进老旧住宅加装、更新电梯",
@@ -62,9 +62,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        },
+        {
+          "title": "乌克兰基辅市长表示，在俄军夜间袭击后，有1170栋住宅楼没有供暖。",
+          "url": "https://flash.jin10.com/detail/20260203142953907800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
         },
         {
           "title": "江苏盐城响水一在建大桥塌落致2死3失联",
@@ -78,15 +89,28 @@
           "time_info": "10时14分"
         },
         {
+          "title": "江苏盐城在建桥梁垮塌致5死",
+          "url": "https://www.douyin.com/hot/2387750",
+          "source": "抖音",
+          "ranks": [
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时49分 ~ 14时56分]"
+        },
+        {
           "title": "A股工程机械板块午后走强，建设机械涨停，中联重科、安徽合力、恒立液压、山推股份、三一重工跟涨。",
           "url": "https://wallstreetcn.com/livenews/3048835",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 14时56分]"
         },
         {
           "title": "江苏盐城一座在建桥梁垮塌",
@@ -140,17 +164,6 @@
           "time_info": "[00时44分 ~ 02时49分]"
         },
         {
-          "title": "江苏盐城在建桥梁垮塌致5死",
-          "url": "https://www.douyin.com/hot/2387750",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 13时54分]"
-        },
-        {
           "title": "十部门联合发布《低空经济标准体系建设指南（2025年版）》",
           "url": "https://www.cls.cn/detail/2277867",
           "source": "财联社热门",
@@ -179,7 +192,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -206,6 +219,17 @@
           "time_info": "10时14分"
         },
         {
+          "title": "沪指午后涨超1%，深成指、创业板指均涨超1.8%，太空光伏、算力硬件、商业航天等方向领涨，沪深京三市上涨个股超4700只。",
+          "url": "https://wallstreetcn.com/livenews/3048862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
           "title": "上海将加强科创板制度建设，培育壮大长期资本、耐心资本",
           "url": "https://wallstreetcn.com/livenews/3048699",
           "source": "华尔街见闻-快讯",
@@ -217,6 +241,17 @@
           "time_info": "10时14分"
         },
         {
+          "title": "利比亚国家石油公司主席：约37家公司参与了招标，结果将于2月11日公布。",
+          "url": "https://flash.jin10.com/detail/20260203141950901800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
           "title": "上海：今年加快建设小洋山北作业区、东方枢纽上海东站、浦东国际机场四期等重大项目",
           "url": "https://wallstreetcn.com/livenews/3048708",
           "source": "华尔街见闻-快讯",
@@ -226,6 +261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        },
+        {
+          "title": "非洲光伏产业跑出“加倍速” 2029年装机量看涨六倍",
+          "url": "https://flash.jin10.com/detail/20260203141819736800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
         },
         {
           "title": "创业板指涨超2%，沪指涨0.54%，深成指涨1.42%，光伏、算力硬件、存储芯片等方向涨幅居前，沪深京三市上涨个股近4400只。",
