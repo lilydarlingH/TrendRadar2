@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T05:37:05.087218+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2026-02-05T06:32:30.026707+08:00",
+  "total_titles_processed": 642,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 06时32分]"
         },
         {
           "title": "马斯克“太空棋局”又落一子，为何考察中国光伏？",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 06时32分]"
         },
         {
           "title": "光伏“上天”？多只热门概念股密集回应相关业务情况",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 06时32分]"
         },
         {
           "title": "中国光伏行业协会：太空光伏技术仍处于探索和验证的初期阶段",
@@ -49,8 +49,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 06时32分]"
         },
         {
           "title": "马斯克团队光伏调研消息引爆A股",
@@ -78,6 +78,17 @@
           "time_info": "[01时49分 ~ 02时55分]"
         },
         {
+          "title": "Alphabet(GOOG.O)高管：将继续在人工智能和云服务等关键投资领域招聘人员。",
+          "url": "https://flash.jin10.com/detail/20260205060749357800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
           "title": "微软(MSFT.O)：Charlie Bell将担任新职务，专注于工程质量。",
           "url": "https://flash.jin10.com/detail/20260205011041921800",
           "source": "金十数据",
@@ -95,7 +106,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         }
