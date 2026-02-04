@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T03:41:39.857028+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2026-02-05T04:38:28.183181+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 03时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 04时38分]"
         },
         {
           "title": "马斯克“太空棋局”又落一子，为何考察中国光伏？",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 03时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 04时38分]"
         },
         {
           "title": "光伏“上天”？多只热门概念股密集回应相关业务情况",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 03时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 04时38分]"
         },
         {
           "title": "中国光伏行业协会：太空光伏技术仍处于探索和验证的初期阶段",
@@ -49,8 +49,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 03时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 04时38分]"
+        },
+        {
+          "title": "马斯克团队光伏调研消息引爆A股",
+          "url": "https://www.toutiao.com/trending/7603022960940551734/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时49分 ~ 04时38分]"
         },
         {
           "title": "微软CEO Nadella在内部备忘录中宣布：任命谷歌Hayete Gallot为新的安全事务主管。 原安全主管Charlie Bell（2021年从亚马逊跳槽而来）将转岗至新的工程质量岗位。",
@@ -63,18 +76,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 02时55分]"
-        },
-        {
-          "title": "马斯克团队光伏调研消息引爆A股",
-          "url": "https://www.toutiao.com/trending/7603022960940551734/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时49分 ~ 03时41分]"
         },
         {
           "title": "微软(MSFT.O)：Charlie Bell将担任新职务，专注于工程质量。",
