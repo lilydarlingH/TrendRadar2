@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T17:47:28.480949+08:00",
-  "total_titles_processed": 1601,
+  "generated_at": "2026-02-04T18:41:50.469071+08:00",
+  "total_titles_processed": 1703,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "沪指涨1%，太空光伏、算力硬件爆发，寒武纪跌超9%，恒科指跌超1%，互联网平台盘中齐跳水，沪银暴跌16%",
@@ -33,6 +33,17 @@
           "time_info": "15时47分"
         },
         {
+          "title": "受高铁事故影响，西班牙国家铁路公司暂停30辆高速列车招标",
+          "url": "https://wallstreetcn.com/livenews/3049826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "英国债务管理局（DMO）：计划中的英国国债招标取决于需求和市场状况。",
           "url": "https://flash.jin10.com/detail/20260204153302412800",
           "source": "金十数据",
@@ -53,6 +64,44 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
+        },
+        {
+          "title": "双良节能：当前“太空光伏”仍处于技术探索与地面验证阶段，对公司当前业绩尚无实质性贡献",
+          "url": "https://wallstreetcn.com/livenews/3049818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "【午报】创业板指半日跌1.74%，太空光伏概念持续活跃，AI应用方向陷入调整",
+          "url": "https://www.cls.cn/detail/2280058",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时46分 ~ 18时41分]"
+        },
+        {
+          "title": "曝马斯克团队“摸底”中国光伏产业链",
+          "url": "https://www.toutiao.com/trending/7602056837328371731/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时45分 ~ 18时41分]"
         },
         {
           "title": "今年29省区市将全面开展二轮土地延包试点",
@@ -91,17 +140,16 @@
           "time_info": "[12时42分 ~ 13时52分]"
         },
         {
-          "title": "【午报】创业板指半日跌1.74%，太空光伏概念持续活跃，AI应用方向陷入调整",
-          "url": "https://www.cls.cn/detail/2280058",
+          "title": "【每日收评】沪指探底回升重返4100点，太空光伏、煤炭股联袂领涨，AI概念股集体调整",
+          "url": "https://www.cls.cn/detail/2280373",
           "source": "财联社热门",
           "ranks": [
-            12,
-            10,
-            11
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时46分 ~ 17时47分]"
+          "appearance_count": 2,
+          "time_info": "[17时47分 ~ 18时41分]"
         },
         {
           "title": "中央农办副主任祝卫东：严禁农村集体经营性建设用地入市用于建设商品住房",
@@ -116,16 +164,16 @@
           "time_info": "[12时42分 ~ 13时52分]"
         },
         {
-          "title": "曝马斯克团队“摸底”中国光伏产业链",
-          "url": "https://www.toutiao.com/trending/7602056837328371731/",
-          "source": "今日头条",
+          "title": "【焦点复盘】金融地产板块护盘拉升股指，算力产业链全天低迷，贵州茅台强势收复1500元大关",
+          "url": "https://www.cls.cn/detail/2280411",
+          "source": "财联社热门",
           "ranks": [
-            25,
-            13
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时45分 ~ 17时47分]"
+          "time_info": "[17时47分 ~ 18时41分]"
         },
         {
           "title": "江苏在建垮塌大桥用材特殊施工要求高",
@@ -148,17 +196,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
-        },
-        {
-          "title": "【每日收评】沪指探底回升重返4100点，太空光伏、煤炭股联袂领涨，AI概念股集体调整",
-          "url": "https://www.cls.cn/detail/2280373",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时47分"
         },
         {
           "title": "我国累计发布道路交通相关国家标准970项",
@@ -192,17 +229,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
-        },
-        {
-          "title": "【焦点复盘】金融地产板块护盘拉升股指，算力产业链全天低迷，贵州茅台强势收复1500元大关",
-          "url": "https://www.cls.cn/detail/2280411",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时47分"
         },
         {
           "title": "A股太空光伏概念再度拉升，晶科能源20cm涨停，双良节能、国晟科技、泽润新能、中来股份等多股此前封板，时创能源、晶盛机电、海泰新能等涨超10%。",
@@ -381,6 +407,17 @@
           "time_info": "14时57分"
         },
         {
+          "title": "晶盛机电：目前，“太空光伏”应用场景尚处于探索阶段，产业化进程仍面临不确定性",
+          "url": "https://wallstreetcn.com/livenews/3049789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "我国发布88项汽车安全相关强制性国家标准",
           "url": "https://wallstreetcn.com/livenews/3049684",
           "source": "华尔街见闻-快讯",
@@ -390,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
+        },
+        {
+          "title": "中船防务：签订16艘支线集装箱船建造合同，合同交易总金额7.36亿美元至8.96亿美元之间",
+          "url": "https://wallstreetcn.com/livenews/3049784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         }
       ]
     }
