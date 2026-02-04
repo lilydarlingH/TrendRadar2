@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T15:47:09.262407+08:00",
-  "total_titles_processed": 1384,
+  "generated_at": "2026-02-04T16:45:30.777561+08:00",
+  "total_titles_processed": 1492,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "沪指涨1%，太空光伏、算力硬件爆发，寒武纪跌超9%，恒科指跌超1%，互联网平台盘中齐跳水，沪银暴跌16%",
@@ -28,7 +28,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -39,7 +39,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -91,6 +91,18 @@
           "time_info": "[12时42分 ~ 13时52分]"
         },
         {
+          "title": "【午报】创业板指半日跌1.74%，太空光伏概念持续活跃，AI应用方向陷入调整",
+          "url": "https://www.cls.cn/detail/2280058",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时46分 ~ 16时45分]"
+        },
+        {
           "title": "中央农办副主任祝卫东：严禁农村集体经营性建设用地入市用于建设商品住房",
           "url": "https://wallstreetcn.com/livenews/3049550",
           "source": "华尔街见闻-快讯",
@@ -101,17 +113,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时42分 ~ 13时52分]"
-        },
-        {
-          "title": "【午报】创业板指半日跌1.74%，太空光伏概念持续活跃，AI应用方向陷入调整",
-          "url": "https://www.cls.cn/detail/2280058",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时46分 ~ 15时47分]"
         },
         {
           "title": "江苏在建垮塌大桥用材特殊施工要求高",
@@ -125,13 +126,24 @@
           "time_info": "[10时09分 ~ 10时10分]"
         },
         {
+          "title": "广东：加快建设国家人工智能应用中试基地，积极布局省级中试平台",
+          "url": "https://wallstreetcn.com/livenews/3049725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
           "title": "我国累计发布道路交通相关国家标准970项",
           "url": "https://wallstreetcn.com/livenews/3049671",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -169,6 +181,17 @@
           "time_info": "13时52分"
         },
         {
+          "title": "国晟科技：公司目前不涉及太空光伏业务。",
+          "url": "https://wallstreetcn.com/livenews/3049720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
           "title": "光伏板块继续走强，双良节能2连板，明冠新材、通灵股份、金辰股份、奥特维、亚玛顿等涨幅居前。",
           "url": "https://wallstreetcn.com/livenews/3049449",
           "source": "华尔街见闻-快讯",
@@ -189,6 +212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
+        },
+        {
+          "title": "韩国总统发言人：韩国十大财团今年计划招聘51,600人。",
+          "url": "https://wallstreetcn.com/livenews/3049714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "美国住房开发商概念股普遍扩大涨幅，报道称行业力争为100万套住宅赢得支持",
@@ -219,7 +253,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -263,7 +297,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -310,6 +344,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
+        },
+        {
+          "title": "曝马斯克团队“摸底”中国光伏产业链",
+          "url": "https://www.toutiao.com/trending/7602056837328371731/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "我国发布88项汽车安全相关强制性国家标准",
+          "url": "https://wallstreetcn.com/livenews/3049684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         }
       ]
     }
