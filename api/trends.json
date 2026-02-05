@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T13:58:45.223399+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2026-02-05T15:06:24.210530+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
@@ -62,8 +62,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 13时58分]"
+          "appearance_count": 5,
+          "time_info": "[10时11分 ~ 15时06分]"
         },
         {
           "title": "美股收盘：纳指跌破100日线 光伏板块全面爆发",
@@ -74,8 +74,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时32分 ~ 13时58分]"
+          "appearance_count": 6,
+          "time_info": "[07时32分 ~ 15时06分]"
         },
         {
           "title": "创业板指跌近2%，沪指跌0.85%，深成指跌1.55%，贵金属、光伏、CPO、电网设备等板块跌幅居前，沪深京三市下跌个股超3100只。",
@@ -89,6 +89,18 @@
           "time_info": "10时11分"
         },
         {
+          "title": "男子住40层因每天等电梯20分钟卖房",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BD%8F40%E5%B1%82%E5%9B%A0%E6%AF%8F%E5%A4%A9%E7%AD%89%E7%94%B5%E6%A2%AF20%E5%88%86%E9%92%9F%E5%8D%96%E6%88%BF%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 15时06分]"
+        },
+        {
           "title": "2月5日投资避雷针：双良节能、国晟科技等人气股密集澄清 目前未涉及太空光伏业务",
           "url": "https://www.cls.cn/detail/2281035",
           "source": "财联社热门",
@@ -96,8 +108,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 13时58分]"
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 15时06分]"
         },
         {
           "title": "15 岁女生为约会翻窗坠亡，父母起诉男友和物业索赔为何被法院一审驳回？谁该承担此事件的法律责任？",
@@ -107,8 +119,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 13时58分]"
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 15时06分]"
         },
         {
           "title": "剑指太空光伏！马斯克团队实地“摸底”中国光伏企业，调研了谁？",
@@ -158,17 +170,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时32分]"
-        },
-        {
-          "title": "男子住40层因每天等电梯20分钟卖房",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BD%8F40%E5%B1%82%E5%9B%A0%E6%AF%8F%E5%A4%A9%E7%AD%89%E7%94%B5%E6%A2%AF20%E5%88%86%E9%92%9F%E5%8D%96%E6%88%BF%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
         },
         {
           "title": "A股光伏板块爆发，马斯克下单了？",
@@ -221,7 +222,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -232,7 +233,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         }
