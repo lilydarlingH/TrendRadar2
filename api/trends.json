@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T22:46:16.647325+08:00",
-  "total_titles_processed": 1944,
+  "generated_at": "2026-02-05T23:44:22.606487+08:00",
+  "total_titles_processed": 2035,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
@@ -50,11 +50,12 @@
             2,
             1,
             19,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时45分 ~ 22时46分]"
+          "appearance_count": 11,
+          "time_info": "[16时45分 ~ 23时44分]"
         },
         {
           "title": "15 岁女生为约会翻窗坠亡，父母起诉男友和物业索赔为何被法院一审驳回？谁该承担此事件的法律责任？",
@@ -119,6 +120,32 @@
           "time_info": "[07时32分 ~ 15时06分]"
         },
         {
+          "title": "A股三大股指齐跌，太空光伏、贵金属掀跌停潮，贵州茅台四连涨，恒科指尾盘翻红，科网股普遍回暖，沪银大跌超10%",
+          "url": "https://wallstreetcn.com/articles/3765013",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时06分 ~ 23时44分]"
+        },
+        {
+          "title": "【焦点复盘】金融权重股午后护盘，沪指缩量震荡收十字星，太空光伏概念大面积退潮",
+          "url": "https://www.cls.cn/detail/2281691",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时06分 ~ 23时44分]"
+        },
+        {
           "title": "2月5日投资避雷针：双良节能、国晟科技等人气股密集澄清 目前未涉及太空光伏业务",
           "url": "https://www.cls.cn/detail/2281035",
           "source": "财联社热门",
@@ -129,6 +156,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时50分 ~ 16时46分]"
+        },
+        {
+          "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
+          "url": "https://www.zhihu.com/question/2002675555208803379",
+          "source": "知乎",
+          "ranks": [
+            15,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时06分 ~ 23时44分]"
         },
         {
           "title": "德国1月建筑业PMI 44.7，前值50.3。",
@@ -176,43 +216,6 @@
           "time_info": "[13时58分 ~ 15时06分]"
         },
         {
-          "title": "A股三大股指齐跌，太空光伏、贵金属掀跌停潮，贵州茅台四连涨，恒科指尾盘翻红，科网股普遍回暖，沪银大跌超10%",
-          "url": "https://wallstreetcn.com/articles/3765013",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时06分 ~ 22时46分]"
-        },
-        {
-          "title": "【焦点复盘】金融权重股午后护盘，沪指缩量震荡收十字星，太空光伏概念大面积退潮",
-          "url": "https://www.cls.cn/detail/2281691",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时06分 ~ 22时46分]"
-        },
-        {
-          "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
-          "url": "https://www.zhihu.com/question/2002675555208803379",
-          "source": "知乎",
-          "ranks": [
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时06分 ~ 22时46分]"
-        },
-        {
           "title": "马斯克团队光伏调研消息引爆A股",
           "url": "https://www.toutiao.com/trending/7603022960940551734/",
           "source": "今日头条",
@@ -248,6 +251,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时32分]"
+        },
+        {
+          "title": "陈昊宇电梯神图",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E6%98%8A%E5%AE%87%E7%94%B5%E6%A2%AF%E7%A5%9E%E5%9B%BE%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时43分 ~ 23时44分]"
         },
         {
           "title": "A股光伏板块爆发，马斯克下单了？",
@@ -300,7 +314,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         },
@@ -344,7 +358,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时46分"
         },
