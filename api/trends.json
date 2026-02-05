@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T12:51:06.719710+08:00",
-  "total_titles_processed": 1040,
+  "generated_at": "2026-02-05T13:58:45.223399+08:00",
+  "total_titles_processed": 1135,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
@@ -62,8 +62,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时11分 ~ 12时51分]"
+          "appearance_count": 4,
+          "time_info": "[10时11分 ~ 13时58分]"
         },
         {
           "title": "美股收盘：纳指跌破100日线 光伏板块全面爆发",
@@ -74,8 +74,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时32分 ~ 12时51分]"
+          "appearance_count": 5,
+          "time_info": "[07时32分 ~ 13时58分]"
         },
         {
           "title": "创业板指跌近2%，沪指跌0.85%，深成指跌1.55%，贵金属、光伏、CPO、电网设备等板块跌幅居前，沪深京三市下跌个股超3100只。",
@@ -87,6 +87,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "2月5日投资避雷针：双良节能、国晟科技等人气股密集澄清 目前未涉及太空光伏业务",
+          "url": "https://www.cls.cn/detail/2281035",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 13时58分]"
+        },
+        {
+          "title": "15 岁女生为约会翻窗坠亡，父母起诉男友和物业索赔为何被法院一审驳回？谁该承担此事件的法律责任？",
+          "url": "https://www.zhihu.com/question/2002644447490437708",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 13时58分]"
+        },
+        {
+          "title": "剑指太空光伏！马斯克团队实地“摸底”中国光伏企业，调研了谁？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32532635",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 13时58分]"
         },
         {
           "title": "马斯克团队光伏调研消息引爆A股",
@@ -126,37 +160,15 @@
           "time_info": "[06时32分 ~ 07时32分]"
         },
         {
-          "title": "2月5日投资避雷针：双良节能、国晟科技等人气股密集澄清 目前未涉及太空光伏业务",
-          "url": "https://www.cls.cn/detail/2281035",
-          "source": "财联社热门",
+          "title": "男子住40层因每天等电梯20分钟卖房",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BD%8F40%E5%B1%82%E5%9B%A0%E6%AF%8F%E5%A4%A9%E7%AD%89%E7%94%B5%E6%A2%AF20%E5%88%86%E9%92%9F%E5%8D%96%E6%88%BF%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            11
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 12时51分]"
-        },
-        {
-          "title": "15 岁女生为约会翻窗坠亡，父母起诉男友和物业索赔为何被法院一审驳回？谁该承担此事件的法律责任？",
-          "url": "https://www.zhihu.com/question/2002644447490437708",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 12时51分]"
-        },
-        {
-          "title": "剑指太空光伏！马斯克团队实地“摸底”中国光伏企业，调研了谁？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32532635",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 12时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "A股光伏板块爆发，马斯克下单了？",
@@ -201,6 +213,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "中国石油集团董事长戴厚良会见中国安能建设集团董事长陈奕辉",
+          "url": "https://wallstreetcn.com/livenews/3050359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "中老500千伏联网工程输电线路今天联通",
+          "url": "https://wallstreetcn.com/livenews/3050353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         }
       ]
     }
