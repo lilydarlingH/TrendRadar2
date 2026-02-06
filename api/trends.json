@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T13:56:42.559792+08:00",
-  "total_titles_processed": 1098,
+  "generated_at": "2026-02-06T14:59:14.331127+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时53分 ~ 13时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时53分 ~ 14时59分]"
         },
         {
           "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
@@ -49,6 +49,17 @@
           "time_info": "[00时53分 ~ 07时27分]"
         },
         {
+          "title": "美驻华大使：中美元首通话具有建设性，富有成效",
+          "url": "https://news.ifeng.com/c/8qVgMCZEmTu",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时10分 ~ 14时59分]"
+        },
+        {
           "title": "男子住40层因每天等电梯20分钟卖房",
           "url": "https://www.toutiao.com/trending/7602625730460254251/",
           "source": "今日头条",
@@ -64,17 +75,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时53分 ~ 07时27分]"
-        },
-        {
-          "title": "美驻华大使：中美元首通话具有建设性，富有成效",
-          "url": "https://news.ifeng.com/c/8qVgMCZEmTu",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时10分 ~ 13时56分]"
         },
         {
           "title": "15 岁女生为约会翻窗坠亡，父母起诉男友和物业索赔为何被法院一审驳回？谁该承担此事件的法律责任？",
@@ -154,7 +154,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
