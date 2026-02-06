@@ -1,301 +1,33 @@
 {
-  "generated_at": "2026-02-06T23:43:50.602884+08:00",
-  "total_titles_processed": 2079,
+  "generated_at": "2026-02-07T00:48:51.124566+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 24,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "A股三大股指齐跌，太空光伏、贵金属掀跌停潮，贵州茅台四连涨，恒科指尾盘翻红，科网股普遍回暖，沪银大跌超10%",
-          "url": "https://wallstreetcn.com/articles/3765013",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时53分 ~ 16时45分]"
-        },
-        {
-          "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
-          "url": "https://www.zhihu.com/question/2002675555208803379",
-          "source": "知乎",
-          "ranks": [
-            8,
-            10,
-            9,
-            5,
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 07时27分]"
-        },
-        {
-          "title": "【焦点复盘】金融权重股午后护盘，沪指缩量震荡收十字星，太空光伏概念大面积退潮",
-          "url": "https://www.cls.cn/detail/2281691",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 07时27分]"
-        },
-        {
-          "title": "工信部：组织开展国家算力互联互通节点建设工作 提升整体算力水平",
-          "url": "https://www.cls.cn/detail/2282797",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时44分 ~ 21时04分]"
-        },
-        {
-          "title": "美驻华大使：中美元首通话具有建设性，富有成效",
-          "url": "https://news.ifeng.com/c/8qVgMCZEmTu",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时10分 ~ 14时59分]"
-        },
-        {
-          "title": "男子住40层因每天等电梯20分钟卖房",
-          "url": "https://www.toutiao.com/trending/7602625730460254251/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            29,
-            30,
-            19,
-            28,
-            25,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 07时27分]"
-        },
-        {
-          "title": "15 岁女生为约会翻窗坠亡，父母起诉男友和物业索赔为何被法院一审驳回？谁该承担此事件的法律责任？",
-          "url": "https://www.zhihu.com/question/2002644447490437708",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时40分 ~ 07时27分]"
-        },
-        {
-          "title": "经营住宅、商业地产网站的数字广告公司REA Group Ltd.（REA.AU）悉尼盘初跌18%，该公司上半财年核心净利润3.406亿澳元，分析师预期3.57亿澳元。 另类资管公司HMC Capital Ltd.（HMC）悉尼盘初涨7.7%，美国私募KKR将对能源平台投资高达6.03亿澳元。",
-          "url": "https://wallstreetcn.com/livenews/3050919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "美国中东问题特使威特科夫：与乌克兰方面的讨论具有建设性，重点在于如何创造持久和平的条件。",
-          "url": "https://flash.jin10.com/detail/20260206013213484800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "中国央行：加快推进重点金融立法，强化业务领域制度建设",
-          "url": "https://wallstreetcn.com/livenews/3051358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
-          "title": "杭州一男子家住40层，因每天等电梯20分钟卖房",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32541728",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时44分 ~ 18时43分]"
-        },
-        {
-          "title": "美国特使Witkoff：俄乌美三方会谈富有建设性。",
-          "url": "https://wallstreetcn.com/livenews/3050819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 03时40分]"
-        },
         {
           "title": "【焦点复盘】市场延续缩量调整，能化等周期股逆势爆发，太空光伏概念午后回暖",
           "url": "https://www.cls.cn/detail/2282967",
           "source": "财联社热门",
           "ranks": [
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时04分 ~ 23时43分]"
-        },
-        {
-          "title": "八部门：建设高标准中药原料生产基地",
-          "url": "https://www.toutiao.com/trending/7603310067157319731/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时30分 ~ 10时11分]"
-        },
-        {
-          "title": "中老500千伏联网工程输电线路贯通",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%81500%E5%8D%83%E4%BC%8F%E8%81%94%E7%BD%91%E5%B7%A5%E7%A8%8B%E8%BE%93%E7%94%B5%E7%BA%BF%E8%B7%AF%E8%B4%AF%E9%80%9A",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时33分 ~ 06时31分]"
-        },
-        {
-          "title": "新华视点｜预制菜国家标准等征求意见稿六问六答",
-          "url": "https://wallstreetcn.com/livenews/3051330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 19时36分]"
-        },
-        {
-          "title": "A股光伏设备板块震荡走高，正泰电源涨停，泽润新能涨超10%，协鑫集成、奥特维、亚玛顿、晶科能源、迈为股份、拉普拉斯等个股跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3051128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时56分"
+          "time_info": "00时48分"
         },
         {
-          "title": "网民造谣拆迁工地挖出银元被拘",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E6%B0%91%E9%80%A0%E8%B0%A3%E6%8B%86%E8%BF%81%E5%B7%A5%E5%9C%B0%E6%8C%96%E5%87%BA%E9%93%B6%E5%85%83%E8%A2%AB%E6%8B%98",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时04分"
-        },
-        {
-          "title": "市场监管总局发布两项燃气报警器强制性国家标准",
-          "url": "https://wallstreetcn.com/livenews/3051411",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时04分"
-        },
-        {
-          "title": "刘烈宏主持召开系列专家企业代表座谈会听取对“十五五”时期数字中国规划和建设的意见建议",
-          "url": "https://wallstreetcn.com/livenews/3051476",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "工信部：组织开展国家算力互联互通节点建设工作",
-          "url": "https://wallstreetcn.com/livenews/3051206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
-          "title": "康菲石油(COP.N)：有关将资产留在美国手中的言论具有建设性意义。",
-          "url": "https://flash.jin10.com/detail/20260206012426549800",
+          "title": "美联储戴利：低招聘、低解雇的环境可能会持续，也可能迅速转变为不招聘、更多解雇的劳动力市场。",
+          "url": "https://flash.jin10.com/detail/20260207000506117800",
           "source": "金十数据",
           "ranks": [
-            24
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "克里姆林宫：阿布扎比的乌克兰和平谈判复杂而富有建设性。",
-          "url": "https://flash.jin10.com/detail/20260206173121407800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
-          "title": "一财：房地产交付难风险基本化解",
-          "url": "https://wallstreetcn.com/livenews/3050992",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "00时48分"
         }
       ]
     }
