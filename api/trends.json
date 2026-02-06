@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T10:11:22.799738+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2026-02-06T12:50:28.811224+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 10时11分]"
+          "appearance_count": 15,
+          "time_info": "[00时53分 ~ 12时50分]"
         },
         {
           "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
@@ -66,6 +66,17 @@
           "time_info": "[00时53分 ~ 07时27分]"
         },
         {
+          "title": "美驻华大使：中美元首通话具有建设性，富有成效",
+          "url": "https://news.ifeng.com/c/8qVgMCZEmTu",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 12时50分]"
+        },
+        {
           "title": "15 岁女生为约会翻窗坠亡，父母起诉男友和物业索赔为何被法院一审驳回？谁该承担此事件的法律责任？",
           "url": "https://www.zhihu.com/question/2002644447490437708",
           "source": "知乎",
@@ -77,17 +88,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时40分 ~ 07时27分]"
-        },
-        {
-          "title": "美驻华大使：中美元首通话具有建设性，富有成效",
-          "url": "https://news.ifeng.com/c/8qVgMCZEmTu",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
         },
         {
           "title": "经营住宅、商业地产网站的数字广告公司REA Group Ltd.（REA.AU）悉尼盘初跌18%，该公司上半财年核心净利润3.406亿澳元，分析师预期3.57亿澳元。 另类资管公司HMC Capital Ltd.（HMC）悉尼盘初涨7.7%，美国私募KKR将对能源平台投资高达6.03亿澳元。",
@@ -165,7 +165,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         }
