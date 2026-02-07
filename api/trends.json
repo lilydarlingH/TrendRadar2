@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T16:36:00.142506+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2026-02-07T17:34:35.375393+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时06分 ~ 16时36分]"
+          "appearance_count": 11,
+          "time_info": "[10时06分 ~ 17时34分]"
         },
         {
           "title": "【焦点复盘】市场延续缩量调整，能化等周期股逆势爆发，太空光伏概念午后回暖",
