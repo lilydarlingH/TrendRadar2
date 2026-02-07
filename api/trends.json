@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T20:54:20.471676+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2026-02-07T21:46:57.055014+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             7,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时06分 ~ 20时54分]"
+          "appearance_count": 17,
+          "time_info": "[10时06分 ~ 21时46分]"
         },
         {
           "title": "【焦点复盘】市场延续缩量调整，能化等周期股逆势爆发，太空光伏概念午后回暖",
@@ -40,11 +41,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时24分 ~ 20时54分]"
+          "appearance_count": 5,
+          "time_info": "[19时24分 ~ 21时46分]"
         },
         {
           "title": "英伟达CEO黄仁勋：市场需求极为火爆。 大规模人工智能（AI）资本开支是适宜的、必要的。 建设AI（这个过程）还将持续好几年，预计将需要7-8年。 Anthropic和OpenAI都在赚钱。（CNBC）",
@@ -76,11 +78,12 @@
           "ranks": [
             7,
             10,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 20时54分]"
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时46分]"
         },
         {
           "title": "美联储副主席杰斐逊：就业市场可能处于平衡状态，呈现低招聘、低解雇环境。",
