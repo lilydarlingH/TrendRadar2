@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T04:31:06.920333+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-02-08T05:29:59.670389+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时29分]"
         },
         {
           "title": "两部门印发意见，健全重大水利工程建设运行管理机制",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时29分]"
         },
         {
           "title": "特斯拉据称寻求提高光伏产能 Stellantis“电动化”梦碎 | 环球市场",
@@ -40,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时29分]"
         }
       ]
     }
