@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T01:29:32.774394+08:00",
-  "total_titles_processed": 343,
+  "generated_at": "2026-02-08T02:39:49.087040+08:00",
+  "total_titles_processed": 362,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时39分]"
         },
         {
           "title": "太空光伏概念龙头三连板 P型HJT/钙钛矿叠层技术路线A股名单及相关业务一览",
@@ -27,19 +27,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时39分]"
         },
         {
           "title": "特斯拉据称寻求提高光伏产能 Stellantis“电动化”梦碎 | 环球市场",
           "url": "https://www.cls.cn/detail/2283596",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时39分]"
         }
       ]
     }
