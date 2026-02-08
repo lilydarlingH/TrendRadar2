@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T00:35:38.250542+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-09T01:30:41.704953+08:00",
+  "total_titles_processed": 332,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "如何看待男子住 40 层因每天等电梯 20 分钟决定卖房？有没有办法解决高层住宅这一困扰？",
-          "url": "https://www.zhihu.com/question/2002743185407960502",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 01时30分]"
         },
         {
           "title": "订婚强奸案电梯视频首曝光，认定席某强奸关键证据披露",
           "url": "https://m.thepaper.cn/newsDetail_forward_32563001",
           "source": "澎湃新闻",
           "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 01时30分]"
+        },
+        {
+          "title": "如何看待男子住 40 层因每天等电梯 20 分钟决定卖房？有没有办法解决高层住宅这一困扰？",
+          "url": "https://www.zhihu.com/question/2002743185407960502",
+          "source": "知乎",
+          "ranks": [
+            3,
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 01时30分]"
         },
         {
           "title": "“重庆民政局招聘”系谣言",
@@ -48,8 +50,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 01时30分]"
         },
         {
           "title": "重庆工地塔吊折断砸下致2死系谣言",
@@ -59,8 +61,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 01时30分]"
         },
         {
           "title": "“重庆民政局招聘”系谣言",
@@ -70,8 +72,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 01时30分]"
         },
         {
           "title": "有网友称，SpaceX正在奥斯汀和西雅图招聘工程师，以开发人工智能卫星和太空数据中心。马斯克转发相关帖子并回复称：是真的。",
@@ -81,8 +83,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时30分]"
         }
       ]
     }
