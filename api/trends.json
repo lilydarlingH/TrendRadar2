@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T14:54:18.513275+08:00",
-  "total_titles_processed": 806,
+  "generated_at": "2026-02-08T15:42:04.355166+08:00",
+  "total_titles_processed": 858,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 14时54分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 15时42分]"
         },
         {
           "title": "两部门印发意见，健全重大水利工程建设运行管理机制",
@@ -56,8 +56,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时06分 ~ 14时54分]"
+          "appearance_count": 5,
+          "time_info": "[13时06分 ~ 15时42分]"
         },
         {
           "title": "如何看待男子住 40 层因每天等电梯 20 分钟决定卖房？有没有办法解决高层住宅这一困扰？",
@@ -65,11 +65,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时06分 ~ 14时54分]"
+          "appearance_count": 5,
+          "time_info": "[13时06分 ~ 15时42分]"
         },
         {
           "title": "江苏省政府召开房地产从业人员座谈会，研究稳定提振房地产市场政策举措",
@@ -78,11 +79,12 @@
           "ranks": [
             3,
             12,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时39分 ~ 14时54分]"
+          "appearance_count": 4,
+          "time_info": "[10时39分 ~ 15时42分]"
         },
         {
           "title": "福建：支持宁德建设新能源新材料产业核心区",
@@ -91,11 +93,12 @@
           "ranks": [
             6,
             15,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时39分 ~ 14时54分]"
+          "appearance_count": 4,
+          "time_info": "[10时39分 ~ 15时42分]"
         },
         {
           "title": "中国古代建筑是什么时候开始喜欢用大红大绿的颜色的？",
