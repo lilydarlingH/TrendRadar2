@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T16:37:21.275652+08:00",
-  "total_titles_processed": 908,
+  "generated_at": "2026-02-08T17:34:09.010016+08:00",
+  "total_titles_processed": 970,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 16时37分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 17时34分]"
+        },
+        {
+          "title": "如何看待男子住 40 层因每天等电梯 20 分钟决定卖房？有没有办法解决高层住宅这一困扰？",
+          "url": "https://www.zhihu.com/question/2002743185407960502",
+          "source": "知乎",
+          "ranks": [
+            14,
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时06分 ~ 17时34分]"
         },
         {
           "title": "两部门印发意见，健全重大水利工程建设运行管理机制",
@@ -35,19 +49,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时33分 ~ 14时54分]"
-        },
-        {
-          "title": "如何看待男子住 40 层因每天等电梯 20 分钟决定卖房？有没有办法解决高层住宅这一困扰？",
-          "url": "https://www.zhihu.com/question/2002743185407960502",
-          "source": "知乎",
-          "ranks": [
-            14,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时06分 ~ 16时37分]"
         },
         {
           "title": "特斯拉据称寻求提高光伏产能 Stellantis“电动化”梦碎 | 环球市场",
