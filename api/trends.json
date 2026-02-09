@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T06:39:51.026911+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-02-10T07:40:11.309345+08:00",
+  "total_titles_processed": 662,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时00分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 07时40分]"
         },
         {
           "title": "中央一号文件为何严查农村宅基地",
@@ -26,11 +26,12 @@
           "source": "今日头条",
           "ranks": [
             13,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时00分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 07时40分]"
         },
         {
           "title": "【焦点复盘】沪指日线5连阳收复4100点，全市场超120股涨逾10%，太空光伏概念再现批量涨停",
@@ -41,19 +42,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时00分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 07时40分]"
         },
         {
           "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
           "url": "https://wallstreetcn.com/articles/3765271",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时00分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 07时40分]"
         },
         {
           "title": "英国政府：强烈谴责以色列安全内阁决定扩大以色列对约旦河西岸的控制。拟在西岸实施的土地、执法和行政权力重大调整将损害推动和平与稳定的努力。",
