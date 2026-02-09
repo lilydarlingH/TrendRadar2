@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T03:16:13.124966+08:00",
-  "total_titles_processed": 436,
+  "generated_at": "2026-02-10T04:42:53.556189+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 04时42分]"
         },
         {
           "title": "中央一号文件为何严查农村宅基地",
@@ -28,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 04时42分]"
         },
         {
           "title": "【焦点复盘】沪指日线5连阳收复4100点，全市场超120股涨逾10%，太空光伏概念再现批量涨停",
@@ -40,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 04时42分]"
         },
         {
           "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
@@ -51,8 +52,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 04时42分]"
         },
         {
           "title": "特朗普力推投资者独栋住宅购买禁令 遭国会共和党阻力",
@@ -61,7 +62,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -72,7 +73,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -83,7 +84,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -94,7 +95,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         }
