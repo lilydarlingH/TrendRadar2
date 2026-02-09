@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T21:14:24.942810+08:00",
-  "total_titles_processed": 1481,
+  "generated_at": "2026-02-09T22:56:01.410510+08:00",
+  "total_titles_processed": 1626,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "太空光伏概念龙头三连板 P型HJT/钙钛矿叠层技术路线A股名单及相关业务一览",
@@ -90,8 +90,22 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时56分 ~ 22时56分]"
+        },
+        {
+          "title": "中央一号文件为何严查农村宅基地",
+          "url": "https://www.toutiao.com/trending/7604760233734311474/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            10,
+            7,
+            30
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时56分 ~ 21时14分]"
+          "time_info": "[18时05分 ~ 22时56分]"
         },
         {
           "title": "创业板指涨超2%，沪指涨逾1%，深成指涨1.5%，光伏、影视、算力硬件、化工等板块涨幅居前，沪深京三市上涨个股超4500只。",
@@ -103,6 +117,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "【焦点复盘】沪指日线5连阳收复4100点，全市场超120股涨逾10%，太空光伏概念再现批量涨停",
+          "url": "https://www.cls.cn/detail/2284692",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时47分 ~ 22时56分]"
         },
         {
           "title": "马斯克：SpaceX已将重心转向在月球上建设城市。",
@@ -149,19 +176,6 @@
           "time_info": "[00时35分 ~ 04时32分]"
         },
         {
-          "title": "中央一号文件为何严查农村宅基地",
-          "url": "https://www.toutiao.com/trending/7604760233734311474/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时05分 ~ 21时14分]"
-        },
-        {
           "title": "重庆辟谣“工地塔吊折断砸下致2死”",
           "url": "https://www.toutiao.com/trending/7604379368189870122/",
           "source": "今日头条",
@@ -171,18 +185,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时02分 ~ 15时08分]"
-        },
-        {
-          "title": "【焦点复盘】沪指日线5连阳收复4100点，全市场超120股涨逾10%，太空光伏概念再现批量涨停",
-          "url": "https://www.cls.cn/detail/2284692",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时47分 ~ 21时14分]"
         },
         {
           "title": "创业板涨3%，CPO暴涨、“易中天”飙升，光伏掀涨停潮，恒科指涨1%，半导体大涨、澜起科技IPO首日涨超50%",
@@ -307,6 +309,28 @@
           "time_info": "15时08分"
         },
         {
+          "title": "农业农村部：大力培育农业科技领军企业，加快实施“百千万”农业科技企业培育工程",
+          "url": "https://wallstreetcn.com/livenews/3052374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "习近平：建设社会主义现代化强国，关键在科技自立自强",
+          "url": "https://wallstreetcn.com/livenews/3052373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "新西兰锁定首批液化天然气进口设施建设方案",
           "url": "https://flash.jin10.com/detail/20260209112002528800",
           "source": "金十数据",
@@ -368,7 +392,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时14分"
         }
