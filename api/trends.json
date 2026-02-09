@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T16:57:11.593472+08:00",
-  "total_titles_processed": 1101,
+  "generated_at": "2026-02-09T18:06:21.910649+08:00",
+  "total_titles_processed": 1226,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "太空光伏概念龙头三连板 P型HJT/钙钛矿叠层技术路线A股名单及相关业务一览",
@@ -136,6 +136,18 @@
           "time_info": "[00时35分 ~ 04时32分]"
         },
         {
+          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
+          "url": "https://wallstreetcn.com/articles/3765271",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时56分 ~ 18时06分]"
+        },
+        {
           "title": "重庆辟谣“工地塔吊折断砸下致2死”",
           "url": "https://www.toutiao.com/trending/7604379368189870122/",
           "source": "今日头条",
@@ -145,17 +157,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时02分 ~ 15时08分]"
-        },
-        {
-          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
-          "url": "https://wallstreetcn.com/articles/3765271",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 16时57分]"
         },
         {
           "title": "创业板涨3%，CPO暴涨、“易中天”飙升，光伏掀涨停潮，恒科指涨1%，半导体大涨、澜起科技IPO首日涨超50%",
@@ -192,13 +193,24 @@
           "time_info": "[06时31分 ~ 07时35分]"
         },
         {
+          "title": "中央一号文件为何严查农村宅基地",
+          "url": "https://www.toutiao.com/trending/7604760233734311474/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时05分 ~ 18时06分]"
+        },
+        {
           "title": "道达尔能源：建设计划将于2026年第二季度启动。",
           "url": "https://flash.jin10.com/detail/20260209161414251800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -209,7 +221,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -234,6 +246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "潘森宏观：英国就业报告显示招聘意愿回升",
+          "url": "https://flash.jin10.com/detail/20260209172520955800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         },
         {
           "title": "前韩国央行委员Lee Seung-Heon：现在发出政策收紧信号还为时过早。 韩元兑美元汇率在1400至1470区间看起来是合适的。 韩国需要实施更严格的房地产持有税，以抑制房地产市场。",
