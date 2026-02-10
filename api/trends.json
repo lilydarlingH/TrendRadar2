@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T04:02:52.273225+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-02-11T04:59:46.148522+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 04时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 04时59分]"
         },
         {
           "title": "纽约联储：第四季度汽车贷款、信用卡贷款和房屋净值信贷额度贷款的违约转移率保持稳定。",
@@ -45,22 +45,24 @@
           "url": "https://flash.jin10.com/detail/20260211030322937800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 04时59分]"
         },
         {
           "title": "事业编招聘要求能捕野牦牛？当地回应",
           "url": "https://www.baidu.com/s?wd=%E4%BA%8B%E4%B8%9A%E7%BC%96%E6%8B%9B%E8%81%98%E8%A6%81%E6%B1%82%E8%83%BD%E6%8D%95%E9%87%8E%E7%89%A6%E7%89%9B%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
           "ranks": [
-            26
+            26,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 04时59分]"
         },
         {
           "title": "美联储洛根：人工智能数据中心建设对电力的需求很大，但并没有想象中那么大。",
@@ -69,7 +71,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
