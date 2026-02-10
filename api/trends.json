@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T05:52:38.051077+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2026-02-11T06:43:26.460738+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时43分]"
         },
         {
           "title": "纽约联储：第四季度汽车贷款、信用卡贷款和房屋净值信贷额度贷款的违约转移率保持稳定。",
@@ -48,11 +48,12 @@
           "ranks": [
             26,
             20,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时02分 ~ 05时52分]"
+          "appearance_count": 5,
+          "time_info": "[04时02分 ~ 06时43分]"
         },
         {
           "title": "美国白宫：（就美加大桥）加拿大将拥有两侧土地的事实是不可接受的。特朗普认为，美国应共享主权，至少拥有50%的主权。",
