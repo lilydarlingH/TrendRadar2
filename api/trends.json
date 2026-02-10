@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T21:18:58.161230+08:00",
-  "total_titles_processed": 1627,
+  "generated_at": "2026-02-10T23:02:56.716201+08:00",
+  "total_titles_processed": 1764,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "习近平：建设社会主义现代化强国，关键在科技自立自强",
@@ -97,8 +97,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时53分 ~ 21时18分]"
+          "appearance_count": 3,
+          "time_info": "[19时53分 ~ 23时02分]"
         },
         {
           "title": "国家发改委等部门：加快招标投标领域人工智能推广应用",
@@ -198,7 +198,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -209,7 +209,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
         },
@@ -220,9 +220,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时18分"
+        },
+        {
+          "title": "沪指震荡收涨六连阳，AI应用大爆发，太空光伏集体调整，恒指上涨0.5%，智谱暴涨近15%",
+          "url": "https://wallstreetcn.com/articles/3765360",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "特朗普力推投资者独栋住宅购买禁令 遭国会共和党阻力",
