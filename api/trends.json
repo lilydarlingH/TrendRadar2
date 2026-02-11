@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T05:37:17.236925+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2026-02-12T06:33:18.364071+08:00",
+  "total_titles_processed": 670,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             3,
             8,
             9,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 06时33分]"
         },
         {
           "title": "歌手华晨宇“跨界”至地产圈 拿下云南三宗地打造“火星乐园2.0”",
@@ -30,8 +31,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 06时33分]"
         },
         {
           "title": "英王室地产发现疑似涉爱泼斯坦案尸体",
@@ -42,11 +43,12 @@
             29,
             28,
             19,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 06时33分]"
         },
         {
           "title": "英王室地产有疑似涉爱泼斯坦案尸体",
@@ -56,11 +58,12 @@
             24,
             26,
             25,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 05时37分]"
+          "appearance_count": 7,
+          "time_info": "[01时58分 ~ 06时33分]"
         },
         {
           "title": "美国财长贝森特：特朗普正全力关注房地产市场。",
@@ -102,7 +105,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         }
