@@ -1,218 +1,44 @@
 {
-  "generated_at": "2026-02-11T22:56:54.008147+08:00",
-  "total_titles_processed": 1780,
+  "generated_at": "2026-02-12T00:05:48.762294+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 18,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "国家发改委等八部门：加快招标投标领域人工智能推广应用",
-          "url": "https://www.cls.cn/detail/2286121",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 07时41分]"
-        },
         {
           "title": "青海一事业编岗位招聘要求「熟悉并能独立抓捕野牦牛」引热议，为啥招聘会出现这种特殊技能要求，合理吗？",
           "url": "https://www.zhihu.com/question/2004607550855848192",
           "source": "知乎",
           "ranks": [
-            12,
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时53分 ~ 22时56分]"
-        },
-        {
-          "title": "事业编招聘要求能捕野牦牛？当地回应",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%8B%E4%B8%9A%E7%BC%96%E6%8B%9B%E8%81%98%E8%A6%81%E6%B1%82%E8%83%BD%E6%8D%95%E9%87%8E%E7%89%A6%E7%89%9B%EF%BC%9F%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时02分 ~ 13时06分]"
-        },
-        {
-          "title": "纽约联储：第四季度汽车贷款、信用卡贷款和房屋净值信贷额度贷款的违约转移率保持稳定。",
-          "url": "https://flash.jin10.com/detail/20260211000152142800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "英国房地产股走高，报道称工党政府正酝酿新一轮住房援助计划",
-          "url": "https://wallstreetcn.com/livenews/3053806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
-        },
-        {
-          "title": "印尼证券交易所：与明晟公司（MSCI）的会议像PVS会议一样富有建设性。",
-          "url": "https://flash.jin10.com/detail/20260211173001371800",
-          "source": "金十数据",
-          "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "国办：在保障能源安全的基础上，分品种有节奏推进气电、水电、核电等电源进入电力市场",
-          "url": "https://wallstreetcn.com/livenews/3053623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "花旗：美国总统特朗普住房政策对房地产开发商的影响仍然不明朗。",
-          "url": "https://wallstreetcn.com/livenews/3053143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "英王室地产发现疑似涉爱泼斯坦案尸体",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E7%8E%8B%E5%AE%A4%E5%9C%B0%E4%BA%A7%E5%8F%91%E7%8E%B0%E7%96%91%E4%BC%BC%E6%B6%89%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E5%B0%B8%E4%BD%93%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时15分 ~ 22时56分]"
-        },
-        {
-          "title": "美国白宫：（就美加大桥）加拿大将拥有两侧土地的事实是不可接受的。特朗普认为，美国应共享主权，至少拥有50%的主权。",
-          "url": "https://flash.jin10.com/detail/20260211030322937800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时02分 ~ 04时59分]"
-        },
-        {
-          "title": "国开行2025年发放超1.6万亿元贷款支持基础设施建设",
-          "url": "https://wallstreetcn.com/livenews/3053434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时06分"
-        },
-        {
-          "title": "国务院办公厅：全面建设更好发现价格、调节供需的现货市",
-          "url": "https://wallstreetcn.com/livenews/3053619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时57分"
+          "time_info": "00时05分"
         },
         {
           "title": "歌手华晨宇“跨界”至地产圈 拿下云南三宗地打造“火星乐园2.0”",
           "url": "https://www.cls.cn/detail/2287576",
           "source": "财联社热门",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
-        },
-        {
-          "title": "克里姆林宫：（就美国和亚美尼亚核能合作）俄罗斯在运营苏联建造的核电站方面拥有丰富经验。",
-          "url": "https://flash.jin10.com/detail/20260211172048259800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时57分"
+          "time_info": "00时05分"
         },
         {
-          "title": "韩国科学部长：OpenAI、三星和SK将于3月在韩国启动数据中心建设。",
-          "url": "https://flash.jin10.com/detail/20260211093843055800",
-          "source": "金十数据",
+          "title": "英王室地产发现疑似涉爱泼斯坦案尸体",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E7%8E%8B%E5%AE%A4%E5%9C%B0%E4%BA%A7%E5%8F%91%E7%8E%B0%E7%96%91%E4%BC%BC%E6%B6%89%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E5%B0%B8%E4%BD%93%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
           "ranks": [
-            13
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "美国海岸警卫队授出11艘北极安全巡逻舰建造合同。",
-          "url": "https://flash.jin10.com/detail/20260211221141451800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
-        },
-        {
-          "title": "美联储洛根：人工智能数据中心建设对电力的需求很大，但并没有想象中那么大。",
-          "url": "https://flash.jin10.com/detail/20260211024100542800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "摩根士丹利：特斯拉计划提振光伏制造，这可能会让公司价值增长250亿-500亿美元，或每股增长6-14美元。",
-          "url": "https://wallstreetcn.com/livenews/3053159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "time_info": "00时05分"
         }
       ]
     }
