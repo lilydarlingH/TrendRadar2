@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T17:57:31.214377+08:00",
-  "total_titles_processed": 1346,
+  "generated_at": "2026-02-11T18:54:48.999283+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
@@ -45,13 +45,26 @@
           "time_info": "00时16分"
         },
         {
+          "title": "青海一事业编岗位招聘要求「熟悉并能独立抓捕野牦牛」引热议，为啥招聘会出现这种特殊技能要求，合理吗？",
+          "url": "https://www.zhihu.com/question/2004607550855848192",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时53分 ~ 18时54分]"
+        },
+        {
           "title": "印尼证券交易所：与明晟公司（MSCI）的会议像PVS会议一样富有建设性。",
           "url": "https://flash.jin10.com/detail/20260211173001371800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -62,7 +75,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -76,18 +89,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        },
-        {
-          "title": "青海一事业编岗位招聘要求「熟悉并能独立抓捕野牦牛」引热议，为啥招聘会出现这种特殊技能要求，合理吗？",
-          "url": "https://www.zhihu.com/question/2004607550855848192",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时53分 ~ 17时57分]"
         },
         {
           "title": "美国白宫：（就美加大桥）加拿大将拥有两侧土地的事实是不可接受的。特朗普认为，美国应共享主权，至少拥有50%的主权。",
@@ -119,7 +120,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -130,7 +131,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
