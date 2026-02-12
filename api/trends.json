@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T16:52:43.791524+08:00",
-  "total_titles_processed": 1383,
+  "generated_at": "2026-02-12T17:54:57.047637+08:00",
+  "total_titles_processed": 1481,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "青海一事业编岗位招聘要求「熟悉并能独立抓捕野牦牛」引热议，为啥招聘会出现这种特殊技能要求，合理吗？",
@@ -34,8 +34,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时00分 ~ 16时52分]"
+          "appearance_count": 7,
+          "time_info": "[13时00分 ~ 17时54分]"
+        },
+        {
+          "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
+          "url": "https://wallstreetcn.com/articles/3765544",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时25分 ~ 17时54分]"
         },
         {
           "title": "歌手华晨宇“跨界”至地产圈 拿下云南三宗地打造“火星乐园2.0”",
@@ -49,18 +61,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时05分 ~ 10时26分]"
-        },
-        {
-          "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
-          "url": "https://wallstreetcn.com/articles/3765544",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时25分 ~ 16时52分]"
         },
         {
           "title": "英王室地产发现疑似涉爱泼斯坦案尸体",
@@ -86,8 +86,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时55分 ~ 16时52分]"
+          "appearance_count": 3,
+          "time_info": "[15时55分 ~ 17时54分]"
         },
         {
           "title": "英王室地产有疑似涉爱泼斯坦案尸体",
@@ -111,7 +111,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
@@ -126,6 +126,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时01分 ~ 14时12分]"
+        },
+        {
+          "title": "克里姆林宫：（就古巴问题）我们希望与美国开展建设性对话。",
+          "url": "https://flash.jin10.com/detail/20260212175055043800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         },
         {
           "title": "美核聚变新贵融资4.5亿美元 瞄准2030年启动商业电站建设",
@@ -178,9 +189,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
+        },
+        {
+          "title": "上海嘉闵线施工区域再次发生塌陷",
+          "url": "https://www.toutiao.com/trending/7605897268595527187/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         },
         {
           "title": "市场继续寻找AI时代的潜在输家 今日轮到地产服务",
