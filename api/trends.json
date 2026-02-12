@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T21:13:26.610669+08:00",
-  "total_titles_processed": 1763,
+  "generated_at": "2026-02-12T22:51:43.121795+08:00",
+  "total_titles_processed": 1880,
   "failed_sources": [],
   "trends": [
     {
@@ -23,18 +23,6 @@
           "time_info": "[13时00分 ~ 21时13分]"
         },
         {
-          "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
-          "url": "https://wallstreetcn.com/articles/3765544",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时25分 ~ 21时13分]"
-        },
-        {
           "title": "知心员工法院上班闯大祸",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350605&amp;topic_name=%E7%9F%A5%E5%BF%83%E5%91%98%E5%B7%A5%E6%B3%95%E9%99%A2%E4%B8%8A%E7%8F%AD%E9%97%AF%E5%A4%A7%E7%A5%B8",
           "source": "贴吧",
@@ -43,8 +31,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时55分 ~ 21时13分]"
+          "appearance_count": 8,
+          "time_info": "[15时55分 ~ 22时51分]"
+        },
+        {
+          "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
+          "url": "https://wallstreetcn.com/articles/3765544",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[10时25分 ~ 22时51分]"
         },
         {
           "title": "青海一事业编岗位招聘要求「熟悉并能独立抓捕野牦牛」引热议，为啥招聘会出现这种特殊技能要求，合理吗？",
@@ -107,6 +107,17 @@
           "time_info": "[01时58分 ~ 06时33分]"
         },
         {
+          "title": "美媒：整个施工队被移民执法局带走，包括合法工人",
+          "url": "https://news.ifeng.com/c/8qggfgB3tnt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时50分 ~ 22时51分]"
+        },
+        {
           "title": "孙颖莎装修微博",
           "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E8%A3%85%E4%BF%AE%E5%BE%AE%E5%8D%9A&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -116,17 +127,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
-        },
-        {
-          "title": "美媒：整个施工队被移民执法局带走，包括合法工人",
-          "url": "https://news.ifeng.com/c/8qggfgB3tnt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时50分 ~ 21时13分]"
         },
         {
           "title": "上海嘉闵线施工区域再次发生塌陷",
@@ -193,7 +193,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -237,7 +237,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
