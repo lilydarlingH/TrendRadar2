@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T19:34:30.421164+08:00",
-  "total_titles_processed": 1599,
+  "generated_at": "2026-02-13T21:05:01.222884+08:00",
+  "total_titles_processed": 1723,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "张青松：把中央汇金公司建设成为中国特色鲜明、战略作用突出、专业优势明显的中央级国有金融资本受托管理机构",
@@ -19,8 +19,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时55分 ~ 19时34分]"
+          "appearance_count": 11,
+          "time_info": "[12时55分 ~ 21时05分]"
+        },
+        {
+          "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
+          "url": "https://wallstreetcn.com/articles/3765638",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时55分 ~ 21时05分]"
         },
         {
           "title": "知心员工法院上班闯大祸",
@@ -37,8 +51,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时02分 ~ 19时34分]"
+          "appearance_count": 20,
+          "time_info": "[01时02分 ~ 21时05分]"
         },
         {
           "title": "谷爱凌滑雪服上徽章和龙纹元素堆砌，让网友感慨这片土地缺乏审美教育，这件雪服设计是否存在问题？",
@@ -46,11 +60,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时55分 ~ 19时34分]"
+          "appearance_count": 11,
+          "time_info": "[12时55分 ~ 21时05分]"
         },
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -63,8 +78,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时27分 ~ 19时34分]"
+          "appearance_count": 12,
+          "time_info": "[10时27分 ~ 21时05分]"
         },
         {
           "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
@@ -78,20 +93,6 @@
           "time_info": "[01时02分 ~ 06时36分]"
         },
         {
-          "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
-          "url": "https://wallstreetcn.com/articles/3765638",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时55分 ~ 19时34分]"
-        },
-        {
           "title": "上海嘉闵线施工区域 48 小时内两次塌陷，目前情况如何？塌陷原因可能是什么？",
           "url": "https://www.zhihu.com/question/2005349115236675947",
           "source": "知乎",
@@ -101,8 +102,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时27分 ~ 19时34分]"
+          "appearance_count": 12,
+          "time_info": "[10时27分 ~ 21时05分]"
         },
         {
           "title": "美媒：整个施工队被移民执法局带走，包括合法工人",
@@ -151,6 +152,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        },
+        {
+          "title": "广东：强化广深超大城市核心功能 分类推进五大都市圈建设",
+          "url": "https://wallstreetcn.com/livenews/3055201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
         },
         {
           "title": "派拉蒙天舞（Paramount SkyDance）高管Ellison上周会见了美国总统特朗普。（CNN）",
@@ -290,6 +302,17 @@
           "time_info": "10时27分"
         },
         {
+          "title": "刘烈宏主持召开座谈会听取对“十五五”时期数字中国规划和建设的意见建议",
+          "url": "https://wallstreetcn.com/livenews/3055188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
           "title": "A股三大指数均跌超1%，CPO、小金属、光伏设备、航运港口等方向跌幅居前，沪深京三市下跌个股超3400只。",
           "url": "https://wallstreetcn.com/livenews/3054951",
           "source": "华尔街见闻-快讯",
@@ -332,6 +355,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
+        },
+        {
+          "title": "邮政业2项强制性国家标准发布",
+          "url": "https://wallstreetcn.com/livenews/3055177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
         },
         {
           "title": "据知情人士透露，派拉蒙天舞（Paramount SkyDance）的CEO David Ellison上周在白宫秘密会见了美国总统特朗普。（CNN）",
