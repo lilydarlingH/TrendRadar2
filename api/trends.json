@@ -1,29 +1,12 @@
 {
-  "generated_at": "2026-02-13T18:42:58.368760+08:00",
-  "total_titles_processed": 1513,
+  "generated_at": "2026-02-13T19:34:30.421164+08:00",
+  "total_titles_processed": 1599,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
       "match_count": 28,
       "titles": [
-        {
-          "title": "知心员工法院上班闯大祸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350605&amp;topic_name=%E7%9F%A5%E5%BF%83%E5%91%98%E5%B7%A5%E6%B3%95%E9%99%A2%E4%B8%8A%E7%8F%AD%E9%97%AF%E5%A4%A7%E7%A5%B8",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            5,
-            4,
-            6,
-            12,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时02分 ~ 18时42分]"
-        },
         {
           "title": "张青松：把中央汇金公司建设成为中国特色鲜明、战略作用突出、专业优势明显的中央级国有金融资本受托管理机构",
           "url": "https://www.cls.cn/detail/2289328",
@@ -36,8 +19,52 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时55分 ~ 18时42分]"
+          "appearance_count": 9,
+          "time_info": "[12时55分 ~ 19时34分]"
+        },
+        {
+          "title": "知心员工法院上班闯大祸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350605&amp;topic_name=%E7%9F%A5%E5%BF%83%E5%91%98%E5%B7%A5%E6%B3%95%E9%99%A2%E4%B8%8A%E7%8F%AD%E9%97%AF%E5%A4%A7%E7%A5%B8",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            5,
+            4,
+            6,
+            12,
+            14,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[01时02分 ~ 19时34分]"
+        },
+        {
+          "title": "谷爱凌滑雪服上徽章和龙纹元素堆砌，让网友感慨这片土地缺乏审美教育，这件雪服设计是否存在问题？",
+          "url": "https://www.zhihu.com/question/2004949444588757656",
+          "source": "知乎",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时55分 ~ 19时34分]"
+        },
+        {
+          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
+          "url": "https://wallstreetcn.com/articles/3765624",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时27分 ~ 19时34分]"
         },
         {
           "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
@@ -51,16 +78,31 @@
           "time_info": "[01时02分 ~ 06时36分]"
         },
         {
-          "title": "谷爱凌滑雪服上徽章和龙纹元素堆砌，让网友感慨这片土地缺乏审美教育，这件雪服设计是否存在问题？",
-          "url": "https://www.zhihu.com/question/2004949444588757656",
-          "source": "知乎",
+          "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
+          "url": "https://wallstreetcn.com/articles/3765638",
+          "source": "华尔街见闻",
           "ranks": [
+            10,
+            9,
             5,
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时55分 ~ 18时42分]"
+          "appearance_count": 9,
+          "time_info": "[12时55分 ~ 19时34分]"
+        },
+        {
+          "title": "上海嘉闵线施工区域 48 小时内两次塌陷，目前情况如何？塌陷原因可能是什么？",
+          "url": "https://www.zhihu.com/question/2005349115236675947",
+          "source": "知乎",
+          "ranks": [
+            15,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时27分 ~ 19时34分]"
         },
         {
           "title": "美媒：整个施工队被移民执法局带走，包括合法工人",
@@ -75,43 +117,16 @@
           "time_info": "[01时02分 ~ 10时27分]"
         },
         {
-          "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
-          "url": "https://wallstreetcn.com/articles/3765638",
-          "source": "华尔街见闻",
+          "title": "父母花了几十万装修的房子",
+          "url": "https://s.weibo.com/weibo?q=%E7%88%B6%E6%AF%8D%E8%8A%B1%E4%BA%86%E5%87%A0%E5%8D%81%E4%B8%87%E8%A3%85%E4%BF%AE%E7%9A%84%E6%88%BF%E5%AD%90&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            9,
-            5
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时55分 ~ 18时42分]"
-        },
-        {
-          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
-          "url": "https://wallstreetcn.com/articles/3765624",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时27分 ~ 18时42分]"
-        },
-        {
-          "title": "上海嘉闵线施工区域 48 小时内两次塌陷，目前情况如何？塌陷原因可能是什么？",
-          "url": "https://www.zhihu.com/question/2005349115236675947",
-          "source": "知乎",
-          "ranks": [
-            15,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时27分 ~ 18时42分]"
+          "appearance_count": 6,
+          "time_info": "[15时14分 ~ 19时34分]"
         },
         {
           "title": "2月13日投资避雷针：信息披露可能误导投资者 这只太空光伏人气股遭上交所监管警示",
@@ -136,18 +151,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
-        },
-        {
-          "title": "父母花了几十万装修的房子",
-          "url": "https://s.weibo.com/weibo?q=%E7%88%B6%E6%AF%8D%E8%8A%B1%E4%BA%86%E5%87%A0%E5%8D%81%E4%B8%87%E8%A3%85%E4%BF%AE%E7%9A%84%E6%88%BF%E5%AD%90&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时14分 ~ 18时42分]"
         },
         {
           "title": "派拉蒙天舞（Paramount SkyDance）高管Ellison上周会见了美国总统特朗普。（CNN）",
@@ -249,7 +252,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
