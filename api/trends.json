@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T05:28:18.771287+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-02-15T06:27:28.513734+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时27分]"
         },
         {
           "title": "我们是施工方负责这个村的拆迁，发现有一户之前疑似使用 c140 混凝土盖的房子，机械拆不动该怎么办？",
@@ -28,8 +29,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时27分]"
         },
         {
           "title": "成都通报蒲江县有关项目招引建设问题",
@@ -39,8 +40,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时27分]"
         }
       ]
     }
