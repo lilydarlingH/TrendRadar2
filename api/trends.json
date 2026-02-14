@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T12:44:30.973750+08:00",
-  "total_titles_processed": 910,
+  "generated_at": "2026-02-14T13:47:55.696266+08:00",
+  "total_titles_processed": 978,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时51分 ~ 12时44分]"
+          "appearance_count": 18,
+          "time_info": "[00时51分 ~ 13时47分]"
         },
         {
           "title": "谷爱凌滑雪服上徽章和龙纹元素堆砌，让网友感慨这片土地缺乏审美教育，这件雪服设计是否存在问题？",
@@ -98,7 +98,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -120,7 +120,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         }
