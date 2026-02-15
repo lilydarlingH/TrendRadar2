@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T00:34:54.921854+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-16T01:29:28.653997+08:00",
+  "total_titles_processed": 345,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时29分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
           "url": "https://wallstreetcn.com/articles/3765755",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时29分]"
         },
         {
           "title": "斯洛伐克总理：希望在来年与美国西屋电气公司签署协议，牵头建设新的核电站。",
@@ -37,8 +38,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时29分]"
         }
       ]
     }
