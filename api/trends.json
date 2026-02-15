@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T07:28:27.555856+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-02-15T10:27:38.402082+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 3,
+      "match_count": 8,
       "titles": [
         {
           "title": "成都官方通报蒲江县有关项目招引建设问题调查情况",
@@ -16,11 +16,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 10时27分]"
         },
         {
           "title": "我们是施工方负责这个村的拆迁，发现有一户之前疑似使用 c140 混凝土盖的房子，机械拆不动该怎么办？",
@@ -30,8 +31,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 10时27分]"
         },
         {
           "title": "成都通报蒲江县有关项目招引建设问题",
@@ -43,6 +44,61 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时33分 ~ 07时28分]"
+        },
+        {
+          "title": "市场消息：澳大利亚将投资39亿澳元用于新建潜艇建造厂。",
+          "url": "https://flash.jin10.com/detail/20260215092441510800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "黑龙江：支持关键要素保障 予以重点推动建设",
+          "url": "https://flash.jin10.com/detail/20260215085831193800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "黑龙江：支持中试熟化平台建设及开展技术交易活动",
+          "url": "https://flash.jin10.com/detail/20260215085459393800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "黄金以旧换新国家标准已出台",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E5%B7%B2%E5%87%BA%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "黑龙江：支持生物制造项目建设 单个项目最高补助5000万元",
+          "url": "https://flash.jin10.com/detail/20260215084847242800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         }
       ]
     }
