@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T19:26:10.375238+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-02-15T20:55:48.569670+08:00",
+  "total_titles_processed": 1163,
   "failed_sources": [],
   "trends": [
     {
@@ -85,11 +85,12 @@
             5,
             10,
             13,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时44分 ~ 19时26分]"
+          "appearance_count": 6,
+          "time_info": "[15时44分 ~ 20时55分]"
         },
         {
           "title": "习近平：着力稳定房地产市场 深化住房公积金制度改革",
@@ -99,11 +100,12 @@
             5,
             9,
             12,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时44分 ~ 19时26分]"
+          "appearance_count": 6,
+          "time_info": "[15时44分 ~ 20时55分]"
         },
         {
           "title": "习近平：要坚持内需主导，建设强大国内市场",
@@ -113,11 +115,12 @@
             9,
             13,
             16,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时44分 ~ 19时26分]"
+          "appearance_count": 6,
+          "time_info": "[15时44分 ~ 20时55分]"
         },
         {
           "title": "《公园城市建设评价指南》国家标准发布",
