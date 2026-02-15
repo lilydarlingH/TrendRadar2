@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T01:29:28.653997+08:00",
-  "total_titles_processed": 345,
+  "generated_at": "2026-02-16T02:40:41.793720+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时40分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时40分]"
         },
         {
           "title": "斯洛伐克总理：希望在来年与美国西屋电气公司签署协议，牵头建设新的核电站。",
@@ -38,8 +38,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时40分]"
         }
       ]
     }
