@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T04:31:03.588736+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-02-16T05:28:50.746315+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 05时28分]"
         },
         {
           "title": "巴勒斯坦总统府：以土地新规构成对巴领土的“事实吞并”",
@@ -25,11 +25,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 05时28分]"
         },
         {
           "title": "斯洛伐克总理：希望在来年与美国西屋电气公司签署协议，牵头建设新的核电站。",
@@ -37,11 +38,12 @@
           "source": "金十数据",
           "ranks": [
             14,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 05时28分]"
         }
       ]
     }
