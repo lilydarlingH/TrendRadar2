@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T06:32:29.375689+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2026-02-17T07:33:01.253365+08:00",
+  "total_titles_processed": 598,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             1,
             5,
             15,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时47分 ~ 06时32分]"
+          "appearance_count": 6,
+          "time_info": "[02时47分 ~ 07时33分]"
         },
         {
           "title": "联合国敦促以色列撤销约旦河西岸土地登记措施。",
@@ -40,11 +41,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时32分]"
+          "appearance_count": 3,
+          "time_info": "[05时32分 ~ 07时33分]"
         }
       ]
     }
