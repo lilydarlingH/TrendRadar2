@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T13:02:42.178277+08:00",
-  "total_titles_processed": 769,
+  "generated_at": "2026-02-16T14:13:55.781427+08:00",
+  "total_titles_processed": 830,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             10,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 13时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 14时13分]"
         },
         {
           "title": "巴勒斯坦总统府：以土地新规构成对巴领土的“事实吞并”",
@@ -77,11 +78,12 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时15分 ~ 13时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时15分 ~ 14时13分]"
         },
         {
           "title": "英国2月Rightmove平均房屋要价指数同比 0%，前值 0.5%。",
@@ -92,8 +94,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[10时16分 ~ 14时13分]"
         },
         {
           "title": "英国2月Rightmove平均房屋要价指数环比 0%，前值 2.8%。",
@@ -104,8 +106,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[10时16分 ~ 14时13分]"
         },
         {
           "title": "新西兰1月服务业温和扩张 但信心与招聘仍显低迷",
@@ -125,7 +127,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         }
