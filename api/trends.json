@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T17:53:52.931801+08:00",
-  "total_titles_processed": 1228,
+  "generated_at": "2026-02-17T18:49:27.780321+08:00",
+  "total_titles_processed": 1312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "阿尔及利亚国家石油天然气公司Sonatrach将在尼日利亚境内开工建设一条天然气管道。",
@@ -23,13 +23,24 @@
           "time_info": "[02时47分 ~ 07时33分]"
         },
         {
+          "title": "朝鲜称已完成5万套住宅目标，金正恩携女儿出席典礼",
+          "url": "https://news.ifeng.com/c/8qp1cX8IZm1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "特斯拉在韩国招聘人工智能芯片设计工程师",
           "url": "https://flash.jin10.com/detail/20260217172514312800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -93,6 +104,17 @@
           "time_info": "16时52分"
         },
         {
+          "title": "约旦等八国联合谴责以色列在约旦河西岸土地新规",
+          "url": "https://wallstreetcn.com/livenews/3055934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "报告显示我国人工智能治理体系建设加速演进",
           "url": "https://flash.jin10.com/detail/20260217120307895800",
           "source": "金十数据",
@@ -110,9 +132,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
+        },
+        {
+          "title": "约旦等八国联合谴责以色列在约旦河西岸土地新规",
+          "url": "https://flash.jin10.com/detail/20260217174640690800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         }
       ]
     }
