@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T21:08:36.889925+08:00",
-  "total_titles_processed": 1516,
+  "generated_at": "2026-02-17T22:49:09.658371+08:00",
+  "total_titles_processed": 1648,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "朝鲜称已完成5万套住宅目标，金正恩携女儿出席典礼",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时49分 ~ 21时08分]"
+          "appearance_count": 5,
+          "time_info": "[18时49分 ~ 22时49分]"
         },
         {
           "title": "阿尔及利亚国家石油天然气公司Sonatrach将在尼日利亚境内开工建设一条天然气管道。",
@@ -92,6 +92,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
+          "title": "德国经济部官员谈及施韦特炼油厂：我们正与美国当局就延长俄罗斯石油德国公司（Rosneft Deutschland）的外国资产控制办公室（OFAC）通用许可证进行非常密切和建设性的对话。",
+          "url": "https://flash.jin10.com/detail/20260217222245462800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "阿达尼计划在2035年前投资1000亿美元用于建设AI数据中心",
