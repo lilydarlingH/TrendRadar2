@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T01:01:16.108766+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-18T02:01:23.817344+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://news.ifeng.com/c/8qp1cX8IZm1",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 02时01分]"
         },
         {
           "title": "全美住宅建筑商协会（NAHB）主席、来自北卡罗来纳州的建筑商Buddy Hughes：尽管美国大多数建筑商仍在提供降价在内的购房激励措施，但许多潜在买家仍选择观望。 虽然新建住宅需求走弱，但由于家庭流动性不足，翻修需求依然稳健。",
@@ -25,7 +26,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
         },
@@ -36,7 +37,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
         }
