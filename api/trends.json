@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T06:37:28.907915+08:00",
-  "total_titles_processed": 607,
+  "generated_at": "2026-02-19T07:34:00.396561+08:00",
+  "total_titles_processed": 671,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时37分]"
+          "appearance_count": 3,
+          "time_info": "[05时38分 ~ 07时34分]"
         },
         {
           "title": "美国总统特朗普：这片土地不应从英国手中夺走，如果允许这种情况发生，这将是我们伟大盟友身上的一大污点。",
