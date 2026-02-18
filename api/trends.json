@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T22:48:16.972219+08:00",
-  "total_titles_processed": 1762,
+  "generated_at": "2026-02-18T23:56:21.280329+08:00",
+  "total_titles_processed": 1856,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "朝鲜称已完成5万套住宅目标，金正恩携女儿出席典礼",
@@ -57,15 +57,15 @@
           "time_info": "17时53分"
         },
         {
-          "title": "美国新屋开工创五个月高位 建筑许可同步上升",
-          "url": "https://wallstreetcn.com/livenews/3056359",
-          "source": "华尔街见闻-快讯",
+          "title": "美国纽约州州长表示，在美国总统特朗普政府解冻剩余资金后，纽约隧道建设将恢复。",
+          "url": "https://flash.jin10.com/detail/20260218233358175800",
+          "source": "金十数据",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时48分"
+          "time_info": "23时56分"
         },
         {
           "title": "美股大类资产类ETF多数下跌，黄金ETF收跌超3.1%，地产ETF涨超0.9%",
@@ -81,6 +81,18 @@
           "time_info": "[05时39分 ~ 07时33分]"
         },
         {
+          "title": "美国新屋开工创五个月高位 建筑许可同步上升",
+          "url": "https://wallstreetcn.com/livenews/3056359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时56分]"
+        },
+        {
           "title": "泽连斯基：各方在军事问题上都表现出了建设性态度。 各方同意，如果战争结束，美国将协助监督停火。 各方将在后续会谈中讨论政治问题。",
           "url": "https://wallstreetcn.com/livenews/3056293",
           "source": "华尔街见闻-快讯",
@@ -91,6 +103,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时42分 ~ 21时09分]"
+        },
+        {
+          "title": "强生(JNJ.N)：在宾夕法尼亚州蒙哥马利县投资超过10亿美元建设细胞治疗制造工厂。",
+          "url": "https://flash.jin10.com/detail/20260218231549089800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "乌克兰总统泽连斯基：各方在军事问题上都展现了建设性态度。",
