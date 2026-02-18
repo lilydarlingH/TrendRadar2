@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T19:42:46.657275+08:00",
-  "total_titles_processed": 1503,
+  "generated_at": "2026-02-18T21:09:30.538395+08:00",
+  "total_titles_processed": 1621,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "朝鲜称已完成5万套住宅目标，金正恩携女儿出席典礼",
@@ -27,11 +27,12 @@
             23,
             4,
             10,
-            9
+            9,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时53分 ~ 19时42分]"
+          "appearance_count": 7,
+          "time_info": "[15时53分 ~ 21时09分]"
         },
         {
           "title": "美联储理事巴尔：低招聘、低解雇的就业市场缺乏活力，易受冲击。",
@@ -73,11 +74,12 @@
           "url": "https://wallstreetcn.com/livenews/3056293",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 21时09分]"
         },
         {
           "title": "乌克兰总统泽连斯基：各方在军事问题上都展现了建设性态度。",
@@ -100,6 +102,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "优步还将在重点城市的便利停车点建设直流快速充电站。",
+          "url": "https://flash.jin10.com/detail/20260218200042300800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "美国住宅建筑商信心指数跌至五个月低点，受可负担性困扰拖累",
