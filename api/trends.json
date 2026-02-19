@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T19:41:26.947023+08:00",
-  "total_titles_processed": 1493,
+  "generated_at": "2026-02-19T21:10:58.258329+08:00",
+  "total_titles_processed": 1586,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时48分 ~ 19时41分]"
+          "appearance_count": 8,
+          "time_info": "[16时48分 ~ 21时10分]"
         },
         {
           "title": "能源业ETF收涨1.92%，半导体ETF涨1.24%，网络股指数ETF、全球科技股指数ETF、科技行业ETF至少涨1.03%，领跑美股行业ETF，公用事业ETF跌1.66%。 标普500指数的11个板块中，能源板块收涨2%，可选消费板块涨1%，信息技术/科技板块涨0.97%，房地产板块收跌1.45%，公用事业板块跌1.7%。",
@@ -39,11 +40,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时46分 ~ 19时41分]"
+          "appearance_count": 3,
+          "time_info": "[18时46分 ~ 21时10分]"
         },
         {
           "title": "欧元区12月季调后建筑业产出环比 0.9%，前值 -1.1%。",
@@ -51,11 +53,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时46分 ~ 19时41分]"
+          "appearance_count": 3,
+          "time_info": "[18时46分 ~ 21时10分]"
         },
         {
           "title": "美国总统特朗普：这片土地不应从英国手中夺走，如果允许这种情况发生，这将是我们伟大盟友身上的一大污点。",
