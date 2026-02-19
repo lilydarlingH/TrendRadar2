@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T21:10:58.258329+08:00",
-  "total_titles_processed": 1586,
+  "generated_at": "2026-02-19T22:52:02.739787+08:00",
+  "total_titles_processed": 1690,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "“这很难，但我相信你们”！黄仁勋上周宴请SK海力士工程师，亲自敬酒，敦促“无延迟交付HBM4”",
@@ -18,8 +18,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时48分 ~ 21时10分]"
+          "appearance_count": 10,
+          "time_info": "[16时48分 ~ 22时52分]"
+        },
+        {
+          "title": "梅德韦杰夫：中国是俄罗斯建设高铁的榜样",
+          "url": "https://news.ifeng.com/c/8qsdXOMcFz1",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 22时52分]"
         },
         {
           "title": "能源业ETF收涨1.92%，半导体ETF涨1.24%，网络股指数ETF、全球科技股指数ETF、科技行业ETF至少涨1.03%，领跑美股行业ETF，公用事业ETF跌1.66%。 标普500指数的11个板块中，能源板块收涨2%，可选消费板块涨1%，信息技术/科技板块涨0.97%，房地产板块收跌1.45%，公用事业板块跌1.7%。",
