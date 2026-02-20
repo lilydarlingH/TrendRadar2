@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T17:45:03.770934+08:00",
-  "total_titles_processed": 1364,
+  "generated_at": "2026-02-20T18:41:10.087858+08:00",
+  "total_titles_processed": 1425,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "“这很难，但我相信你们”！黄仁勋上周宴请SK海力士工程师，亲自敬酒，敦促“无延迟交付HBM4”",
@@ -66,6 +66,17 @@
           "time_info": "[12时49分 ~ 12时50分]"
         },
         {
+          "title": "印度总理莫迪：在与联合国秘书长古特雷斯的会议中，我们讨论了如何让人工智能更加包容，以及联合国在这方面可以发挥的建设性作用。",
+          "url": "https://flash.jin10.com/detail/20260220175614458800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "捷克央行副行长：如果服务业和房地产价格走势趋于平稳，利率可能有下调25个基点的空间。",
           "url": "https://flash.jin10.com/detail/20260220155952305800",
           "source": "金十数据",
@@ -83,7 +94,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
