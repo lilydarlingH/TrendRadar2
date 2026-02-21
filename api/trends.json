@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T21:45:06.549262+08:00",
-  "total_titles_processed": 1394,
+  "generated_at": "2026-02-21T22:30:52.987877+08:00",
+  "total_titles_processed": 1440,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             14,
             8,
             9,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时35分 ~ 21时45分]"
+          "appearance_count": 10,
+          "time_info": "[16时35分 ~ 22时30分]"
         },
         {
           "title": "戍边11年女儿悄悄回家扮成物业见妈",
@@ -59,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 21时45分]"
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 22时30分]"
         }
       ]
     }
