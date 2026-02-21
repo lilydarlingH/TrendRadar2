@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T06:27:59.111619+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-02-22T07:28:04.284927+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3057188",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 07时28分]"
         },
         {
           "title": "智库：中国核潜艇建设进步惊人",
@@ -25,7 +26,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
         }
