@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T02:39:33.994421+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-02-23T03:28:40.702404+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时28分]"
         },
         {
           "title": "日本晴空塔电梯急速下降 数人被困",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%99%B4%E7%A9%BA%E5%A1%94%E7%94%B5%E6%A2%AF%E6%80%A5%E9%80%9F%E4%B8%8B%E9%99%8D+%E6%95%B0%E4%BA%BA%E8%A2%AB%E5%9B%B0",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时28分]"
         }
       ]
     }
