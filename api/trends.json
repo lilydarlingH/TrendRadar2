@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T14:53:14.416788+08:00",
-  "total_titles_processed": 804,
+  "generated_at": "2026-02-22T15:39:09.025331+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             15,
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时51分 ~ 14时53分]"
+          "appearance_count": 4,
+          "time_info": "[12时51分 ~ 15时39分]"
         },
         {
           "title": "长城汽车打响马年招聘第一枪",
