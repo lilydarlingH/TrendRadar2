@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T15:57:58.885218+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-02-23T16:55:36.949172+08:00",
+  "total_titles_processed": 1094,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             6,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 15时57分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 16时55分]"
         },
         {
           "title": "特朗普大厦将落地黄金海岸 成为澳大利亚最高建筑之一",
