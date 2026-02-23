@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T22:51:46.657206+08:00",
-  "total_titles_processed": 1562,
+  "generated_at": "2026-02-23T23:50:47.032006+08:00",
+  "total_titles_processed": 1652,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "智谱发布GLM-5技术细节：工程级智能，适配国产算力",
@@ -67,9 +67,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
+        },
+        {
+          "title": "德国汽车工业协会VDA：（就美国关税）我们期待美国与欧盟展开迅速而建设性的对话，以防止局势进一步升级，并尽快提供亟需的明确性。",
+          "url": "https://flash.jin10.com/detail/20260223225952683800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         }
       ]
     }
