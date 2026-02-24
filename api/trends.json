@@ -1,112 +1,22 @@
 {
-  "generated_at": "2026-02-24T22:54:14.244714+08:00",
-  "total_titles_processed": 1726,
+  "generated_at": "2026-02-25T00:03:54.932978+08:00",
+  "total_titles_processed": 317,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 9,
+      "match_count": 1,
       "titles": [
         {
-          "title": "亚马逊(AMZN.O)：与园区的开发商和所有者Stack Infrastructure合作，主导数据中心设施的建设和开发。",
-          "url": "https://flash.jin10.com/detail/20260224032252229800",
-          "source": "金十数据",
+          "title": "假如工业革命发生在中国，那中国传统建筑会长什么样？",
+          "url": "https://www.zhihu.com/question/636635538",
+          "source": "知乎",
           "ranks": [
-            9,
-            20
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时54分]"
-        },
-        {
-          "title": "亚马逊(AMZN.O)：将在路易斯安那州投资120亿美元建设首个数据中心园区。",
-          "url": "https://flash.jin10.com/detail/20260224032122677800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时54分]"
-        },
-        {
-          "title": "广州市6部门联合整治房地产自媒体乱象",
-          "url": "https://wallstreetcn.com/livenews/3058045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 18时53分]"
-        },
-        {
-          "title": "美联储古尔斯比：低招聘、低解雇，源于不确定性，而这种不确定性似乎将随着最高法院的关税裁决而继续存在。",
-          "url": "https://flash.jin10.com/detail/20260224210321589800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "美联储古尔斯比：低招聘是一个警示信号，但受到不确定性驱动。",
-          "url": "https://flash.jin10.com/detail/20260224210247990800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "电价攀升惹民怨，特朗普要求美国科技公司承诺自掏腰包建设AI数据中心",
-          "url": "https://wallstreetcn.com/livenews/3057913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "上海市公安局公开招聘1100名辅警",
-          "url": "https://www.toutiao.com/trending/7609482774814375986/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        },
-        {
-          "title": "春节期间光伏各环节呈现累库 节后将有望迎来改善",
-          "url": "https://wallstreetcn.com/livenews/3057906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "市场消息：以色列宣布启动海上天然气勘探招标活动。",
-          "url": "https://flash.jin10.com/detail/20260224205226864800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
+          "time_info": "[00时02分 ~ 00时03分]"
         }
       ]
     }
