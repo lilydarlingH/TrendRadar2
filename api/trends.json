@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T04:40:02.123000+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-02-25T05:39:45.656591+08:00",
+  "total_titles_processed": 594,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/636635538",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 05时39分]"
         },
         {
           "title": "瑞士央行行长Schlegel：当前经济增长的很大一部分来自服务业。 瑞士企业称，招聘员工变得更加容易。 央行预计，瑞士经济将在2026年增长大约1%，通胀将在未来几个季度加速。 2026年可能会出现个别月份通胀为负值的情况。 央行政策将保持宽松状态。",
