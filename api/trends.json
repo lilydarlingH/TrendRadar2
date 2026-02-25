@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T05:38:41.805839+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2026-02-26T06:37:22.567297+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【焦点复盘】市场量价齐升行情延续，资源股热度居高不下，地产股盘中异军突起",
@@ -16,8 +16,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 05时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 06时37分]"
         },
         {
           "title": "8房企竞价243轮鏖战近9小时 越秀236亿圈得广州住宅单价地王",
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 05时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 06时37分]"
         },
         {
           "title": "基金会主席竟是爱泼斯坦的常客！普利兹克建筑奖被迫推迟公布",
@@ -37,11 +37,23 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 05时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 06时37分]"
+        },
+        {
+          "title": "深圳一均价七万的住宅遭粪水倒灌，物业：已统计损失",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32653029",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 06时37分]"
         }
       ]
     }
