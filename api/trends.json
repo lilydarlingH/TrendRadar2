@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T18:27:22.596141+08:00",
-  "total_titles_processed": 1443,
+  "generated_at": "2026-02-25T18:55:51.165479+08:00",
+  "total_titles_processed": 1499,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "上海发布楼市「沪七条」，符合条件非沪籍居民可在外环内增购 1 套住房，对房地产市场有何影响？",
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时55分 ~ 18时27分]"
+          "appearance_count": 6,
+          "time_info": "[15时55分 ~ 18时55分]"
         },
         {
           "title": "寒假作业烂尾工程开工了",
@@ -27,11 +28,12 @@
           "ranks": [
             24,
             18,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时55分 ~ 18时27分]"
+          "appearance_count": 6,
+          "time_info": "[15时55分 ~ 18时55分]"
         },
         {
           "title": "假如工业革命发生在中国，那中国传统建筑会长什么样？",
@@ -156,6 +158,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "SK海力士将投资150亿美元在龙仁建造新设施",
+          "url": "https://wallstreetcn.com/livenews/3058763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         }
       ]
     }
