@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-27T02:02:51.873183+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2026-02-27T03:07:46.636999+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美国总统特朗普：负责审理这座将成为世界上最美丽宴会厅项目的法官，刚刚驳回并彻底否决了试图阻止其建设的努力。这座宴会厅预计未来还将用于总统就职典礼及大型国事访问活动，目前建设进度提前且低于预算。",
+          "url": "https://flash.jin10.com/detail/20260227022534308800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
         {
           "title": "市场消息：美国食品药品监督管理局（FDA）正招聘逾1000名新科学家，以加快药品审评。",
           "url": "https://flash.jin10.com/detail/20260227012654161800",
@@ -14,7 +25,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         }
