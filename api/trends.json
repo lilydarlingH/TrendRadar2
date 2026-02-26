@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T14:01:06.879691+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-02-26T15:13:37.152366+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时06分 ~ 14时01分]"
+          "appearance_count": 16,
+          "time_info": "[00时06分 ~ 15时13分]"
         },
         {
           "title": "8房企竞价243轮鏖战近9小时 越秀236亿圈得广州住宅单价地王",
@@ -37,18 +37,6 @@
           "time_info": "[00时06分 ~ 10时11分]"
         },
         {
-          "title": "【焦点复盘】市场量价齐升行情延续，资源股热度居高不下，地产股盘中异军突起",
-          "url": "https://www.cls.cn/detail/2294833",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 07时33分]"
-        },
-        {
           "title": "深圳一均价七万的住宅遭粪水倒灌，物业：已统计损失",
           "url": "https://m.thepaper.cn/newsDetail_forward_32653029",
           "source": "澎湃新闻",
@@ -60,8 +48,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时36分 ~ 14时01分]"
+          "appearance_count": 10,
+          "time_info": "[06时36分 ~ 15时13分]"
+        },
+        {
+          "title": "【焦点复盘】市场量价齐升行情延续，资源股热度居高不下，地产股盘中异军突起",
+          "url": "https://www.cls.cn/detail/2294833",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 07时33分]"
         },
         {
           "title": "企业招聘限男性限已婚已育",
