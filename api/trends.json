@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T04:31:29.462589+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2026-02-28T05:33:30.207612+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 05时33分]"
         },
         {
           "title": "特朗普发布白宫宴会厅完工效果图，称其为“同类建筑中最宏伟的一座”。",
@@ -36,7 +36,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
