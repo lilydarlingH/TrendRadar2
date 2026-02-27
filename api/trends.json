@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T14:58:32.994818+08:00",
-  "total_titles_processed": 1189,
+  "generated_at": "2026-02-27T15:51:34.072794+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,35 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 14时58分]"
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 15时51分]"
+        },
+        {
+          "title": "今年我国计划实施2次载人飞行任务，全力推进登月配套设施建设",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32663913",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 15时51分]"
+        },
+        {
+          "title": "2026年计划实施2次载人飞行任务 全力推进登月配套设施建设",
+          "url": "https://www.cls.cn/detail/2296644",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 15时51分]"
         },
         {
           "title": "海南商业航天发射场火箭发射使用燃料招标结果出炉",
@@ -31,32 +58,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时55分 ~ 14时58分]"
-        },
-        {
-          "title": "2026年计划实施2次载人飞行任务 全力推进登月配套设施建设",
-          "url": "https://www.cls.cn/detail/2296644",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 14时58分]"
-        },
-        {
-          "title": "今年我国计划实施2次载人飞行任务，全力推进登月配套设施建设",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32663913",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 14时58分]"
         },
         {
           "title": "恒生指数午后涨幅扩大至1%。新鸿基地产涨超6%，药明生物涨超4%。",
