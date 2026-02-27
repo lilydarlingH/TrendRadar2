@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T02:47:18.160983+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-02-28T03:36:36.827448+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "今年我国计划实施2次载人飞行任务，全力推进登月配套设施建设",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 02时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 03时36分]"
         },
         {
           "title": "特朗普发布白宫宴会厅完工效果图，称其为“同类建筑中最宏伟的一座”。",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：关税已对诺华产生影响，并促使其杰出的领导人、医学博士瓦桑特·纳拉辛汉建设7个以上的制造和研发设施，创造了数以千计的就业岗位。激进左派以及那些就关税提起诉讼的“狂人”对此拒而不谈，但数百家其他公司也正在发生同样的情况。",
+          "url": "https://flash.jin10.com/detail/20260228023117307800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时36分"
         }
       ]
     }
