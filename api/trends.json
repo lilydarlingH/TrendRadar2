@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T15:51:34.072794+08:00",
-  "total_titles_processed": 1277,
+  "generated_at": "2026-02-27T16:44:14.636546+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             6,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时09分 ~ 15时51分]"
+          "appearance_count": 7,
+          "time_info": "[10时09分 ~ 16时44分]"
         },
         {
           "title": "今年我国计划实施2次载人飞行任务，全力推进登月配套设施建设",
@@ -31,8 +32,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时09分 ~ 15时51分]"
+          "appearance_count": 7,
+          "time_info": "[10时09分 ~ 16时44分]"
         },
         {
           "title": "2026年计划实施2次载人飞行任务 全力推进登月配套设施建设",
@@ -44,8 +45,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时09分 ~ 15时51分]"
+          "appearance_count": 7,
+          "time_info": "[10时09分 ~ 16时44分]"
         },
         {
           "title": "海南商业航天发射场火箭发射使用燃料招标结果出炉",
