@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T01:24:00.650258+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-03-01T02:37:31.506842+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 01时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 02时37分]"
         },
         {
           "title": "3月起一批国家标准开始实施",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 01时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 02时37分]"
         },
         {
           "title": "我国最大采煤沉陷区光伏基地投运",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 01时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 02时37分]"
         },
         {
           "title": "巴林内政部：巴林首都多栋住宅楼遭袭击。",
@@ -47,7 +47,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         },
