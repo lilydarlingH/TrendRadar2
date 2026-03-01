@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T06:27:59.721762+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2026-03-02T07:27:28.524603+08:00",
+  "total_titles_processed": 630,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             9,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时31分 ~ 06时27分]"
+          "appearance_count": 4,
+          "time_info": "[04时31分 ~ 07时27分]"
         },
         {
           "title": "美国总统特朗普：（谈伊朗）我们已经打击了数百个目标，包括伊朗伊斯兰革命卫队设施、防空系统以及九艘船只以及海军建设设施。",
