@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T18:46:19.463305+08:00",
-  "total_titles_processed": 1628,
+  "generated_at": "2026-03-02T19:34:53.375161+08:00",
+  "total_titles_processed": 1730,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             17,
             15,
             11,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时51分 ~ 18时46分]"
+          "appearance_count": 12,
+          "time_info": "[12时51分 ~ 19时34分]"
         },
         {
           "title": "税收数据显示：2025年全国统一大市场建设纵深推进",
