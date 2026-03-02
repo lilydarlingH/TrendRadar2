@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T13:56:00.760630+08:00",
-  "total_titles_processed": 1092,
+  "generated_at": "2026-03-02T15:03:13.849314+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "url": "https://www.zhihu.com/question/2011456905860626047",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时51分 ~ 13时56分]"
+          "appearance_count": 5,
+          "time_info": "[12时51分 ~ 15时03分]"
         },
         {
           "title": "美国总统特朗普：（谈伊朗）我们已经打击了数百个目标，包括伊朗伊斯兰革命卫队设施、防空系统以及九艘船只以及海军建设设施。",
@@ -73,7 +74,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         }
