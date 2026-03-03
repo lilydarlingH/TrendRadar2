@@ -1,162 +1,22 @@
 {
-  "generated_at": "2026-03-03T23:53:50.213925+08:00",
-  "total_titles_processed": 2116,
+  "generated_at": "2026-03-04T00:54:12.510788+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 18,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "高标准建设海南自由贸易港",
-          "url": "https://www.douyin.com/hot/2417662",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时44分 ~ 19时35分]"
-        },
-        {
-          "title": "哈啰就「仅招 30 岁以下员工」致歉，企业招聘设年龄门槛的深层原因是什么？",
-          "url": "https://www.zhihu.com/question/2011917067603960879",
-          "source": "知乎",
-          "ranks": [
-            14,
-            17,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时44分 ~ 21时03分]"
-        },
-        {
-          "title": "美以伊战争最新动态｜以军空袭伊朗总统府等建筑群",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时35分 ~ 21时03分]"
-        },
-        {
-          "title": "以称空袭伊总统府等“领导层建筑群”",
-          "url": "https://www.toutiao.com/trending/7612964975589461513/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            22,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时42分 ~ 22时06分]"
-        },
         {
           "title": "外国人在中国的装修日记",
           "url": "https://www.douyin.com/hot/2417747",
           "source": "抖音",
           "ranks": [
-            10,
-            12,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时03分 ~ 23时53分]"
-        },
-        {
-          "title": "你看好超级个体，一人公司（OPC）吗？为什么？",
-          "url": "https://www.zhihu.com/question/2004938442837092198",
-          "source": "知乎",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时48分]"
-        },
-        {
-          "title": "以称空袭伊朗总统府等领导层建筑群",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E7%A7%B0%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%BA%9C%E7%AD%89%E9%A2%86%E5%AF%BC%E5%B1%82%E5%BB%BA%E7%AD%91%E7%BE%A4",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时42分 ~ 21时03分]"
-        },
-        {
-          "title": "让沉默的建筑新生中央塔灯光秀",
-          "url": "https://www.douyin.com/hot/2417899",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时35分"
-        },
-        {
-          "title": "国际原子能机构：国际原子能机构现已能够确认伊朗纳坦兹地下铀浓缩设施入口建筑近期遭受部分损毁。",
-          "url": "https://flash.jin10.com/detail/20260303172549759800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        },
-        {
-          "title": "以军称空袭伊朗总统府等“领导层建筑群”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32692062",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时35分"
-        },
-        {
-          "title": "国家能源局召：扎实推进全国统一电力市场建设 为建设能源强国提供坚强保障",
-          "url": "https://wallstreetcn.com/livenews/3062715",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "对话全国政协委员刘永好：建议面向工业制造、农牧业、医疗护理等场景，建设具身智能数据采集训练中心",
-          "url": "https://www.cls.cn/detail/2300665",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时35分"
-        },
-        {
-          "title": "安联集团正收购德国境内11个正在建设中的电池储能项目中的50%股权。",
-          "url": "https://flash.jin10.com/detail/20260303153214702800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 00时54分]"
         },
         {
           "title": "以色列出动 100 架战斗机投下 250 多枚炸弹，空袭伊朗总统府等「领导层建筑群」，背后是什么战略？",
@@ -165,53 +25,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 00时54分]"
         },
         {
           "title": "以方人士称以军袭击伊朗最高领袖选举机构建筑",
           "url": "https://wallstreetcn.com/livenews/3062859",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时53分"
-        },
-        {
-          "title": "力拓集团：正在计划在同一场地建设一座年产能高达4吨镓的示范工厂。",
-          "url": "https://flash.jin10.com/detail/20260303002237061800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
-        },
-        {
-          "title": "以军称打死一名真主党兵力建设关键人物",
-          "url": "https://flash.jin10.com/detail/20260303162258657800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "六部门：加快研究制定废旧光伏组件综合利用行业规范条件",
-          "url": "https://wallstreetcn.com/livenews/3062372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
+          "time_info": "00时54分"
         }
       ]
     }
