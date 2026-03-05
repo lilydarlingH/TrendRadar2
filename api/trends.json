@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T02:08:03.468670+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-03-06T03:54:41.581737+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时07分 ~ 02时08分]"
+          "appearance_count": 3,
+          "time_info": "[02时07分 ~ 03时54分]"
         },
         {
           "title": "怎么查水电",
           "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E6%9F%A5%E6%B0%B4%E7%94%B5",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时07分 ~ 02时08分]"
+          "appearance_count": 3,
+          "time_info": "[02时07分 ~ 03时54分]"
         },
         {
           "title": "网传东北大学控制工程专业考研初试第一 457 分，450 仅排第 5，403 排 201，为什么高分这么多？",
           "url": "https://www.zhihu.com/question/2011830471055602625",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时07分 ~ 02时08分]"
+          "appearance_count": 3,
+          "time_info": "[02时07分 ~ 03时54分]"
         },
         {
           "title": "伊朗外长阿拉格齐：我们没有攻击我们的邻国和穆斯林国家。我们攻击的是美国的目标和美国的基地与设施，而这些不幸地位于我们邻国的土地上。",
@@ -47,7 +49,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
         }
