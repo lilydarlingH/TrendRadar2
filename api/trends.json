@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T13:52:28.721165+08:00",
-  "total_titles_processed": 1113,
+  "generated_at": "2026-03-05T14:57:00.802314+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,36 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 13时52分]"
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 14时57分]"
         },
         {
           "title": "全国政协委员李芸：以主流媒体为载体，加快建设自主可控经济数据国际传播体系",
           "url": "https://m.thepaper.cn/newsDetail_forward_32696739",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 13时52分]"
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 14时57分]"
+        },
+        {
+          "title": "物业费为什么越来越难收了",
+          "url": "https://www.baidu.com/s?wd=%E7%89%A9%E4%B8%9A%E8%B4%B9%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE%E6%94%B6%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 14时57分]"
         },
         {
           "title": "物业费越来越难收",
@@ -40,17 +54,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "物业费为什么越来越难收了",
-          "url": "https://www.baidu.com/s?wd=%E7%89%A9%E4%B8%9A%E8%B4%B9%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE%E6%94%B6%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 13时52分]"
         },
         {
           "title": "李强在政府工作报告中提出，着力建设强大国内市场",
