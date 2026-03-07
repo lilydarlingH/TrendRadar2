@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T19:23:26.828732+08:00",
-  "total_titles_processed": 1462,
+  "generated_at": "2026-03-07T20:52:30.943369+08:00",
+  "total_titles_processed": 1546,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "十五五109项重大工程项目思维导图",
@@ -298,6 +298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
+        },
+        {
+          "title": "美国记者塔克·卡尔森：以色列是世界上最丑陋的国家之一。自1948年以来，他们就没有建造过任何美丽的东西。",
+          "url": "https://flash.jin10.com/detail/20260307190851062800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "全国人大代表、通威集团董事局主席刘汉元：建议将光伏制造环节纳入能源行业管理",
