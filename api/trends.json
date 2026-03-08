@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T22:28:36.415062+08:00",
-  "total_titles_processed": 1471,
+  "generated_at": "2026-03-08T23:27:35.528179+08:00",
+  "total_titles_processed": 1527,
   "failed_sources": [],
   "trends": [
     {
@@ -35,8 +35,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时46分 ~ 22时28分]"
+          "appearance_count": 12,
+          "time_info": "[14时46分 ~ 23时27分]"
         },
         {
           "title": "物业撤场后小区有人开始圈地建院子",
@@ -48,8 +48,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时24分 ~ 21时43分]"
+          "appearance_count": 6,
+          "time_info": "[19时24分 ~ 23时27分]"
         },
         {
           "title": "伊朗总统：绝不允许敌人侵占一寸土地",
@@ -139,7 +139,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
