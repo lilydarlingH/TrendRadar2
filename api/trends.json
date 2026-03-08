@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T17:33:28.311250+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2026-03-08T18:29:24.726432+08:00",
+  "total_titles_processed": 1181,
   "failed_sources": [],
   "trends": [
     {
@@ -13,35 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时33分 ~ 17时33分]"
-        },
-        {
-          "title": "伊朗总统：绝不允许敌人侵占一寸土地",
-          "url": "https://flash.jin10.com/detail/20260308161543134800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 17时33分]"
-        },
-        {
-          "title": "巴林：哈拉格市一大学建筑遭伊朗袭击，致三人受伤及物质损毁。",
-          "url": "https://flash.jin10.com/detail/20260308135131747800",
-          "source": "金十数据",
-          "ranks": [
             5,
-            18
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时46分 ~ 15时33分]"
+          "appearance_count": 4,
+          "time_info": "[15时33分 ~ 18时29分]"
         },
         {
           "title": "纪录片《超大城市的一平米》发布，揭秘上海民生工程背后的系统治理",
@@ -54,8 +31,33 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时46分 ~ 17时33分]"
+          "appearance_count": 5,
+          "time_info": "[14时46分 ~ 18时29分]"
+        },
+        {
+          "title": "伊朗总统：绝不允许敌人侵占一寸土地",
+          "url": "https://flash.jin10.com/detail/20260308161543134800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 18时29分]"
+        },
+        {
+          "title": "巴林：哈拉格市一大学建筑遭伊朗袭击，致三人受伤及物质损毁。",
+          "url": "https://flash.jin10.com/detail/20260308135131747800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时46分 ~ 15时33分]"
         },
         {
           "title": "代表建议把物业管理改为物业服务",
