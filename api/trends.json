@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T05:27:25.780785+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-03-09T06:27:46.251689+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "物业撤场后小区有人开始圈地建院子",
@@ -27,11 +27,12 @@
             27,
             22,
             25,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "沙特阿拉伯一住宅区遭弹药坠落，造成2人死亡、12人受伤。",
@@ -50,11 +51,12 @@
           "url": "https://flash.jin10.com/detail/20260309043609694800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时27分]"
         }
       ]
     }
