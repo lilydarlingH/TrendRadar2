@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T03:43:49.696629+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-03-10T04:38:41.424744+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 03时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 04时38分]"
         },
         {
           "title": "以色列国防军发言人：我们袭击了贝鲁特的35栋高层建筑。",
@@ -37,7 +37,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         }
