@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T16:49:22.224926+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2026-03-09T17:55:36.035826+08:00",
+  "total_titles_processed": 1351,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时14分 ~ 16时49分]"
+          "appearance_count": 10,
+          "time_info": "[10时14分 ~ 17时55分]"
         },
         {
           "title": "纪录片《超大城市的一平米》发布，揭秘上海民生工程背后的系统治理",
@@ -79,11 +79,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时15分 ~ 16时49分]"
+          "appearance_count": 4,
+          "time_info": "[15时15分 ~ 17时55分]"
         },
         {
           "title": "据日经新闻：日本经济产业省与丹麦风力发电公司维斯塔斯将于周一签署谅解备忘录，维斯塔斯将在日本建造风力涡轮机。",
