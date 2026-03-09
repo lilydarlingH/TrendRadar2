@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T21:07:57.733434+08:00",
-  "total_titles_processed": 1658,
+  "generated_at": "2026-03-09T22:54:30.311935+08:00",
+  "total_titles_processed": 1799,
   "failed_sources": [],
   "trends": [
     {
@@ -97,11 +97,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时49分 ~ 21时07分]"
+          "appearance_count": 4,
+          "time_info": "[18时49分 ~ 22时54分]"
         },
         {
           "title": "据日经新闻：日本经济产业省与丹麦风力发电公司维斯塔斯将于周一签署谅解备忘录，维斯塔斯将在日本建造风力涡轮机。",
@@ -122,7 +123,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
