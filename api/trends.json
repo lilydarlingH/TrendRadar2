@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T04:47:21.131653+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2026-03-11T05:32:50.605598+08:00",
+  "total_titles_processed": 613,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 04时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 05时32分]"
         },
         {
           "title": "如何看待公司招聘要求员工每周跑步 3-5 公里？HR 称「系企业文化，上班时间跑」，这种要求合理吗？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 04时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 05时32分]"
         },
         {
           "title": "伊朗驻联合国特使：美以空袭已摧毁9669处民用设施，其中包括7943栋居民住宅。",
@@ -37,7 +38,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         }
