@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T18:43:00.507095+08:00",
-  "total_titles_processed": 1685,
+  "generated_at": "2026-03-10T19:36:26.847503+08:00",
+  "total_titles_processed": 1763,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "朱建弟代表：建议修订《物业管理条例》，让物业利润与服务评级挂钩",
@@ -46,8 +46,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时43分 ~ 18时43分]"
+          "appearance_count": 7,
+          "time_info": "[15时43分 ~ 19时36分]"
         },
         {
           "title": "物业管理改为物业服务建议被采纳",
@@ -95,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "印度总理莫迪：内阁已批准在NH-752D公路的Badnawar–Petlawad–Thandla–Timarwani路段建设一条四车道走廊。该项目将缩短通行时间并改善物流，同时支持经济增长，尤其是在部族地区。",
+          "url": "https://flash.jin10.com/detail/20260310192447453800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "人大代表樊芸称住建部采纳了她的建议，将把《物业管理条例》改为《物业服务条例》，这一变化会带来哪些影响？",
