@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T05:37:09.998271+08:00",
-  "total_titles_processed": 619,
+  "generated_at": "2026-03-12T06:51:21.094090+08:00",
+  "total_titles_processed": 670,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32742612",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 05时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 06时51分]"
         },
         {
           "title": "代表建议物业公司引入竞争机制",
