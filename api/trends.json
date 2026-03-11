@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T14:58:24.484685+08:00",
-  "total_titles_processed": 1222,
+  "generated_at": "2026-03-11T15:47:04.415292+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "“好房子”建设如何落地",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时03分 ~ 12时46分]"
+        },
+        {
+          "title": "代表建议物业公司引入竞争机制",
+          "url": "https://www.toutiao.com/trending/7615067313485987886/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时52分 ~ 15时47分]"
         },
         {
           "title": "如何看待公司招聘要求员工每周跑步 3-5 公里？HR 称「系企业文化，上班时间跑」，这种要求合理吗？",
@@ -33,15 +44,17 @@
           "time_info": "[00时03分 ~ 07时32分]"
         },
         {
-          "title": "代表建议物业公司引入竞争机制",
-          "url": "https://www.toutiao.com/trending/7615067313485987886/",
-          "source": "今日头条",
+          "title": "解数｜一图看懂“养虾”产业链：谁在建虾池，谁提供饲料",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32740564",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            7,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 14时58分]"
+          "appearance_count": 7,
+          "time_info": "[12时45分 ~ 15时47分]"
         },
         {
           "title": "专访｜两项测评“全球最优”，上海推进法治化营商环境建设有哪些探索？",
@@ -53,20 +66,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时06分 ~ 14时58分]"
+          "appearance_count": 8,
+          "time_info": "[10时06分 ~ 15时47分]"
         },
         {
-          "title": "解数｜一图看懂“养虾”产业链：谁在建虾池，谁提供饲料",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32740564",
-          "source": "澎湃新闻",
+          "title": "代表建议物业应该定位为「配套服务」而非独立盈利主体，公共收益 70% 以上用于业主福利，能解决哪些矛盾？",
+          "url": "https://www.zhihu.com/question/2014040594436027460",
+          "source": "知乎",
           "ranks": [
-            7,
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时45分 ~ 14时58分]"
+          "appearance_count": 2,
+          "time_info": "[15时46分 ~ 15时47分]"
         },
         {
           "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
@@ -74,22 +86,24 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 14时58分]"
+          "appearance_count": 5,
+          "time_info": "[13时52分 ~ 15时47分]"
         },
         {
           "title": "对话樊芸代表：从“管理”到“服务”，物业转型实现的是“双赢”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32742612",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 14时58分]"
+          "appearance_count": 4,
+          "time_info": "[14时57分 ~ 15时47分]"
         },
         {
           "title": "建议引入物业公司竞争机制",
