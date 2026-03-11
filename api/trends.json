@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T21:05:10.690389+08:00",
-  "total_titles_processed": 1834,
+  "generated_at": "2026-03-11T22:49:22.859511+08:00",
+  "total_titles_processed": 1964,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             6,
             5,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时45分 ~ 21时05分]"
+          "appearance_count": 15,
+          "time_info": "[12时45分 ~ 22时49分]"
         },
         {
           "title": "代表建议物业公司引入竞争机制",
@@ -42,11 +43,12 @@
             2,
             17,
             25,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时52分 ~ 21时04分]"
+          "appearance_count": 11,
+          "time_info": "[13时52分 ~ 22时49分]"
         },
         {
           "title": "对话樊芸代表：从“管理”到“服务”，物业转型实现的是“双赢”",
@@ -55,11 +57,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时57分 ~ 21时05分]"
+          "appearance_count": 12,
+          "time_info": "[14时57分 ~ 22时49分]"
         },
         {
           "title": "如何看待公司招聘要求员工每周跑步 3-5 公里？HR 称「系企业文化，上班时间跑」，这种要求合理吗？",
