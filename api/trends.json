@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T07:32:27.490865+08:00",
-  "total_titles_processed": 704,
+  "generated_at": "2026-03-11T10:06:48.794169+08:00",
+  "total_titles_processed": 868,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "“好房子”建设如何落地",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时03分 ~ 07时32分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 10时06分]"
         },
         {
           "title": "如何看待公司招聘要求员工每周跑步 3-5 公里？HR 称「系企业文化，上班时间跑」，这种要求合理吗？",
@@ -39,7 +39,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -50,7 +50,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -66,6 +66,17 @@
           "time_info": "04时47分"
         },
         {
+          "title": "专访｜两项测评“全球最优”，上海推进法治化营商环境建设有哪些探索？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32740351",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "美国总统特朗普：我自豪地宣布，“美国优先炼油公司”（America First Refining）正在得克萨斯州布朗斯维尔市建设美国50年来首家新炼油厂。",
           "url": "https://flash.jin10.com/detail/20260311051849701800",
           "source": "金十数据",
@@ -75,6 +86,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
+        },
+        {
+          "title": "建议引入物业公司竞争机制",
+          "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%BC%95%E5%85%A5%E7%89%A9%E4%B8%9A%E5%85%AC%E5%8F%B8%E7%AB%9E%E4%BA%89%E6%9C%BA%E5%88%B6",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         }
       ]
     }
