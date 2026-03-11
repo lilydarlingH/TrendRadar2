@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T12:46:16.911316+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2026-03-11T13:52:48.351317+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "“好房子”建设如何落地",
@@ -33,27 +33,40 @@
           "time_info": "[00时03分 ~ 07时32分]"
         },
         {
+          "title": "代表建议物业公司引入竞争机制",
+          "url": "https://www.toutiao.com/trending/7615067313485987886/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
           "title": "专访｜两项测评“全球最优”，上海推进法治化营商环境建设有哪些探索？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32740351",
           "source": "澎湃新闻",
           "ranks": [
             20,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 12时46分]"
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 13时52分]"
         },
         {
           "title": "解数｜一图看懂“养虾”产业链：谁在建虾池，谁提供饲料",
           "url": "https://m.thepaper.cn/newsDetail_forward_32740564",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 12时46分]"
+          "appearance_count": 3,
+          "time_info": "[12时45分 ~ 13时52分]"
         },
         {
           "title": "建议引入物业公司竞争机制",
@@ -78,6 +91,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
+          "url": "https://www.cls.cn/detail/2309250",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
           "title": "美国优先炼油公司：将于2026年第二季度正式开工建设新炼油厂。",
           "url": "https://flash.jin10.com/detail/20260311063907944800",
           "source": "金十数据",
@@ -98,6 +122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "黎巴嫩首都一住宅楼遭以军空袭",
+          "url": "https://wallstreetcn.com/livenews/3067781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         },
         {
           "title": "法国为何加快水下核力量建设",
@@ -128,7 +163,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         },
