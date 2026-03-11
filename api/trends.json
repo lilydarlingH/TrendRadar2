@@ -1,267 +1,33 @@
 {
-  "generated_at": "2026-03-11T23:53:25.515609+08:00",
-  "total_titles_processed": 2065,
+  "generated_at": "2026-03-12T00:56:20.622860+08:00",
+  "total_titles_processed": 317,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 21,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "“好房子”建设如何落地",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A5%BD%E6%88%BF%E5%AD%90%E2%80%9D%E5%BB%BA%E8%AE%BE%E5%A6%82%E4%BD%95%E8%90%BD%E5%9C%B0",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时03分 ~ 12时46分]"
-        },
-        {
-          "title": "解数｜一图看懂“养虾”产业链：谁在建虾池，谁提供饲料",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32740564",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时45分 ~ 23时53分]"
-        },
         {
           "title": "对话樊芸代表：从“管理”到“服务”，物业转型实现的是“双赢”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32742612",
           "source": "澎湃新闻",
           "ranks": [
-            9,
-            8,
-            6,
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时57分 ~ 23时53分]"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时56分]"
         },
         {
           "title": "代表建议物业公司引入竞争机制",
           "url": "https://www.toutiao.com/trending/7615067313485987886/",
           "source": "今日头条",
           "ranks": [
-            1,
-            2,
-            17,
-            25,
-            20,
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时52分 ~ 23时53分]"
-        },
-        {
-          "title": "如何看待公司招聘要求员工每周跑步 3-5 公里？HR 称「系企业文化，上班时间跑」，这种要求合理吗？",
-          "url": "https://www.zhihu.com/question/2014733755185668823",
-          "source": "知乎",
-          "ranks": [
-            11,
-            14,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时03分 ~ 07时32分]"
-        },
-        {
-          "title": "专访｜两项测评“全球最优”，上海推进法治化营商环境建设有哪些探索？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32740351",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时06分 ~ 19时36分]"
-        },
-        {
-          "title": "代表建议物业应该定位为「配套服务」而非独立盈利主体，公共收益 70% 以上用于业主福利，能解决哪些矛盾？",
-          "url": "https://www.zhihu.com/question/2014040594436027460",
-          "source": "知乎",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时46分 ~ 21时05分]"
-        },
-        {
-          "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
-          "url": "https://www.cls.cn/detail/2309250",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时52分 ~ 17时45分]"
-        },
-        {
-          "title": "伊朗称大不里士一住宅楼遭袭",
-          "url": "https://wallstreetcn.com/livenews/3068013",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            29
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时36分]"
-        },
-        {
-          "title": "建议引入物业公司竞争机制",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%BC%95%E5%85%A5%E7%89%A9%E4%B8%9A%E5%85%AC%E5%8F%B8%E7%AB%9E%E4%BA%89%E6%9C%BA%E5%88%B6%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 12时46分]"
-        },
-        {
-          "title": "“物业管理”应改成“物业服务” 住房城乡建设部：采纳！",
-          "url": "https://wallstreetcn.com/livenews/3068042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
-          "title": "美国优先炼油公司：成功达成具有里程碑意义的20年期原油采购协议，并获得资本投资，用于建设美国50年来首座新炼油厂。",
-          "url": "https://flash.jin10.com/detail/20260311064557710800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "美国优先炼油公司：将于2026年第二季度正式开工建设新炼油厂。",
-          "url": "https://flash.jin10.com/detail/20260311063907944800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "伊朗驻联合国特使：美以空袭已摧毁9669处民用设施，其中包括7943栋居民住宅。",
-          "url": "https://flash.jin10.com/detail/20260311040217995800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "黎巴嫩首都一住宅楼遭以军空袭",
-          "url": "https://wallstreetcn.com/livenews/3067781",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
-          "title": "工业和信息化部批准《算力网络 术语》等453项行业标准",
-          "url": "https://wallstreetcn.com/livenews/3067961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        },
-        {
-          "title": "法国为何加快水下核力量建设",
-          "url": "https://www.toutiao.com/trending/7614726440567717931/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        },
-        {
-          "title": "美国总统特朗普：我自豪地宣布，“美国优先炼油公司”（America First Refining）正在得克萨斯州布朗斯维尔市建设美国50年来首家新炼油厂。",
-          "url": "https://flash.jin10.com/detail/20260311051849701800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "3月11日午间收评：创业板指半日涨1.74%，锂电、光伏板块集体走强",
-          "url": "https://wallstreetcn.com/livenews/3067748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "建议引入物业公司竞争机制",
-          "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%BC%95%E5%85%A5%E7%89%A9%E4%B8%9A%E5%85%AC%E5%8F%B8%E7%AB%9E%E4%BA%89%E6%9C%BA%E5%88%B6",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "“小龙虾”爆火背后有风险？百度工程师：普通用户慎用本地部署",
-          "url": "https://wallstreetcn.com/livenews/3067911",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时45分"
+          "time_info": "[00时55分 ~ 00时56分]"
         }
       ]
     }
