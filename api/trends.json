@@ -1,205 +1,55 @@
 {
-  "generated_at": "2026-03-12T22:52:35.458564+08:00",
-  "total_titles_processed": 1959,
+  "generated_at": "2026-03-13T00:03:10.669953+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 17,
+      "match_count": 4,
       "titles": [
         {
-          "title": "对话樊芸代表：从“管理”到“服务”，物业转型实现的是“双赢”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32742612",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时55分 ~ 10时13分]"
-        },
-        {
-          "title": "以色列国防军：此次空袭的目标是伊朗多个地区的基建设施。",
-          "url": "https://flash.jin10.com/detail/20260312171659956800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        },
-        {
-          "title": "欧盟委员会：仍然准备好与美国进行建设性接触。",
-          "url": "https://wallstreetcn.com/livenews/3068865",
-          "source": "华尔街见闻-快讯",
+          "title": "光伏的“曙光”来了吗",
+          "url": "https://www.toutiao.com/trending/7616260558777794579/",
+          "source": "今日头条",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "欧盟委员会发言人：将继续准备好与美方进行建设性交流。",
-          "url": "https://flash.jin10.com/detail/20260312191926200800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "工信部就《人工智能产品服务搜索智能体能力技术要求》等83项行业标准计划项目公开征求意见。（工信部网站）",
-          "url": "https://wallstreetcn.com/livenews/3068863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "委员建议彻底消除留守儿童现象，建设「城市农民工子弟寄宿制学校」，你认为这一建议的可行性有多高？",
-          "url": "https://www.zhihu.com/question/2015077978921517560",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
-        },
-        {
-          "title": "亚马逊将禁止初级工程师直接提交 AI 代码，如何评价这一举措？AI 提效与工程质量如何平衡？",
-          "url": "https://www.zhihu.com/question/2015067278698312603",
-          "source": "知乎",
-          "ranks": [
-            11,
-            19,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时45分 ~ 19时34分]"
-        },
-        {
-          "title": "代表建议物业公司引入竞争机制",
-          "url": "https://www.toutiao.com/trending/7615067313485987886/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时44分]"
-        },
-        {
-          "title": "美金融巨头为AI基建花上亿培训水电工",
-          "url": "https://www.toutiao.com/trending/7616268055123722303/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时41分 ~ 19时34分]"
+          "time_info": "[00时02分 ~ 00时03分]"
         },
         {
-          "title": "标普500指数的11个板块普遍收跌，必需消费品板块收跌1.29%，房地产板块跌1.12%，金融板块跌0.83%，电信、信息技术/科技板块则至多收涨0.35%，能源板块涨2.48%。",
-          "url": "https://wallstreetcn.com/livenews/3068326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时37分]"
-        },
-        {
-          "title": "太空光伏需求有望迎指数级增长 中国光伏厂商打开全新成长空间",
-          "url": "https://www.cls.cn/detail/2310278",
+          "title": "最高涨100%！光纤光缆招标价加速上行",
+          "url": "https://www.cls.cn/detail/2311225",
           "source": "财联社热门",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 16时46分]"
-        },
-        {
-          "title": "智能建造赋能长赣高铁建设",
-          "url": "https://www.douyin.com/hot/2428556",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时04分"
-        },
-        {
-          "title": "西媒：中国推进全国统一大市场建设",
-          "url": "https://www.toutiao.com/trending/7614917215305203755/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "天顺风能：公司海工板块全资子公司新中标深能汕尾红海湾六海上风电项目海工导管架订单约7亿元人民币。该项目由深能海洋能源（汕尾）有限公司建设，规划装机容量为500MW，拟安装34台风电机组。公司中标其I标段、II标段合计34套导管架设备。",
-          "url": "https://wallstreetcn.com/livenews/3068827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时41分"
-        },
-        {
-          "title": "迪拜媒体办公室：迪拜当局正就一起无人机坠落在迪拜河港附近一栋建筑物上的事件作出响应。",
-          "url": "https://flash.jin10.com/detail/20260312064930605800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "我国城市轨道交通全自动运行领域的首项国家标准实施",
-          "url": "https://wallstreetcn.com/livenews/3068993",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时52分"
+          "time_info": "00时03分"
         },
         {
-          "title": "贝莱德斥资1亿美元培训电工等技术工人 未来10年预计美国需新增30多万名电工以满足AI建设需求",
-          "url": "https://wallstreetcn.com/livenews/3068608",
-          "source": "华尔街见闻-快讯",
+          "title": "以色列空袭击中了贝鲁特市中心的一栋建筑，距离政府总部不到一公里。",
+          "url": "https://flash.jin10.com/detail/20260312233928542800",
+          "source": "金十数据",
           "ranks": [
-            25
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时00分"
+          "time_info": "00时03分"
+        },
+        {
+          "title": "市场消息：科威特称住宅楼遭无人机袭击，两人受伤。",
+          "url": "https://flash.jin10.com/detail/20260312233610072800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时03分"
         }
       ]
     }
