@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T00:03:10.669953+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-13T01:08:48.350120+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时08分]"
         },
         {
           "title": "最高涨100%！光纤光缆招标价加速上行",
           "url": "https://www.cls.cn/detail/2311225",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 01时08分]"
         },
         {
           "title": "以色列空袭击中了贝鲁特市中心的一栋建筑，距离政府总部不到一公里。",
@@ -36,7 +37,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -47,7 +48,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         }
