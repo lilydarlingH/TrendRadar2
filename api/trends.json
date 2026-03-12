@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T02:57:39.210699+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-03-13T03:45:24.561134+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "光伏的“曙光”来了吗",
@@ -16,8 +16,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时45分]"
+        },
+        {
+          "title": "xAI正在招聘Cursor公司的两位高级主管Andrew Milich和Jason Ginsberg。",
+          "url": "https://flash.jin10.com/detail/20260313033613430800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
         },
         {
           "title": "最高涨100%！光纤光缆招标价加速上行",
@@ -25,11 +36,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 02时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 03时45分]"
         },
         {
           "title": "以色列空袭击中了贝鲁特市中心的一栋建筑，距离政府总部不到一公里。",
@@ -41,6 +53,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "文件显示，美国联邦监管机构已批准Next Decade公司启动其里奥格兰德液化天然气项目4号和5号生产线的建设。",
+          "url": "https://flash.jin10.com/detail/20260313031444303800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
         },
         {
           "title": "市场消息：科威特称住宅楼遭无人机袭击，两人受伤。",
@@ -60,7 +83,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
         }
