@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T15:52:13.878783+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2026-03-12T16:46:05.462994+08:00",
+  "total_titles_processed": 1427,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "对话樊芸代表：从“管理”到“服务”，物业转型实现的是“双赢”",
@@ -43,6 +43,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 05时37分]"
+        },
+        {
+          "title": "太空光伏需求有望迎指数级增长 中国光伏厂商打开全新成长空间",
+          "url": "https://www.cls.cn/detail/2310278",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 16时46分]"
+        },
+        {
+          "title": "亚马逊将禁止初级工程师直接提交 AI 代码，如何评价这一举措？AI 提效与工程质量如何平衡？",
+          "url": "https://www.zhihu.com/question/2015067278698312603",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 16时46分]"
         },
         {
           "title": "西媒：中国推进全国统一大市场建设",
