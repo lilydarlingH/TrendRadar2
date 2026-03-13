@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T00:43:33.694102+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-14T01:37:49.125008+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时37分]"
         },
         {
           "title": "力拓集团将在加拿大魁北克省Becancour放慢Nemaska Lithium冶炼厂的建设进度，因为成本飙涨的缘故。 许多承包商将不得不在未来数周停工。 仅仅少数工人会出现在现场。 预计项目将在2027年恢复全面建设。",
           "url": "https://wallstreetcn.com/livenews/3069932",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时37分]"
         },
         {
           "title": "十五五规划是施工图也是邀请函",
@@ -37,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时37分]"
         }
       ]
     }
