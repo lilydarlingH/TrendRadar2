@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T19:34:14.997995+08:00",
-  "total_titles_processed": 1686,
+  "generated_at": "2026-03-13T21:03:13.442523+08:00",
+  "total_titles_processed": 1813,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "深度揭秘太空光伏计划",
@@ -81,6 +81,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时42分 ~ 18时40分]"
+        },
+        {
+          "title": "迟来的2026年普利兹克奖，颁给智利建筑师拉迪奇",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32755764",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时03分]"
         },
         {
           "title": "以色列空袭击中了贝鲁特市中心的一栋建筑，距离政府总部不到一公里。",
