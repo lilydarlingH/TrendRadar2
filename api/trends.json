@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T02:45:54.847142+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-03-14T03:33:30.723216+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.toutiao.com/trending/7616686849071628307/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 03时33分]"
         },
         {
           "title": "力拓集团将在加拿大魁北克省Becancour放慢Nemaska Lithium冶炼厂的建设进度，因为成本飙涨的缘故。 许多承包商将不得不在未来数周停工。 仅仅少数工人会出现在现场。 预计项目将在2027年恢复全面建设。",
