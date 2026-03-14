@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T16:39:37.495366+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2026-03-14T17:36:27.978684+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "“施工图”发布 “十五五”这样干",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时08分 ~ 12时45分]"
+        },
+        {
+          "title": "据半岛电视台：以色列袭击了黎巴嫩贝鲁特布尔吉哈穆德地区的一栋公寓楼，造成严重破坏。该建筑在24小时内两次成为攻击目标，最初的袭击未能击中住户。居民表示该地点与真主党无关。",
+          "url": "https://flash.jin10.com/detail/20260314165959494800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "朝鲜将建造8000吨级驱逐舰有何意味",
@@ -95,11 +106,12 @@
           "url": "https://flash.jin10.com/detail/20260314153806826800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 17时36分]"
         },
         {
           "title": "迪拜媒体办公室：此前拦截导弹时产生的碎片击中市中心一栋建筑外墙，状况已得到控制，无火灾或人员伤亡报告。",
