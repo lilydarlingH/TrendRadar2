@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T00:35:46.119277+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-15T01:29:36.172407+08:00",
+  "total_titles_processed": 344,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时29分]"
         },
         {
           "title": "机器人正要进电梯被男子一脚踹倒",
@@ -26,19 +26,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时29分]"
         },
         {
           "title": "中办、国办发布关于推进社会工作专业人员队伍建设的意见",
           "url": "https://m.thepaper.cn/newsDetail_forward_32768221",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时29分]"
         }
       ]
     }
