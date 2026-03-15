@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T00:36:35.135041+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-16T01:31:43.010414+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时31分]"
         },
         {
           "title": "第四代住宅可行性高嘛？",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时31分]"
         },
         {
           "title": "你认为按每平方米收物业费合理吗",
@@ -37,19 +37,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时31分]"
         },
         {
           "title": "装修一套房 要踩多少坑",
           "url": "https://www.baidu.com/s?wd=%E8%A3%85%E4%BF%AE%E4%B8%80%E5%A5%97%E6%88%BF+%E8%A6%81%E8%B8%A9%E5%A4%9A%E5%B0%91%E5%9D%91",
           "source": "百度热搜",
           "ranks": [
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时31分]"
         }
       ]
     }
