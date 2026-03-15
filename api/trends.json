@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T04:33:13.109896+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2026-03-16T05:32:14.323619+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 05时32分]"
         },
         {
           "title": "第四代住宅可行性高嘛？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 05时32分]"
         },
         {
           "title": "你认为按每平方米收物业费合理吗",
@@ -39,8 +40,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 05时32分]"
         },
         {
           "title": "装修一套房 要踩多少坑",
@@ -49,11 +50,12 @@
           "ranks": [
             24,
             23,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 04时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 05时32分]"
         },
         {
           "title": "伊朗导弹碎片击中美驻以领事官邸建筑",
@@ -61,11 +63,12 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时42分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[02时42分 ~ 05时32分]"
         }
       ]
     }
