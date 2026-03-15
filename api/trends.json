@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T15:01:58.271869+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2026-03-15T15:52:45.769519+08:00",
+  "total_titles_processed": 849,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             1,
             13,
             21,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 15时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 15时52分]"
         },
         {
           "title": "机器人正要进电梯被男子一脚踹倒",
@@ -49,6 +50,19 @@
           "time_info": "[00时35分 ~ 15时01分]"
         },
         {
+          "title": "机器人正要进电梯被人一脚踹倒",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%AD%A3%E8%A6%81%E8%BF%9B%E7%94%B5%E6%A2%AF%E8%A2%AB%E4%BA%BA%E4%B8%80%E8%84%9A%E8%B8%B9%E5%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时33分 ~ 15时52分]"
+        },
+        {
           "title": "机器人正要进电梯被男子一脚踹倒",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%AD%A3%E8%A6%81%E8%BF%9B%E7%94%B5%E6%A2%AF%E8%A2%AB%E7%94%B7%E5%AD%90%E4%B8%80%E8%84%9A%E8%B8%B9%E5%80%92%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -59,18 +73,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时33分 ~ 13时08分]"
-        },
-        {
-          "title": "机器人正要进电梯被人一脚踹倒",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%AD%A3%E8%A6%81%E8%BF%9B%E7%94%B5%E6%A2%AF%E8%A2%AB%E4%BA%BA%E4%B8%80%E8%84%9A%E8%B8%B9%E5%80%92",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时33分 ~ 15时01分]"
         },
         {
           "title": "深度揭秘太空光伏计划",
