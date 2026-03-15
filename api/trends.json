@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T06:32:11.827160+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-03-16T07:32:37.369608+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 06时32分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 07时32分]"
         },
         {
           "title": "第四代住宅可行性高嘛？",
@@ -29,8 +29,23 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 06时32分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 07时32分]"
+        },
+        {
+          "title": "装修一套房 要踩多少坑",
+          "url": "https://www.baidu.com/s?wd=%E8%A3%85%E4%BF%AE%E4%B8%80%E5%A5%97%E6%88%BF+%E8%A6%81%E8%B8%A9%E5%A4%9A%E5%B0%91%E5%9D%91",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            23,
+            16,
+            19,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 07时32分]"
         },
         {
           "title": "你认为按每平方米收物业费合理吗",
@@ -41,22 +56,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 06时32分]"
-        },
-        {
-          "title": "装修一套房 要踩多少坑",
-          "url": "https://www.baidu.com/s?wd=%E8%A3%85%E4%BF%AE%E4%B8%80%E5%A5%97%E6%88%BF+%E8%A6%81%E8%B8%A9%E5%A4%9A%E5%B0%91%E5%9D%91",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            23,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 06时32分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 07时32分]"
         },
         {
           "title": "伊朗导弹碎片击中美驻以领事官邸建筑",
@@ -69,8 +70,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时42分 ~ 06时32分]"
+          "appearance_count": 10,
+          "time_info": "[02时42分 ~ 07时32分]"
         }
       ]
     }
