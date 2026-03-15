@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T17:37:33.590698+08:00",
-  "total_titles_processed": 984,
+  "generated_at": "2026-03-15T18:33:02.119806+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
@@ -65,6 +65,17 @@
           "time_info": "[10时33分 ~ 17时37分]"
         },
         {
+          "title": "中国籍优先！外国航司招聘为何打“中文牌”？",
+          "url": "https://news.ifeng.com/c/8rW4kcu6DNC",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 18时33分]"
+        },
+        {
           "title": "机器人正要进电梯被男子一脚踹倒",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%AD%A3%E8%A6%81%E8%BF%9B%E7%94%B5%E6%A2%AF%E8%A2%AB%E7%94%B7%E5%AD%90%E4%B8%80%E8%84%9A%E8%B8%B9%E5%80%92%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -90,15 +101,16 @@
           "time_info": "[03时29分 ~ 05时31分]"
         },
         {
-          "title": "中国籍优先！外国航司招聘为何打“中文牌”？",
-          "url": "https://news.ifeng.com/c/8rW4kcu6DNC",
-          "source": "凤凰网",
+          "title": "第四代住宅可行性高嘛？",
+          "url": "https://www.zhihu.com/question/398694606",
+          "source": "知乎",
           "ranks": [
-            4
+            19,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时39分 ~ 18时33分]"
         },
         {
           "title": "家门口不是私人领地 物业清理不侵权",
@@ -112,18 +124,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时08分 ~ 15时01分]"
-        },
-        {
-          "title": "第四代住宅可行性高嘛？",
-          "url": "https://www.zhihu.com/question/398694606",
-          "source": "知乎",
-          "ranks": [
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 17时37分]"
         },
         {
           "title": "100万装出了10万的装修效果",
