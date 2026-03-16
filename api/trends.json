@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T04:41:50.109249+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-03-17T05:43:08.072790+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 05时43分]"
         },
         {
           "title": "新的土地资源优化政策来了",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 05时43分]"
         },
         {
           "title": "租客装修后退房房东让恢复成毛坯",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 05时43分]"
         },
         {
           "title": "李成钢：中美双方团队进行了深入、坦诚、建设性的磋商，中方反对美方的单边的301调查",
@@ -51,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 05时43分]"
         },
         {
           "title": "工信部：适度超前布局建设5G、智算等新型信息基础设施 打造“5G+工业互联网”升级版",
@@ -62,8 +62,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 05时43分]"
         },
         {
           "title": "供地按下“暂停键”？自然资源部：并非停供房地产用地 而是转向存量“精供优供”",
@@ -73,8 +73,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 05时43分]"
         },
         {
           "title": "中美双方进行深入坦诚建设性的磋商",
@@ -83,11 +83,12 @@
           "ranks": [
             25,
             19,
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 05时43分]"
         },
         {
           "title": "土地新规落地对房地产有哪些影响",
