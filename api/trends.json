@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T10:34:15.281130+08:00",
-  "total_titles_processed": 700,
+  "generated_at": "2026-03-16T13:18:29.594461+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
   "trends": [
     {
@@ -79,11 +79,12 @@
           "url": "https://www.zhihu.com/question/2016644117640209783",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 13时18分]"
         },
         {
           "title": "国家统计局：1—2月份，全国房地产开发投资9612亿元，同比下降11.1%",
@@ -92,7 +93,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -103,7 +104,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -114,7 +115,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -125,7 +126,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -136,7 +137,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -147,7 +148,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         }
