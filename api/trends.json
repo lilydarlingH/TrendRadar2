@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T06:36:07.004102+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-03-18T07:41:18.696996+08:00",
+  "total_titles_processed": 666,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时12分 ~ 06时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 07时41分]"
         },
         {
           "title": "招聘不建议大龄报名公司负责人发声",
@@ -24,11 +24,12 @@
           "source": "微博",
           "ranks": [
             4,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时01分 ~ 06时36分]"
+          "appearance_count": 10,
+          "time_info": "[02时01分 ~ 07时41分]"
         },
         {
           "title": "一人公司爆火银行坐不住了",
@@ -41,8 +42,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时12分 ~ 06时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 07时41分]"
         },
         {
           "title": "【数据看盘】机构、量化资金的活跃度大幅降低，北向资金联手一线游资抢筹太空光伏人气股",
@@ -50,11 +51,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时12分 ~ 06时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 07时41分]"
         },
         {
           "title": "《求是》杂志发表了特约评论员文章明确，房地产带有「显著的金融资产属性」，您怎么看？",
@@ -63,11 +65,25 @@
           "ranks": [
             17,
             15,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时12分 ~ 06时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 07时41分]"
+        },
+        {
+          "title": "租客装修后退房房东让恢复成毛坯",
+          "url": "https://www.toutiao.com/trending/7617790776606212132/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时13分 ~ 07时41分]"
         },
         {
           "title": "欠物业费大约 8000 左右，收到立案庭调解员电话，该怎么办？",
@@ -94,16 +110,16 @@
           "time_info": "02时02分"
         },
         {
-          "title": "租客装修后退房房东让恢复成毛坯",
-          "url": "https://www.toutiao.com/trending/7617790776606212132/",
-          "source": "今日头条",
+          "title": "焦点访谈 口号工程数据注水",
+          "url": "https://search.bilibili.com/all?keyword=%E7%84%A6%E7%82%B9%E8%AE%BF%E8%B0%88%20%E5%8F%A3%E5%8F%B7%E5%B7%A5%E7%A8%8B%E6%95%B0%E6%8D%AE%E6%B3%A8%E6%B0%B4",
+          "source": "bilibili 热搜",
           "ranks": [
-            5,
-            29
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时13分 ~ 06时36分]"
+          "appearance_count": 4,
+          "time_info": "[06时35分 ~ 07时41分]"
         },
         {
           "title": "美国太空军上将Michael Guetlein：将总统特朗普所谓金穹反导系统的第一阶段建设成本上调100亿美元，至1850亿美元。",
@@ -143,26 +159,16 @@
           "time_info": "[05时40分 ~ 05时41分]"
         },
         {
-          "title": "焦点访谈 口号工程数据注水",
-          "url": "https://search.bilibili.com/all?keyword=%E7%84%A6%E7%82%B9%E8%AE%BF%E8%B0%88%20%E5%8F%A3%E5%8F%B7%E5%B7%A5%E7%A8%8B%E6%95%B0%E6%8D%AE%E6%B3%A8%E6%B0%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时35分 ~ 06时36分]"
-        },
-        {
           "title": "苹果公司居家设备工程主管Brian Lynch离职，将跳槽至Oura。",
           "url": "https://wallstreetcn.com/livenews/3071930",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时36分 ~ 07时41分]"
         },
         {
           "title": "美国参议员桑德斯：伊朗战争已经花费了228亿美元。用这228亿美元，我们可以为680万儿童提供医疗补助/建造260万个公共住房单位/为130万儿童提供早期教育项目/雇佣24万名教师/为100万借款人取消2万美元的学生债务。",
@@ -171,7 +177,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
         }
