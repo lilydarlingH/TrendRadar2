@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T18:57:02.876343+08:00",
-  "total_titles_processed": 1536,
+  "generated_at": "2026-03-18T19:49:01.736571+08:00",
+  "total_titles_processed": 1621,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
             4,
             3,
             11,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时06分 ~ 18时57分]"
+          "appearance_count": 11,
+          "time_info": "[14时06分 ~ 19时49分]"
         },
         {
           "title": "一人公司爆火银行坐不住了",
@@ -150,6 +151,19 @@
           "time_info": "[18时56分 ~ 18时57分]"
         },
         {
+          "title": "“一人公司”为什么火了",
+          "url": "https://www.toutiao.com/trending/7618466969360010790/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时58分 ~ 19时49分]"
+        },
+        {
           "title": "焦点访谈 口号工程数据注水",
           "url": "https://search.bilibili.com/all?keyword=%E7%84%A6%E7%82%B9%E8%AE%BF%E8%B0%88%20%E5%8F%A3%E5%8F%B7%E5%B7%A5%E7%A8%8B%E6%95%B0%E6%8D%AE%E6%B3%A8%E6%B0%B4",
           "source": "bilibili 热搜",
@@ -211,25 +225,13 @@
           "time_info": "[06时36分 ~ 07时41分]"
         },
         {
-          "title": "“一人公司”为什么火了",
-          "url": "https://www.toutiao.com/trending/7618466969360010790/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 18时57分]"
-        },
-        {
           "title": "印度信息部长：印度内阁批准一项价值258.5亿卢比的水电开发计划。",
           "url": "https://flash.jin10.com/detail/20260318184204264800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         },
@@ -273,7 +275,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         },
@@ -295,7 +297,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         },
@@ -306,7 +308,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         },
@@ -317,7 +319,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         },
@@ -328,7 +330,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         },
@@ -339,7 +341,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         }
