@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T15:55:19.204775+08:00",
-  "total_titles_processed": 1228,
+  "generated_at": "2026-03-18T16:54:30.192331+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
   "trends": [
     {
@@ -79,11 +79,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时06分 ~ 15时55分]"
+          "appearance_count": 5,
+          "time_info": "[14时06分 ~ 16时54分]"
         },
         {
           "title": "租客装修后退房房东让恢复成毛坯",
