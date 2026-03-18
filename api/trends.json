@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T04:40:16.932746+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-03-19T05:37:23.984630+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             19,
             17,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 04时40分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 05时37分]"
         },
         {
           "title": "装修撬开天花板后下起钞票雨",
@@ -26,22 +27,24 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时02分 ~ 04时40分]"
+          "appearance_count": 5,
+          "time_info": "[03时02分 ~ 05时37分]"
         },
         {
           "title": "《关于在全社会推进儿童友好建设的意见》发布，将带来哪些变化？",
           "url": "https://www.zhihu.com/question/2017384049476379393",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时39分 ~ 04时40分]"
+          "appearance_count": 3,
+          "time_info": "[04时39分 ~ 05时37分]"
         },
         {
           "title": "国际原子能机构（IAEA）：根据伊朗提供的信息，周二晚上发生了一起袭击事件，IAEA确认位于布什尔核电站反应堆350米处的一座建筑被击中并摧毁。尽管反应堆本身没有受到损害，工作人员也没有受伤，但在核电站附近或其内部的任何攻击都违反了确保核安全和安保的七项不可或缺的原则，在武装冲突中绝不应发生。",
@@ -61,7 +64,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
         },
