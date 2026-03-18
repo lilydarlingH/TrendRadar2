@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T19:49:01.736571+08:00",
-  "total_titles_processed": 1621,
+  "generated_at": "2026-03-18T21:17:16.832595+08:00",
+  "total_titles_processed": 1751,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
             3,
             11,
             13,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时06分 ~ 19时49分]"
+          "appearance_count": 13,
+          "time_info": "[14时06分 ~ 21时17分]"
         },
         {
           "title": "一人公司爆火银行坐不住了",
