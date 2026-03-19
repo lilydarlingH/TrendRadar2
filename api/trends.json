@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T22:52:00.229343+08:00",
-  "total_titles_processed": 1896,
+  "generated_at": "2026-03-19T23:57:32.802517+08:00",
+  "total_titles_processed": 1986,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "我国将全面开展儿童友好建设",
@@ -105,6 +105,28 @@
           "time_info": "17时47分"
         },
         {
+          "title": "光伏产业仍大面积亏损，2026 年或更艰难，其主要原因及未来出路是什么？",
+          "url": "https://www.zhihu.com/question/2009938838462686424",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
+          "title": "人民日报：保持土地承包关系稳定并长久不变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32792659",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
           "title": "欧元区1月建筑业产出年率 -1.9%，前值-0.90%。",
           "url": "https://flash.jin10.com/detail/20260319180036346800",
           "source": "金十数据",
@@ -136,6 +158,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "3岁男童独自进电梯后坠楼身亡",
+          "url": "https://www.baidu.com/s?wd=3%E5%B2%81%E7%94%B7%E7%AB%A5%E7%8B%AC%E8%87%AA%E8%BF%9B%E7%94%B5%E6%A2%AF%E5%90%8E%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "鲍威尔：还没有开始看到人工智能（AI）对于生产力的影响。 近期的生产力趋势并非生成式AI所致。 AI肯定应该会对生产力趋势做出贡献。 数据中心建设可能正推高通胀。 AI投资可能会在短期内刺激中性利率（走高）。",
