@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T03:17:47.976517+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-03-20T04:41:19.386169+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             22,
             18,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时41分]"
         },
         {
           "title": "光伏产业仍大面积亏损，2026 年或更艰难，其主要原因及未来出路是什么？",
@@ -27,11 +28,12 @@
           "ranks": [
             20,
             19,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时41分]"
         },
         {
           "title": "人民日报：保持土地承包关系稳定并长久不变",
@@ -41,8 +43,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时41分]"
         },
         {
           "title": "美国总统特朗普谈及美联储主席鲍威尔，宣称：他因建筑成本超支问题而正在接受调查。",
