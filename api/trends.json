@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T06:32:13.762101+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-03-21T07:32:15.182603+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2319626",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 06时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 07时32分]"
         },
         {
           "title": "椰树集团招标剥椰子机器人，要求每小时至少处理 360 个，完全去壳且损伤率≤ 1%，这标准能实现吗？",
@@ -26,11 +27,12 @@
             1,
             3,
             19,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 06时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 07时32分]"
         },
         {
           "title": "光伏卖断货、中国人高价买回国机票：古巴大停电的“至暗”时刻",
@@ -41,8 +43,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 06时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 07时32分]"
         },
         {
           "title": "特斯拉200亿元光伏大单曝光：美国制造、中国设备",
@@ -52,8 +54,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 06时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 07时32分]"
         },
         {
           "title": "标普500指数的11个板块中，公用事业板块收跌4.11%，房地产板块跌3.15%，信息技术/科技板块跌2.21%，能源板块收涨0.01%，金融板块涨0.19%。",
@@ -75,8 +77,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 06时32分]"
+          "appearance_count": 4,
+          "time_info": "[06时31分 ~ 07时32分]"
         },
         {
           "title": "墨西哥财政部长：我们将于下周与三星举行会谈，已为三星准备了一份建设性方案。",
