@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T21:04:12.298136+08:00",
-  "total_titles_processed": 1826,
+  "generated_at": "2026-03-20T22:44:54.654263+08:00",
+  "total_titles_processed": 1946,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "椰树集团招标剥椰子机器人，要求每小时至少处理 360 个，完全去壳且损伤率≤ 1%，这标准能实现吗？",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时59分 ~ 21时04分]"
+          "appearance_count": 11,
+          "time_info": "[14时59分 ~ 22时44分]"
         },
         {
           "title": "多做“口碑工程”",
@@ -44,8 +44,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时49分 ~ 21时04分]"
+          "appearance_count": 13,
+          "time_info": "[12时49分 ~ 22时44分]"
+        },
+        {
+          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
+          "url": "https://www.cls.cn/detail/2319626",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时40分 ~ 22时44分]"
         },
         {
           "title": "3岁男童独自进电梯后坠楼身亡",
@@ -62,19 +76,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时02分 ~ 10时11分]"
-        },
-        {
-          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
-          "url": "https://www.cls.cn/detail/2319626",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时40分 ~ 21时04分]"
         },
         {
           "title": "光伏产业仍大面积亏损，2026 年或更艰难，其主要原因及未来出路是什么？",
@@ -125,6 +126,17 @@
           "time_info": "10时11分"
         },
         {
+          "title": "特斯拉200亿元光伏大单曝光：美国制造、中国设备",
+          "url": "https://news.ifeng.com/c/8reRDG6iAS5",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时40分 ~ 22时44分]"
+        },
+        {
           "title": "金十数据整理：每日房地产行业动态汇总（2026-03-20）",
           "url": "https://flash.jin10.com/detail/20260320154353379800",
           "source": "金十数据",
@@ -153,7 +165,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -167,17 +179,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
-        },
-        {
-          "title": "特斯拉200亿元光伏大单曝光：美国制造、中国设备",
-          "url": "https://news.ifeng.com/c/8reRDG6iAS5",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时40分 ~ 21时04分]"
         },
         {
           "title": "曝马斯克拟采购200亿中国光伏设备",
@@ -260,6 +261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "美国总统特朗普政府宣布与软银和俄亥俄州电力公司建立合作伙伴关系，软银计划在俄亥俄州建设一座由燃气电站供电的大型人工智能数据中心。",
+          "url": "https://flash.jin10.com/detail/20260320221407795800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "优刻得：拟定增募资不超过15亿元，用于优刻得乌兰察布智算中心及智算集群建设运营项目。",
@@ -488,7 +500,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         },
@@ -499,7 +511,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         }
