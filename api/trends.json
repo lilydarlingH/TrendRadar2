@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T00:46:40.875045+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-03-21T01:38:02.978375+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 01时38分]"
         },
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
@@ -26,19 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 01时38分]"
         },
         {
           "title": "光伏卖断货、中国人高价买回国机票：古巴大停电的“至暗”时刻",
           "url": "https://m.thepaper.cn/newsDetail_forward_32796341",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 01时38分]"
         },
         {
           "title": "特斯拉200亿元光伏大单曝光：美国制造、中国设备",
@@ -48,8 +49,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 01时38分]"
         },
         {
           "title": "标普500指数跌幅扩大至1%，房地产板块跌1.45%，公用事业板块跌1.39%，科技板块跌1.14%，电信板块跌1.13%，能源板块涨1.17%。 道指跌284点跌幅0.62%，纳指跌1.3%，半导体指数跌1.85%，罗素2000指数跌1.29%。",
