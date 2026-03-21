@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T12:28:36.044163+08:00",
-  "total_titles_processed": 887,
+  "generated_at": "2026-03-21T13:43:32.816575+08:00",
+  "total_titles_processed": 950,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
@@ -64,11 +64,23 @@
           "ranks": [
             9,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时31分 ~ 12时28分]"
+          "appearance_count": 7,
+          "time_info": "[06时31分 ~ 13时43分]"
+        },
+        {
+          "title": "太空电梯能实现吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AA%E7%A9%BA%E7%94%B5%E6%A2%AF%E8%83%BD%E5%AE%9E%E7%8E%B0%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         },
         {
           "title": "标普500指数的11个板块中，公用事业板块收跌4.11%，房地产板块跌3.15%，信息技术/科技板块跌2.21%，能源板块收涨0.01%，金融板块涨0.19%。",
