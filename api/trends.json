@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T13:43:32.816575+08:00",
-  "total_titles_processed": 950,
+  "generated_at": "2026-03-21T14:47:35.639835+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
@@ -68,8 +68,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时31分 ~ 13时43分]"
+          "appearance_count": 8,
+          "time_info": "[06时31分 ~ 14时47分]"
         },
         {
           "title": "太空电梯能实现吗",
@@ -78,7 +78,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
