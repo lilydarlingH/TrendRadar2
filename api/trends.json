@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T07:32:15.182603+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-03-21T10:05:48.673416+08:00",
+  "total_titles_processed": 753,
   "failed_sources": [],
   "trends": [
     {
@@ -58,6 +58,18 @@
           "time_info": "[00时46分 ~ 07时32分]"
         },
         {
+          "title": "沪指失守4000点，光伏、锂电走强，油气、化工回调、恒科指跌超2%，阿里跌6%、小米跌超8%",
+          "url": "https://wallstreetcn.com/articles/3767973",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时31分 ~ 10时05分]"
+        },
+        {
           "title": "标普500指数的11个板块中，公用事业板块收跌4.11%，房地产板块跌3.15%，信息技术/科技板块跌2.21%，能源板块收涨0.01%，金融板块涨0.19%。",
           "url": "https://wallstreetcn.com/livenews/3074337",
           "source": "华尔街见闻-快讯",
@@ -68,17 +80,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时36分 ~ 05时33分]"
-        },
-        {
-          "title": "沪指失守4000点，光伏、锂电走强，油气、化工回调、恒科指跌超2%，阿里跌6%、小米跌超8%",
-          "url": "https://wallstreetcn.com/articles/3767973",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时31分 ~ 07时32分]"
         },
         {
           "title": "墨西哥财政部长：我们将于下周与三星举行会谈，已为三星准备了一份建设性方案。",
