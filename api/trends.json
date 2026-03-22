@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T03:28:48.542816+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2026-03-23T04:32:19.978063+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 04时32分]"
         },
         {
           "title": "财政部：1—2 月国有土地出让收入同比下降 25.2%，这对地方财政和房地产市场意味着什么？",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 04时32分]"
         },
         {
           "title": "业主反对加装电梯后反悔 遭全楼拒绝",
@@ -38,7 +38,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -51,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 04时32分]"
         }
       ]
     }
