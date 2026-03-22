@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T04:32:19.978063+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2026-03-23T05:30:09.704681+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 04时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 05时30分]"
         },
         {
           "title": "财政部：1—2 月国有土地出让收入同比下降 25.2%，这对地方财政和房地产市场意味着什么？",
@@ -28,8 +28,20 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 05时30分]"
+        },
+        {
+          "title": "伊朗宣布：从防御转为进攻！制造出了先进新武器，“造价低廉，破坏力更强，可快速量产”",
+          "url": "https://wallstreetcn.com/articles/3768094",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时34分 ~ 04时32分]"
+          "time_info": "[02时40分 ~ 05时30分]"
         },
         {
           "title": "业主反对加装电梯后反悔 遭全楼拒绝",
@@ -41,18 +53,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
-        },
-        {
-          "title": "伊朗宣布：从防御转为进攻！制造出了先进新武器，“造价低廉，破坏力更强，可快速量产”",
-          "url": "https://wallstreetcn.com/articles/3768094",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时40分 ~ 04时32分]"
         }
       ]
     }
