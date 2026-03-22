@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T18:31:58.011397+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2026-03-22T19:27:00.648493+08:00",
+  "total_titles_processed": 1157,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时54分 ~ 18时31分]"
+          "appearance_count": 8,
+          "time_info": "[12时54分 ~ 19时27分]"
         },
         {
           "title": "清华年度规模最大校园招聘会举行，就业市场呈现多个新趋势",
@@ -205,7 +205,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         }
