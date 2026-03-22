@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T16:37:46.389318+08:00",
-  "total_titles_processed": 986,
+  "generated_at": "2026-03-22T18:31:58.011397+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "博士肄业修水电,700单零差评",
@@ -16,8 +16,24 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时54分 ~ 16时37分]"
+          "appearance_count": 6,
+          "time_info": "[12时54分 ~ 18时31分]"
+        },
+        {
+          "title": "清华年度规模最大校园招聘会举行，就业市场呈现多个新趋势",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32807218",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            15,
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时25分 ~ 18时31分]"
         },
         {
           "title": "一无人机击中伊拉克情报机构建筑",
@@ -58,22 +74,6 @@
           "time_info": "[02时39分 ~ 03时27分]"
         },
         {
-          "title": "清华年度规模最大校园招聘会举行，就业市场呈现多个新趋势",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32807218",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            15,
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时25分 ~ 16时37分]"
-        },
-        {
           "title": "业主反对加装电梯后反悔 遭全楼拒绝",
           "url": "https://www.toutiao.com/trending/7619211825670012955/",
           "source": "今日头条",
@@ -82,11 +82,12 @@
             4,
             14,
             25,
-            28
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时54分 ~ 16时37分]"
+          "appearance_count": 6,
+          "time_info": "[12时54分 ~ 18时31分]"
         },
         {
           "title": "男子反对加装电梯后反悔遭全楼反对",
@@ -182,7 +183,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -193,9 +194,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "以色列国防部长卡茨：已指示军方加速拆除“前线村庄”内的黎巴嫩房屋，以消除对以色列社区构成的威胁。",
+          "url": "https://flash.jin10.com/detail/20260322173415571800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         }
       ]
     }
