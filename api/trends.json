@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-22T15:40:56.586413+08:00",
-  "total_titles_processed": 909,
+  "generated_at": "2026-03-22T16:37:46.389318+08:00",
+  "total_titles_processed": 986,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "博士肄业修水电,700单零差评",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352160&amp;topic_name=%E5%8D%9A%E5%A3%AB%E8%82%84%E4%B8%9A%E4%BF%AE%E6%B0%B4%E7%94%B5%2C700%E5%8D%95%E9%9B%B6%E5%B7%AE%E8%AF%84",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时54分 ~ 15时40分]"
+          "appearance_count": 5,
+          "time_info": "[12时54分 ~ 16时37分]"
         },
         {
           "title": "一无人机击中伊拉克情报机构建筑",
@@ -30,6 +31,22 @@
           "time_info": "[00时33分 ~ 07时28分]"
         },
         {
+          "title": "业主反对加装电梯后反悔 遭全楼拒绝",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E5%8F%8D%E5%AF%B9%E5%8A%A0%E8%A3%85%E7%94%B5%E6%A2%AF%E5%90%8E%E5%8F%8D%E6%82%94+%E9%81%AD%E5%85%A8%E6%A5%BC%E6%8B%92%E7%BB%9D",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            8,
+            7,
+            9,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时25分 ~ 16时37分]"
+        },
+        {
           "title": "太空电梯能实现吗",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%AA%E7%A9%BA%E7%94%B5%E6%A2%AF%E8%83%BD%E5%AE%9E%E7%8E%B0%E5%90%97",
           "source": "bilibili 热搜",
@@ -41,31 +58,20 @@
           "time_info": "[02时39分 ~ 03时27分]"
         },
         {
-          "title": "业主反对加装电梯后反悔 遭全楼拒绝",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%9A%E4%B8%BB%E5%8F%8D%E5%AF%B9%E5%8A%A0%E8%A3%85%E7%94%B5%E6%A2%AF%E5%90%8E%E5%8F%8D%E6%82%94+%E9%81%AD%E5%85%A8%E6%A5%BC%E6%8B%92%E7%BB%9D",
-          "source": "百度热搜",
+          "title": "清华年度规模最大校园招聘会举行，就业市场呈现多个新趋势",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32807218",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
-            8,
-            7,
-            9,
-            18
+            18,
+            17,
+            15,
+            12,
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时25分 ~ 15时40分]"
-        },
-        {
-          "title": "物业学习胖东来 物业费收缴率升至90%",
-          "url": "https://www.toutiao.com/trending/7619920997332008979/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时55分 ~ 15时40分]"
+          "appearance_count": 7,
+          "time_info": "[10时25分 ~ 16时37分]"
         },
         {
           "title": "业主反对加装电梯后反悔 遭全楼拒绝",
@@ -75,11 +81,12 @@
             1,
             4,
             14,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时54分 ~ 15时40分]"
+          "appearance_count": 5,
+          "time_info": "[12时54分 ~ 16时37分]"
         },
         {
           "title": "男子反对加装电梯后反悔遭全楼反对",
@@ -93,19 +100,17 @@
           "time_info": "[10时25分 ~ 10时26分]"
         },
         {
-          "title": "清华年度规模最大校园招聘会举行，就业市场呈现多个新趋势",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32807218",
-          "source": "澎湃新闻",
+          "title": "物业学习胖东来 物业费收缴率升至90%",
+          "url": "https://www.toutiao.com/trending/7619920997332008979/",
+          "source": "今日头条",
           "ranks": [
-            18,
-            17,
-            15,
-            12,
-            10
+            5,
+            2,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时25分 ~ 15时40分]"
+          "appearance_count": 3,
+          "time_info": "[14时55分 ~ 16时37分]"
         },
         {
           "title": "东北辽阔的土地生不出狭隘的爱",
@@ -169,6 +174,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时25分 ~ 10时26分]"
+        },
+        {
+          "title": "浙江华业：拟投资10.94亿元建设穆岙生产基地二期项目",
+          "url": "https://flash.jin10.com/detail/20260322155602962800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "电投水电：2025年净利润同比下降34.07%",
+          "url": "https://flash.jin10.com/detail/20260322155122387800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         }
       ]
     }
