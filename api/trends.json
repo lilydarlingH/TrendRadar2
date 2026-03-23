@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T21:12:22.862974+08:00",
-  "total_titles_processed": 1544,
+  "generated_at": "2026-03-23T22:58:10.894829+08:00",
+  "total_titles_processed": 1668,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             2,
             3,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时13分 ~ 21时12分]"
+          "appearance_count": 10,
+          "time_info": "[15时13分 ~ 22时58分]"
         },
         {
           "title": "博士肄业修水电,700单零差评",
@@ -46,8 +47,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时34分 ~ 21时12分]"
+          "appearance_count": 25,
+          "time_info": "[00时34分 ~ 22时58分]"
         },
         {
           "title": "伊朗宣布：从防御转为进攻！制造出了先进新武器，“造价低廉，破坏力更强，可快速量产”",
@@ -122,6 +123,18 @@
           "time_info": "[10时26分 ~ 15时14分]"
         },
         {
+          "title": "习近平：牢牢把握雄安新区功能定位 努力建设新时代创新高地和推动高质量发展样板",
+          "url": "https://www.cls.cn/detail/2321853",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时11分 ~ 22时58分]"
+        },
+        {
           "title": "印度总理莫迪：印度拥有超过530万吨的战略石油储备。 印度正在建设650万吨的额外石油储备。",
           "url": "https://wallstreetcn.com/livenews/3075043",
           "source": "华尔街见闻-快讯",
@@ -132,17 +145,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时59分 ~ 18时11分]"
-        },
-        {
-          "title": "习近平：牢牢把握雄安新区功能定位 努力建设新时代创新高地和推动高质量发展样板",
-          "url": "https://www.cls.cn/detail/2321853",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时11分 ~ 21时12分]"
         },
         {
           "title": "未来五年109项重大工程项目里的工作机会",
