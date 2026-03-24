@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T21:16:23.399661+08:00",
-  "total_titles_processed": 1839,
+  "generated_at": "2026-03-24T23:03:06.695587+08:00",
+  "total_titles_processed": 1968,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "习近平：牢牢把握雄安新区功能定位 努力建设新时代创新高地和推动高质量发展样板",
@@ -115,6 +115,17 @@
           "time_info": "[12时55分 ~ 14时03分]"
         },
         {
+          "title": "教育部将科技成果转化绩效指标纳入「双一流」建设成效评价，对高校和科研意味着什么？",
+          "url": "https://www.zhihu.com/question/2019470605376861486",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时02分 ~ 23时03分]"
+        },
+        {
           "title": "14岁少年被虐致死小区业主物业发声",
           "url": "https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%B0%91%E5%B9%B4%E8%A2%AB%E8%99%90%E8%87%B4%E6%AD%BB%E5%B0%8F%E5%8C%BA%E4%B8%9A%E4%B8%BB%E7%89%A9%E4%B8%9A%E5%8F%91%E5%A3%B0%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -209,7 +220,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         }
