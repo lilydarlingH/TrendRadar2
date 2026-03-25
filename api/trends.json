@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T21:15:33.743495+08:00",
-  "total_titles_processed": 1858,
+  "generated_at": "2026-03-25T23:03:22.666514+08:00",
+  "total_titles_processed": 1987,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "着力在建章立制上下功夫",
@@ -47,11 +47,12 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时43分 ~ 21时15分]"
+          "appearance_count": 5,
+          "time_info": "[19时43分 ~ 23时03分]"
         },
         {
           "title": "KB Home第一财季营收10.8亿美元，分析师预期11.0亿美元。 第一财季交付2,370套（住宅），分析师预期交付2,389套。",
@@ -87,6 +88,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时56分 ~ 18时52分]"
+        },
+        {
+          "title": "男子持原副县长之子名下土地证主张拆迁赔偿，一审被驳回",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32514619",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时02分 ~ 23时03分]"
         },
         {
           "title": "加拿大央行：内部计算机系统正出现故障，原定于周三进行的政府现金余额招标已被推迟。其他市场操作可能会受到影响。尽管问题已被发现且正在恢复中，但目前尚无完全解决该问题的时间表。",
@@ -161,7 +173,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         }
