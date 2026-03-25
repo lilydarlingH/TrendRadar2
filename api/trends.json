@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T04:57:04.370805+08:00",
-  "total_titles_processed": 521,
+  "generated_at": "2026-03-26T05:42:27.642979+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "男子持原副县长之子名下土地证主张拆迁赔偿，一审被驳回",
@@ -15,19 +15,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 04时57分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 05时42分]"
         },
         {
           "title": "美国推出新型反应堆许可制度以简化核电建设",
           "url": "https://wallstreetcn.com/livenews/3076898",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时42分]"
         },
         {
           "title": "近东救济工程处：391名该机构相关者在本轮巴以冲突期间丧生",
@@ -63,6 +64,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 00时22分]"
+        },
+        {
+          "title": "尼日利亚国家石油公司执行副总裁：正在就两座浮式液化天然气厂进行谈判，并希望建设一座年产1200万吨的液化天然气厂和多个以天然气为基础的工业中心，以利用超过200万亿立方英尺的天然气储量。",
+          "url": "https://flash.jin10.com/detail/20260326044124594800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         }
       ]
     }
