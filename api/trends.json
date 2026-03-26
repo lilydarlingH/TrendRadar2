@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T15:12:33.135267+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2026-03-26T17:00:06.049832+08:00",
+  "total_titles_processed": 1280,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "男子持原副县长之子名下土地证主张拆迁赔偿，一审被驳回",
@@ -51,7 +51,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -60,11 +60,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352376&amp;topic_name=%E6%83%B3%E7%94%A8%E7%94%B5%E6%A2%AF%E8%A2%AB%E6%8B%92%2C%E4%B8%9A%E4%B8%BB%E8%B5%B7%E8%AF%89%E5%85%A8%E6%A5%BC",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时12分 ~ 17时00分]"
         },
         {
           "title": "广东：深入推进“广东强芯”、“璀璨行动”、核心软件攻关等重大科技工程",
@@ -137,6 +138,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时02分 ~ 03时10分]"
+        },
+        {
+          "title": "浙江一村招聘「西瓜主理人」，年薪 20 万起步，负责人称「本事比学历重要」，管好西瓜需要哪些技能？",
+          "url": "https://www.zhihu.com/question/2020173816035325850",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时59分 ~ 17时00分]"
         },
         {
           "title": "中国工程院院士魏正耀逝世",
