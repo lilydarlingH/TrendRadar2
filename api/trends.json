@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T04:39:30.188550+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-03-27T05:34:34.237253+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "想用电梯被拒,业主起诉全楼",
@@ -15,8 +15,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 04时39分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 05时34分]"
+        },
+        {
+          "title": "美联储理事库克：劳动力市场处于低招聘、低解雇状态，对最年轻的劳动者而言尤为艰难。",
+          "url": "https://flash.jin10.com/detail/20260327045345402800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时34分"
         },
         {
           "title": "Meta Platforms(META.O)：将位于得州埃尔帕索的数据中心初始投资从15亿美元增至逾100亿美元，该数据中心预计将提供超过4000个建筑岗位。",
@@ -25,7 +36,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
         },
