@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T18:08:59.818660+08:00",
-  "total_titles_processed": 1403,
+  "generated_at": "2026-03-26T19:52:53.757795+08:00",
+  "total_titles_processed": 1518,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "男子持原副县长之子名下土地证主张拆迁赔偿，一审被驳回",
@@ -19,6 +19,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时21分 ~ 10时31分]"
+        },
+        {
+          "title": "想用电梯被拒,业主起诉全楼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352376&amp;topic_name=%E6%83%B3%E7%94%A8%E7%94%B5%E6%A2%AF%E8%A2%AB%E6%8B%92%2C%E4%B8%9A%E4%B8%BB%E8%B5%B7%E8%AF%89%E5%85%A8%E6%A5%BC",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时12分 ~ 19时52分]"
         },
         {
           "title": "OpenAI Codex工程负责人：Codex App将继续保留。我们只是比以往投入了更多资源进行开发，它很快会变得相当出色。",
@@ -51,7 +65,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -67,17 +81,15 @@
           "time_info": "15时12分"
         },
         {
-          "title": "想用电梯被拒,业主起诉全楼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352376&amp;topic_name=%E6%83%B3%E7%94%A8%E7%94%B5%E6%A2%AF%E8%A2%AB%E6%8B%92%2C%E4%B8%9A%E4%B8%BB%E8%B5%B7%E8%AF%89%E5%85%A8%E6%A5%BC",
-          "source": "贴吧",
+          "title": "中国算力平台（贵州）正式启动建设",
+          "url": "https://flash.jin10.com/detail/20260326192240410800",
+          "source": "金十数据",
           "ranks": [
-            5,
-            8,
-            9
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时12分 ~ 18时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "广州：建设推广人工智能辅助诊断、5G远程手术、AI影像筛查和智能家庭医生系统",
@@ -86,7 +98,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -191,7 +203,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -213,7 +225,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         }
