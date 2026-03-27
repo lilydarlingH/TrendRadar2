@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-03-27T21:11:32.001276+08:00",
-  "total_titles_processed": 1748,
+  "generated_at": "2026-03-27T22:52:56.245302+08:00",
+  "total_titles_processed": 1882,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "经济学家：房地产有止跌回暖迹象",
+          "url": "https://www.douyin.com/hot/2445342",
+          "source": "抖音",
+          "ranks": [
+            11,
+            21,
+            14,
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时27分 ~ 22时52分]"
+        },
         {
           "title": "想用电梯被拒,业主起诉全楼",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352376&amp;topic_name=%E6%83%B3%E7%94%A8%E7%94%B5%E6%A2%AF%E8%A2%AB%E6%8B%92%2C%E4%B8%9A%E4%B8%BB%E8%B5%B7%E8%AF%89%E5%85%A8%E6%A5%BC",
@@ -22,20 +37,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时05分 ~ 16时57分]"
-        },
-        {
-          "title": "经济学家：房地产有止跌回暖迹象",
-          "url": "https://www.douyin.com/hot/2445342",
-          "source": "抖音",
-          "ranks": [
-            11,
-            21,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时27分 ~ 21时11分]"
         },
         {
           "title": "女子因停车争吵引发心脏病身亡，家属索赔 122 万，物业称属于随便停的公共车位，法律上如何理解？",
@@ -144,7 +145,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -158,6 +159,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
+        },
+        {
+          "title": "亿纬锂能：拟投资约60亿元建设亿纬锂能60GWh储能（动力）电池生产制造项目",
+          "url": "https://flash.jin10.com/detail/20260327222645382800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "国常会研究加快建设分级诊疗体系有关政策措施",
@@ -199,7 +211,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
