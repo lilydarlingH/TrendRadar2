@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T22:52:56.245302+08:00",
-  "total_titles_processed": 1882,
+  "generated_at": "2026-03-27T23:56:34.768332+08:00",
+  "total_titles_processed": 1966,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             21,
             14,
             15,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时27分 ~ 22时52分]"
+          "appearance_count": 11,
+          "time_info": "[15时27分 ~ 23时56分]"
         },
         {
           "title": "想用电梯被拒,业主起诉全楼",
@@ -167,7 +168,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         },
