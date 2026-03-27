@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T19:44:22.631858+08:00",
-  "total_titles_processed": 1620,
+  "generated_at": "2026-03-27T21:11:32.001276+08:00",
+  "total_titles_processed": 1748,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "想用电梯被拒,业主起诉全楼",
@@ -34,8 +34,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时27分 ~ 19时44分]"
+          "appearance_count": 9,
+          "time_info": "[15时27分 ~ 21时11分]"
         },
         {
           "title": "女子因停车争吵引发心脏病身亡，家属索赔 122 万，物业称属于随便停的公共车位，法律上如何理解？",
@@ -55,7 +55,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -88,7 +88,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -138,6 +138,17 @@
           "time_info": "15时27分"
         },
         {
+          "title": "证监会：2026年将研究制定资本市场法治建设规划，加快重点领域立法修法",
+          "url": "https://wallstreetcn.com/livenews/3078261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "Meta Platforms(META.O)：将位于得州埃尔帕索的数据中心初始投资从15亿美元增至逾100亿美元，该数据中心预计将提供超过4000个建筑岗位。",
           "url": "https://flash.jin10.com/detail/20260327034350839800",
           "source": "金十数据",
@@ -155,7 +166,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -180,6 +191,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "证监会：2026年将研究制定资本市场法治建设规划，加快重点领域立法修法",
+          "url": "https://flash.jin10.com/detail/20260327204209475800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "海南国际商业航天发射场二期建设正在提速中",
