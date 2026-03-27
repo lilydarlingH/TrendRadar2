@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T07:35:27.141714+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2026-03-27T10:32:40.503755+08:00",
+  "total_titles_processed": 851,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 07时35分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 10时32分]"
         },
         {
           "title": "3月30日起禁止住宅专门用于安放骨灰",
