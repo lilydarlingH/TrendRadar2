@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T17:58:09.779737+08:00",
-  "total_titles_processed": 1416,
+  "generated_at": "2026-03-27T18:54:34.849871+08:00",
+  "total_titles_processed": 1519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "想用电梯被拒,业主起诉全楼",
@@ -24,28 +24,18 @@
           "time_info": "[01时05分 ~ 16时57分]"
         },
         {
-          "title": "柳化股份：拟投资2.9亿元建设20万吨/年全酸性流化床过氧化氢项目",
-          "url": "https://flash.jin10.com/detail/20260327174234603800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
           "title": "经济学家：房地产有止跌回暖迹象",
           "url": "https://www.douyin.com/hot/2445342",
           "source": "抖音",
           "ranks": [
             11,
             21,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时27分 ~ 17时58分]"
+          "appearance_count": 6,
+          "time_info": "[15时27分 ~ 18时54分]"
         },
         {
           "title": "女子因停车争吵引发心脏病身亡，家属索赔 122 万，物业称属于随便停的公共车位，法律上如何理解？",
@@ -55,8 +45,30 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时27分 ~ 17时58分]"
+          "appearance_count": 6,
+          "time_info": "[15时27分 ~ 18时54分]"
+        },
+        {
+          "title": "柳化股份：拟投资2.9亿元建设20万吨/年全酸性流化床过氧化氢项目",
+          "url": "https://flash.jin10.com/detail/20260327174234603800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "交行副行长：3月以来按揭贷款的进件量明显上升，应是房地产市场企稳的一种信号",
+          "url": "https://wallstreetcn.com/livenews/3078162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "3月30日起禁止住宅专门用于安放骨灰",
@@ -88,7 +100,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -113,6 +125,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
+        },
+        {
+          "title": "恒大物业全年营收136.8亿元人民币，净利润9.866亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3078136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "微软在云团队和销售团队冻结招聘。（The Information）",
