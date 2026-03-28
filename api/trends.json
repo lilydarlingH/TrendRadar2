@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T20:59:27.304166+08:00",
-  "total_titles_processed": 1450,
+  "generated_at": "2026-03-28T21:55:49.602800+08:00",
+  "total_titles_processed": 1504,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时41分 ~ 20时59分]"
+          "appearance_count": 9,
+          "time_info": "[16时41分 ~ 21时55分]"
         },
         {
           "title": "国家重大科技基础设施“远海浮动岛”今天启动建设",
@@ -54,11 +54,12 @@
           "ranks": [
             2,
             10,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时35分 ~ 20时59分]"
+          "appearance_count": 4,
+          "time_info": "[18时35分 ~ 21时55分]"
         },
         {
           "title": "以色列国防军：以色列空军和海军昨晚对黎巴嫩境内的真主党目标进行了数十次打击，包括支持在南部作战的地面部队。目标包括武器库、火箭发射器和真主党使用的建筑。",
