@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T12:55:34.796386+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2026-03-28T13:59:52.398666+08:00",
+  "total_titles_processed": 1032,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 12时55分]"
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 13时59分]"
         },
         {
           "title": "伊朗西北部一住宅遭美以空袭，已致5人死亡",
@@ -37,11 +38,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 12时55分]"
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 13时59分]"
         },
         {
           "title": "国家重大科技基础设施“远海浮动岛”今天启动建设",
@@ -61,7 +63,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         }
