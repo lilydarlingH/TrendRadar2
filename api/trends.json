@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T19:32:16.139065+08:00",
-  "total_titles_processed": 1372,
+  "generated_at": "2026-03-28T20:59:27.304166+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时41分 ~ 19时32分]"
+          "appearance_count": 8,
+          "time_info": "[16时41分 ~ 20时59分]"
         },
         {
           "title": "国家重大科技基础设施“远海浮动岛”今天启动建设",
@@ -48,6 +48,19 @@
           "time_info": "[10时14分 ~ 16时42分]"
         },
         {
+          "title": "伊朗总统警告地区国家：勿让敌人从你们的土地上发动战争",
+          "url": "https://wallstreetcn.com/livenews/3078567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 20时59分]"
+        },
+        {
           "title": "以色列国防军：以色列空军和海军昨晚对黎巴嫩境内的真主党目标进行了数十次打击，包括支持在南部作战的地面部队。目标包括武器库、火箭发射器和真主党使用的建筑。",
           "url": "https://flash.jin10.com/detail/20260328161424286800",
           "source": "金十数据",
@@ -59,18 +72,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时42分 ~ 18时35分]"
-        },
-        {
-          "title": "伊朗总统警告地区国家：勿让敌人从你们的土地上发动战争",
-          "url": "https://wallstreetcn.com/livenews/3078567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 19时32分]"
         },
         {
           "title": "伊朗西北部一住宅遭美以空袭，已致5人死亡",
