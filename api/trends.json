@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T21:01:39.452939+08:00",
-  "total_titles_processed": 1254,
+  "generated_at": "2026-03-29T21:58:35.063573+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "多地光伏项目击穿收益底线，发展模式面临全方位重构",
@@ -71,11 +71,12 @@
           "url": "https://www.zhihu.com/question/2021620337046032896",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时00分 ~ 21时01分]"
+          "appearance_count": 3,
+          "time_info": "[21时00分 ~ 21时58分]"
         },
         {
           "title": "山西太原高层建筑着火已致1死25伤",
@@ -175,6 +176,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "山西太原一高层建筑着火，初步确认24人受伤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32852822",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         }
       ]
     }
