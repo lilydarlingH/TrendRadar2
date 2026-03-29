@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T17:40:06.616726+08:00",
-  "total_titles_processed": 1057,
+  "generated_at": "2026-03-29T18:36:54.848893+08:00",
+  "total_titles_processed": 1117,
   "failed_sources": [],
   "trends": [
     {
@@ -46,11 +46,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 17时40分]"
+          "appearance_count": 3,
+          "time_info": "[16时43分 ~ 18时36分]"
         },
         {
           "title": "山西太原一建筑发生火灾，已致1人遇难25人受伤",
