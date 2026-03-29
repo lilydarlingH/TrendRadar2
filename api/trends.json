@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T21:58:35.063573+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2026-03-29T22:38:46.015895+08:00",
+  "total_titles_processed": 1339,
   "failed_sources": [],
   "trends": [
     {
@@ -54,6 +54,19 @@
           "time_info": "[16时43分 ~ 18时36分]"
         },
         {
+          "title": "如何评价 95 后女生带老公回村用拼多多改造的老宅？有没有知友来分享下网购装修的经验？",
+          "url": "https://www.zhihu.com/question/2021620337046032896",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时00分 ~ 22时38分]"
+        },
+        {
           "title": "山西太原一建筑发生火灾，已致1人遇难25人受伤",
           "url": "https://m.thepaper.cn/newsDetail_forward_32852960",
           "source": "澎湃新闻",
@@ -65,18 +78,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时33分 ~ 10时34分]"
-        },
-        {
-          "title": "如何评价 95 后女生带老公回村用拼多多改造的老宅？有没有知友来分享下网购装修的经验？",
-          "url": "https://www.zhihu.com/question/2021620337046032896",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时00分 ~ 21时58分]"
         },
         {
           "title": "山西太原高层建筑着火已致1死25伤",
@@ -184,7 +185,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         }
