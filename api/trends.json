@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T15:07:18.202697+08:00",
-  "total_titles_processed": 904,
+  "generated_at": "2026-03-29T16:43:09.793546+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "多地光伏项目击穿收益底线，发展模式面临全方位重构",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时37分 ~ 07时34分]"
+        },
+        {
+          "title": "据半岛电视台：以色列空袭摧毁黎巴嫩南部阿巴的一栋房屋，造成两人死亡。",
+          "url": "https://flash.jin10.com/detail/20260329161038473800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "山西太原一建筑发生火灾，已致1人遇难25人受伤",
@@ -126,7 +137,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
