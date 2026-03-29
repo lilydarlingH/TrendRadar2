@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-30T05:35:15.331643+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-03-30T06:34:05.630961+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
       "match_count": 2,
       "titles": [
+        {
+          "title": "两名油田工程师表示，利比亚沙拉拉油田的产量预计将在48小时内恢复至正常水平。",
+          "url": "https://flash.jin10.com/detail/20260330043647957800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时34分]"
+        },
         {
           "title": "伊朗官员：全国各类项目建设均未中断",
           "url": "https://flash.jin10.com/detail/20260330013806596800",
@@ -18,17 +30,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时45分 ~ 03时34分]"
-        },
-        {
-          "title": "两名油田工程师表示，利比亚沙拉拉油田的产量预计将在48小时内恢复至正常水平。",
-          "url": "https://flash.jin10.com/detail/20260330043647957800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时35分"
         }
       ]
     }
