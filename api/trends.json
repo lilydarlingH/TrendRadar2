@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T13:28:34.268902+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-03-30T15:45:38.579269+08:00",
+  "total_titles_processed": 1066,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
@@ -14,7 +14,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
@@ -71,9 +71,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
+        },
+        {
+          "title": "黑龙江通报建筑坍塌事故",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%91%E9%BE%99%E6%B1%9F%E9%80%9A%E6%8A%A5%E5%BB%BA%E7%AD%91%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "黑龙江建筑坍塌事故致7死2伤",
+          "url": "https://www.douyin.com/hot/2448632",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "A股光伏设备板块持续走弱，迈为股份跌超16%，固德威、横店东磁、易成新能、拉普拉斯、东方日升跟跌。",
@@ -85,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "黑龙江海林建筑坍塌事故致7人遇难",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%91%E9%BE%99%E6%B1%9F%E6%B5%B7%E6%9E%97%E5%BB%BA%E7%AD%91%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E8%87%B47%E4%BA%BA%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "A股三大指数均跌超1%，电力电网、光伏设备、算力、消费电子等方向跌幅居前，沪深京三市下跌个股超4600只。",
