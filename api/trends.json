@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T05:42:04.025027+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-04-01T06:37:36.042566+08:00",
+  "total_titles_processed": 557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何看待兰州大学通信工程考研复试 401 高分被刷，318 分被录取？",
@@ -15,11 +15,45 @@
             1,
             2,
             4,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时45分 ~ 05时42分]"
+          "appearance_count": 10,
+          "time_info": "[01时45分 ~ 06时37分]"
+        },
+        {
+          "title": "澳大利亚3月AIG建筑业表现指数 -31.4，前值-8.2。",
+          "url": "https://flash.jin10.com/detail/20260401060044293800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "美国总统特朗普：我不需要国会批准建设这个舞厅，法官错了。",
+          "url": "https://flash.jin10.com/detail/20260401054746054800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "美国总统特朗普：我们将对停止建设白宫宴会厅的决定提起上诉。",
+          "url": "https://flash.jin10.com/detail/20260401054740234800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
         }
       ]
     }
