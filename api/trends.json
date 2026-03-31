@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T17:03:54.410460+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2026-03-31T18:55:18.397788+08:00",
+  "total_titles_processed": 1441,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "具身智能领域首份行业标准发布",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时43分 ~ 10时32分]"
+        },
+        {
+          "title": "如何看待兰州大学通信工程考研复试 401 高分被刷，318 分被录取？",
+          "url": "https://www.zhihu.com/question/2022107844250539411",
+          "source": "知乎",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时03分 ~ 18时55分]"
         },
         {
           "title": "江苏省政府召开常务会议 有序推动建筑企业跨领域整合拓展业务",
@@ -47,18 +59,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        },
-        {
-          "title": "如何看待兰州大学通信工程考研复试 401 高分被刷，318 分被录取？",
-          "url": "https://www.zhihu.com/question/2022107844250539411",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -73,6 +74,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 06时39分]"
+        },
+        {
+          "title": "总投资额超86亿 宁波商业航天基地即将开启招标",
+          "url": "https://www.cls.cn/detail/2330314",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 18时55分]"
         },
         {
           "title": "沙特民防部门报告称，阿尔卡吉的6栋房屋因无人机碎片受到轻微损坏。",
@@ -114,7 +126,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -194,6 +206,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
+        },
+        {
+          "title": "金田股份：拟在越南投资建设“年产3万吨液冷散热及机架母线用高精密铜排生产项目”",
+          "url": "https://flash.jin10.com/detail/20260331181823339800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         }
       ]
     }
