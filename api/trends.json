@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T06:37:36.042566+08:00",
-  "total_titles_processed": 557,
+  "generated_at": "2026-04-01T07:37:03.054186+08:00",
+  "total_titles_processed": 638,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             2,
             4,
             10,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时45分 ~ 06时37分]"
+          "appearance_count": 12,
+          "time_info": "[01时45分 ~ 07时37分]"
         },
         {
           "title": "澳大利亚3月AIG建筑业表现指数 -31.4，前值-8.2。",
@@ -29,7 +30,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -40,7 +41,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -51,7 +52,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         }
