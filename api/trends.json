@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T07:37:03.054186+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-04-01T10:43:31.285448+08:00",
+  "total_titles_processed": 835,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何看待兰州大学通信工程考研复试 401 高分被刷，318 分被录取？",
@@ -24,6 +24,28 @@
           "time_info": "[01时45分 ~ 07时37分]"
         },
         {
+          "title": "男子靠AI开一人公司年营收达150万",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%9D%A0AI%E5%BC%80%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E5%B9%B4%E8%90%A5%E6%94%B6%E8%BE%BE150%E4%B8%87%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "大赚135亿！3000亿光伏龙头发布2025年年报|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2331060",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
           "title": "澳大利亚3月AIG建筑业表现指数 -31.4，前值-8.2。",
           "url": "https://flash.jin10.com/detail/20260401060044293800",
           "source": "金十数据",
@@ -33,6 +55,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
+        },
+        {
+          "title": "4月1日起将实施一批国家标准",
+          "url": "https://flash.jin10.com/detail/20260401100125878800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
           "title": "美国总统特朗普：我不需要国会批准建设这个舞厅，法官错了。",
