@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T03:05:28.700623+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-04-02T04:47:07.021412+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 03时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时38分 ~ 04时47分]"
         },
         {
           "title": "千亿光伏龙头5连跌！股价同期回调两成，近期高回撤权重盘点，这些方向占比较高",
@@ -26,8 +26,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 03时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时38分 ~ 04时47分]"
+        },
+        {
+          "title": "工地巨型钻头从天而降 行人险被砸中",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E5%9C%B0%E5%B7%A8%E5%9E%8B%E9%92%BB%E5%A4%B4%E4%BB%8E%E5%A4%A9%E8%80%8C%E9%99%8D+%E8%A1%8C%E4%BA%BA%E9%99%A9%E8%A2%AB%E7%A0%B8%E4%B8%AD",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 04时47分]"
         },
         {
           "title": "盒马回应派送员在电梯里乱涂乱画",
@@ -38,19 +50,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 03时05分]"
-        },
-        {
-          "title": "工地巨型钻头从天而降 行人险被砸中",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E5%9C%B0%E5%B7%A8%E5%9E%8B%E9%92%BB%E5%A4%B4%E4%BB%8E%E5%A4%A9%E8%80%8C%E9%99%8D+%E8%A1%8C%E4%BA%BA%E9%99%A9%E8%A2%AB%E7%A0%B8%E4%B8%AD",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[01时38分 ~ 04时47分]"
         }
       ]
     }
