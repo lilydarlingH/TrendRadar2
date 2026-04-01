@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T21:30:39.022487+08:00",
-  "total_titles_processed": 1674,
+  "generated_at": "2026-04-01T23:07:49.681016+08:00",
+  "total_titles_processed": 1790,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,24 @@
           "ranks": [
             6,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时59分 ~ 21时30分]"
+          "appearance_count": 6,
+          "time_info": "[18时59分 ~ 23时07分]"
+        },
+        {
+          "title": "李强：持续扩大绿电供给，着力推进新型电网建设，加快能源结构调整优化",
+          "url": "https://www.cls.cn/detail/2332385",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 23时07分]"
         },
         {
           "title": "4月1日起一批国家标准开始实施",
@@ -46,17 +59,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时59分 ~ 19时58分]"
-        },
-        {
-          "title": "李强：持续扩大绿电供给，着力推进新型电网建设，加快能源结构调整优化",
-          "url": "https://www.cls.cn/detail/2332385",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时30分]"
         },
         {
           "title": "4月1日起一批国家标准正式实施",
