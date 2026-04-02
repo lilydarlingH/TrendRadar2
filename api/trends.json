@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T17:02:05.980749+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-04-02T18:09:40.952510+08:00",
+  "total_titles_processed": 1407,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "李强：持续扩大绿电供给，着力推进新型电网建设，加快能源结构调整优化",
@@ -70,6 +70,17 @@
           "time_info": "[01时38分 ~ 07时38分]"
         },
         {
+          "title": "雅居乐集团(03383.HK)：2026年3月的预售金额合计为约人民币6.7亿元；对应建筑面积为约6.9万平方米；平均价为每平方米人民币9710元。",
+          "url": "https://flash.jin10.com/detail/20260402175803919800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
           "title": "江苏一小区加装的电梯只通向其中一层",
           "url": "https://www.toutiao.com/trending/7622909811436519478/",
           "source": "今日头条",
@@ -90,6 +101,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
+        },
+        {
+          "title": "中谷物流：拟签订10艘1800TEU集装箱船舶建造合同 合同总金额不超过27亿元人民币",
+          "url": "https://flash.jin10.com/detail/20260402174621164800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "五部门出手，规范网络平台招聘信息发布",
