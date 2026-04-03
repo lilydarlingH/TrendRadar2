@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T19:40:25.079661+08:00",
-  "total_titles_processed": 1607,
+  "generated_at": "2026-04-03T21:08:02.393871+08:00",
+  "total_titles_processed": 1747,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "地面倾角很小时人体感觉不到，那么是否可以建造一个一楼和二楼之间没有楼梯和明显斜坡的建筑？",
@@ -65,6 +65,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时57分 ~ 18时45分]"
+        },
+        {
+          "title": "西安一水电工讨薪未果发视频维权被诉名誉侵权，一审开庭未宣判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32883634",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时40分 ~ 21时08分]"
         },
         {
           "title": "中国光伏“困在”霍尔木兹",
@@ -131,9 +143,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
+        },
+        {
+          "title": "美国白宫预算文件：特朗普2027财年预算案包括为“金穹”项目提供资金、减少关键矿物储备缺口以及建造舰艇。",
+          "url": "https://flash.jin10.com/detail/20260403204625731800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "伊朗外交部长：袭击民用设施，包括尚未完工的桥梁，不会迫使伊朗人投降。每一座桥梁和每一栋建筑都将重建得更加坚固。",
@@ -158,24 +181,13 @@
           "time_info": "13时07分"
         },
         {
-          "title": "西安一水电工讨薪未果发视频维权被诉名誉侵权，一审开庭未宣判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32883634",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
           "title": "伊朗外交部发言人：摧毁那些高耸入云、见证了伊朗工程师和工人们的智慧、奉献和不懈努力的伟大桥梁，并不能让破坏者变得伟大。",
           "url": "https://flash.jin10.com/detail/20260403185047505800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -213,6 +225,17 @@
           "time_info": "04时42分"
         },
         {
+          "title": "美国白宫预算文件：特朗普的预算申请175亿美元用于“金穹”建设。",
+          "url": "https://flash.jin10.com/detail/20260403203643656800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
           "title": "美联储威廉姆斯：就业方面，预期的招聘规模会有所减少。",
           "url": "https://flash.jin10.com/detail/20260403034719015800",
           "source": "金十数据",
@@ -222,6 +245,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "美国劳工统计局：3月份建筑业的就业人数增加了26000人，但过去12个月里其就业情况几乎没有出现净变化。",
+          "url": "https://flash.jin10.com/detail/20260403203603118800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "美国白宫预算文件：美国总统特朗普的预算案包含40亿美元，用于美国联邦航空局继续建设新的空中交通管制系统。",
+          "url": "https://flash.jin10.com/detail/20260403203600032800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "央行：2026年4月7日，中国人民银行将以固定数量、利率招标、多重价位中标方式开展8000亿元买断式逆回购操作，期限为3个月（89天），到期日为2026年7月5日（遇节假日顺延）。",
