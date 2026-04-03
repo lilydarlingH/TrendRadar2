@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T02:51:59.876815+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2026-04-04T03:40:35.958280+08:00",
+  "total_titles_processed": 444,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 03时40分]"
         },
         {
           "title": "西安一水电工讨薪未果发视频维权被诉名誉侵权，一审开庭未宣判",
           "url": "https://m.thepaper.cn/newsDetail_forward_32883634",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 03时40分]"
         },
         {
           "title": "“美联储传声筒”Nick Timiraos：美国3月份平均每周工作时间的下降，导致私营部门工人综合周薪指数（综合了招聘、薪资和工作时长）增长甚微。其12个月变化率小幅下降至3.9%。",
