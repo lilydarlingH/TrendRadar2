@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T18:45:52.270708+08:00",
-  "total_titles_processed": 1506,
+  "generated_at": "2026-04-03T19:40:25.079661+08:00",
+  "total_titles_processed": 1607,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "地面倾角很小时人体感觉不到，那么是否可以建造一个一楼和二楼之间没有楼梯和明显斜坡的建筑？",
@@ -18,8 +18,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时07分 ~ 18时45分]"
+          "appearance_count": 8,
+          "time_info": "[13时07分 ~ 19时40分]"
         },
         {
           "title": "全面提升移动电源安全 强制性国家标准发布",
@@ -90,6 +90,18 @@
           "time_info": "[04时42分 ~ 05时41分]"
         },
         {
+          "title": "长虹能源：拟投资约9.99亿元建设马来西亚高倍率锂电池生产基地",
+          "url": "https://wallstreetcn.com/livenews/3082131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时40分]"
+        },
+        {
           "title": "殡葬领域6项行业标准出台",
           "url": "https://wallstreetcn.com/livenews/3082109",
           "source": "华尔街见闻-快讯",
@@ -113,15 +125,15 @@
           "time_info": "00时07分"
         },
         {
-          "title": "长虹能源：拟投资约9.99亿元建设马来西亚高倍率锂电池生产基地",
-          "url": "https://wallstreetcn.com/livenews/3082131",
-          "source": "华尔街见闻-快讯",
+          "title": "云南锗业：控股子公司实施“高品质磷化铟单晶片建设项目” 计划总投资1.89亿元",
+          "url": "https://flash.jin10.com/detail/20260403190229187800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时45分"
+          "time_info": "19时40分"
         },
         {
           "title": "伊朗外交部长：袭击民用设施，包括尚未完工的桥梁，不会迫使伊朗人投降。每一座桥梁和每一栋建筑都将重建得更加坚固。",
@@ -144,6 +156,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
+        },
+        {
+          "title": "西安一水电工讨薪未果发视频维权被诉名誉侵权，一审开庭未宣判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32883634",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "伊朗外交部发言人：摧毁那些高耸入云、见证了伊朗工程师和工人们的智慧、奉献和不懈努力的伟大桥梁，并不能让破坏者变得伟大。",
+          "url": "https://flash.jin10.com/detail/20260403185047505800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "两部门：进一步加强电动自行车锂离子电池回收利用体系建设",
@@ -196,7 +230,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         }
