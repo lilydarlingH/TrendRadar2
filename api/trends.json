@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T19:32:21.199854+08:00",
-  "total_titles_processed": 1311,
+  "generated_at": "2026-04-04T20:59:53.897213+08:00",
+  "total_titles_processed": 1429,
   "failed_sources": [],
   "trends": [
     {
@@ -78,11 +78,12 @@
           "ranks": [
             1,
             6,
-            12
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时41分 ~ 19时32分]"
+          "appearance_count": 4,
+          "time_info": "[17时41分 ~ 20时59分]"
         },
         {
           "title": "迪拜当局表示，已妥善处置一起因（导弹）碎片坠落到迪拜码头区一栋建筑外立面而引发的事故。迪拜码头区域未报告火灾或人员伤亡。",
