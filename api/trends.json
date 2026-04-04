@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T18:36:55.333385+08:00",
-  "total_titles_processed": 1227,
+  "generated_at": "2026-04-04T19:32:21.199854+08:00",
+  "total_titles_processed": 1311,
   "failed_sources": [],
   "trends": [
     {
@@ -46,8 +46,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时52分 ~ 18时36分]"
+          "appearance_count": 11,
+          "time_info": "[12时52分 ~ 19时32分]"
         },
         {
           "title": "美国国家公路交通安全管理局：丰田汽车工程与制造公司正在召回部分美国车辆，原因是行人警示音不足，可能无法提醒行人注意倒车车辆，从而增加人员受伤的风险。",
@@ -77,11 +77,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 18时36分]"
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 19时32分]"
         },
         {
           "title": "迪拜当局表示，已妥善处置一起因（导弹）碎片坠落到迪拜码头区一栋建筑外立面而引发的事故。迪拜码头区域未报告火灾或人员伤亡。",
@@ -128,11 +129,12 @@
           "ranks": [
             7,
             18,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时43分 ~ 18时36分]"
+          "appearance_count": 4,
+          "time_info": "[16时43分 ~ 19时32分]"
         },
         {
           "title": "好多人装修没有去家务化的意识",
