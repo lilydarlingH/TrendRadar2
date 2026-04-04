@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T22:38:08.836584+08:00",
-  "total_titles_processed": 1549,
+  "generated_at": "2026-04-04T23:35:26.523276+08:00",
+  "total_titles_processed": 1604,
   "failed_sources": [],
   "trends": [
     {
@@ -87,6 +87,17 @@
           "time_info": "15时11分"
         },
         {
+          "title": "最高增速近50% 两网固定资产投资提速 全球电网建设迈入景气周期",
+          "url": "https://www.cls.cn/detail/2334439",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时57分 ~ 23时35分]"
+        },
+        {
           "title": "迪拜当局表示，已妥善处置一起因（导弹）碎片坠落到迪拜码头区一栋建筑外立面而引发的事故。迪拜码头区域未报告火灾或人员伤亡。",
           "url": "https://flash.jin10.com/detail/20260404095220336800",
           "source": "金十数据",
@@ -137,17 +148,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时43分 ~ 19时32分]"
-        },
-        {
-          "title": "最高增速近50% 两网固定资产投资提速 全球电网建设迈入景气周期",
-          "url": "https://www.cls.cn/detail/2334439",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时57分 ~ 22时38分]"
         },
         {
           "title": "好多人装修没有去家务化的意识",
