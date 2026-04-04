@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T10:14:55.264719+08:00",
-  "total_titles_processed": 704,
+  "generated_at": "2026-04-04T12:52:43.106480+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "分享我的装修日记",
@@ -15,11 +15,12 @@
             8,
             6,
             9,
-            5
+            5,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 10时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 12时52分]"
         },
         {
           "title": "西安一水电工讨薪未果发视频维权被诉名誉侵权，一审开庭未宣判",
@@ -28,22 +29,12 @@
           "ranks": [
             13,
             14,
-            16
+            16,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 10时14分]"
-        },
-        {
-          "title": "迪拜当局表示，已妥善处置一起因（导弹）碎片坠落到迪拜码头区一栋建筑外立面而引发的事故。迪拜码头区域未报告火灾或人员伤亡。",
-          "url": "https://flash.jin10.com/detail/20260404095220336800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 12时52分]"
         },
         {
           "title": "美国总统特朗普在自家社交媒体平台兜售3月非农就业报告。 特朗普鼓吹道：特别是18.6万名在三月份获得私营部门工作的美国人！ 我的经济政策创造了一个强大的经济增长引擎，没有什么能减缓它的速度。 由于快速的本土化和激增的投资，工厂建设岗位大幅增加，而贸易逆差在一年内缩小了52%！",
@@ -57,6 +48,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时36分 ~ 10时14分]"
+        },
+        {
+          "title": "迪拜当局表示，已妥善处置一起因（导弹）碎片坠落到迪拜码头区一栋建筑外立面而引发的事故。迪拜码头区域未报告火灾或人员伤亡。",
+          "url": "https://flash.jin10.com/detail/20260404095220336800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 12时52分]"
         },
         {
           "title": "好多人装修没有去家务化的意识",
@@ -77,9 +80,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        },
+        {
+          "title": "上海创芯学院启动招聘招生，由上科大、上海交大和复旦共同参与创建",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32894321",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
+          "title": "菲律宾首都一处住宅区起火",
+          "url": "https://flash.jin10.com/detail/20260404101248655800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         },
         {
           "title": "“美联储传声筒”Nick Timiraos：美国3月份平均每周工作时间的下降，导致私营部门工人综合周薪指数（综合了招聘、薪资和工作时长）增长甚微。其12个月变化率小幅下降至3.9%。",
