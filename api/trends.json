@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T21:58:15.558654+08:00",
-  "total_titles_processed": 1498,
+  "generated_at": "2026-04-04T22:38:08.836584+08:00",
+  "total_titles_processed": 1549,
   "failed_sources": [],
   "trends": [
     {
@@ -139,6 +139,17 @@
           "time_info": "[16时43分 ~ 19时32分]"
         },
         {
+          "title": "最高增速近50% 两网固定资产投资提速 全球电网建设迈入景气周期",
+          "url": "https://www.cls.cn/detail/2334439",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时57分 ~ 22时38分]"
+        },
+        {
           "title": "好多人装修没有去家务化的意识",
           "url": "https://s.weibo.com/weibo?q=%E5%A5%BD%E5%A4%9A%E4%BA%BA%E8%A3%85%E4%BF%AE%E6%B2%A1%E6%9C%89%E5%8E%BB%E5%AE%B6%E5%8A%A1%E5%8C%96%E7%9A%84%E6%84%8F%E8%AF%86&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -149,17 +160,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时36分 ~ 10时14分]"
-        },
-        {
-          "title": "最高增速近50% 两网固定资产投资提速 全球电网建设迈入景气周期",
-          "url": "https://www.cls.cn/detail/2334439",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 21时58分]"
         },
         {
           "title": "菲律宾首都一处住宅区起火",
