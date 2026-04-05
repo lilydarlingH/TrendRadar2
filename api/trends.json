@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T03:36:10.791561+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-04-06T04:37:11.629449+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             5,
             16,
             23,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 03时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 04时37分]"
         },
         {
           "title": "最高增速近50% 两网固定资产投资提速 全球电网建设迈入景气周期",
@@ -29,20 +30,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 03时36分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：今天在大马士革的谈判非常重要——我们今天与叙利亚总统举行了双边会谈，双方团队也进行了磋商，此外还举行了乌克兰、叙利亚和土耳其的三方会谈。我们正在建立新的关系，创造新的机遇，并扩大我们在安全领域的工作。",
-          "url": "https://flash.jin10.com/detail/20260406022204174800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 03时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 04时37分]"
         },
         {
           "title": "女子住酒店发现装饰画后还有道门",
@@ -51,11 +40,25 @@
           "ranks": [
             30,
             19,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时33分 ~ 03时36分]"
+          "appearance_count": 8,
+          "time_info": "[01时33分 ~ 04时37分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：今天在大马士革的谈判非常重要——我们今天与叙利亚总统举行了双边会谈，双方团队也进行了磋商，此外还举行了乌克兰、叙利亚和土耳其的三方会谈。我们正在建立新的关系，创造新的机遇，并扩大我们在安全领域的工作。",
+          "url": "https://flash.jin10.com/detail/20260406022204174800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时48分 ~ 04时37分]"
         },
         {
           "title": "据以色列第14频道：以色列认为与伊朗达成协议的可能性很低，正在准备对伊朗能源基础设施（包括关键设施和新建设施）进行潜在的大规模打击。",
@@ -63,11 +66,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 03时36分]"
+          "appearance_count": 3,
+          "time_info": "[02时48分 ~ 04时37分]"
         },
         {
           "title": "阿联酋阿布扎比国家石油公司天然气部门：4月3日发生在哈卜尚（Habshan）建筑的一起事故导致部分设施受损。",
