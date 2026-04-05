@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T05:35:22.249955+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-04-06T06:34:34.988553+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
@@ -20,19 +20,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 05时35分]"
-        },
-        {
-          "title": "最高增速近50% 两网固定资产投资提速 全球电网建设迈入景气周期",
-          "url": "https://www.cls.cn/detail/2334439",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 05时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "女子住酒店发现装饰画后还有道门",
@@ -43,11 +32,23 @@
             19,
             17,
             20,
-            16
+            16,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时33分 ~ 05时35分]"
+          "appearance_count": 11,
+          "time_info": "[01时33分 ~ 06时34分]"
+        },
+        {
+          "title": "最高增速近50% 两网固定资产投资提速 全球电网建设迈入景气周期",
+          "url": "https://www.cls.cn/detail/2334439",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "乌克兰总统泽连斯基：今天在大马士革的谈判非常重要——我们今天与叙利亚总统举行了双边会谈，双方团队也进行了磋商，此外还举行了乌克兰、叙利亚和土耳其的三方会谈。我们正在建立新的关系，创造新的机遇，并扩大我们在安全领域的工作。",
