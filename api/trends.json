@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T01:34:10.481167+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2026-04-06T02:48:07.245954+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "女子住酒店发现装饰画后还有道门",
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 01时34分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 02时48分]"
         },
         {
           "title": "最高增速近50% 两网固定资产投资提速 全球电网建设迈入景气周期",
@@ -27,8 +28,31 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 02时48分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：今天在大马士革的谈判非常重要——我们今天与叙利亚总统举行了双边会谈，双方团队也进行了磋商，此外还举行了乌克兰、叙利亚和土耳其的三方会谈。我们正在建立新的关系，创造新的机遇，并扩大我们在安全领域的工作。",
+          "url": "https://flash.jin10.com/detail/20260406022204174800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "女子住酒店发现装饰画后还有道门",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BD%8F%E9%85%92%E5%BA%97%E5%8F%91%E7%8E%B0%E8%A3%85%E9%A5%B0%E7%94%BB%E5%90%8E%E8%BF%98%E6%9C%89%E9%81%93%E9%97%A8",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            19
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时39分 ~ 01时34分]"
+          "time_info": "[01时33分 ~ 02时48分]"
         },
         {
           "title": "阿联酋阿布扎比国家石油公司天然气部门：4月3日发生在哈卜尚（Habshan）建筑的一起事故导致部分设施受损。",
@@ -43,15 +67,15 @@
           "time_info": "[00时40分 ~ 01时34分]"
         },
         {
-          "title": "女子住酒店发现装饰画后还有道门",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E4%BD%8F%E9%85%92%E5%BA%97%E5%8F%91%E7%8E%B0%E8%A3%85%E9%A5%B0%E7%94%BB%E5%90%8E%E8%BF%98%E6%9C%89%E9%81%93%E9%97%A8",
-          "source": "百度热搜",
+          "title": "据以色列第14频道：以色列认为与伊朗达成协议的可能性很低，正在准备对伊朗能源基础设施（包括关键设施和新建设施）进行潜在的大规模打击。",
+          "url": "https://flash.jin10.com/detail/20260406020840091800",
+          "source": "金十数据",
           "ranks": [
-            30
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 01时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
         }
       ]
     }
