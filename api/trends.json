@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T22:51:07.394195+08:00",
-  "total_titles_processed": 1479,
+  "generated_at": "2026-04-06T23:51:56.174826+08:00",
+  "total_titles_processed": 1563,
   "failed_sources": [],
   "trends": [
     {
@@ -71,11 +71,12 @@
           "ranks": [
             4,
             22,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时59分 ~ 22时51分]"
+          "appearance_count": 6,
+          "time_info": "[18时59分 ~ 23时51分]"
         },
         {
           "title": "乌克兰总统泽连斯基：今天在大马士革的谈判非常重要——我们今天与叙利亚总统举行了双边会谈，双方团队也进行了磋商，此外还举行了乌克兰、叙利亚和土耳其的三方会谈。我们正在建立新的关系，创造新的机遇，并扩大我们在安全领域的工作。",
@@ -92,6 +93,20 @@
           "time_info": "[02时48分 ~ 05时35分]"
         },
         {
+          "title": "小伙“一人公司”估值超3000万",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E2%80%9C%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E2%80%9D%E4%BC%B0%E5%80%BC%E8%B6%853000%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            16,
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时55分 ~ 23时51分]"
+        },
+        {
           "title": "女子住酒店发现装饰画后是门",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BD%8F%E9%85%92%E5%BA%97%E5%8F%91%E7%8E%B0%E8%A3%85%E9%A5%B0%E7%94%BB%E5%90%8E%E6%98%AF%E9%97%A8%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -102,19 +117,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时27分 ~ 15时47分]"
-        },
-        {
-          "title": "小伙“一人公司”估值超3000万",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E2%80%9C%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E2%80%9D%E4%BC%B0%E5%80%BC%E8%B6%853000%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时55分 ~ 22时51分]"
         },
         {
           "title": "秸秆还田后的东北黑土地软得像发糕",
@@ -196,7 +198,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
