@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T06:40:02.852607+08:00",
-  "total_titles_processed": 608,
+  "generated_at": "2026-04-07T07:39:01.715707+08:00",
+  "total_titles_processed": 677,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             20,
             13,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时46分 ~ 06时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时46分 ~ 07时39分]"
         },
         {
           "title": "住宅楼加装电梯被低层业主叫停",
@@ -29,11 +30,12 @@
             16,
             19,
             24,
-            28
+            28,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 06时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 07时39分]"
         },
         {
           "title": "英伟达支持的数据中心建设公司Firmus融资5.05亿美元。",
@@ -48,6 +50,19 @@
           "time_info": "[04时40分 ~ 05时40分]"
         },
         {
+          "title": "秸秆还田后的东北黑土地软得像发糕",
+          "url": "https://www.toutiao.com/trending/7625454113752727593/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 07时39分]"
+        },
+        {
           "title": "小伙“一人公司”估值超3000万",
           "url": "https://www.toutiao.com/trending/7625272085941813299/",
           "source": "今日头条",
@@ -57,18 +72,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 06时40分]"
-        },
-        {
-          "title": "秸秆还田后的东北黑土地软得像发糕",
-          "url": "https://www.toutiao.com/trending/7625454113752727593/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 05时40分]"
         }
       ]
     }
