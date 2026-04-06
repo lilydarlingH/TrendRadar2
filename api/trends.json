@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T10:38:28.736447+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-04-06T13:27:27.036768+08:00",
+  "total_titles_processed": 833,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "女子住酒店发现装饰画后还有道门",
@@ -46,11 +46,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 10时38分]"
+          "appearance_count": 16,
+          "time_info": "[00时39分 ~ 13时27分]"
         },
         {
           "title": "乌克兰总统泽连斯基：今天在大马士革的谈判非常重要——我们今天与叙利亚总统举行了双边会谈，双方团队也进行了磋商，此外还举行了乌克兰、叙利亚和土耳其的三方会谈。我们正在建立新的关系，创造新的机遇，并扩大我们在安全领域的工作。",
@@ -67,6 +68,28 @@
           "time_info": "[02时48分 ~ 05时35分]"
         },
         {
+          "title": "女子住酒店发现装饰画后是门",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BD%8F%E9%85%92%E5%BA%97%E5%8F%91%E7%8E%B0%E8%A3%85%E9%A5%B0%E7%94%BB%E5%90%8E%E6%98%AF%E9%97%A8%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "伊朗两处住宅遭袭受损，至少13人死亡",
+          "url": "https://news.ifeng.com/c/8s69cgPQyHt",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "据以色列第14频道：以色列认为与伊朗达成协议的可能性很低，正在准备对伊朗能源基础设施（包括关键设施和新建设施）进行潜在的大规模打击。",
           "url": "https://flash.jin10.com/detail/20260406020840091800",
           "source": "金十数据",
@@ -78,6 +101,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时48分 ~ 04时37分]"
+        },
+        {
+          "title": "中国未来，可以普及独栋住宅或别墅建设么？",
+          "url": "https://www.zhihu.com/question/574596297",
+          "source": "知乎",
+          "ranks": [
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 13时27分]"
         },
         {
           "title": "阿联酋阿布扎比国家石油公司天然气部门：4月3日发生在哈卜尚（Habshan）建筑的一起事故导致部分设施受损。",
@@ -98,7 +133,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -109,18 +144,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "中国未来，可以普及独栋住宅或别墅建设么？",
-          "url": "https://www.zhihu.com/question/574596297",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         }
