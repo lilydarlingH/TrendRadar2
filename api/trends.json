@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T07:36:58.080220+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2026-04-06T10:38:28.736447+08:00",
+  "total_titles_processed": 686,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "女子住酒店发现装饰画后还有道门",
@@ -45,11 +45,12 @@
           "url": "https://www.cls.cn/detail/2334439",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 07时36分]"
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 10时38分]"
         },
         {
           "title": "乌克兰总统泽连斯基：今天在大马士革的谈判非常重要——我们今天与叙利亚总统举行了双边会谈，双方团队也进行了磋商，此外还举行了乌克兰、叙利亚和土耳其的三方会谈。我们正在建立新的关系，创造新的机遇，并扩大我们在安全领域的工作。",
@@ -89,6 +90,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 01时34分]"
+        },
+        {
+          "title": "商务部等6部门：鼓励电商企业联合品牌商家建设快闪店、潮玩店、虚拟现实体验馆等新场景",
+          "url": "https://flash.jin10.com/detail/20260406100704667800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：德黑兰东南部一住宅区遭袭击，至少13人遇难。",
+          "url": "https://flash.jin10.com/detail/20260406100548929800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "中国未来，可以普及独栋住宅或别墅建设么？",
+          "url": "https://www.zhihu.com/question/574596297",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         }
       ]
     }
