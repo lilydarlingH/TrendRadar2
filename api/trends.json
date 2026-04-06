@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T21:15:30.009856+08:00",
-  "total_titles_processed": 1357,
+  "generated_at": "2026-04-06T22:51:07.394195+08:00",
+  "total_titles_processed": 1479,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "女子住酒店发现装饰画后还有道门",
@@ -65,6 +65,19 @@
           "time_info": "[13时27分 ~ 15时47分]"
         },
         {
+          "title": "住宅楼加装电梯被低层业主叫停",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%8F%E5%AE%85%E6%A5%BC%E5%8A%A0%E8%A3%85%E7%94%B5%E6%A2%AF%E8%A2%AB%E4%BD%8E%E5%B1%82%E4%B8%9A%E4%B8%BB%E5%8F%AB%E5%81%9C",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            22,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时59分 ~ 22时51分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：今天在大马士革的谈判非常重要——我们今天与叙利亚总统举行了双边会谈，双方团队也进行了磋商，此外还举行了乌克兰、叙利亚和土耳其的三方会谈。我们正在建立新的关系，创造新的机遇，并扩大我们在安全领域的工作。",
           "url": "https://flash.jin10.com/detail/20260406022204174800",
           "source": "金十数据",
@@ -91,6 +104,19 @@
           "time_info": "[13时27分 ~ 15时47分]"
         },
         {
+          "title": "小伙“一人公司”估值超3000万",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E2%80%9C%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E2%80%9D%E4%BC%B0%E5%80%BC%E8%B6%853000%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时55分 ~ 22时51分]"
+        },
+        {
           "title": "秸秆还田后的东北黑土地软得像发糕",
           "url": "https://www.toutiao.com/trending/7625454113752727593/",
           "source": "今日头条",
@@ -113,31 +139,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时38分 ~ 17时11分]"
-        },
-        {
-          "title": "住宅楼加装电梯被低层业主叫停",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%8F%E5%AE%85%E6%A5%BC%E5%8A%A0%E8%A3%85%E7%94%B5%E6%A2%AF%E8%A2%AB%E4%BD%8E%E5%B1%82%E4%B8%9A%E4%B8%BB%E5%8F%AB%E5%81%9C",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            22,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时59分 ~ 21时15分]"
-        },
-        {
-          "title": "小伙“一人公司”估值超3000万",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E2%80%9C%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8%E2%80%9D%E4%BC%B0%E5%80%BC%E8%B6%853000%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 21时15分]"
         },
         {
           "title": "据以色列第14频道：以色列认为与伊朗达成协议的可能性很低，正在准备对伊朗能源基础设施（包括关键设施和新建设施）进行潜在的大规模打击。",
@@ -187,6 +188,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时55分 ~ 21时15分]"
+        },
+        {
+          "title": "美国发布美国-阿联酋人工智能加速伙伴关系会议纪要。G42在美阿人工智能合作框架下推进技术体系建设。",
+          "url": "https://flash.jin10.com/detail/20260406222700668800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "商务部等6部门：鼓励电商企业联合品牌商家建设快闪店、潮玩店、虚拟现实体验馆等新场景",
@@ -239,7 +251,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         }
