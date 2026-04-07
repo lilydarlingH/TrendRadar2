@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T13:12:06.380014+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2026-04-07T15:21:12.946498+08:00",
+  "total_titles_processed": 1184,
   "failed_sources": [],
   "trends": [
     {
@@ -24,6 +24,19 @@
           "time_info": "[01时46分 ~ 10时33分]"
         },
         {
+          "title": "光伏产品出口退税为何取消",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%89%E4%BC%8F%E4%BA%A7%E5%93%81%E5%87%BA%E5%8F%A3%E9%80%80%E7%A8%8E%E4%B8%BA%E4%BD%95%E5%8F%96%E6%B6%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时32分 ~ 15时21分]"
+        },
+        {
           "title": "住宅楼加装电梯被低层业主叫停",
           "url": "https://www.baidu.com/s?wd=%E4%BD%8F%E5%AE%85%E6%A5%BC%E5%8A%A0%E8%A3%85%E7%94%B5%E6%A2%AF%E8%A2%AB%E4%BD%8E%E5%B1%82%E4%B8%9A%E4%B8%BB%E5%8F%AB%E5%81%9C",
           "source": "百度热搜",
@@ -37,18 +50,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时52分 ~ 07时39分]"
-        },
-        {
-          "title": "光伏产品出口退税为何取消",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%89%E4%BC%8F%E4%BA%A7%E5%93%81%E5%87%BA%E5%8F%A3%E9%80%80%E7%A8%8E%E4%B8%BA%E4%BD%95%E5%8F%96%E6%B6%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时32分 ~ 13时12分]"
         },
         {
           "title": "英伟达支持的数据中心建设公司Firmus融资5.05亿美元。",
@@ -76,6 +77,30 @@
           "time_info": "[04时40分 ~ 07时39分]"
         },
         {
+          "title": "累计退费超3亿元，市场监管总局整治居民水电气收费不规范等问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32915318",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时11分 ~ 15时21分]"
+        },
+        {
+          "title": "东北黑土地软得像“发糕”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E9%BB%91%E5%9C%9F%E5%9C%B0%E8%BD%AF%E5%BE%97%E5%83%8F%E2%80%9C%E5%8F%91%E7%B3%95%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时11分 ~ 15时21分]"
+        },
+        {
           "title": "小伙“一人公司”估值超3000万",
           "url": "https://www.toutiao.com/trending/7625272085941813299/",
           "source": "今日头条",
@@ -99,28 +124,6 @@
           "time_info": "[10时32分 ~ 10时33分]"
         },
         {
-          "title": "累计退费超3亿元，市场监管总局整治居民水电气收费不规范等问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32915318",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 13时12分]"
-        },
-        {
-          "title": "东北黑土地软得像“发糕”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E9%BB%91%E5%9C%9F%E5%9C%B0%E8%BD%AF%E5%BE%97%E5%83%8F%E2%80%9C%E5%8F%91%E7%B3%95%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 13时12分]"
-        },
-        {
           "title": "市场消息：LS电气正考虑在韩国投资建设稀土磁体工厂。",
           "url": "https://flash.jin10.com/detail/20260407101907776800",
           "source": "金十数据",
@@ -138,7 +141,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
         },
@@ -160,7 +163,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
         },
@@ -171,7 +174,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
         }
