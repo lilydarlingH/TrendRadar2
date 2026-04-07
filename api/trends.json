@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T06:40:52.913049+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-04-08T07:40:06.856413+08:00",
+  "total_titles_processed": 731,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 06时40分]"
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 07时40分]"
         },
         {
           "title": "房地产高薪退潮：千万年薪销声匿迹",
@@ -27,11 +27,12 @@
             16,
             10,
             24,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 06时40分]"
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 07时40分]"
         },
         {
           "title": "光伏产品出口退税为何取消",
@@ -44,8 +45,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 06时40分]"
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 07时40分]"
         },
         {
           "title": "卡塔尔内政部：一枚拦截后的飞行物残骸坠落至一所住宅，造成四人受伤。",
@@ -89,7 +90,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
         }
