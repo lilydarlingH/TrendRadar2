@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T19:59:59.670664+08:00",
-  "total_titles_processed": 1637,
+  "generated_at": "2026-04-08T21:53:46.736732+08:00",
+  "total_titles_processed": 1786,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "累计退费超3亿元，市场监管总局整治居民水电气收费不规范等问题",
@@ -47,11 +47,12 @@
             17,
             15,
             14,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时02分 ~ 19时59分]"
+          "appearance_count": 23,
+          "time_info": "[01时02分 ~ 21时53分]"
         },
         {
           "title": "物业大撤退",
@@ -78,6 +79,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时03分 ~ 19时59分]"
+        },
+        {
+          "title": "我国开发的东南亚单体最大光伏项目投运",
+          "url": "https://www.douyin.com/hot/2459935",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "“十五五”时期北京将实施100项重大工程 总投资超4万亿元",
@@ -156,7 +168,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -192,6 +204,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
+        },
+        {
+          "title": "房屋被撞 房主给看热闹邻居发瓜子",
+          "url": "https://www.baidu.com/s?wd=%E6%88%BF%E5%B1%8B%E8%A2%AB%E6%92%9E+%E6%88%BF%E4%B8%BB%E7%BB%99%E7%9C%8B%E7%83%AD%E9%97%B9%E9%82%BB%E5%B1%85%E5%8F%91%E7%93%9C%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         }
       ]
     }
