@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T01:05:50.495864+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-09T03:20:15.524827+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 03时20分]"
         },
         {
           "title": "物业公司现「大撤退」潮，问题到底出在哪里？如何打破「服务差—不交费—更差—撤退」的恶性循环？",
           "url": "https://www.zhihu.com/question/2024944194934817490",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 03时20分]"
         },
         {
           "title": "物业正在大规模“跑路”",
@@ -37,19 +38,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 03时20分]"
         },
         {
           "title": "光伏产品出口退税为何取消",
           "url": "https://search.bilibili.com/all?keyword=%E5%85%89%E4%BC%8F%E4%BA%A7%E5%93%81%E5%87%BA%E5%8F%A3%E9%80%80%E7%A8%8E%E4%B8%BA%E4%BD%95%E5%8F%96%E6%B6%88",
           "source": "bilibili 热搜",
           "ranks": [
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 03时20分]"
         },
         {
           "title": "网友住酒店发现装饰画后是门，直通楼梯间，店员称是建筑预留检修通道，这合理吗？住酒店该检查哪些隐藏角落？",
@@ -59,8 +61,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 03时20分]"
         },
         {
           "title": "美国白宫：此项研究为匈牙利推进购买及建设多达10座美国小型反应堆的工作铺平了道路。",
