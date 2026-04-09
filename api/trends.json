@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T13:12:31.661764+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-04-09T15:26:28.193013+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "我国开发的东南亚单体最大光伏项目投运",
@@ -39,11 +39,12 @@
           "ranks": [
             19,
             10,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时05分 ~ 13时12分]"
+          "appearance_count": 12,
+          "time_info": "[01时05分 ~ 15时26分]"
         },
         {
           "title": "物业正在大规模“跑路”",
@@ -94,8 +95,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 13时12分]"
+          "appearance_count": 3,
+          "time_info": "[10时29分 ~ 15时26分]"
         },
         {
           "title": "市场消息：以色列空袭后，黎巴嫩贝鲁特一栋建筑物遭到严重破坏。",
@@ -118,6 +119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "真主党：我们对位于阿尔泰巴项目一处房屋内的以色列部队发起了突袭，成功实现了直接打击。",
+          "url": "https://flash.jin10.com/detail/20260409145150913800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "美国白宫：此项研究为匈牙利推进购买及建设多达10座美国小型反应堆的工作铺平了道路。",
