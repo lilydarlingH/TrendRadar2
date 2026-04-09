@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T03:23:28.492574+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-04-10T04:54:53.329787+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "日本 73 岁工程师向中国车企投递简历，这份活到老干到老的劲头带来哪些触动？HR 公开其简历侵犯隐私了吗？",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 03时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 04时54分]"
         },
         {
           "title": "一镜到底看“十五五”重大工程",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 03时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 04时54分]"
         },
         {
           "title": "13条举措加快建设分级诊疗体系",
@@ -47,22 +47,35 @@
           "source": "知乎",
           "ranks": [
             4,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 03时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 04时54分]"
         },
         {
           "title": "工地大叔中629万 兑奖时异常淡定",
           "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E5%9C%B0%E5%A4%A7%E5%8F%94%E4%B8%AD629%E4%B8%87+%E5%85%91%E5%A5%96%E6%97%B6%E5%BC%82%E5%B8%B8%E6%B7%A1%E5%AE%9A",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 04时54分]"
+        },
+        {
+          "title": "Meta Platforms(META.O)重新调配工程师以改进AI模型。",
+          "url": "https://flash.jin10.com/detail/20260410035916165800",
+          "source": "金十数据",
+          "ranks": [
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时23分"
+          "time_info": "04时54分"
         }
       ]
     }
