@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T00:21:21.865511+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-04-10T02:02:28.276535+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,23 @@
           "url": "https://www.zhihu.com/question/2025327406819407576",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时02分]"
+        },
+        {
+          "title": "一镜到底看“十五五”重大工程",
+          "url": "https://www.douyin.com/hot/2461085",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时02分]"
         },
         {
           "title": "13条举措加快建设分级诊疗体系",
@@ -30,26 +42,16 @@
           "time_info": "[00时20分 ~ 00时21分]"
         },
         {
-          "title": "一镜到底看“十五五”重大工程",
-          "url": "https://www.douyin.com/hot/2461085",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
-        },
-        {
           "title": "黄河特大桥垮塌致 13 死调查报告公布，系施工方违规用劣质螺栓，层层监管为何失灵？责任人会面临什么处罚？",
           "url": "https://www.zhihu.com/question/2025292599771100645",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时02分]"
         }
       ]
     }
