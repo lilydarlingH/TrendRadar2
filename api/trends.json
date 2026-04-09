@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T06:43:19.877245+08:00",
-  "total_titles_processed": 664,
+  "generated_at": "2026-04-10T07:39:56.123635+08:00",
+  "total_titles_processed": 721,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "日本 73 岁工程师向中国车企投递简历，这份活到老干到老的劲头带来哪些触动？HR 公开其简历侵犯隐私了吗？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时39分]"
         },
         {
           "title": "一镜到底看“十五五”重大工程",
@@ -27,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 06时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 07时39分]"
         },
         {
           "title": "黄河特大桥垮塌致 13 死调查报告公布，系施工方违规用劣质螺栓，层层监管为何失灵？责任人会面临什么处罚？",
@@ -66,8 +67,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时23分 ~ 06时43分]"
+          "appearance_count": 6,
+          "time_info": "[03时23分 ~ 07时39分]"
         },
         {
           "title": "住友电工计划投资159亿日元（1亿美元）建设一座新的钨生产厂，该工厂将把钨产能提高50%。",
@@ -79,6 +80,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
+        },
+        {
+          "title": "满足群众就近就便看病需求，加快建设分级诊疗体系若干措施发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32934976",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
         },
         {
           "title": "Meta Platforms(META.O)重新调配工程师以改进AI模型。",
@@ -98,7 +110,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时43分"
         }
