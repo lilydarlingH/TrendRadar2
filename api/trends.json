@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T19:53:13.333396+08:00",
-  "total_titles_processed": 1610,
+  "generated_at": "2026-04-10T21:15:14.437515+08:00",
+  "total_titles_processed": 1752,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "一镜到底看“十五五”重大工程",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时20分 ~ 10时40分]"
+        },
+        {
+          "title": "加快建设分级诊疗体系的若干措施",
+          "url": "https://www.douyin.com/hot/2461020",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时44分 ~ 21时15分]"
         },
         {
           "title": "日本 73 岁工程师向中国车企投递简历，这份活到老干到老的劲头带来哪些触动？HR 公开其简历侵犯隐私了吗？",
@@ -32,17 +43,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时20分 ~ 13时27分]"
-        },
-        {
-          "title": "加快建设分级诊疗体系的若干措施",
-          "url": "https://www.douyin.com/hot/2461020",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时44分 ~ 19时53分]"
         },
         {
           "title": "满足群众就近就便看病需求，加快建设分级诊疗体系若干措施发布",
@@ -124,11 +124,12 @@
           "url": "https://www.baidu.com/s?wd=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E7%AD%89%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E5%8F%91%E5%B8%83",
           "source": "百度热搜",
           "ranks": [
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时58分 ~ 19时53分]"
+          "appearance_count": 5,
+          "time_info": "[18时58分 ~ 21时15分]"
         },
         {
           "title": "国家网信办等五部门：支持算法、框架、芯片等技术的自主创新，推进拟人化互动服务技术研发和相关标准建设",
@@ -207,6 +208,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "茂莱光学：拟投资不超过10亿元开展“茂莱光学MLL量产智造基地建设项目”",
+          "url": "https://flash.jin10.com/detail/20260410205007974800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "美国总统特朗普：我和内政部长伯古姆很荣幸能够修复华盛顿纪念碑和林肯纪念堂之间曾经美丽的倒影池。我们之前被告知这项工程需要数年时间，但现在只需很短的时间，花费也少得多——而且修复后的倒影池将比建成之时更加美丽。",
