@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T03:46:32.308799+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-04-11T04:40:34.877246+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 03时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 04时40分]"
         },
         {
           "title": "女子花50万装修被吐槽像办公室",
@@ -26,22 +26,24 @@
             16,
             6,
             15,
-            22
+            22,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 03时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 04时40分]"
         },
         {
           "title": "女子花50万装修被吐槽像办公室",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%8A%B150%E4%B8%87%E8%A3%85%E4%BF%AE%E8%A2%AB%E5%90%90%E6%A7%BD%E5%83%8F%E5%8A%9E%E5%85%AC%E5%AE%A4",
           "source": "百度热搜",
           "ranks": [
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 03时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 04时40分]"
         },
         {
           "title": "林子聪分享香港住宅全貌",
