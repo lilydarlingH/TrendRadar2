@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T16:46:25.656635+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2026-04-11T17:42:46.962070+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
@@ -63,6 +63,19 @@
           "time_info": "[02时56分 ~ 07时38分]"
         },
         {
+          "title": "巴基斯坦外交部：美国代表团已抵达。希望各方能够建设性地参与和平谈判。重申愿继续为各方达成冲突解决方案提供便利。",
+          "url": "https://flash.jin10.com/detail/20260411144400550800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时52分 ~ 17时42分]"
+        },
+        {
           "title": "林子聪分享香港住宅全貌",
           "url": "https://www.toutiao.com/trending/7627042747689713705/",
           "source": "今日头条",
@@ -84,18 +97,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时26分 ~ 12时58分]"
-        },
-        {
-          "title": "巴基斯坦外交部：美国代表团已抵达。希望各方能够建设性地参与和平谈判。重申愿继续为各方达成冲突解决方案提供便利。",
-          "url": "https://flash.jin10.com/detail/20260411144400550800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 16时46分]"
         },
         {
           "title": "全球能源转型能力建设合作倡议在维也纳启动",
