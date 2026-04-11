@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T19:32:52.978287+08:00",
-  "total_titles_processed": 1288,
+  "generated_at": "2026-04-11T21:02:57.230696+08:00",
+  "total_titles_processed": 1397,
   "failed_sources": [],
   "trends": [
     {
@@ -63,6 +63,19 @@
           "time_info": "[02时56分 ~ 07时38分]"
         },
         {
+          "title": "大载重无人机助力 500千伏输变电工程跨长江放线作业顺利完成",
+          "url": "https://wallstreetcn.com/livenews/3086203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 21时02分]"
+        },
+        {
           "title": "巴基斯坦外交部：美国代表团已抵达。希望各方能够建设性地参与和平谈判。重申愿继续为各方达成冲突解决方案提供便利。",
           "url": "https://flash.jin10.com/detail/20260411144400550800",
           "source": "金十数据",
@@ -97,18 +110,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时26分 ~ 12时58分]"
-        },
-        {
-          "title": "大载重无人机助力 500千伏输变电工程跨长江放线作业顺利完成",
-          "url": "https://wallstreetcn.com/livenews/3086203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 19时32分]"
         },
         {
           "title": "全球能源转型能力建设合作倡议在维也纳启动",
