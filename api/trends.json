@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T18:41:34.732503+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-04-12T19:36:42.790480+08:00",
+  "total_titles_processed": 1220,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 18时41分]"
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 19时36分]"
         },
         {
           "title": "张国清在中国雅江集团调研时强调，扛牢工程建设主体责任，全面提升运营管理能力",
@@ -25,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            13
+            13,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 18时41分]"
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 19时36分]"
         }
       ]
     }
