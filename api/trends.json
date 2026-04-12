@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T04:39:58.715276+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2026-04-13T05:38:20.349530+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时38分]"
         },
         {
           "title": "武汉一路面铺一年就被铲？施工方回应",
@@ -27,11 +27,12 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时41分 ~ 04时39分]"
+          "appearance_count": 4,
+          "time_info": "[03时41分 ~ 05时38分]"
         }
       ]
     }
