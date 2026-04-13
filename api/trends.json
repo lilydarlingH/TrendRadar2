@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T13:44:59.439895+08:00",
-  "total_titles_processed": 918,
+  "generated_at": "2026-04-13T16:22:40.015360+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "59岁工地大叔回应随性跳舞走红",
@@ -43,11 +43,12 @@
           "url": "https://www.baidu.com/s?wd=%E9%93%B6%E8%A1%8C%E5%9B%9E%E5%BA%94%E6%8B%9B%E8%81%98%E8%A6%81%E6%B1%82%E4%BA%8C%E7%BA%A7%E8%BF%90%E5%8A%A8%E5%91%98",
           "source": "百度热搜",
           "ranks": [
-            8
+            8,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 16时22分]"
         },
         {
           "title": "创业板指涨超1%，沪指跌0.11%，深成指涨0.6%，养殖、锂矿、半导体、光伏设备等方向领涨，沪深京三市上涨个股超2200只。",
@@ -59,6 +60,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "报告：房地产行业正式进入“存量运营 + 服务增值”的新阶段",
+          "url": "https://wallstreetcn.com/livenews/3086774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "据上海市房地产交易中心，4月6日至4月12日上海二手房网签成交量达到7342套，其中4月11日网签成交量（1632套）创近5年上海二手房单日网签成交量新高。（新华财经）",
@@ -78,7 +90,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         },
@@ -89,7 +101,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         }
