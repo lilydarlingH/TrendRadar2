@@ -1,28 +1,12 @@
 {
-  "generated_at": "2026-04-13T22:52:19.577960+08:00",
-  "total_titles_processed": 1536,
+  "generated_at": "2026-04-14T00:16:02.091279+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 10,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "59岁工地大叔回应随性跳舞走红",
-          "url": "https://www.baidu.com/s?wd=59%E5%B2%81%E5%B7%A5%E5%9C%B0%E5%A4%A7%E5%8F%94%E5%9B%9E%E5%BA%94%E9%9A%8F%E6%80%A7%E8%B7%B3%E8%88%9E%E8%B5%B0%E7%BA%A2",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            16,
-            14,
-            20,
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 07时38分]"
-        },
         {
           "title": "因并购贷款未达成，10倍光伏概念牛股收购事项告吹",
           "url": "https://www.cls.cn/detail/2342608",
@@ -32,101 +16,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时51分 ~ 22时52分]"
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
-          "title": "武汉一路面铺一年就被铲？施工方回应",
-          "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E4%B8%80%E8%B7%AF%E9%9D%A2%E9%93%BA%E4%B8%80%E5%B9%B4%E5%B0%B1%E8%A2%AB%E9%93%B2%EF%BC%9F%E6%96%BD%E5%B7%A5%E6%96%B9%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
+          "title": "中国工程院院士、导弹武器专家冯煜芳逝世",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32961763",
+          "source": "澎湃新闻",
           "ranks": [
-            29,
-            15,
-            26,
-            25,
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时41分 ~ 07时38分]"
-        },
-        {
-          "title": "重庆一水电站发生事故致4人死亡",
-          "url": "https://www.toutiao.com/trending/7628167732945846323/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时47分 ~ 20时22分]"
-        },
-        {
-          "title": "银行回应招聘要求二级运动员",
-          "url": "https://www.baidu.com/s?wd=%E9%93%B6%E8%A1%8C%E5%9B%9E%E5%BA%94%E6%8B%9B%E8%81%98%E8%A6%81%E6%B1%82%E4%BA%8C%E7%BA%A7%E8%BF%90%E5%8A%A8%E5%91%98",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时44分 ~ 16时22分]"
-        },
-        {
-          "title": "创业板指涨超1%，沪指跌0.11%，深成指涨0.6%，养殖、锂矿、半导体、光伏设备等方向领涨，沪深京三市上涨个股超2200只。",
-          "url": "https://wallstreetcn.com/livenews/3086602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "报告：房地产行业正式进入“存量运营 + 服务增值”的新阶段",
-          "url": "https://wallstreetcn.com/livenews/3086774",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "据上海市房地产交易中心，4月6日至4月12日上海二手房网签成交量达到7342套，其中4月11日网签成交量（1632套）创近5年上海二手房单日网签成交量新高。（新华财经）",
-          "url": "https://wallstreetcn.com/livenews/3086587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "英国政府称，已授予罗尔斯·罗伊斯公司建造首批小型模块化核反应堆的合同。",
-          "url": "https://flash.jin10.com/detail/20260413131012465800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "官方通报济南一建筑物发生坍塌",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B5%8E%E5%8D%97%E4%B8%80%E5%BB%BA%E7%AD%91%E7%89%A9%E5%8F%91%E7%94%9F%E5%9D%8D%E5%A1%8C%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
+          "time_info": "[00时15分 ~ 00时16分]"
         }
       ]
     }
