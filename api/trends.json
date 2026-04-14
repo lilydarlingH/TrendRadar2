@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T03:19:15.618933+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-04-15T04:57:30.566893+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             13,
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 04时57分]"
         },
         {
           "title": "武汉通报一小区电梯发生冲顶事故",
@@ -25,11 +26,12 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            16
+            16,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 04时57分]"
         },
         {
           "title": "银行招聘被骂上热搜不能怪网友",
