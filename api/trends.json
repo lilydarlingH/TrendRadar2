@@ -1,307 +1,44 @@
 {
-  "generated_at": "2026-04-14T23:16:25.635091+08:00",
-  "total_titles_processed": 1740,
+  "generated_at": "2026-04-15T01:11:08.789911+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 25,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "因并购贷款未达成，10倍光伏概念牛股收购事项告吹",
-          "url": "https://www.cls.cn/detail/2342608",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 07时44分]"
-        },
-        {
-          "title": "中国工程院院士、导弹武器专家冯煜芳逝世",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32961763",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            7,
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时15分 ~ 21时31分]"
-        },
-        {
-          "title": "恒大集团、恒大地产及许家印案一审开庭",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32966074",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            7,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时27分 ~ 21时31分]"
-        },
-        {
-          "title": "公司招聘要求有300-500元微信余额",
-          "url": "https://www.toutiao.com/trending/7628171202816806436/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "恒大集团、恒大地产及许家印案开庭",
-          "url": "https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E9%9B%86%E5%9B%A2%E3%80%81%E6%81%92%E5%A4%A7%E5%9C%B0%E4%BA%A7%E5%8F%8A%E8%AE%B8%E5%AE%B6%E5%8D%B0%E6%A1%88%E5%BC%80%E5%BA%AD",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "白宫称美国独栋住宅缺口达1000万套",
-          "url": "https://flash.jin10.com/detail/20260414013200799800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗总统佩泽希齐扬向法国总统马克龙表示，欧洲可在敦促美国遵守国际法方面发挥建设性作用。",
-          "url": "https://flash.jin10.com/detail/20260414171427297800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "恒大集团恒大地产及许家印案一审开庭",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%81%92%E5%A4%A7%E9%9B%86%E5%9B%A2%E6%81%92%E5%A4%A7%E5%9C%B0%E4%BA%A7%E5%8F%8A%E8%AE%B8%E5%AE%B6%E5%8D%B0%E6%A1%88%E4%B8%80%E5%AE%A1%E5%BC%80%E5%BA%AD%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时27分 ~ 17时21分]"
-        },
         {
           "title": "武汉一小区电梯发生冲顶事故",
           "url": "https://www.toutiao.com/trending/7628422418052874303/",
           "source": "今日头条",
           "ranks": [
-            4
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 01时11分]"
         },
         {
           "title": "银行招聘被骂上热搜不能怪网友",
           "url": "https://www.baidu.com/s?wd=%E9%93%B6%E8%A1%8C%E6%8B%9B%E8%81%98%E8%A2%AB%E9%AA%82%E4%B8%8A%E7%83%AD%E6%90%9C%E4%B8%8D%E8%83%BD%E6%80%AA%E7%BD%91%E5%8F%8B",
           "source": "百度热搜",
           "ranks": [
-            5,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时05分 ~ 23时16分]"
-        },
-        {
-          "title": "银行招聘被骂上热搜不能怪网友",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E6%8B%9B%E8%81%98%E8%A2%AB%E9%AA%82%E4%B8%8A%E7%83%AD%E6%90%9C%E4%B8%8D%E8%83%BD%E6%80%AA%E7%BD%91%E5%8F%8B%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时49分 ~ 17时21分]"
-        },
-        {
-          "title": "公司招聘要求微信余额达标才可面试",
-          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E6%8B%9B%E8%81%98%E8%A6%81%E6%B1%82%E5%BE%AE%E4%BF%A1%E4%BD%99%E9%A2%9D%E8%BE%BE%E6%A0%87%E6%89%8D%E5%8F%AF%E9%9D%A2%E8%AF%95",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            13,
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时49分 ~ 19时05分]"
-        },
-        {
-          "title": "恒大集团、恒大地产及许家印案一审开庭，许家印被控 8 罪，当庭认罪悔罪，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2027357811407941683",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "恒大物业：中国恒大及CEG Holdings已与选定潜在买方签署排他性协议",
-          "url": "https://flash.jin10.com/detail/20260414185704015800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时05分"
-        },
-        {
-          "title": "银行招聘被指萝卜岗后撤争议条款",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E6%8B%9B%E8%81%98%E8%A2%AB%E6%8C%87%E8%90%9D%E5%8D%9C%E5%B2%97%E5%90%8E%E6%92%A4%E4%BA%89%E8%AE%AE%E6%9D%A1%E6%AC%BE%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时45分 ~ 07时44分]"
-        },
-        {
-          "title": "云南一银行招聘被质疑“萝卜岗”",
-          "url": "https://www.toutiao.com/trending/7627286016189268018/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时07分 ~ 07时44分]"
-        },
-        {
-          "title": "没人知道马頔要把家装修成什么样",
-          "url": "https://s.weibo.com/weibo?q=%E6%B2%A1%E4%BA%BA%E7%9F%A5%E9%81%93%E9%A9%AC%E9%A0%94%E8%A6%81%E6%8A%8A%E5%AE%B6%E8%A3%85%E4%BF%AE%E6%88%90%E4%BB%80%E4%B9%88%E6%A0%B7&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时53分 ~ 06时46分]"
-        },
-        {
-          "title": "委内瑞拉代总统罗德里格斯任命前国防部长弗拉基米尔·帕德里诺为农业生产与土地部长。",
-          "url": "https://flash.jin10.com/detail/20260414051148670800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时53分 ~ 06时46分]"
+          "time_info": "[01时10分 ~ 01时11分]"
         },
         {
-          "title": "公司招聘要求微信余额超300元",
-          "url": "https://www.toutiao.com/trending/7628171202816806436/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 17时21分]"
-        },
-        {
-          "title": "美国清洁能源公司Bloom Energy：与甲骨文(ORCL.N)扩大战略合作伙伴关系，计划部署高达2.8GW的装机容量，以加速人工智能基础设施的建设。首批1.2GW项目已签约，部署正在进行，并将持续至明年。",
-          "url": "https://flash.jin10.com/detail/20260414050356197800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
-          "title": "今年以来地方债发行节奏提速，土地储备专项债发行规模同比近乎翻倍",
-          "url": "https://wallstreetcn.com/livenews/3087207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时44分"
-        },
-        {
-          "title": "公司招聘要求余额超300称防闹事",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E6%8B%9B%E8%81%98%E8%A6%81%E6%B1%82%E4%BD%99%E9%A2%9D%E8%B6%85300%E7%A7%B0%E9%98%B2%E9%97%B9%E4%BA%8B%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "恒大集团、恒大地产及许家印案一审开庭，许家印当庭表示认罪悔罪",
-          "url": "https://wallstreetcn.com/livenews/3087402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "西部建设：2026年一季度混凝土签约量1912.2万方，同比下降47.67%；销售量961.88万方，同比下降12.93%。",
-          "url": "https://flash.jin10.com/detail/20260414170047683800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "我国累计发布国家标准外文版2613项 覆盖20余个重点领域",
-          "url": "https://wallstreetcn.com/livenews/3087559",
-          "source": "华尔街见闻-快讯",
+          "title": "武汉通报一小区电梯发生冲顶事故",
+          "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E9%80%9A%E6%8A%A5%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%94%B5%E6%A2%AF%E5%8F%91%E7%94%9F%E5%86%B2%E9%A1%B6%E4%BA%8B%E6%95%85",
+          "source": "百度热搜",
           "ranks": [
             28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 01时11分]"
         }
       ]
     }
