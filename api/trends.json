@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T19:05:54.680801+08:00",
-  "total_titles_processed": 1455,
+  "generated_at": "2026-04-14T21:31:43.012382+08:00",
+  "total_titles_processed": 1613,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时15分 ~ 19时05分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 21时31分]"
         },
         {
           "title": "恒大集团、恒大地产及许家印案一审开庭",
@@ -42,11 +42,12 @@
             18,
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时27分 ~ 19时05分]"
+          "appearance_count": 7,
+          "time_info": "[13时27分 ~ 21时31分]"
         },
         {
           "title": "公司招聘要求有300-500元微信余额",
@@ -131,17 +132,6 @@
           "time_info": "[15时49分 ~ 19时05分]"
         },
         {
-          "title": "银行招聘被骂上热搜不能怪网友",
-          "url": "https://www.baidu.com/s?wd=%E9%93%B6%E8%A1%8C%E6%8B%9B%E8%81%98%E8%A2%AB%E9%AA%82%E4%B8%8A%E7%83%AD%E6%90%9C%E4%B8%8D%E8%83%BD%E6%80%AA%E7%BD%91%E5%8F%8B",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时05分"
-        },
-        {
           "title": "恒大集团、恒大地产及许家印案一审开庭，许家印被控 8 罪，当庭认罪悔罪，有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2027357811407941683",
           "source": "知乎",
@@ -159,9 +149,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
+        },
+        {
+          "title": "银行招聘被骂上热搜不能怪网友",
+          "url": "https://www.baidu.com/s?wd=%E9%93%B6%E8%A1%8C%E6%8B%9B%E8%81%98%E8%A2%AB%E9%AA%82%E4%B8%8A%E7%83%AD%E6%90%9C%E4%B8%8D%E8%83%BD%E6%80%AA%E7%BD%91%E5%8F%8B",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时05分 ~ 21时31分]"
         },
         {
           "title": "银行招聘被指萝卜岗后撤争议条款",
