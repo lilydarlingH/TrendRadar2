@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T21:31:43.012382+08:00",
-  "total_titles_processed": 1613,
+  "generated_at": "2026-04-14T23:16:25.635091+08:00",
+  "total_titles_processed": 1740,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "因并购贷款未达成，10倍光伏概念牛股收购事项告吹",
@@ -107,6 +107,30 @@
           "time_info": "[13时27分 ~ 17时21分]"
         },
         {
+          "title": "武汉一小区电梯发生冲顶事故",
+          "url": "https://www.toutiao.com/trending/7628422418052874303/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
+          "title": "银行招聘被骂上热搜不能怪网友",
+          "url": "https://www.baidu.com/s?wd=%E9%93%B6%E8%A1%8C%E6%8B%9B%E8%81%98%E8%A2%AB%E9%AA%82%E4%B8%8A%E7%83%AD%E6%90%9C%E4%B8%8D%E8%83%BD%E6%80%AA%E7%BD%91%E5%8F%8B",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时05分 ~ 23时16分]"
+        },
+        {
           "title": "银行招聘被骂上热搜不能怪网友",
           "url": "https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E6%8B%9B%E8%81%98%E8%A2%AB%E9%AA%82%E4%B8%8A%E7%83%AD%E6%90%9C%E4%B8%8D%E8%83%BD%E6%80%AA%E7%BD%91%E5%8F%8B%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -152,18 +176,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
-        },
-        {
-          "title": "银行招聘被骂上热搜不能怪网友",
-          "url": "https://www.baidu.com/s?wd=%E9%93%B6%E8%A1%8C%E6%8B%9B%E8%81%98%E8%A2%AB%E9%AA%82%E4%B8%8A%E7%83%AD%E6%90%9C%E4%B8%8D%E8%83%BD%E6%80%AA%E7%BD%91%E5%8F%8B",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时05分 ~ 21时31分]"
         },
         {
           "title": "银行招聘被指萝卜岗后撤争议条款",
