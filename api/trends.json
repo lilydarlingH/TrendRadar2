@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T07:44:32.243533+08:00",
-  "total_titles_processed": 678,
+  "generated_at": "2026-04-14T10:40:43.784281+08:00",
+  "total_titles_processed": 862,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             19,
             18,
             7,
-            5
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 07时44分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 10时40分]"
         },
         {
           "title": "白宫称美国独栋住宅缺口达1000万套",
@@ -111,7 +112,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         }
