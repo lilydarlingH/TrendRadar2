@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-04-16T00:07:47.487891+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-04-16T02:07:53.416828+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "广州一小区电梯从15层坠至负2层",
+          "url": "https://www.toutiao.com/trending/7628865714862718985/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "大外交丨从铁路建设到红色研学，苏林访华聚焦多领域务实成果",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32969268",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 02时07分]"
+        },
         {
           "title": "据美联社：美检察官周二视察了美联储的建筑工地。",
           "url": "https://flash.jin10.com/detail/20260415233848808800",
@@ -30,15 +53,15 @@
           "time_info": "00时07分"
         },
         {
-          "title": "大外交丨从铁路建设到红色研学，苏林访华聚焦多领域务实成果",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32969268",
-          "source": "澎湃新闻",
+          "title": "Cadence与英伟达扩大合作伙伴关系，以在人工智能与加速计算时代重塑工程设计。",
+          "url": "https://flash.jin10.com/detail/20260416013048356800",
+          "source": "金十数据",
           "ranks": [
-            18
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时07分"
+          "time_info": "02时07分"
         }
       ]
     }
