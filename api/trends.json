@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T17:22:37.167898+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2026-04-15T19:02:42.797364+08:00",
+  "total_titles_processed": 1448,
   "failed_sources": [],
   "trends": [
     {
@@ -37,6 +37,21 @@
           "time_info": "[01时10分 ~ 07时44分]"
         },
         {
+          "title": "银行招聘设「运动员 + 身高」条件被指萝卜岗，后撤争议条款，该做法是否违法？特殊岗位需求如何避免变萝卜岗？",
+          "url": "https://www.zhihu.com/question/2027137057722577200",
+          "source": "知乎",
+          "ranks": [
+            17,
+            10,
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时38分 ~ 19时02分]"
+        },
+        {
           "title": "知情人士称，美国检察官皮罗办公室的检察官突访美联储总部，视察翻新工地现场。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3088033",
           "source": "华尔街见闻-快讯",
@@ -54,23 +69,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
-        },
-        {
-          "title": "银行招聘设「运动员 + 身高」条件被指萝卜岗，后撤争议条款，该做法是否违法？特殊岗位需求如何避免变萝卜岗？",
-          "url": "https://www.zhihu.com/question/2027137057722577200",
-          "source": "知乎",
-          "ranks": [
-            17,
-            10,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时38分 ~ 17时22分]"
         },
         {
           "title": "银行招聘被骂上热搜不能怪网友",
@@ -112,7 +113,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
