@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T20:03:46.379183+08:00",
-  "total_titles_processed": 1558,
+  "generated_at": "2026-04-15T22:47:58.881508+08:00",
+  "total_titles_processed": 1726,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "武汉一小区电梯发生冲顶事故",
@@ -103,7 +103,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -130,6 +130,17 @@
           "time_info": "17时22分"
         },
         {
+          "title": "大外交丨从铁路建设到红色研学，苏林访华聚焦多领域务实成果",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32969268",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
           "title": "金十图示：2026年04月15日（周三）富时中国A50指数成分股今日收盘行情一览：银行、制药、金属板块收高，消费电子、光伏、航海等板块收低",
           "url": "https://flash.jin10.com/detail/20260415150421084800",
           "source": "金十数据",
@@ -147,7 +158,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -180,7 +191,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         }
