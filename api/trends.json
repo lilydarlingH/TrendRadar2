@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T07:44:29.708385+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2026-04-15T10:38:50.423684+08:00",
+  "total_titles_processed": 843,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "武汉一小区电梯发生冲顶事故",
@@ -43,7 +43,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -57,6 +57,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 01时11分]"
+        },
+        {
+          "title": "A股房地产板块震荡调整，财信发展触及跌停，信达地产、光大嘉宝、荣安地产、京能置业、大悦城、金融街、栖霞建设纷纷下挫。",
+          "url": "https://flash.jin10.com/detail/20260415102651314800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "银行招聘设「运动员 + 身高」条件被指萝卜岗，后撤争议条款，该做法是否违法？特殊岗位需求如何避免变萝卜岗？",
+          "url": "https://www.zhihu.com/question/2027137057722577200",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         }
       ]
     }
