@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T01:17:40.696338+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-17T03:18:33.677644+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国自1999年以来最大规模的工业股IPO：Madison Air Solutions美国IPO首日开盘报32美元，此前给出的IPO发行价为27美元。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "美国总统特朗普在社交媒体上批评法官“出于政治动机”试图阻止白宫大型宴会厅项目建设，称其行为削弱国家安全。",
+          "url": "https://flash.jin10.com/detail/20260417024741416800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
         },
         {
           "title": "美国法官叫停总统特朗普的白宫宴会厅的地上施工部分。",
