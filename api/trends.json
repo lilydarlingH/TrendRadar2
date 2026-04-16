@@ -1,263 +1,33 @@
 {
-  "generated_at": "2026-04-16T23:28:51.484053+08:00",
-  "total_titles_processed": 1767,
+  "generated_at": "2026-04-17T01:17:40.696338+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 22,
+      "match_count": 2,
       "titles": [
         {
-          "title": "广州一小区电梯从15层坠至负2层",
-          "url": "https://www.toutiao.com/trending/7628865714862718985/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            10,
-            7,
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时07分 ~ 07时44分]"
-        },
-        {
-          "title": "大外交丨从铁路建设到红色研学，苏林访华聚焦多领域务实成果",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32969268",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时44分]"
-        },
-        {
-          "title": "全国工程建设小阳春",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%B7%A5%E7%A8%8B%E5%BB%BA%E8%AE%BE%E5%B0%8F%E9%98%B3%E6%98%A5%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 13时33分]"
-        },
-        {
-          "title": "谷歌关联公司拟发57亿美元垃圾债 助力数据中心建设",
-          "url": "https://flash.jin10.com/detail/20260416045257037800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时55分 ~ 07时44分]"
-        },
-        {
-          "title": "美国能源部长表示：需彻底改革许可制度以推动项目建设",
-          "url": "https://wallstreetcn.com/livenews/3088784",
+          "title": "美国自1999年以来最大规模的工业股IPO：Madison Air Solutions美国IPO首日开盘报32美元，此前给出的IPO发行价为27美元。",
+          "url": "https://wallstreetcn.com/livenews/3089499",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时44分]"
-        },
-        {
-          "title": "新西兰建筑公司警示：受伊朗战争引发的燃料相关影响",
-          "url": "https://wallstreetcn.com/livenews/3088796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 07时44分]"
-        },
-        {
-          "title": "我国紧凑型聚变能实验装置（BEST）建设稳步推进",
-          "url": "https://wallstreetcn.com/livenews/3089247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时06分"
+          "time_info": "01时17分"
         },
         {
-          "title": "物业大撤退背后：业主缴费越来越少",
-          "url": "https://www.toutiao.com/trending/7629239561092075062/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        },
-        {
-          "title": "据美联社：美检察官周二视察了美联储的建筑工地。",
-          "url": "https://flash.jin10.com/detail/20260415233848808800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "上海：积极推进重卡充换电设施建设，加密高速公路服务区的充电设施布局",
-          "url": "https://wallstreetcn.com/livenews/3089239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        },
-        {
-          "title": "波音公司增加工厂工人招聘以提高产量。波音公司单周招聘超过100名工厂工人。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3089238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        },
-        {
-          "title": "市场消息：波音(BA.N)增加工厂工人招聘以提高产量，公司单周招聘超过100名工厂工人。",
-          "url": "https://flash.jin10.com/detail/20260416182836080800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        },
-        {
-          "title": "DeepSeek高薪招聘数据中心人才",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E9%AB%98%E8%96%AA%E6%8B%9B%E8%81%98%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E4%BA%BA%E6%89%8D%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "京东推出“机器人救护车” 未来3年招聘1万名维修人才",
-          "url": "https://flash.jin10.com/detail/20260416170023649800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
-          "title": "美国纽约联储主席威廉姆斯：纽约地区经济展现出强劲的活力。 商业地产状况好于预期，风险有所下降。 人工智能可能会提升生产率，但增幅难以确定。 人工智能等技术对经济产生影响需要较长时间。 当前就业市场的疲软与人工智能无关。 雇主在招聘新员工方面持谨慎态度。",
-          "url": "https://wallstreetcn.com/livenews/3089385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
-          "title": "晶科科技：拟投约245亿元建设宁夏中卫1GW算力中心项目",
-          "url": "https://wallstreetcn.com/livenews/3089231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        },
-        {
-          "title": "三天两板晶科科技：拟投约245亿元建设宁夏中卫1GW算力中心项目",
-          "url": "https://flash.jin10.com/detail/20260416182145074800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        },
-        {
-          "title": "白宫：特朗普将提交“美国凯旋拱门”建设计划",
-          "url": "https://wallstreetcn.com/livenews/3088727",
+          "title": "美国法官叫停总统特朗普的白宫宴会厅的地上施工部分。",
+          "url": "https://wallstreetcn.com/livenews/3089480",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时05分"
-        },
-        {
-          "title": "Cadence与英伟达扩大合作伙伴关系，以在人工智能与加速计算时代重塑工程设计。",
-          "url": "https://flash.jin10.com/detail/20260416013048356800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
-        },
-        {
-          "title": "中国1至3月全国房地产开发投资 -11.2%，前值 -11.1%。",
-          "url": "https://wallstreetcn.com/livenews/3088918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
-        },
-        {
-          "title": "广州一小区电梯从15层坠至负2层",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%94%B5%E6%A2%AF%E4%BB%8E15%E5%B1%82%E5%9D%A0%E8%87%B3%E8%B4%9F2%E5%B1%82",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
-        },
-        {
-          "title": "OpenAI：加速网络防御生态系统（建设），保护我们所有人。 美国银行、贝莱德、纽约梅隆银行、花旗集团等公司纷纷签约。",
-          "url": "https://wallstreetcn.com/livenews/3089213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时06分"
+          "time_info": "01时17分"
         }
       ]
     }
