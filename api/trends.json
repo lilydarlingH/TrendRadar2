@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T01:52:34.596206+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-04-18T03:03:57.914416+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
@@ -8,24 +8,24 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "乌克兰总统泽连斯基：来自最高指挥官的报告显示，俄罗斯似乎正在重新集结部队。乌克兰认为俄罗斯将再次试图将白俄罗斯卷入战争。俄罗斯部队在白俄罗斯的活动有所增强，并在靠近乌克兰地区进行道路建设以及设立炮兵阵地。",
-          "url": "https://flash.jin10.com/detail/20260418012745842800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
           "title": "劳务中介称「微信余额不足 300 不给面试」，这种招聘门槛是否合理？",
           "url": "https://www.zhihu.com/question/2027401585177674207",
           "source": "知乎",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时52分 ~ 03时03分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：来自最高指挥官的报告显示，俄罗斯似乎正在重新集结部队。乌克兰认为俄罗斯将再次试图将白俄罗斯卷入战争。俄罗斯部队在白俄罗斯的活动有所增强，并在靠近乌克兰地区进行道路建设以及设立炮兵阵地。",
+          "url": "https://flash.jin10.com/detail/20260418012745842800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
         },
@@ -38,8 +38,20 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 03时03分]"
+        },
+        {
+          "title": "商家打造价值30万纯金迈巴赫车标",
+          "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%AE%B6%E6%89%93%E9%80%A0%E4%BB%B7%E5%80%BC30%E4%B8%87%E7%BA%AF%E9%87%91%E8%BF%88%E5%B7%B4%E8%B5%AB%E8%BD%A6%E6%A0%87",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时52分]"
+          "time_info": "[01时52分 ~ 03时03分]"
         },
         {
           "title": "国际货币基金组织总裁格奥尔基耶娃：我们必须优先支持加强委内瑞拉的机构建设。",
@@ -48,18 +60,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "商家打造价值30万纯金迈巴赫车标",
-          "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%AE%B6%E6%89%93%E9%80%A0%E4%BB%B7%E5%80%BC30%E4%B8%87%E7%BA%AF%E9%87%91%E8%BF%88%E5%B7%B4%E8%B5%AB%E8%BD%A6%E6%A0%87",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
         }
