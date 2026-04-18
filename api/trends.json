@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T15:11:54.109781+08:00",
-  "total_titles_processed": 1043,
+  "generated_at": "2026-04-18T16:54:50.498525+08:00",
+  "total_titles_processed": 1165,
   "failed_sources": [],
   "trends": [
     {
@@ -66,11 +66,12 @@
           "ranks": [
             20,
             15,
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时32分 ~ 15时11分]"
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 16时54分]"
         },
         {
           "title": "标普500指数的11个板块普遍收涨，可选消费、工业、信息技术/科技、房地产、保健、日用消费品板块至少涨1.32%，能源板块则收跌2.94%。",
