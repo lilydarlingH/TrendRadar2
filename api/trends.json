@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T18:43:01.322154+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2026-04-18T19:37:36.142767+08:00",
+  "total_titles_processed": 1361,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "国常会：听取自由贸易试验区建设情况汇报",
@@ -46,8 +46,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时32分 ~ 18时43分]"
+          "appearance_count": 8,
+          "time_info": "[10时32分 ~ 19时37分]"
         },
         {
           "title": "商家打造价值30万纯金迈巴赫车标",
@@ -120,6 +120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴：伊朗军队正在英勇地捍卫属于它的土地、水域和旗帜。",
+          "url": "https://flash.jin10.com/detail/20260418185939029800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         },
         {
           "title": "国际货币基金组织总裁格奥尔基耶娃：我们必须优先支持加强委内瑞拉的机构建设。",
