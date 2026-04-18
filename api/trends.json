@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T01:38:54.293184+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2026-04-19T02:55:23.275985+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32994508",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时55分]"
         },
         {
           "title": "以色列特拉维夫市长：由于伊朗导弹袭击，市内一千套住宅公寓已变得无法居住。",
           "url": "https://flash.jin10.com/detail/20260419010904747800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 02时55分]"
         },
         {
           "title": "土耳其指责以色列以安全为名攫取土地",
@@ -37,8 +39,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 02时55分]"
         }
       ]
     }
