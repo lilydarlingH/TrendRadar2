@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T17:52:23.481753+08:00",
-  "total_titles_processed": 1229,
+  "generated_at": "2026-04-18T18:43:01.322154+08:00",
+  "total_titles_processed": 1271,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,22 @@
           "time_info": "[01时52分 ~ 10时32分]"
         },
         {
+          "title": "“一人公司”为什么大爆发？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32994508",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15,
+            13,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时32分 ~ 18时43分]"
+        },
+        {
           "title": "商家打造价值30万纯金迈巴赫车标",
           "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%AE%B6%E6%89%93%E9%80%A0%E4%BB%B7%E5%80%BC30%E4%B8%87%E7%BA%AF%E9%87%91%E8%BF%88%E5%B7%B4%E8%B5%AB%E8%BD%A6%E6%A0%87",
           "source": "百度热搜",
@@ -58,21 +74,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
-        },
-        {
-          "title": "“一人公司”为什么大爆发？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32994508",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            15,
-            13,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时32分 ~ 17时52分]"
         },
         {
           "title": "标普500指数的11个板块普遍收涨，可选消费、工业、信息技术/科技、房地产、保健、日用消费品板块至少涨1.32%，能源板块则收跌2.94%。",
