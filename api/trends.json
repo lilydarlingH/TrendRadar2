@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T00:43:45.935245+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-20T01:38:48.231563+08:00",
+  "total_titles_processed": 354,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时38分]"
         },
         {
           "title": "专家解读：房地产市场积极信号进一步增强",
@@ -26,8 +26,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时38分]"
         }
       ]
     }
