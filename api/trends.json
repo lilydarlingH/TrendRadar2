@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T13:30:33.993764+08:00",
-  "total_titles_processed": 1029,
+  "generated_at": "2026-04-21T15:54:44.629176+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "迪拜帆船酒店将停业 1 年半进行大规模修复工程，为何需要这么久？作为全球顶级地标，这对迪拜旅游影响有多大？",
@@ -37,13 +37,24 @@
           "time_info": "[02时00分 ~ 05时51分]"
         },
         {
+          "title": "中原地产：一季度香港工商铺买卖成交量约1048宗 成交金额同比大增56.42%",
+          "url": "https://flash.jin10.com/detail/20260421153104901800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
           "title": "周鸿祎：龙虾类智能体仍存安全隐患，智能体将推动“一人公司”发展",
           "url": "https://flash.jin10.com/detail/20260421131403894800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
         },
@@ -56,8 +67,20 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时42分 ~ 15时54分]"
+        },
+        {
+          "title": "“库克时代”临近落幕！库克将卸任苹果CEO，硬件工程负责人接任",
+          "url": "https://www.cls.cn/detail/2350131",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时42分 ~ 13时30分]"
+          "time_info": "[13时29分 ~ 15时54分]"
         },
         {
           "title": "标普500指数的11个板块中，涨跌各异，电信板块收跌1.41%，保健板块跌超0.9%，可选消费板块跌超0.6%，信息技术/科技板块大致收平，能源、房地产、金融板块至多涨超0.3%，原材料板块涨超0.5%。",
@@ -70,17 +93,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时52分 ~ 05时51分]"
-        },
-        {
-          "title": "“库克时代”临近落幕！库克将卸任苹果CEO，硬件工程负责人接任",
-          "url": "https://www.cls.cn/detail/2350131",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时30分]"
         },
         {
           "title": "伊朗总统：伊朗对美国政府行为的深度历史性不信任依然存在。 履行承诺是进行有意义对话的基础。 美国官员发出的建设性缺失且自相矛盾的信号正传递着一个令人心寒的信息。",
