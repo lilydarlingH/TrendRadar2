@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T15:54:44.629176+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-04-21T17:29:38.025602+08:00",
+  "total_titles_processed": 1321,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "迪拜帆船酒店将停业 1 年半进行大规模修复工程，为何需要这么久？作为全球顶级地标，这对迪拜旅游影响有多大？",
@@ -43,7 +43,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
@@ -67,8 +67,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时42分 ~ 15时54分]"
+          "appearance_count": 5,
+          "time_info": "[10时42分 ~ 17时29分]"
         },
         {
           "title": "“库克时代”临近落幕！库克将卸任苹果CEO，硬件工程负责人接任",
@@ -76,11 +76,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时29分 ~ 15时54分]"
+          "appearance_count": 4,
+          "time_info": "[13时29分 ~ 17时29分]"
         },
         {
           "title": "标普500指数的11个板块中，涨跌各异，电信板块收跌1.41%，保健板块跌超0.9%，可选消费板块跌超0.6%，信息技术/科技板块大致收平，能源、房地产、金融板块至多涨超0.3%，原材料板块涨超0.5%。",
@@ -106,6 +107,28 @@
           "time_info": "00时12分"
         },
         {
+          "title": "国务院：有序推进算力布局与边缘算力建设，完善智算云服务体系",
+          "url": "https://wallstreetcn.com/livenews/3091702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "国务院：加强第六代移动通信（6G）技术研发 适度超前建设移动物联网",
+          "url": "https://wallstreetcn.com/livenews/3091701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "惠誉：（关于美国信用风险）面向消费的行业、房地产、航空业将面临最为严峻的次生冲击压力。",
           "url": "https://flash.jin10.com/detail/20260421012231288800",
           "source": "金十数据",
@@ -115,6 +138,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "国务院：有序推进算力布局与边缘算力建设，完善智算云服务体系",
+          "url": "https://flash.jin10.com/detail/20260421170835249800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "国务院：支持采购大模型、智能体服务 适度超前建设移动物联网",
+          "url": "https://flash.jin10.com/detail/20260421170629227800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "工信部：万兆光网试点项目建设有序推进 试点目标完成情况良好",
+          "url": "https://wallstreetcn.com/livenews/3091675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "A股银行股逆势走强，中信银行涨超3%，厦门银行、青岛银行、建设银行、南京银行、兴业银行、邮储银行等跟涨。",
