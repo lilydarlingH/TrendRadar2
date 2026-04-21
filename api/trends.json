@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T17:29:38.025602+08:00",
-  "total_titles_processed": 1321,
+  "generated_at": "2026-04-21T19:32:28.074329+08:00",
+  "total_titles_processed": 1462,
   "failed_sources": [],
   "trends": [
     {
@@ -37,6 +37,19 @@
           "time_info": "[02时00分 ~ 05时51分]"
         },
         {
+          "title": "物业公司大规模撤离小区，此前曾因现金流充沛被视为地产行业的「现金奶牛」，为啥会这样？对业主影响大吗？",
+          "url": "https://www.zhihu.com/question/2028162844949066722",
+          "source": "知乎",
+          "ranks": [
+            14,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时42分 ~ 19时32分]"
+        },
+        {
           "title": "中原地产：一季度香港工商铺买卖成交量约1048宗 成交金额同比大增56.42%",
           "url": "https://flash.jin10.com/detail/20260421153104901800",
           "source": "金十数据",
@@ -57,18 +70,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
-        },
-        {
-          "title": "物业公司大规模撤离小区，此前曾因现金流充沛被视为地产行业的「现金奶牛」，为啥会这样？对业主影响大吗？",
-          "url": "https://www.zhihu.com/question/2028162844949066722",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时42分 ~ 17时29分]"
         },
         {
           "title": "“库克时代”临近落幕！库克将卸任苹果CEO，硬件工程负责人接任",
@@ -113,7 +114,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -124,7 +125,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -146,7 +147,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -157,7 +158,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -168,7 +169,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
