@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T07:45:12.010769+08:00",
-  "total_titles_processed": 687,
+  "generated_at": "2026-04-21T10:42:30.452361+08:00",
+  "total_titles_processed": 864,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "迪拜帆船酒店将停业 1 年半进行大规模修复工程，为何需要这么久？作为全球顶级地标，这对迪拜旅游影响有多大？",
@@ -69,6 +69,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "物业公司大规模撤离小区，此前曾因现金流充沛被视为地产行业的「现金奶牛」，为啥会这样？对业主影响大吗？",
+          "url": "https://www.zhihu.com/question/2028162844949066722",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "A股银行股逆势走强，中信银行涨超3%，厦门银行、青岛银行、建设银行、南京银行、兴业银行、邮储银行等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260421100152147800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "火锅店回应招聘985211应届生",
+          "url": "https://www.baidu.com/s?wd=%E7%81%AB%E9%94%85%E5%BA%97%E5%9B%9E%E5%BA%94%E6%8B%9B%E8%81%98985211%E5%BA%94%E5%B1%8A%E7%94%9F",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         }
       ]
     }
