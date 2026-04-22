@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T15:51:06.734913+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2026-04-22T17:23:38.501681+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
@@ -25,9 +25,22 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
+        },
+        {
+          "title": "商家回应34万装修被装成灵堂风",
+          "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%AE%B6%E5%9B%9E%E5%BA%9434%E4%B8%87%E8%A3%85%E4%BF%AE%E8%A2%AB%E8%A3%85%E6%88%90%E7%81%B5%E5%A0%82%E9%A3%8E",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时44分 ~ 17时23分]"
         },
         {
           "title": "Meta Platforms：在美国塔尔萨启动10亿美元数据中心建设项目。 塔尔萨数据中心项目包括超过2500万美元的地方基础设施改善。 预计该数据中心在高峰期将支持超过1,000个建筑岗位，并在完成后创造约100个运营岗位。",
@@ -42,27 +55,16 @@
           "time_info": "[04时56分 ~ 05时48分]"
         },
         {
-          "title": "商家回应34万装修被装成灵堂风",
-          "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%AE%B6%E5%9B%9E%E5%BA%9434%E4%B8%87%E8%A3%85%E4%BF%AE%E8%A2%AB%E8%A3%85%E6%88%90%E7%81%B5%E5%A0%82%E9%A3%8E",
-          "source": "百度热搜",
+          "title": "女子花34万装修新家成“灵堂风”",
+          "url": "https://www.toutiao.com/trending/7631341255406633023/",
+          "source": "今日头条",
           "ranks": [
             8,
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时44分 ~ 15时51分]"
-        },
-        {
-          "title": "女子花34万装修新家成“灵堂风”",
-          "url": "https://www.toutiao.com/trending/7631341255406633023/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 15时51分]"
+          "appearance_count": 3,
+          "time_info": "[15时50分 ~ 17时23分]"
         },
         {
           "title": "特努斯将接替库克担任苹果 CEO，负责硬件工程的特努斯可能带来哪些变化？他的下一个增长点在哪里？",
