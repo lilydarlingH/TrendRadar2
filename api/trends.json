@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T19:12:05.525939+08:00",
-  "total_titles_processed": 1419,
+  "generated_at": "2026-04-23T21:47:07.008043+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "净利同比下降62%！4天3板太空光伏概念股发布2025年年度报告|盘后公告集锦",
@@ -20,13 +20,24 @@
           "time_info": "[01时04分 ~ 07时49分]"
         },
         {
+          "title": "公寓电梯形似棺材 外卖员：晚上不敢去",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%AF%93%E7%94%B5%E6%A2%AF%E5%BD%A2%E4%BC%BC%E6%A3%BA%E6%9D%90+%E5%A4%96%E5%8D%96%E5%91%98%EF%BC%9A%E6%99%9A%E4%B8%8A%E4%B8%8D%E6%95%A2%E5%8E%BB",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 21时47分]"
+        },
+        {
           "title": "尼日利亚丹格特集团：如果获得各国领导人支持，将在东非复制建设一座尼日利亚65万桶/日炼油厂的项目。",
           "url": "https://flash.jin10.com/detail/20260423185948542800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -41,6 +52,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时44分 ~ 17时47分]"
+        },
+        {
+          "title": "工程师揭秘机器人跑赢人类背后",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%8F%AD%E7%A7%98%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E8%B5%A2%E4%BA%BA%E7%B1%BB%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 21时47分]"
         },
         {
           "title": "标普500指数的11个板块多数收涨，信息技术/科技板块涨2.31%，电信、能源板块至少涨1.14%，房地产板块跌0.69%。",
@@ -73,7 +95,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -95,7 +117,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -117,7 +139,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
