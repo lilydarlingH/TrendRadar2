@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T13:33:33.434565+08:00",
-  "total_titles_processed": 998,
+  "generated_at": "2026-04-23T15:57:26.649065+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时44分 ~ 13时33分]"
+          "appearance_count": 3,
+          "time_info": "[10时44分 ~ 15时57分]"
         },
         {
           "title": "标普500指数的11个板块多数收涨，信息技术/科技板块涨2.31%，电信、能源板块至少涨1.14%，房地产板块跌0.69%。",
@@ -73,7 +73,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
