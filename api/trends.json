@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T21:47:07.008043+08:00",
-  "total_titles_processed": 1573,
+  "generated_at": "2026-04-23T23:56:04.124525+08:00",
+  "total_titles_processed": 1705,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%AF%93%E7%94%B5%E6%A2%AF%E5%BD%A2%E4%BC%BC%E6%A3%BA%E6%9D%90+%E5%A4%96%E5%8D%96%E5%91%98%EF%BC%9A%E6%99%9A%E4%B8%8A%E4%B8%8D%E6%95%A2%E5%8E%BB",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时46分 ~ 21时47分]"
+          "appearance_count": 4,
+          "time_info": "[21时46分 ~ 23时56分]"
         },
         {
           "title": "尼日利亚丹格特集团：如果获得各国领导人支持，将在东非复制建设一座尼日利亚65万桶/日炼油厂的项目。",
