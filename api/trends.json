@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T10:45:11.013948+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2026-04-24T13:38:12.368809+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E8%A3%85%E4%BF%AE%E4%B8%80%E5%AE%9A%E8%A6%81%E5%8E%BB%E5%AE%B6%E5%8A%A1%E5%8C%96&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时44分 ~ 10时45分]"
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 13时38分]"
         },
         {
           "title": "OpenAI：销售和市场部门对AGI的需求比工程师更强烈。",
@@ -25,7 +26,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -47,7 +48,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
