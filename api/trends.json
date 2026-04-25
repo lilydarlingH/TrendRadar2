@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T03:46:02.504704+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2026-04-26T04:41:43.849664+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
@@ -17,19 +17,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 03时46分]"
-        },
-        {
-          "title": "据沙特媒体哈达斯（alhadath）：以色列军队在黎巴嫩南部的希亚姆镇炸毁了多栋建筑。",
-          "url": "https://flash.jin10.com/detail/20260426031746331800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时46分"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 04时41分]"
         },
         {
           "title": "邓超探班阿飞和工地子涵们",
@@ -38,11 +27,35 @@
           "ranks": [
             28,
             21,
-            23
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 04时41分]"
+        },
+        {
+          "title": "日本大槌町山火逼近住宅区",
+          "url": "https://wallstreetcn.com/livenews/3094401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时44分 ~ 03时46分]"
+          "time_info": "[00时44分 ~ 04时41分]"
+        },
+        {
+          "title": "据沙特媒体哈达斯（alhadath）：以色列军队在黎巴嫩南部的希亚姆镇炸毁了多栋建筑。",
+          "url": "https://flash.jin10.com/detail/20260426031746331800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时46分 ~ 04时41分]"
         },
         {
           "title": "巴基斯坦总理谢里夫：与伊朗总统就地区形势的发展进行了友好且建设性的电话交谈。",
@@ -57,37 +70,28 @@
           "time_info": "[02时57分 ~ 03时46分]"
         },
         {
-          "title": "日本大槌町山火逼近住宅区",
-          "url": "https://wallstreetcn.com/livenews/3094401",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 03时46分]"
-        },
-        {
           "title": "伊朗外交部：我们致力于增强相互信任与与地区国家的建设性合作。",
           "url": "https://flash.jin10.com/detail/20260426030114719800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时46分 ~ 04时41分]"
         },
         {
           "title": "美国总统谈及鲍威尔：我想要弄明白的是，一栋我花2500万美元就能够建造的大楼，为何造价竟高达40亿美元？这可是个非常重大的问题，当时他负责此事——我们肯定会彻查到底。",
           "url": "https://flash.jin10.com/detail/20260426025840223800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时46分 ~ 04时41分]"
         }
       ]
     }
