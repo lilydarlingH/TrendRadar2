@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T06:39:44.982328+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-04-26T07:40:51.950929+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 06时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时40分]"
         },
         {
           "title": "邓超探班阿飞和工地子涵们",
@@ -33,19 +33,20 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时40分]"
         },
         {
           "title": "日本大槌町山火逼近住宅区",
           "url": "https://wallstreetcn.com/livenews/3094401",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时40分]"
         },
         {
           "title": "据沙特媒体哈达斯（alhadath）：以色列军队在黎巴嫩南部的希亚姆镇炸毁了多栋建筑。",
