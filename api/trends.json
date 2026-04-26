@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-27T02:58:47.589358+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-04-27T03:51:46.845173+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美国代理司法部长布兰奇：是时候建造宴会厅了。",
+          "url": "https://flash.jin10.com/detail/20260427033111190800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
         {
           "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：收到了检察官Pirro周五与美联储相关的声明。 相信美联储在大楼翻修工程中不存在任何不当行为。 司法部明确地告诉我，对美联储的刑事调查结束了。 我准备推动凯文·沃什的美联储主席提名人资格确认程序。 （关于沃什的提名资格确认程序重回正轨）的确如此。 预计沃什将在担任美联储主席保持独立性。 总统特朗普在美联储问题上提出要求，这并不让我感到眼红。（NBC）",
           "url": "https://wallstreetcn.com/livenews/3094527",
@@ -16,8 +27,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 03时51分]"
         },
         {
           "title": "借口白宫记协晚宴安全事件，特朗普要求撤销针对宴会厅建设项目的诉讼",
@@ -28,8 +39,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 03时51分]"
         }
       ]
     }
