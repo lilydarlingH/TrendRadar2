@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T05:40:58.087953+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2026-04-27T06:41:25.031526+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
@@ -8,29 +8,17 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "美国代理司法部长布兰奇：是时候建造宴会厅了。",
-          "url": "https://flash.jin10.com/detail/20260427033111190800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时51分 ~ 05时40分]"
-        },
-        {
           "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：收到了检察官Pirro周五与美联储相关的声明。 相信美联储在大楼翻修工程中不存在任何不当行为。 司法部明确地告诉我，对美联储的刑事调查结束了。 我准备推动凯文·沃什的美联储主席提名人资格确认程序。 （关于沃什的提名资格确认程序重回正轨）的确如此。 预计沃什将在担任美联储主席保持独立性。 总统特朗普在美联储问题上提出要求，这并不让我感到眼红。（NBC）",
           "url": "https://wallstreetcn.com/livenews/3094527",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 05时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 06时41分]"
         },
         {
           "title": "借口白宫记协晚宴安全事件，特朗普要求撤销针对宴会厅建设项目的诉讼",
@@ -38,11 +26,26 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             18,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 06时41分]"
+        },
+        {
+          "title": "美国代理司法部长布兰奇：是时候建造宴会厅了。",
+          "url": "https://flash.jin10.com/detail/20260427033111190800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            4,
+            8,
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 05时40分]"
+          "appearance_count": 4,
+          "time_info": "[03时51分 ~ 06时41分]"
         }
       ]
     }
