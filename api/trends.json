@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T19:07:08.790283+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-04-27T21:58:44.140936+08:00",
+  "total_titles_processed": 1373,
   "failed_sources": [],
   "trends": [
     {
@@ -76,11 +76,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33062055",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时06分 ~ 19时07分]"
+          "appearance_count": 3,
+          "time_info": "[19时06分 ~ 21时58分]"
         },
         {
           "title": "欧盟对外商投资电池、电动汽车、光伏、关键原材料设限，商务部称若损害中企利益将反制，如何看待欧盟此举？",
