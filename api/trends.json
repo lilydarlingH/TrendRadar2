@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T16:31:54.513594+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2026-04-27T19:07:08.790283+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：收到了检察官Pirro周五与美联储相关的声明。 相信美联储在大楼翻修工程中不存在任何不当行为。 司法部明确地告诉我，对美联储的刑事调查结束了。 我准备推动凯文·沃什的美联储主席提名人资格确认程序。 （关于沃什的提名资格确认程序重回正轨）的确如此。 预计沃什将在担任美联储主席保持独立性。 总统特朗普在美联储问题上提出要求，这并不让我感到眼红。（NBC）",
@@ -34,6 +34,19 @@
           "time_info": "[00时45分 ~ 06时41分]"
         },
         {
+          "title": "吉林伊通惊现200万豪华住宅式墓地",
+          "url": "https://www.baidu.com/s?wd=%E5%90%89%E6%9E%97%E4%BC%8A%E9%80%9A%E6%83%8A%E7%8E%B0200%E4%B8%87%E8%B1%AA%E5%8D%8E%E4%BD%8F%E5%AE%85%E5%BC%8F%E5%A2%93%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 19时07分]"
+        },
+        {
           "title": "美国代理司法部长布兰奇：是时候建造宴会厅了。",
           "url": "https://flash.jin10.com/detail/20260427033111190800",
           "source": "金十数据",
@@ -59,16 +72,15 @@
           "time_info": "13时57分"
         },
         {
-          "title": "吉林伊通惊现200万豪华住宅式墓地",
-          "url": "https://www.baidu.com/s?wd=%E5%90%89%E6%9E%97%E4%BC%8A%E9%80%9A%E6%83%8A%E7%8E%B0200%E4%B8%87%E8%B1%AA%E5%8D%8E%E4%BD%8F%E5%AE%85%E5%BC%8F%E5%A2%93%E5%9C%B0",
-          "source": "百度热搜",
+          "title": "生态园竟变豪华“住宅式”墓地，售价200万元！央媒调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33062055",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
-            13
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时57分 ~ 16时31分]"
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 19时07分]"
         },
         {
           "title": "欧盟对外商投资电池、电动汽车、光伏、关键原材料设限，商务部称若损害中企利益将反制，如何看待欧盟此举？",
@@ -110,7 +122,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -132,7 +144,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -143,7 +155,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -154,7 +166,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         }
