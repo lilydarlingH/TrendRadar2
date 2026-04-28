@@ -1,22 +1,45 @@
 {
-  "generated_at": "2026-04-28T14:13:39.253822+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2026-04-28T17:24:19.947096+08:00",
+  "total_titles_processed": 1183,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "广东发布十五五规划纲要，事关AI、商业航天、光伏等",
           "url": "https://www.cls.cn/detail/2357658",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时13分 ~ 17时24分]"
+        },
+        {
+          "title": "中央政治局会议重磅定调！事关扩大内需、人工智能、房地产市场",
+          "url": "https://www.cls.cn/detail/2357874",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
+        },
+        {
+          "title": "以色列总统：在我们深入讨论之后，托卡耶夫总统提出了一个引人入胜的愿景：建设基于技术进行管理的全国性智慧城市。在塑造我们未来的诸多领域，双方的合作基础广泛而令人瞩目，这为进一步的机遇铺平了道路。",
+          "url": "https://flash.jin10.com/detail/20260428171413821800",
+          "source": "金十数据",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时13分"
+          "time_info": "17时24分"
         },
         {
           "title": "国家发展改革委、中国人民银行组织召开社会信用体系建设部际联席会议暨工作部署会",
@@ -39,6 +62,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
+        },
+        {
+          "title": "中国又一重大工程开工",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8F%88%E4%B8%80%E9%87%8D%E5%A4%A7%E5%B7%A5%E7%A8%8B%E5%BC%80%E5%B7%A5",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时13分 ~ 17时24分]"
         },
         {
           "title": "甲骨文(ORCL.N)，Borderplex和Bloom Energy将利用更清洁、更节水的燃料电池技术为木星项目提供动力。甲骨文表示，木星计划将利用高达2.45GW的Bloom Energy的燃料电池容量，将承担木星项目的所有能源成本，该计划预计将创造4000个建筑职位和1500个长期职位。",
@@ -115,7 +150,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -142,17 +177,6 @@
           "time_info": "06时55分"
         },
         {
-          "title": "中国又一重大工程开工",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8F%88%E4%B8%80%E9%87%8D%E5%A4%A7%E5%B7%A5%E7%A8%8B%E5%BC%80%E5%B7%A5",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时13分"
-        },
-        {
           "title": "广东：加快发展智能网联汽车，建设智能网联汽车测试区和车路协同设施",
           "url": "https://flash.jin10.com/detail/20260428103530202800",
           "source": "金十数据",
@@ -170,7 +194,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -192,7 +216,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -214,7 +238,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
