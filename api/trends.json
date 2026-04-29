@@ -1,235 +1,44 @@
 {
-  "generated_at": "2026-04-29T23:16:48.644426+08:00",
-  "total_titles_processed": 1568,
+  "generated_at": "2026-04-30T01:42:04.342666+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 20,
+      "match_count": 3,
       "titles": [
         {
-          "title": "政治局会议深读｜“努力稳定房地产市场，扎实推进城市更新”，释放哪些新信号？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33070412",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            16,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时54分 ~ 18时58分]"
-        },
-        {
-          "title": "标普500指数的11个板块多数收涨，能源板块涨1.65%，房地产、日用消费品板块涨0.99%，电信、可选消费、工业板块则至多收跌0.88%，原材料板块跌0.17%，信息技术/科技跌1.29%。",
-          "url": "https://wallstreetcn.com/livenews/3095997",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时19分"
-        },
-        {
-          "title": "深证成指盘中涨超1%，小金属、电池、光伏设备板块活跃；成分股中，周大生、麦格米特、盐津铺子等多股涨停。",
-          "url": "https://flash.jin10.com/detail/20260429104840382800",
+          "title": "特朗普要求以色列总理内塔尼亚胡行事更加谨慎，不要摧毁建筑物，因为这会损害以色列的形象。",
+          "url": "https://flash.jin10.com/detail/20260430011544167800",
           "source": "金十数据",
           "ranks": [
-            5
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "南山一国有储备用地开工建设遭质疑",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E5%B1%B1%E4%B8%80%E5%9B%BD%E6%9C%89%E5%82%A8%E5%A4%87%E7%94%A8%E5%9C%B0%E5%BC%80%E5%B7%A5%E5%BB%BA%E8%AE%BE%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时18分 ~ 06时02分]"
-        },
-        {
-          "title": "深圳进一步优化调整房地产相关政策",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E8%BF%9B%E4%B8%80%E6%AD%A5%E4%BC%98%E5%8C%96%E8%B0%83%E6%95%B4%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%9B%B8%E5%85%B3%E6%94%BF%E7%AD%96",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时20分 ~ 20时21分]"
-        },
-        {
-          "title": "创业板指涨超1%，沪指涨0.05%，深成指涨0.79%，猪肉、食品、房地产、稀土永磁等方向涨幅居前，沪深京三市上涨个股近3800只。",
-          "url": "https://wallstreetcn.com/livenews/3096161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "深圳进一步优化调整房地产相关政策",
-          "url": "https://flash.jin10.com/detail/20260429182956640800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时58分"
-        },
-        {
-          "title": "第九届数字中国建设峰会开幕",
-          "url": "https://wallstreetcn.com/livenews/3096155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "深圳进一步优化调整房地产相关政策，自2026年4月30日起施行",
-          "url": "https://wallstreetcn.com/livenews/3096533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时58分"
-        },
-        {
-          "title": "沪深300地产指数早盘涨超2%，香港恒生中国内地地产指数早盘一度涨3%。",
-          "url": "https://wallstreetcn.com/livenews/3096143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "国家数据局：扎实推进数据基础设施建设",
-          "url": "https://wallstreetcn.com/livenews/3096225",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "01时42分"
         },
         {
           "title": "政治局会议深读｜五大要点：财政货币政策强调精准有效，将加强“六网”规划建设",
           "url": "https://m.thepaper.cn/newsDetail_forward_33072155",
           "source": "澎湃新闻",
           "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时16分"
-        },
-        {
-          "title": "美国电网运营商MISO夏季拍卖出清价为每兆瓦日424美元",
-          "url": "https://wallstreetcn.com/livenews/3096040",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 01时42分]"
         },
         {
-          "title": "光伏逆变器供应商Enphase Energy：将欧洲电池价格下调10%。",
-          "url": "https://wallstreetcn.com/livenews/3096011",
+          "title": "匈牙利当选总理Magyar：已经与欧盟委员会主席进行了“极其富有建设性和非常成功的”对话。",
+          "url": "https://wallstreetcn.com/livenews/3096810",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "A股工程咨询服务板块短线冲高，中设咨询触达30cm涨停，中衡设计此前涨停，矩阵股份、华维设计、广咨国际等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260429103151049800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "红四方：拟投资74.75亿元在新疆建设新型增效水溶肥料及生物有机肥料项目",
-          "url": "https://flash.jin10.com/detail/20260429224939798800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时16分"
-        },
-        {
-          "title": "光伏逆变器供应商Enphase Energy一季度营收2.829亿美元，分析师预期2.838亿美元。 一季度美国营收季环比锐减23%，欧洲营收季环比增长36%。 一季度资本开支0.199亿美元，分析师预期0.13亿美元。 一季度调整后每股收益（EPS）为0.47美元，分析师预期0.44美元。 预计二季度营收2.8亿-3.1亿美元，分析师预期2.968亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3096008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "光伏逆变器供应商Enphase Energy渠道库存处于正常水平。",
-          "url": "https://wallstreetcn.com/livenews/3096007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "A股地产股早盘走强，绿地控股、金融街涨停，荣盛发展、金地集团、福星股份、华夏幸福跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3096113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "电投水电：一季度净利润3.93亿元，同比增长168.00%",
-          "url": "https://flash.jin10.com/detail/20260429181558470800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时58分"
+          "time_info": "01时42分"
         }
       ]
     }
