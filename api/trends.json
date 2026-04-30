@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T03:25:18.261091+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-05-01T05:04:11.597377+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "不写论文也能获学位：又一批高校首位工程博士亮相",
@@ -15,8 +15,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 05时04分]"
+        },
+        {
+          "title": "美国白宫：特朗普总统许可授权布里杰管道扩建项目，内容包括在蒙大拿州菲利普斯县边界处的该管道区域进行管道设施的建设、连接、运营及维护工作，该区域位于美国与加拿大之间。许可方获准在美国和加拿大之间运输原油及石油产品。",
+          "url": "https://flash.jin10.com/detail/20260501042353967800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         },
         {
           "title": "天津发布房地产新政",
