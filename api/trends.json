@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T03:15:51.348581+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-05-02T04:56:02.291145+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 04时56分]"
         },
         {
           "title": "多地响应稳楼市部署，深圳、广州、天津集中出台房地产新政",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 04时56分]"
         },
         {
           "title": "郑栅洁：以高质量实施“十五五”规划推进中国式现代化建设",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 04时56分]"
         },
         {
           "title": "中国又建了一座水上电梯",
@@ -47,11 +47,12 @@
           "ranks": [
             26,
             23,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 04时56分]"
         },
         {
           "title": "伊朗议会议长：伊朗将迎来新的建设阶段",
