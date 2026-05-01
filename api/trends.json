@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T17:03:27.853077+08:00",
-  "total_titles_processed": 1109,
+  "generated_at": "2026-05-01T19:08:37.899877+08:00",
+  "total_titles_processed": 1251,
   "failed_sources": [],
   "trends": [
     {
@@ -26,7 +26,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -36,11 +36,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时38分 ~ 17时03分]"
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 19时08分]"
         },
         {
           "title": "多地响应稳楼市部署，深圳、广州、天津集中出台房地产新政",
@@ -48,11 +49,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时38分 ~ 17时03分]"
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 19时08分]"
         },
         {
           "title": "长沙高校招聘疑为萝卜岗 官方介入",
@@ -150,7 +152,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         }
