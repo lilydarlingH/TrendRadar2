@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T00:03:05.162186+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-02T01:09:32.786267+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国人流行“从中国进口房屋”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时09分]"
         },
         {
           "title": "多地响应稳楼市部署，深圳、广州、天津集中出台房地产新政",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时09分]"
         },
         {
           "title": "郑栅洁：以高质量实施“十五五”规划推进中国式现代化建设",
@@ -37,19 +37,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时09分]"
         },
         {
           "title": "中国又建了一座水上电梯",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8F%88%E5%BB%BA%E4%BA%86%E4%B8%80%E5%BA%A7%E6%B0%B4%E4%B8%8A%E7%94%B5%E6%A2%AF",
           "source": "百度热搜",
           "ranks": [
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时09分]"
+        },
+        {
+          "title": "伊朗议会议长：伊朗将迎来新的建设阶段",
+          "url": "https://wallstreetcn.com/livenews/3097970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时09分"
         }
       ]
     }
