@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T11:32:28.720622+08:00",
-  "total_titles_processed": 799,
+  "generated_at": "2026-05-01T14:39:15.481402+08:00",
+  "total_titles_processed": 961,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
         {
           "title": "不写论文也能获学位：又一批高校首位工程博士亮相",
@@ -20,6 +20,17 @@
           "time_info": "[01时24分 ~ 07时55分]"
         },
         {
+          "title": "长沙高校招聘疑为萝卜岗 官方介入",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E9%AB%98%E6%A0%A1%E6%8B%9B%E8%81%98%E7%96%91%E4%B8%BA%E8%90%9D%E5%8D%9C%E5%B2%97+%E5%AE%98%E6%96%B9%E4%BB%8B%E5%85%A5",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 14时39分]"
+        },
+        {
           "title": "天津发布房地产新政",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%8F%91%E5%B8%83%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%96%B0%E6%94%BF%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -29,6 +40,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时24分 ~ 06时56分]"
+        },
+        {
+          "title": "郑栅洁：以高质量实施“十五五”规划推进中国式现代化建设",
+          "url": "https://www.cls.cn/detail/2361718",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 14时39分]"
+        },
+        {
+          "title": "特朗普：大多数人说我更适合从政，但其实我最擅长搞建设",
+          "url": "https://v.ifeng.com/c/8slZgmeHYf5",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 14时39分]"
+        },
+        {
+          "title": "多地响应稳楼市部署，深圳、广州、天津集中出台房地产新政",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33085825",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 14时39分]"
         },
         {
           "title": "美国总统特朗普签署许可，授权通过输油管线Bridger Pipeline将加拿大石油供应到怀俄明州。 这将在美国联邦政府层面为跨境的Bridger项目建设、衔接、运营扫清障碍。",
@@ -41,6 +85,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时56分 ~ 07时55分]"
+        },
+        {
+          "title": "马光远：房地产跌不动了",
+          "url": "https://www.toutiao.com/trending/7634714314770746931/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 14时39分]"
+        },
+        {
+          "title": "深圳广州天津集中出台房地产新政",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B9%BF%E5%B7%9E%E5%A4%A9%E6%B4%A5%E9%9B%86%E4%B8%AD%E5%87%BA%E5%8F%B0%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%96%B0%E6%94%BF",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 14时39分]"
         },
         {
           "title": "美国白宫：特朗普总统许可授权布里杰管道扩建项目，内容包括在蒙大拿州菲利普斯县边界处的该管道区域进行管道设施的建设、连接、运营及维护工作，该区域位于美国与加拿大之间。许可方获准在美国和加拿大之间运输原油及石油产品。",
@@ -60,18 +126,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "长沙高校招聘疑为萝卜岗 官方介入",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E9%AB%98%E6%A0%A1%E6%8B%9B%E8%81%98%E7%96%91%E4%B8%BA%E8%90%9D%E5%8D%9C%E5%B2%97+%E5%AE%98%E6%96%B9%E4%BB%8B%E5%85%A5",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         }
