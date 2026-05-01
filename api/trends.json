@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T07:55:42.282674+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2026-05-01T11:32:28.720622+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "不写论文也能获学位：又一批高校首位工程博士亮相",
@@ -52,6 +52,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "摩尔线程完成DeepSeek-V4全链路工程化适配",
+          "url": "https://flash.jin10.com/detail/20260501103248247800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "长沙高校招聘疑为萝卜岗 官方介入",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E9%AB%98%E6%A0%A1%E6%8B%9B%E8%81%98%E7%96%91%E4%B8%BA%E8%90%9D%E5%8D%9C%E5%B2%97+%E5%AE%98%E6%96%B9%E4%BB%8B%E5%85%A5",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         }
       ]
     }
