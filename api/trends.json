@@ -1,53 +1,12 @@
 {
-  "generated_at": "2026-05-01T22:58:08.141142+08:00",
-  "total_titles_processed": 1540,
+  "generated_at": "2026-05-02T00:03:05.162186+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 16,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "郑栅洁：以高质量实施“十五五”规划推进中国式现代化建设",
-          "url": "https://www.cls.cn/detail/2361718",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时38分 ~ 22时58分]"
-        },
-        {
-          "title": "多地响应稳楼市部署，深圳、广州、天津集中出台房地产新政",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33085825",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时38分 ~ 22时58分]"
-        },
-        {
-          "title": "不写论文也能获学位：又一批高校首位工程博士亮相",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079486",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时24分 ~ 07时55分]"
-        },
         {
           "title": "美国人流行“从中国进口房屋”",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B5%81%E8%A1%8C%E2%80%9C%E4%BB%8E%E4%B8%AD%E5%9B%BD%E8%BF%9B%E5%8F%A3%E6%88%BF%E5%B1%8B%E2%80%9D",
@@ -57,140 +16,40 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时57分 ~ 22时58分]"
+          "time_info": "[00时02分 ~ 00时03分]"
         },
         {
-          "title": "以色列军方：已摧毁黎巴嫩南部真主党的指挥总部和军事建筑。",
-          "url": "https://flash.jin10.com/detail/20260501164258346800",
-          "source": "金十数据",
+          "title": "多地响应稳楼市部署，深圳、广州、天津集中出台房地产新政",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33085825",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时03分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 00时03分]"
         },
         {
-          "title": "长沙高校招聘疑为萝卜岗 官方介入",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E6%B2%99%E9%AB%98%E6%A0%A1%E6%8B%9B%E8%81%98%E7%96%91%E4%B8%BA%E8%90%9D%E5%8D%9C%E5%B2%97+%E5%AE%98%E6%96%B9%E4%BB%8B%E5%85%A5",
-          "source": "百度热搜",
+          "title": "郑栅洁：以高质量实施“十五五”规划推进中国式现代化建设",
+          "url": "https://www.cls.cn/detail/2361718",
+          "source": "财联社热门",
           "ranks": [
-            28
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时32分 ~ 14时39分]"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 00时03分]"
         },
         {
           "title": "中国又建了一座水上电梯",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8F%88%E5%BB%BA%E4%BA%86%E4%B8%80%E5%BA%A7%E6%B0%B4%E4%B8%8A%E7%94%B5%E6%A2%AF",
           "source": "百度热搜",
           "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时22分 ~ 22时58分]"
-        },
-        {
-          "title": "天津发布房地产新政",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%8F%91%E5%B8%83%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%96%B0%E6%94%BF%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 06时56分]"
-        },
-        {
-          "title": "特朗普：大多数人说我更适合从政，但其实我最擅长搞建设",
-          "url": "https://v.ifeng.com/c/8slZgmeHYf5",
-          "source": "凤凰网",
-          "ranks": [
-            11
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时38分 ~ 14时39分]"
-        },
-        {
-          "title": "美国总统特朗普签署许可，授权通过输油管线Bridger Pipeline将加拿大石油供应到怀俄明州。 这将在美国联邦政府层面为跨境的Bridger项目建设、衔接、运营扫清障碍。",
-          "url": "https://wallstreetcn.com/livenews/3097732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时55分]"
-        },
-        {
-          "title": "马光远：房地产跌不动了",
-          "url": "https://www.toutiao.com/trending/7634714314770746931/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 14时39分]"
-        },
-        {
-          "title": "深圳广州天津集中出台房地产新政",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B9%BF%E5%B7%9E%E5%A4%A9%E6%B4%A5%E9%9B%86%E4%B8%AD%E5%87%BA%E5%8F%B0%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%96%B0%E6%94%BF",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 14时39分]"
-        },
-        {
-          "title": "美国白宫：特朗普总统许可授权布里杰管道扩建项目，内容包括在蒙大拿州菲利普斯县边界处的该管道区域进行管道设施的建设、连接、运营及维护工作，该区域位于美国与加拿大之间。许可方获准在美国和加拿大之间运输原油及石油产品。",
-          "url": "https://flash.jin10.com/detail/20260501042353967800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "摩尔线程完成DeepSeek-V4全链路工程化适配",
-          "url": "https://flash.jin10.com/detail/20260501103248247800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "中原地产：香港二手房价格按周上涨1%",
-          "url": "https://flash.jin10.com/detail/20260501160507935800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        },
-        {
-          "title": "李强在广西调研时强调 加快推进水网建设 全面提升综合效益 为经济社会发展提供基础支撑和重要保障",
-          "url": "https://wallstreetcn.com/livenews/3097884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时22分"
+          "time_info": "[00时02分 ~ 00时03分]"
         }
       ]
     }
