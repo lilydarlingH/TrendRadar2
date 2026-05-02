@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T05:43:38.272863+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2026-05-03T06:44:20.482773+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -15,24 +15,12 @@
             4,
             5,
             9,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 05时43分]"
-        },
-        {
-          "title": "美联储古尔斯比：尽管各界热议人工智能中心建设，但真正拉动经济的仍是消费者需求。 ​​​",
-          "url": "https://flash.jin10.com/detail/20260503021929638800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时02分 ~ 05时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 06时44分]"
         },
         {
           "title": "景区装30部电梯被质疑过度开发",
@@ -41,11 +29,26 @@
           "ranks": [
             9,
             7,
-            10
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 06时44分]"
+        },
+        {
+          "title": "美联储古尔斯比：尽管各界热议人工智能中心建设，但真正拉动经济的仍是消费者需求。 ​​​",
+          "url": "https://flash.jin10.com/detail/20260503021929638800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8,
+            10,
+            14
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时52分 ~ 04时44分]"
+          "time_info": "[03时02分 ~ 06时44分]"
         },
         {
           "title": "伯克希尔CEO格雷格·阿贝尔：认为美国房屋建造商Clayton Homes在低价房源方面存在增长机会。",
