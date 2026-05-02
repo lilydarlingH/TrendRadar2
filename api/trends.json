@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T04:44:29.883949+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2026-05-03T05:43:38.272863+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             5,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 04时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 05时43分]"
         },
         {
           "title": "美联储古尔斯比：尽管各界热议人工智能中心建设，但真正拉动经济的仍是消费者需求。 ​​​",
@@ -26,11 +27,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时44分]"
+          "appearance_count": 3,
+          "time_info": "[03时02分 ~ 05时43分]"
         },
         {
           "title": "景区装30部电梯被质疑过度开发",
