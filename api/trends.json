@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T13:40:11.189913+08:00",
-  "total_titles_processed": 928,
+  "generated_at": "2026-05-02T15:47:39.556401+08:00",
+  "total_titles_processed": 1042,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "多地响应稳楼市部署，深圳、广州、天津集中出台房地产新政",
@@ -37,11 +37,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 13时40分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 15时47分]"
         },
         {
           "title": "中国又建了一座水上电梯",
@@ -56,6 +57,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时02分 ~ 04时56分]"
+        },
+        {
+          "title": "德国国防部长：德国正在扩充军队，迅速采购更多装备，建设更多基础设施。",
+          "url": "https://flash.jin10.com/detail/20260502152831767800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
         },
         {
           "title": "中国光伏的堡垒被印度从内部攻破",
