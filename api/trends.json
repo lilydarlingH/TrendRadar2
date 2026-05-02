@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T00:52:26.493312+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-03T01:45:47.572995+08:00",
+  "total_titles_processed": 352,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时45分]"
         },
         {
           "title": "景区装30部电梯被质疑过度开发",
@@ -26,19 +26,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时45分]"
         },
         {
           "title": "伯克希尔CEO格雷格·阿贝尔：认为美国房屋建造商Clayton Homes在低价房源方面存在增长机会。",
           "url": "https://flash.jin10.com/detail/20260502225137915800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时45分]"
         }
       ]
     }
