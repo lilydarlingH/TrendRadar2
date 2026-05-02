@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-02T06:53:13.529107+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2026-05-02T08:36:59.799571+08:00",
+  "total_titles_processed": 692,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "美国人流行“从中国进口房屋”",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B5%81%E8%A1%8C%E2%80%9C%E4%BB%8E%E4%B8%AD%E5%9B%BD%E8%BF%9B%E5%8F%A3%E6%88%BF%E5%B1%8B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时53分]"
-        },
         {
           "title": "多地响应稳楼市部署，深圳、广州、天津集中出台房地产新政",
           "url": "https://m.thepaper.cn/newsDetail_forward_33085825",
@@ -27,15 +16,27 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 08时36分]"
         },
         {
           "title": "郑栅洁：以高质量实施“十五五”规划推进中国式现代化建设",
           "url": "https://www.cls.cn/detail/2361718",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 08时36分]"
+        },
+        {
+          "title": "美国人流行“从中国进口房屋”",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B5%81%E8%A1%8C%E2%80%9C%E4%BB%8E%E4%B8%AD%E5%9B%BD%E8%BF%9B%E5%8F%A3%E6%88%BF%E5%B1%8B%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -54,6 +55,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时02分 ~ 04时56分]"
+        },
+        {
+          "title": "中国光伏的堡垒被印度从内部攻破",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%89%E4%BC%8F%E7%9A%84%E5%A0%A1%E5%9E%92%E8%A2%AB%E5%8D%B0%E5%BA%A6%E4%BB%8E%E5%86%85%E9%83%A8%E6%94%BB%E7%A0%B4%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时36分"
         },
         {
           "title": "伊朗议会议长：伊朗将迎来新的建设阶段",
