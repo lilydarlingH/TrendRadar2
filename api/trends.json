@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T10:48:15.474747+08:00",
-  "total_titles_processed": 804,
+  "generated_at": "2026-05-02T13:40:11.189913+08:00",
+  "total_titles_processed": 928,
   "failed_sources": [],
   "trends": [
     {
@@ -20,18 +20,6 @@
           "time_info": "[00时02分 ~ 08时36分]"
         },
         {
-          "title": "郑栅洁：以高质量实施“十五五”规划推进中国式现代化建设",
-          "url": "https://www.cls.cn/detail/2361718",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 10时48分]"
-        },
-        {
           "title": "美国人流行“从中国进口房屋”",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B5%81%E8%A1%8C%E2%80%9C%E4%BB%8E%E4%B8%AD%E5%9B%BD%E8%BF%9B%E5%8F%A3%E6%88%BF%E5%B1%8B%E2%80%9D",
           "source": "百度热搜",
@@ -41,6 +29,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时02分 ~ 06时53分]"
+        },
+        {
+          "title": "郑栅洁：以高质量实施“十五五”规划推进中国式现代化建设",
+          "url": "https://www.cls.cn/detail/2361718",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 13时40分]"
         },
         {
           "title": "中国又建了一座水上电梯",
