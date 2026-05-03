@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T16:48:48.969108+08:00",
-  "total_titles_processed": 931,
+  "generated_at": "2026-05-03T18:07:24.092891+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
@@ -55,11 +55,12 @@
           "url": "https://flash.jin10.com/detail/20260503160251634800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 18时07分]"
         },
         {
           "title": "伯克希尔CEO格雷格·阿贝尔：认为美国房屋建造商Clayton Homes在低价房源方面存在增长机会。",
