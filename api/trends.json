@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T04:45:14.949967+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2026-05-04T05:44:45.005434+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             5,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 05时44分]"
         },
         {
           "title": "“美联储传声筒”Nick Timiraos：美联储的自主性，通常被称为其独立性，源于国会的机构设立，国会创建了一个由官员组成的委员会，这些官员任期较长且错开，享有免于被罢免的保护，并赋予该机构对其预算（和建筑物）的完全控制权。",
