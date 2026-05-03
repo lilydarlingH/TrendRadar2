@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T06:44:46.597844+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-05-04T07:49:27.179896+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "江西九江多地倡议干部带头缴物业费",
@@ -16,11 +16,23 @@
             5,
             17,
             16,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 07时49分]"
+        },
+        {
+          "title": "九江多地倡议公职人员党员干部带头缴纳物业费：杜绝拒缴激化矛盾",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33095444",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
         },
         {
           "title": "“美联储传声筒”Nick Timiraos：美联储的自主性，通常被称为其独立性，源于国会的机构设立，国会创建了一个由官员组成的委员会，这些官员任期较长且错开，享有免于被罢免的保护，并赋予该机构对其预算（和建筑物）的完全控制权。",
