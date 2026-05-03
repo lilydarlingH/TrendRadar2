@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T22:52:18.736860+08:00",
-  "total_titles_processed": 1296,
+  "generated_at": "2026-05-03T23:50:57.755967+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "阿贝尔认为数据中心建设将为公用事业带来巨大增长",
@@ -85,6 +85,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时12分 ~ 16时48分]"
+        },
+        {
+          "title": "“美联储传声筒”Nick Timiraos：美联储的自主性，通常被称为其独立性，源于国会的机构设立，国会创建了一个由官员组成的委员会，这些官员任期较长且错开，享有免于被罢免的保护，并赋予该机构对其预算（和建筑物）的完全控制权。",
+          "url": "https://flash.jin10.com/detail/20260503222632402800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         }
       ]
     }
