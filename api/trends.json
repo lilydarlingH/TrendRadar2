@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T00:48:32.247666+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-05T02:17:37.360379+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,24 @@
           "url": "https://www.baidu.com/s?wd=531%E6%88%B7%E7%89%A9%E7%AE%A1%E8%B4%B9%E4%BA%A4%E4%BA%8625%E6%88%B7+%E7%89%A9%E4%B8%9A%E8%87%AA%E5%B7%B1%E5%9E%AB%E8%B5%84",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 02时17分]"
+        },
+        {
+          "title": "春笋穿透地板钻进房屋把屋顶撑变形",
+          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E7%AC%8B%E7%A9%BF%E9%80%8F%E5%9C%B0%E6%9D%BF%E9%92%BB%E8%BF%9B%E6%88%BF%E5%B1%8B%E6%8A%8A%E5%B1%8B%E9%A1%B6%E6%92%91%E5%8F%98%E5%BD%A2",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 02时17分]"
         },
         {
           "title": "阿曼北部一处住宅楼遭到袭击，导致两名外籍人士轻伤。",
@@ -24,17 +37,6 @@
           "source": "金十数据",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
-        },
-        {
-          "title": "春笋穿透地板钻进房屋把屋顶撑变形",
-          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E7%AC%8B%E7%A9%BF%E9%80%8F%E5%9C%B0%E6%9D%BF%E9%92%BB%E8%BF%9B%E6%88%BF%E5%B1%8B%E6%8A%8A%E5%B1%8B%E9%A1%B6%E6%92%91%E5%8F%98%E5%BD%A2",
-          "source": "百度热搜",
-          "ranks": [
-            24
           ],
           "is_new": false,
           "appearance_count": 1,
