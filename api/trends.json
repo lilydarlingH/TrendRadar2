@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T19:51:16.818441+08:00",
-  "total_titles_processed": 1209,
+  "generated_at": "2026-05-04T22:05:03.972244+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,24 @@
           "url": "https://www.toutiao.com/trending/7635359656403042350/",
           "source": "今日头条",
           "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时50分 ~ 22时05分]"
+        },
+        {
+          "title": "531户物管费交了25户 物业自己垫资",
+          "url": "https://www.baidu.com/s?wd=531%E6%88%B7%E7%89%A9%E7%AE%A1%E8%B4%B9%E4%BA%A4%E4%BA%8625%E6%88%B7+%E7%89%A9%E4%B8%9A%E8%87%AA%E5%B7%B1%E5%9E%AB%E8%B5%84",
+          "source": "百度热搜",
+          "ranks": [
+            19,
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时50分 ~ 19时51分]"
+          "appearance_count": 4,
+          "time_info": "[19时50分 ~ 22时05分]"
         },
         {
           "title": "多地倡议公职人员带头缴纳物业费",
@@ -80,17 +93,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时21分 ~ 17时22分]"
-        },
-        {
-          "title": "531户物管费交了25户 物业自己垫资",
-          "url": "https://www.baidu.com/s?wd=531%E6%88%B7%E7%89%A9%E7%AE%A1%E8%B4%B9%E4%BA%A4%E4%BA%8625%E6%88%B7+%E7%89%A9%E4%B8%9A%E8%87%AA%E5%B7%B1%E5%9E%AB%E8%B5%84",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时50分 ~ 19时51分]"
         },
         {
           "title": "工程师调岗变流水线工人获赔25万",
