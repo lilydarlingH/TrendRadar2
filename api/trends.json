@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T10:58:08.964778+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2026-05-04T14:18:11.625244+08:00",
+  "total_titles_processed": 884,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "江西九江多地倡议干部带头缴物业费",
@@ -29,11 +29,24 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时49分 ~ 10时58分]"
+          "appearance_count": 5,
+          "time_info": "[07时49分 ~ 14时18分]"
+        },
+        {
+          "title": "多地倡议公职人员带头缴纳物业费",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%80%A1%E8%AE%AE%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%B8%A6%E5%A4%B4%E7%BC%B4%E7%BA%B3%E7%89%A9%E4%B8%9A%E8%B4%B9",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 14时18分]"
         },
         {
           "title": "工程师调岗变流水线工人获赔25万",
@@ -64,7 +77,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
@@ -75,7 +88,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
