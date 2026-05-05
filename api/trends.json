@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-05-05T13:46:31.966493+08:00",
-  "total_titles_processed": 954,
+  "generated_at": "2026-05-05T16:15:45.444737+08:00",
+  "total_titles_processed": 1080,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
       "match_count": 9,
       "titles": [
+        {
+          "title": "多地倡议公职人员带头缴纳物业费，如何看待这一举措？",
+          "url": "https://www.zhihu.com/question/2034615270451458303",
+          "source": "知乎",
+          "ranks": [
+            11,
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时55分 ~ 16时15分]"
+        },
         {
           "title": "531户物管费交了25户 物业自己垫资",
           "url": "https://www.baidu.com/s?wd=531%E6%88%B7%E7%89%A9%E7%AE%A1%E8%B4%B9%E4%BA%A4%E4%BA%8625%E6%88%B7+%E7%89%A9%E4%B8%9A%E8%87%AA%E5%B7%B1%E5%9E%AB%E8%B5%84",
@@ -19,19 +33,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时48分 ~ 07时56分]"
-        },
-        {
-          "title": "多地倡议公职人员带头缴纳物业费，如何看待这一举措？",
-          "url": "https://www.zhihu.com/question/2034615270451458303",
-          "source": "知乎",
-          "ranks": [
-            11,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时55分 ~ 13时46分]"
         },
         {
           "title": "春笋穿透地板钻进房屋把屋顶撑变形",
@@ -54,9 +55,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 16时15分]"
         },
         {
           "title": "华泰证券：二季度进入风电施工旺季产业链排产出货有望环比向上",
@@ -65,7 +66,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -87,7 +88,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
