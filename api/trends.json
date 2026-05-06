@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-06T07:53:02.896325+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-05-06T10:57:10.331392+08:00",
+  "total_titles_processed": 810,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "港股内房股盘中持续走强，中国金茂(00817.HK)、越秀地产(00123.HK)均涨超6%，建发国际集团(01908.HK)涨超5.5%，华润置地(01109.HK)、中国海外发展(00688.HK)、绿城中国(03900.HK)、龙湖集团(00960.HK)等多股涨超4%。",
+          "url": "https://flash.jin10.com/detail/20260506104206438800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
         {
           "title": "俄罗斯外长拉夫罗夫与美国国务卿鲁比奥的通话是建设性、务实的。（俄新社）",
           "url": "https://flash.jin10.com/detail/20260506010732483800",
@@ -25,7 +36,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
