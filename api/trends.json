@@ -1,22 +1,45 @@
 {
-  "generated_at": "2026-05-07T07:58:31.558031+08:00",
-  "total_titles_processed": 648,
+  "generated_at": "2026-05-07T10:57:09.971910+08:00",
+  "total_titles_processed": 813,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "澎湃回声｜江西鄱阳县政府：以最坚决有力的措施，整改整治高标准农田建设相关问题",
           "url": "https://m.thepaper.cn/newsDetail_forward_33103262",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 10时57分]"
+        },
+        {
+          "title": "A股房地产板块反复活跃，衢州发展封板涨停，万通发展、合肥城建、黑牡丹、招商蛇口、首开股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260507095715961800",
+          "source": "金十数据",
+          "ranks": [
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "10时57分"
+        },
+        {
+          "title": "光伏设备板块早盘拉升，安彩高科直线涨停，连城数控、钧达股份、迈为股份、拉普拉斯涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3099675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         },
         {
           "title": "江西鄱阳县回应高标准农田建设相关问题：正全力推进问题整改整治。（澎湃）",
@@ -36,7 +59,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
