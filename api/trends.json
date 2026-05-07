@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T02:27:10.976328+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-05-08T04:16:46.010789+08:00",
+  "total_titles_processed": 435,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 02时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时16分]"
         },
         {
           "title": "多地发文催公职人员交物业费说明什么",
@@ -25,11 +25,12 @@
           "source": "今日头条",
           "ranks": [
             14,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 02时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时16分]"
         },
         {
           "title": "小区531户仅25户交物业费业主发声",
@@ -37,11 +38,12 @@
           "source": "微博",
           "ranks": [
             22,
-            21
+            21,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 02时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 04时16分]"
         }
       ]
     }
