@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T17:24:50.901823+08:00",
-  "total_titles_processed": 1216,
+  "generated_at": "2026-05-08T19:19:00.418059+08:00",
+  "total_titles_processed": 1357,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "如何评价主播在工地门口卖便宜盒饭的现象？",
@@ -36,6 +36,20 @@
           "time_info": "[06时01分 ~ 15时45分]"
         },
         {
+          "title": "经纬度：公职人员带头，能否破解物业收费难",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33120249",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时34分 ~ 19时19分]"
+        },
+        {
           "title": "多地发文催公职人员交物业费说明什么",
           "url": "https://www.toutiao.com/trending/7637143916751359515/",
           "source": "今日头条",
@@ -64,6 +78,17 @@
           "time_info": "[01时09分 ~ 07时08分]"
         },
         {
+          "title": "通鼎互联：拟与曲江国资在广东省韶关市曲江区成立合资公司，项目公司注册资本8亿元，项目公司拟投资约8亿元建设年产600吨光棒及2000万芯公里光纤项目。",
+          "url": "https://wallstreetcn.com/livenews/3100671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "5月8日投资避雷针：12天10板人气股提示风险 仅承接少量商业航天发射场配套工程",
           "url": "https://www.cls.cn/detail/2365556",
           "source": "财联社热门",
@@ -75,19 +100,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时59分 ~ 15时45分]"
-        },
-        {
-          "title": "经纬度：公职人员带头，能否破解物业收费难",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33120249",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时34分 ~ 17时24分]"
         },
         {
           "title": "男孩饮酒后坠亡 父母起诉房屋出租人",
@@ -113,13 +125,24 @@
           "time_info": "10时59分"
         },
         {
+          "title": "永杉锂业：拟于四川南充经开化工园区投资建设锂盐项目",
+          "url": "https://wallstreetcn.com/livenews/3100647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "瑞典能源部长：瑞典将暂停建设通往丹麦的新电缆。",
           "url": "https://flash.jin10.com/detail/20260508170523333800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -135,15 +158,37 @@
           "time_info": "13时35分"
         },
         {
+          "title": "沧州明珠：拟与东部中心公司共同建设“沧州明珠华南基地项目”，项目投资总金额约33.8亿元",
+          "url": "https://flash.jin10.com/detail/20260508182254898800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "涉及手机、眼镜、耳机等！《人工智能终端智能化分级》系列国家标准发布",
           "url": "https://wallstreetcn.com/livenews/3100556",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
+        },
+        {
+          "title": "沧州明珠：拟与广州增城开发区东部中心投资有限公司在广州市增城区共同出资设立广州明珠新材料有限公司建设实施 “沧州明珠华南基地项目”，项目投资总金额约33.8亿元人民币，项目拟投资建设年产24亿平方米湿法锂离子电池隔膜项目和年产3万吨PE管道项目。",
+          "url": "https://wallstreetcn.com/livenews/3100632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         }
       ]
     }
