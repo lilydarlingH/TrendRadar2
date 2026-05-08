@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T13:35:04.686805+08:00",
-  "total_titles_processed": 924,
+  "generated_at": "2026-05-08T15:45:04.788101+08:00",
+  "total_titles_processed": 1071,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             15,
             13,
             10,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时01分 ~ 13时35分]"
+          "appearance_count": 8,
+          "time_info": "[06时01分 ~ 15时45分]"
         },
         {
           "title": "多地发文催公职人员交物业费说明什么",
@@ -68,11 +69,24 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时59分 ~ 13时35分]"
+          "appearance_count": 5,
+          "time_info": "[10时59分 ~ 15时45分]"
+        },
+        {
+          "title": "经纬度：公职人员带头，能否破解物业收费难",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33120249",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时34分 ~ 15时45分]"
         },
         {
           "title": "男孩饮酒后坠亡 父母起诉房屋出租人",
@@ -85,17 +99,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时59分 ~ 13时35分]"
-        },
-        {
-          "title": "经纬度：公职人员带头，能否破解物业收费难",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33120249",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时34分 ~ 13时35分]"
         },
         {
           "title": "预计6月交付 全球首艘2.4万箱甲醇双燃料集装箱船建造完工",
@@ -115,7 +118,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
         }
