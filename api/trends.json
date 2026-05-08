@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T19:19:00.418059+08:00",
-  "total_titles_processed": 1357,
+  "generated_at": "2026-05-08T21:52:12.132774+08:00",
+  "total_titles_processed": 1531,
   "failed_sources": [],
   "trends": [
     {
@@ -43,11 +43,12 @@
             20,
             13,
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时34分 ~ 19时19分]"
+          "appearance_count": 9,
+          "time_info": "[13时34分 ~ 21时52分]"
         },
         {
           "title": "多地发文催公职人员交物业费说明什么",
@@ -84,7 +85,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -131,7 +132,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -164,7 +165,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -186,7 +187,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         }
