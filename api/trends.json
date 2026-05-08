@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T06:58:06.417341+08:00",
-  "total_titles_processed": 486,
+  "generated_at": "2026-05-09T07:58:56.542900+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 06时58分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 07时58分]"
         },
         {
           "title": "谷歌旗下Isomorphic Labs将筹集超20亿美元新资金",
@@ -47,11 +47,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            12
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时03分 ~ 06时58分]"
+          "appearance_count": 4,
+          "time_info": "[05时03分 ~ 07时58分]"
         },
         {
           "title": "标普500指数的11个板块涨跌各异，信息技术/科技板块收涨2.74%，刷新收盘历史高位至6573.22点；可选消费、原材料、房地产、日用消费品板块至多涨0.5%，工业、能源、金融、保健、公用事业板块至多跌0.91%。",
