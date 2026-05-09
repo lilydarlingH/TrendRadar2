@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T06:47:12.026215+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-05-10T07:52:58.663217+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 06时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 07时52分]"
         },
         {
           "title": "国常会：加强水网、新型电网、算力网、新一代通信网、城市地下管网、物流网等规划建设",
@@ -28,11 +28,12 @@
           "ranks": [
             6,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 06时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 07时52分]"
         },
         {
           "title": "国防部证实：中方建造的潜艇已交付巴基斯坦",
@@ -40,11 +41,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 06时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 07时52分]"
         },
         {
           "title": "国防部：中方建造潜艇已交付巴基斯坦",
@@ -54,11 +56,12 @@
             22,
             9,
             17,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时54分 ~ 06时47分]"
+          "appearance_count": 9,
+          "time_info": "[01时54分 ~ 07时52分]"
         },
         {
           "title": "交通运输部：加快推动新能源重卡规模化应用 建设零碳运输走廊",
@@ -71,8 +74,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 06时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 07时52分]"
         },
         {
           "title": "国常会：加强水网、新型电网、算力网、新一代通信网、城市地下管网、物流网等规划建设",
@@ -85,8 +88,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 06时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 07时52分]"
         },
         {
           "title": "李强主持召开国务院常务会议，听取全国综合交通运输体系建设情况汇报。（央视新闻）",
