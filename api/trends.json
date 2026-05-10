@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T19:54:17.573383+08:00",
-  "total_titles_processed": 1126,
+  "generated_at": "2026-05-10T21:22:16.209455+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时58分 ~ 19时54分]"
+          "appearance_count": 20,
+          "time_info": "[00时58分 ~ 21时22分]"
         },
         {
           "title": "国防部证实：中方建造的潜艇已交付巴基斯坦",
@@ -44,11 +44,12 @@
             9,
             8,
             6,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时58分 ~ 19时54分]"
+          "appearance_count": 20,
+          "time_info": "[00时58分 ~ 21时22分]"
         },
         {
           "title": "交通运输部：加快推动新能源重卡规模化应用 建设零碳运输走廊",
@@ -103,11 +104,12 @@
             2,
             8,
             13,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时35分 ~ 19时54分]"
+          "appearance_count": 5,
+          "time_info": "[14时35分 ~ 21时22分]"
         },
         {
           "title": "李强主持召开国务院常务会议，听取全国综合交通运输体系建设情况汇报。（央视新闻）",
@@ -121,6 +123,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时58分 ~ 05时46分]"
+        },
+        {
+          "title": "银川一外卖员用小区灭火器灭火被物业收费50元，街道办：要求物业致歉并退费",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33144152",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时53分 ~ 21时22分]"
         },
         {
           "title": "业内：韩国财阀开始害怕工程师了",
@@ -145,17 +159,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时04分 ~ 04时46分]"
-        },
-        {
-          "title": "银川一外卖员用小区灭火器灭火被物业收费50元，街道办：要求物业致歉并退费",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33144152",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时53分 ~ 19时54分]"
         },
         {
           "title": "伊朗海军司令：自主建造的轻型潜艇正在霍尔木兹海峡待命",
