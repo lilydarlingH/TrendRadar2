@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T05:51:41.768689+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-05-11T06:52:00.264853+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 05时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 06时52分]"
         },
         {
           "title": "国防部证实：中方建造的潜艇已交付巴基斯坦",
           "url": "https://www.cls.cn/detail/2366875",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 05时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 06时52分]"
         },
         {
           "title": "我国首条深水油气装备工艺管线智能生产线建设完成",
