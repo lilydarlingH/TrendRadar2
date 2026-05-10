@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T06:52:00.264853+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-05-11T07:55:15.116873+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 06时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 07时55分]"
         },
         {
           "title": "国防部证实：中方建造的潜艇已交付巴基斯坦",
