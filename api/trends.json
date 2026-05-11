@@ -1,36 +1,12 @@
 {
-  "generated_at": "2026-05-11T22:55:49.956113+08:00",
-  "total_titles_processed": 1378,
+  "generated_at": "2026-05-12T01:27:23.973810+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 13,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "国常会：加强水网、新型电网、算力网、新一代通信网、城市地下管网、物流网等规划建设",
-          "url": "https://www.cls.cn/detail/2367007",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 07时55分]"
-        },
-        {
-          "title": "国防部证实：中方建造的潜艇已交付巴基斯坦",
-          "url": "https://www.cls.cn/detail/2366875",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 06时52分]"
-        },
         {
           "title": "官媒评小区531户仅25户交物业费",
           "url": "https://www.toutiao.com/trending/7637737676657917978/",
@@ -38,124 +14,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时55分"
+          "time_info": "01时27分"
         },
         {
           "title": "印尼获赠意大利退役航母，对东南亚军事格局及自身海军建设有何影响？",
           "url": "https://www.zhihu.com/question/2033365566782690183",
           "source": "知乎",
           "ranks": [
-            13,
-            10,
-            5
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时43分 ~ 22时55分]"
+          "appearance_count": 1,
+          "time_info": "01时27分"
         },
         {
-          "title": "人民锐评：物业停电停不出“自觉交费”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33152963",
+          "title": "旁白｜高标准农田建设，如何才能“标准”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33122527",
           "source": "澎湃新闻",
-          "ranks": [
-            14,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时43分 ~ 22时55分]"
-        },
-        {
-          "title": "我国首条深水油气装备工艺管线智能生产线建设完成",
-          "url": "https://wallstreetcn.com/livenews/3101110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时56分]"
-        },
-        {
-          "title": "五部门印发《关于深入推进建设项目联合验收“一件事”的实施意见》",
-          "url": "https://wallstreetcn.com/livenews/3101572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "美国全国地产经纪商协会（NAR）首席经济学家劳伦斯·云（Lawrence Yun，中文名云浩锡）：尽管这是新冠疫情后的美国成屋销售最高库存水平，但我们仍未接近疫情前4月份183万套的库存规模。",
-          "url": "https://wallstreetcn.com/livenews/3101716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
-          "title": "上海市政府常务会议部署，全面推动物业服务提质增效",
-          "url": "https://wallstreetcn.com/livenews/3101709",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
-          "title": "创业板指涨超2%，沪指涨0.74%，深成指涨1.62%，存储芯片、光纤、稀土、房地产等方向涨幅居前，沪深京三市上涨个股超2600只。",
-          "url": "https://wallstreetcn.com/livenews/3101293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "我国首条深水油气装备工艺管线智能生产线建设完成",
-          "url": "https://flash.jin10.com/detail/20260511184219621800",
-          "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "中国工程机械今年一季度累计出口超1124亿元，同比增长21.3%",
-          "url": "https://flash.jin10.com/detail/20260511221126953800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
-          "title": "新型柔性单晶硅电池将助力商业航天与太空光伏发展",
-          "url": "https://wallstreetcn.com/livenews/3101279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "time_info": "01时27分"
         }
       ]
     }
