@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T03:51:55.726742+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-05-12T05:20:44.876660+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
@@ -15,20 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时51分]"
-        },
-        {
-          "title": "印尼获赠意大利退役航母，对东南亚军事格局及自身海军建设有何影响？",
-          "url": "https://www.zhihu.com/question/2033365566782690183",
-          "source": "知乎",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 03时51分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 05时20分]"
         },
         {
           "title": "旁白｜高标准农田建设，如何才能“标准”",
@@ -37,6 +25,18 @@
           "ranks": [
             19,
             17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 05时20分]"
+        },
+        {
+          "title": "印尼获赠意大利退役航母，对东南亚军事格局及自身海军建设有何影响？",
+          "url": "https://www.zhihu.com/question/2033365566782690183",
+          "source": "知乎",
+          "ranks": [
+            12,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
