@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T17:42:19.478907+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2026-05-12T19:59:34.689593+08:00",
+  "total_titles_processed": 1293,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时27分 ~ 17时42分]"
+          "appearance_count": 12,
+          "time_info": "[01时27分 ~ 19时59分]"
         },
         {
           "title": "刺头拒交费,物业弃盘走人",
@@ -28,11 +28,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时47分 ~ 17时42分]"
+          "appearance_count": 5,
+          "time_info": "[14时47分 ~ 19时59分]"
         },
         {
           "title": "旁白｜高标准农田建设，如何才能“标准”",
@@ -54,7 +55,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
