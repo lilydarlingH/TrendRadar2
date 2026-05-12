@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T19:59:34.689593+08:00",
-  "total_titles_processed": 1293,
+  "generated_at": "2026-05-12T22:58:31.995255+08:00",
+  "total_titles_processed": 1457,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "ranks": [
             3,
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时47分 ~ 19时59分]"
+          "appearance_count": 6,
+          "time_info": "[14时47分 ~ 22时58分]"
         },
         {
           "title": "旁白｜高标准农田建设，如何才能“标准”",
