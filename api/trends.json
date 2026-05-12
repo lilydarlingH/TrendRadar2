@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T08:02:00.363788+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2026-05-12T12:02:41.168068+08:00",
+  "total_titles_processed": 818,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "官媒评小区531户仅25户交物业费",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时27分 ~ 08时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时27分 ~ 12时02分]"
         },
         {
           "title": "旁白｜高标准农田建设，如何才能“标准”",
@@ -81,6 +81,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "上海微系统所：新型柔性单晶硅电池随天舟十号开展太空实验 为太空光伏奠定基础",
+          "url": "https://wallstreetcn.com/livenews/3101988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         }
       ]
     }
