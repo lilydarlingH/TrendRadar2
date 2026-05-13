@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T11:33:53.932766+08:00",
-  "total_titles_processed": 764,
+  "generated_at": "2026-05-13T14:51:13.335202+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 2,
+      "match_count": 8,
       "titles": [
         {
           "title": "刺头拒交费,物业弃盘走人",
@@ -14,11 +14,56 @@
           "ranks": [
             10,
             12,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 11时33分]"
+          "appearance_count": 8,
+          "time_info": "[01时26分 ~ 14时51分]"
+        },
+        {
+          "title": "美国海军将建造史上最贵军舰：核动力“特朗普”级战列舰",
+          "url": "https://news.ifeng.com/c/8t5mv472h4W",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 14时51分]"
+        },
+        {
+          "title": "媒体：公权力不该给物业合同做担保",
+          "url": "https://www.toutiao.com/trending/7639214614219066943/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时50分 ~ 14时51分]"
+        },
+        {
+          "title": "沙特阿美公司寻求从其房地产投资组合中筹集超过100亿美元。",
+          "url": "https://flash.jin10.com/detail/20260513144636762800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "两项港口散杂货电子单证国家标准发布 8月1日起正式实施",
+          "url": "https://wallstreetcn.com/livenews/3102752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         },
         {
           "title": "创业板指跌超1%，科创50跌超2.5%，沪指跌0.26%，深成指跌0.55%，半导体、保险、券商、房地产等板块跌幅居前，沪深京三市下跌个股近3000只。",
@@ -27,9 +72,31 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
+        },
+        {
+          "title": "市场监管总局发布19项船舶领域国家标准",
+          "url": "https://flash.jin10.com/detail/20260513143043012800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "工信部召开高质量行业数据集建设工作座谈会",
+          "url": "https://flash.jin10.com/detail/20260513142831155800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         }
       ]
     }
