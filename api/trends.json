@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T05:12:37.108326+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-05-15T06:59:32.724639+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美国国务卿鲁比奥：中美关系非常有建设性",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时52分 ~ 05时12分]"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 06时59分]"
         },
         {
           "title": "看中国古建筑的智慧",
@@ -26,30 +26,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时52分 ~ 05时12分]"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 06时59分]"
         },
         {
           "title": "【焦点复盘】创业板指、科创50双双跌逾2%，AI硬件股分歧加剧，光伏概念逆势活跃",
           "url": "https://www.cls.cn/detail/2371414",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时52分 ~ 05时12分]"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 06时59分]"
         },
         {
           "title": "【数据看盘】超4亿元资金买入光伏人气股 游资、量化资金逆势涌入中国长城",
           "url": "https://www.cls.cn/detail/2371404",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时52分 ~ 05时12分]"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 06时59分]"
         },
         {
           "title": "鲁比奥：中美关系非常有建设性",
@@ -58,11 +60,12 @@
           "ranks": [
             28,
             22,
-            29
+            29,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时52分 ~ 05时12分]"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 06时59分]"
         },
         {
           "title": "鲁比奥：中美关系非常有建设性",
@@ -71,9 +74,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时59分]"
         },
         {
           "title": "市场消息：自2月份以来，已有50余名研究人员和工程师离职离开SpaceX AI部门。",
@@ -85,6 +88,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
+        },
+        {
+          "title": "多地倡议党员先缴物业费引争议",
+          "url": "https://www.toutiao.com/trending/7638522617334382630/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         }
       ]
     }
