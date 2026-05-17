@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T04:55:03.700902+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-05-18T05:57:54.965733+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2373269",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 05时57分]"
         },
         {
           "title": "「游戏本」是否应该改名为「学术本」「工程本」「高性能本」等与游戏无关的名字？",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 05时57分]"
         },
         {
           "title": "宁德时代与厦门市深化战略合作，加快零碳科技城建设与低空经济布局",
