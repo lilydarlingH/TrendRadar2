@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T05:57:54.965733+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-05-18T06:57:20.107040+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时57分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 06时57分]"
         },
         {
           "title": "「游戏本」是否应该改名为「学术本」「工程本」「高性能本」等与游戏无关的名字？",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时57分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 06时57分]"
         },
         {
           "title": "宁德时代与厦门市深化战略合作，加快零碳科技城建设与低空经济布局",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时04分 ~ 03时20分]"
+        },
+        {
+          "title": "女子求职被 HR 暗示「不接受潜规则就不录用」，招聘平台对入驻企业及 HR 的审核监管机制是否存在漏洞？",
+          "url": "https://www.zhihu.com/question/2038551313340953963",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 06时57分]"
         },
         {
           "title": "男子买房后去世 物业拒给家属钥匙",
