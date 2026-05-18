@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T06:57:20.107040+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-05-18T08:01:32.061236+08:00",
+  "total_titles_processed": 595,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 5,
+      "match_count": 12,
       "titles": [
         {
           "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 06时57分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 08时01分]"
         },
         {
           "title": "「游戏本」是否应该改名为「学术本」「工程本」「高性能本」等与游戏无关的名字？",
@@ -27,8 +27,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 06时57分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 08时01分]"
+        },
+        {
+          "title": "广西柳州突发5.2级地震 有房屋倒塌",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E6%9F%B3%E5%B7%9E%E7%AA%81%E5%8F%915.2%E7%BA%A7%E5%9C%B0%E9%9C%87+%E6%9C%89%E6%88%BF%E5%B1%8B%E5%80%92%E5%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 08时01分]"
+        },
+        {
+          "title": "女子求职被 HR 暗示「不接受潜规则就不录用」，招聘平台对入驻企业及 HR 的审核监管机制是否存在漏洞？",
+          "url": "https://www.zhihu.com/question/2038551313340953963",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时56分 ~ 08时01分]"
         },
         {
           "title": "宁德时代与厦门市深化战略合作，加快零碳科技城建设与低空经济布局",
@@ -43,17 +65,6 @@
           "time_info": "[00时04分 ~ 03时20分]"
         },
         {
-          "title": "女子求职被 HR 暗示「不接受潜规则就不录用」，招聘平台对入驻企业及 HR 的审核监管机制是否存在漏洞？",
-          "url": "https://www.zhihu.com/question/2038551313340953963",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 06时57分]"
-        },
-        {
           "title": "男子买房后去世 物业拒给家属钥匙",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B9%B0%E6%88%BF%E5%90%8E%E5%8E%BB%E4%B8%96+%E7%89%A9%E4%B8%9A%E6%8B%92%E7%BB%99%E5%AE%B6%E5%B1%9E%E9%92%A5%E5%8C%99",
           "source": "百度热搜",
@@ -63,6 +74,72 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时03分 ~ 00时04分]"
+        },
+        {
+          "title": "长三角将迈入“超级地铁”时代，沪苏嘉城际铁路建设提速",
+          "url": "https://wallstreetcn.com/livenews/3104929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "英国5月Rightmove平均房屋要价指数环比 1.2%，前值 0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3104928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "英国5月Rightmove平均房屋要价指数年率 -0.3%，前值-0.90%。",
+          "url": "https://flash.jin10.com/detail/20260518070301260800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "英国5月Rightmove平均房屋要价指数同比 -0.3%，前值 -0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3104927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "英国5月Rightmove平均房屋要价指数月率 1.2%，前值0.80%。",
+          "url": "https://flash.jin10.com/detail/20260518070239486800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "外媒：阿联酋加速管道建设，绕过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3104925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         }
       ]
     }
