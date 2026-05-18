@@ -1,34 +1,33 @@
 {
-  "generated_at": "2026-05-18T20:33:50.811218+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-05-19T00:25:55.112960+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 22,
+      "match_count": 9,
       "titles": [
         {
-          "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
-          "url": "https://www.cls.cn/detail/2373269",
+          "title": "丁薛祥：算力是国家综合国力的重要体现，要统筹布局、有序建设",
+          "url": "https://www.cls.cn/detail/2374423",
           "source": "财联社热门",
           "ranks": [
-            4,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 08时01分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
         },
         {
-          "title": "「游戏本」是否应该改名为「学术本」「工程本」「高性能本」等与游戏无关的名字？",
-          "url": "https://www.zhihu.com/question/667429963",
-          "source": "知乎",
+          "title": "国家统计局：4月份一线城市商品住宅销售价格环比上涨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33192383",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 08时01分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
         },
         {
           "title": "中国“逐日工程”研究取得重大进展",
@@ -37,221 +36,75 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时33分"
-        },
-        {
-          "title": "日本首相高市早苗：今天我出席了第三次“地区未来战略相关副大臣等会议”，听取了关于地区未来战略讨论情况的汇报。政府将与相关地方自治体保持紧密协作，战略性地产官形成17个战略领域增长基盘的产业集群。",
-          "url": "https://flash.jin10.com/detail/20260518201209043800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时33分"
+          "time_info": "00时25分"
         },
         {
           "title": "我国“逐日工程”研究取得重大进展 为太空筑起“无线充电站”奠定基础",
           "url": "https://www.cls.cn/detail/2374133",
           "source": "财联社热门",
           "ranks": [
-            4
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时33分"
-        },
-        {
-          "title": "广西柳州突发5.2级地震 有房屋倒塌",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E6%9F%B3%E5%B7%9E%E7%AA%81%E5%8F%915.2%E7%BA%A7%E5%9C%B0%E9%9C%87+%E6%9C%89%E6%88%BF%E5%B1%8B%E5%80%92%E5%A1%8C",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时59分 ~ 12时25分]"
-        },
-        {
-          "title": "国家统计局：4月份一线城市商品住宅销售价格环比上涨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33192383",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时25分 ~ 20时33分]"
-        },
-        {
-          "title": "丁薛祥：算力是国家综合国力的重要体现，要统筹布局、有序建设",
-          "url": "https://www.cls.cn/detail/2374423",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时33分"
-        },
-        {
-          "title": "女子求职被 HR 暗示「不接受潜规则就不录用」，招聘平台对入驻企业及 HR 的审核监管机制是否存在漏洞？",
-          "url": "https://www.zhihu.com/question/2038551313340953963",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时56分 ~ 08时01分]"
-        },
-        {
-          "title": "宁德时代与厦门市深化战略合作，加快零碳科技城建设与低空经济布局",
-          "url": "https://wallstreetcn.com/livenews/3104875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 03时20分]"
-        },
-        {
-          "title": "男子买房后去世 物业拒给家属钥匙",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B9%B0%E6%88%BF%E5%90%8E%E5%8E%BB%E4%B8%96+%E7%89%A9%E4%B8%9A%E6%8B%92%E7%BB%99%E5%AE%B6%E5%B1%9E%E9%92%A5%E5%8C%99",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
+          "time_info": "00时25分"
         },
         {
           "title": "长三角将迈入“超级地铁”时代，沪苏嘉城际铁路建设提速",
-          "url": "https://wallstreetcn.com/livenews/3104929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "英国5月Rightmove平均房屋要价指数环比 1.2%，前值 0.8%。",
-          "url": "https://wallstreetcn.com/livenews/3104928",
-          "source": "华尔街见闻-快讯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33143725",
+          "source": "澎湃新闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "青豫特高压工程累计输送电量突破1000亿千瓦时",
-          "url": "https://wallstreetcn.com/livenews/3105401",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时33分"
-        },
-        {
-          "title": "英国5月Rightmove平均房屋要价指数年率 -0.3%，前值-0.90%。",
-          "url": "https://flash.jin10.com/detail/20260518070301260800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "英国5月Rightmove平均房屋要价指数同比 -0.3%，前值 -0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3104927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "英国5月Rightmove平均房屋要价指数月率 1.2%，前值0.80%。",
-          "url": "https://flash.jin10.com/detail/20260518070239486800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "外媒：阿联酋加速管道建设，绕过霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3104925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "商务部：会同财政部安排20亿元资金，支持15个试点城市开展国际化消费环境建设",
-          "url": "https://wallstreetcn.com/livenews/3105259",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时46分"
+          "time_info": "00时25分"
         },
         {
           "title": "连云港自规局两次未核准一房企“建设工程规划许可证”申请：市政府认定违法，企业索赔二千万",
           "url": "https://m.thepaper.cn/newsDetail_forward_33163026",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时33分"
+          "time_info": "00时25分"
         },
         {
-          "title": "长虹美菱：子公司合肥实业暂缓投资建设智慧家电产业园项目",
-          "url": "https://flash.jin10.com/detail/20260518200408476800",
-          "source": "金十数据",
+          "title": "小区护栏刀片割伤男孩 物业态度嚣张",
+          "url": "https://www.toutiao.com/trending/7641075669105868819/",
+          "source": "今日头条",
           "ranks": [
-            19
+            16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时33分"
+          "time_info": "00时25分"
         },
         {
-          "title": "广州酒家：拟发行可转债募资不超过10亿元，用于食品制造基地产能扩充及技术改造项目、省外市场拓展及食品零售网络建设项目、集团数字化转型项目、新一代健康食品关键技术研发项目。",
-          "url": "https://wallstreetcn.com/livenews/3105372",
+          "title": "柳州地震倒塌房屋附近出现大坑",
+          "url": "https://www.baidu.com/s?wd=%E6%9F%B3%E5%B7%9E%E5%9C%B0%E9%9C%87%E5%80%92%E5%A1%8C%E6%88%BF%E5%B1%8B%E9%99%84%E8%BF%91%E5%87%BA%E7%8E%B0%E5%A4%A7%E5%9D%91",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "希捷股价大跌，CEO称建设新工厂将“耗时太长”",
+          "url": "https://wallstreetcn.com/livenews/3105492",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时33分"
+          "time_info": "00时25分"
         }
       ]
     }
