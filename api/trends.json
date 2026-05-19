@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T03:03:24.336937+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-05-20T05:21:49.313077+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "苹果新任硬件总监调整产品设计监管架构，引发高层大洗牌，涉及自研芯片工程",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 03时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 05时21分]"
         },
         {
           "title": "海南支持“一人公司” 最高奖800万",
@@ -36,11 +37,12 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 03时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 05时21分]"
         },
         {
           "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
@@ -51,8 +53,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 03时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 05时21分]"
         },
         {
           "title": "谷歌公司将根据许可协议招聘AI初创公司Contextual的员工。",
@@ -61,9 +63,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "美国一男子用霰弹枪对住宅门开火",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%94%B7%E5%AD%90%E7%94%A8%E9%9C%B0%E5%BC%B9%E6%9E%AA%E5%AF%B9%E4%BD%8F%E5%AE%85%E9%97%A8%E5%BC%80%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "福建一国企招聘被质疑“围岗”",
