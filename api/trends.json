@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T08:09:20.923093+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2026-05-19T13:03:42.084255+08:00",
+  "total_titles_processed": 882,
   "failed_sources": [],
   "trends": [
     {
@@ -41,6 +41,21 @@
           "time_info": "[00时25分 ~ 08时09分]"
         },
         {
+          "title": "连云港自规局两次未核准一房企“建设工程规划许可证”申请：市政府认定违法，企业索赔二千万",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33163026",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 13时03分]"
+        },
+        {
           "title": "我国“逐日工程”研究取得重大进展 为太空筑起“无线充电站”奠定基础",
           "url": "https://www.cls.cn/detail/2374133",
           "source": "财联社热门",
@@ -51,20 +66,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时25分 ~ 04时26分]"
-        },
-        {
-          "title": "连云港自规局两次未核准一房企“建设工程规划许可证”申请：市政府认定违法，企业索赔二千万",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33163026",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 08时09分]"
         },
         {
           "title": "英伟达CEO黄仁勋：未来十年内要跟上基础设施的建设速度将会非常困难。",
@@ -135,7 +136,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
