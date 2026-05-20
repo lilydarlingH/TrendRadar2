@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-05-20T07:04:48.615254+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2026-05-20T11:41:06.668689+08:00",
+  "total_titles_processed": 784,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33198546",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 11时41分]"
+        },
         {
           "title": "苹果新任硬件总监调整产品设计监管架构，引发高层大洗牌，涉及自研芯片工程",
           "url": "https://wallstreetcn.com/livenews/3106164",
@@ -47,17 +61,15 @@
           "time_info": "[00时22分 ~ 07时04分]"
         },
         {
-          "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33198546",
+          "title": "湖北恩施白水河村因暴雨致3死4失联，遇难者侄子：连夜从浙江开车赶回，房屋沿河已被冲毁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33199276",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            17,
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 07时04分]"
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 11时41分]"
         },
         {
           "title": "福建一国企招聘被质疑“围岗”",
