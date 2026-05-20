@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-20T19:03:14.645769+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2026-05-20T21:47:14.269648+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
+          "url": "https://news.ifeng.com/c/8tHSbfpek1w",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时02分 ~ 21时47分]"
+        },
         {
           "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
           "url": "https://m.thepaper.cn/newsDetail_forward_33198546",
@@ -20,17 +31,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时22分 ~ 15时45分]"
-        },
-        {
-          "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
-          "url": "https://news.ifeng.com/c/8tHSbfpek1w",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 19时03分]"
         },
         {
           "title": "首条钙钛矿太空光伏中试线落地未来科学城，今年8月投产",
@@ -50,7 +50,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -118,6 +118,17 @@
           "time_info": "[11时40分 ~ 15时45分]"
         },
         {
+          "title": "图忆｜三峡大坝主体工程建成20周年影像志",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33101837",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 21时47分]"
+        },
+        {
           "title": "福建一国企招聘被质疑“围岗”",
           "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E4%B8%80%E5%9B%BD%E4%BC%81%E6%8B%9B%E8%81%98%E8%A2%AB%E8%B4%A8%E7%96%91%E2%80%9C%E5%9B%B4%E5%B2%97%E2%80%9D",
           "source": "百度热搜",
@@ -169,7 +180,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -180,7 +191,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         }
