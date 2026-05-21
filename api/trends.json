@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T11:51:21.501339+08:00",
-  "total_titles_processed": 793,
+  "generated_at": "2026-05-21T15:56:30.266100+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
@@ -24,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 11时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 15时56分]"
         },
         {
           "title": "摩根大通CEO戴蒙：将招聘更多人AI人才，减少银行家人数。",
@@ -37,9 +38,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
+        },
+        {
+          "title": "女子酒后钻进锅炉房身亡物业赔28.6万",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%85%92%E5%90%8E%E9%92%BB%E8%BF%9B%E9%94%85%E7%82%89%E6%88%BF%E8%BA%AB%E4%BA%A1%E7%89%A9%E4%B8%9A%E8%B5%9428.6%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 15时56分]"
         },
         {
           "title": "女子酒后钻进锅炉房身亡物业赔28.6万",
@@ -48,17 +61,6 @@
           "ranks": [
             13,
             16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 11时51分]"
-        },
-        {
-          "title": "女子酒后钻进锅炉房身亡物业赔28.6万",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%85%92%E5%90%8E%E9%92%BB%E8%BF%9B%E9%94%85%E7%82%89%E6%88%BF%E8%BA%AB%E4%BA%A1%E7%89%A9%E4%B8%9A%E8%B5%9428.6%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -115,7 +117,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
         },
@@ -131,13 +133,24 @@
           "time_info": "11时50分"
         },
         {
+          "title": "特朗普来到白宫工地：请看我给美国的礼物，无人机撞上能弹开",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33203925",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
           "title": "据日经新闻：澳大利亚阿拉弗拉（Arafura）稀土项目将于9月开工建设。",
           "url": "https://flash.jin10.com/detail/20260521105751079800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
         }
