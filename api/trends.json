@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-05-23T21:28:44.731226+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2026-05-23T23:03:16.592719+08:00",
+  "total_titles_processed": 1334,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
       "match_count": 11,
       "titles": [
+        {
+          "title": "民营建筑巨头太平洋起诉广西贵港城管局案一审：一个违规PPP项目的善后困局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32820871",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时43分 ~ 23时03分]"
+        },
         {
           "title": "筑牢强国建设、民族复兴的文化根基",
           "url": "https://www.toutiao.com/trending/7642883971047063578/",
@@ -17,19 +31,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时33分 ~ 19时14分]"
-        },
-        {
-          "title": "民营建筑巨头太平洋起诉广西贵港城管局案一审：一个违规PPP项目的善后困局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32820871",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时43分 ~ 21时28分]"
         },
         {
           "title": "垮塌楼板砸中施工挖掘机 司机身亡",
@@ -43,6 +44,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时53分 ~ 08时16分]"
+        },
+        {
+          "title": "适老化改造变“敛财工程”，四川两地成立工作组调查督办",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33214687",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时13分 ~ 23时03分]"
         },
         {
           "title": "国家数据局：“数据要素×”行动推动数据基础设施建设运营加快",
@@ -69,18 +83,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时43分 ~ 17时56分]"
-        },
-        {
-          "title": "适老化改造变“敛财工程”，四川两地成立工作组调查督办",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33214687",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 21时28分]"
         },
         {
           "title": "国际货币基金组织（IMF）：如果放任不管，欧盟的公共债务将踏上一条不可持续的绝路。 在现有政策不作调整的路径下，到2040年，欧洲平均每个国家的债务规模将达到其GDP的130%——这几乎是今天水平的两倍。 为了阻止这一恶劣情景的发生，欧盟各国必须加大激励力度，促进劳动力在这一拥有27个成员国的经济集团内部自由流动以寻找工作，同时也应鼓励企业跨国招聘。 欧盟还应当深度整合其能源市场，打破壁垒，让各国民众的储蓄能够更顺畅地跨国流动、转化为高回报的投资，并致力于统一目前在各国之间往往大相径庭的法律法规。",
