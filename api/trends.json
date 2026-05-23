@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T12:43:27.904921+08:00",
-  "total_titles_processed": 760,
+  "generated_at": "2026-05-23T15:33:56.321230+08:00",
+  "total_titles_processed": 893,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "垮塌楼板砸中施工挖掘机 司机身亡",
@@ -21,26 +21,50 @@
           "time_info": "[01时53分 ~ 08时16分]"
         },
         {
+          "title": "国家数据局：“数据要素×”行动推动数据基础设施建设运营加快",
+          "url": "https://wallstreetcn.com/livenews/3108322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "筑牢强国建设、民族复兴的文化根基",
+          "url": "https://www.toutiao.com/trending/7642883971047063578/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
           "title": "我国对现有载人登月和无人探月从任务、资源、队伍3个方面进行整合，整合后统称为“月球探测工程”。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3108301",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 15时33分]"
         },
         {
           "title": "去年中国载人航天工程实施首次应急发射任务 为国际航天领域高效应对突发事件提供成功范例",
           "url": "https://wallstreetcn.com/livenews/3108296",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 15时33分]"
         },
         {
           "title": "民营建筑巨头太平洋起诉广西贵港城管局案一审：一个违规PPP项目的善后困局",
@@ -49,9 +73,20 @@
           "ranks": [
             15
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 15时33分]"
+        },
+        {
+          "title": "国家数据局：“数据要素×”行动推动数据基础设施建设运营加快",
+          "url": "https://flash.jin10.com/detail/20260523141147871800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时43分"
+          "time_info": "15时33分"
         },
         {
           "title": "我国对现有载人登月和无人探月从任务、资源、队伍3个方面进行整合，整合后统称为“月球探测工程”。",
@@ -60,7 +95,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -71,7 +106,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         }
