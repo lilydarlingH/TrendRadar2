@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T15:51:07.078059+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2026-05-24T17:57:15.359022+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "民营建筑巨头太平洋起诉广西贵港城管局案一审：一个违规PPP项目的善后困局",
@@ -18,6 +18,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时02分 ~ 08时01分]"
+        },
+        {
+          "title": "国家电网公司：加快迎峰度夏重点工程建设",
+          "url": "https://flash.jin10.com/detail/20260524171112347800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "大金重工：与荷兰船东签署约10.69亿元船舶建造合同",
+          "url": "https://flash.jin10.com/detail/20260524161613490800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         }
       ]
     }
