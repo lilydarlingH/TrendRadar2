@@ -1,69 +1,22 @@
 {
-  "generated_at": "2026-05-24T23:06:47.725608+08:00",
-  "total_titles_processed": 1275,
+  "generated_at": "2026-05-25T01:04:39.035521+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "民营建筑巨头太平洋起诉广西贵港城管局案一审：一个违规PPP项目的善后困局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32820871",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 08时01分]"
-        },
         {
           "title": "武契奇到访长城：了不起的建造",
           "url": "https://www.toutiao.com/trending/7641939137745997318/",
           "source": "今日头条",
           "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时28分 ~ 23时06分]"
-        },
-        {
-          "title": "国家电网公司：加快迎峰度夏重点工程建设",
-          "url": "https://flash.jin10.com/detail/20260524171112347800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 19时19分]"
-        },
-        {
-          "title": "大金重工：与荷兰船东签署约10.69亿元船舶建造合同",
-          "url": "https://flash.jin10.com/detail/20260524161613490800",
-          "source": "金十数据",
-          "ranks": [
-            21
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "马斯克放弃地面太阳能转向太空光伏",
-          "url": "https://www.toutiao.com/trending/7643348326833720868/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时19分"
+          "time_info": "01时04分"
         }
       ]
     }
