@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T03:20:15.629102+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-05-25T04:58:38.948685+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "武契奇到访长城：了不起的建造",
@@ -16,8 +16,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 03时20分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时58分]"
+        },
+        {
+          "title": "从图书馆到滨江道，浦东如何赋能国际人才发展引领区建设",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33223822",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时58分"
         }
       ]
     }
