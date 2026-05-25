@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T05:08:57.840714+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2026-05-26T07:04:52.524090+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 05时08分]"
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 07时04分]"
         },
         {
           "title": "为什么很多办公室要挂「厚德载物」「宁静致远」「天道酬勤」这类书法装饰？",
@@ -26,22 +26,24 @@
           "ranks": [
             13,
             3,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 05时08分]"
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 07时04分]"
         },
         {
           "title": "老板没有给你任何通知，直接让主管招聘你这个岗位，招不到人又装作若无其事，让你继续干活，要辞职吗？",
           "url": "https://www.zhihu.com/question/2037885755960338369",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时08分 ~ 07时04分]"
         }
       ]
     }
