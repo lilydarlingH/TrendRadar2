@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T20:33:55.755363+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2026-05-25T23:53:09.326873+08:00",
+  "total_titles_processed": 1261,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "武契奇到访长城：了不起的建造",
@@ -59,6 +59,17 @@
           "time_info": "[06时01分 ~ 07时06分]"
         },
         {
+          "title": "为什么很多办公室要挂「厚德载物」「宁静致远」「天道酬勤」这类书法装饰？",
+          "url": "https://www.zhihu.com/question/531070872",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时52分 ~ 23时53分]"
+        },
+        {
           "title": "金十数据整理：每日房地产行业动态汇总（2026-05-25）",
           "url": "https://flash.jin10.com/detail/20260525154540910800",
           "source": "金十数据",
@@ -76,7 +87,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
