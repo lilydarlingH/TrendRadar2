@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T07:06:21.022144+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-05-25T11:56:42.360864+08:00",
+  "total_titles_processed": 706,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "武契奇到访长城：了不起的建造",
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             8,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 07时06分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 11时56分]"
         },
         {
           "title": "从图书馆到滨江道，浦东如何赋能国际人才发展引领区建设",
@@ -29,8 +30,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时58分 ~ 07时06分]"
+          "appearance_count": 5,
+          "time_info": "[04时58分 ~ 11时56分]"
         },
         {
           "title": "美国国务卿鲁比奥：美国坚定支持黎巴嫩合法政府，帮助其恢复权威，建设更美好的未来。真主党的暴力威胁和推翻行为绝不允许成功。一个恐怖组织绑架整个国家的时代即将结束。",
@@ -43,6 +44,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 07时06分]"
+        },
+        {
+          "title": "券商晨会精华：看好AI产业链与算力网建设",
+          "url": "https://www.cls.cn/detail/2380227",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         }
       ]
     }
