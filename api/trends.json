@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T15:51:46.531122+08:00",
-  "total_titles_processed": 902,
+  "generated_at": "2026-05-26T23:33:29.977968+08:00",
+  "total_titles_processed": 1146,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "中国工程院撤销张尧学院士称号",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时45分 ~ 07时04分]"
+        },
+        {
+          "title": "于东来称胖东来将建小区，会公开建筑设计用材、质量水平和费用，跨界地产是出于怎样的商业考量？你看好吗？",
+          "url": "https://www.zhihu.com/question/2042235448982860479",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时51分 ~ 23时33分]"
         },
         {
           "title": "为什么很多办公室要挂「厚德载物」「宁静致远」「天道酬勤」这类书法装饰？",
@@ -34,24 +45,13 @@
           "time_info": "[01时45分 ~ 07时04分]"
         },
         {
-          "title": "于东来称胖东来将建小区，会公开建筑设计用材、质量水平和费用，跨界地产是出于怎样的商业考量？你看好吗？",
-          "url": "https://www.zhihu.com/question/2042235448982860479",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时51分"
-        },
-        {
           "title": "工地大哥赊1碗面后连吃100天表谢意",
           "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E5%9C%B0%E5%A4%A7%E5%93%A5%E8%B5%8A1%E7%A2%97%E9%9D%A2%E5%90%8E%E8%BF%9E%E5%90%83100%E5%A4%A9%E8%A1%A8%E8%B0%A2%E6%84%8F",
           "source": "百度热搜",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         },
@@ -75,7 +75,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         },
@@ -86,7 +86,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         },
@@ -97,7 +97,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         },
@@ -122,6 +122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
+        },
+        {
+          "title": "电梯变水帘洞 男子手抖到拿不住手机",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E6%A2%AF%E5%8F%98%E6%B0%B4%E5%B8%98%E6%B4%9E+%E7%94%B7%E5%AD%90%E6%89%8B%E6%8A%96%E5%88%B0%E6%8B%BF%E4%B8%8D%E4%BD%8F%E6%89%8B%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         }
       ]
     }
