@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T00:39:29.862102+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-05-28T03:27:22.547426+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33242002",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 03时27分]"
         },
         {
           "title": "深圳一住宅起火 宠物猫叫醒全家逃生",
           "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E4%BD%8F%E5%AE%85%E8%B5%B7%E7%81%AB+%E5%AE%A0%E7%89%A9%E7%8C%AB%E5%8F%AB%E9%86%92%E5%85%A8%E5%AE%B6%E9%80%83%E7%94%9F",
           "source": "百度热搜",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 03时27分]"
         },
         {
           "title": "李强：加快建设大宗商品资源配置枢纽 为统筹发展和安全提供可靠保障",
@@ -37,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 03时27分]"
         }
       ]
     }
