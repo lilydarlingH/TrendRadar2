@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T02:41:45.645137+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-05-29T05:10:53.088698+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 05时10分]"
         },
         {
           "title": "西安一水电工发视频讨薪被诉名誉侵权，一审胜诉",
@@ -26,8 +26,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 05时10分]"
         },
         {
           "title": "高校招聘要求配偶为本校在职博士",
@@ -37,8 +37,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 05时10分]"
         }
       ]
     }
