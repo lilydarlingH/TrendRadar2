@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T02:35:25.569991+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-05-30T05:09:52.998139+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 05时09分]"
         },
         {
           "title": "77栋建筑被锁定！缅甸大规模清剿电诈园区(图)",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 05时09分]"
         },
         {
           "title": "国务院国资委主任张玉卓履新工程院党组书记",
@@ -37,8 +37,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 05时09分]"
         }
       ]
     }
