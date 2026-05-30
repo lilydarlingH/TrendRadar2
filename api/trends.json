@@ -1,22 +1,45 @@
 {
-  "generated_at": "2026-05-31T01:07:53.120005+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-05-31T03:18:55.197509+08:00",
+  "total_titles_processed": 370,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "软银承诺投资750亿欧元在法国建设欧洲最大的人工智能设施",
+          "url": "https://flash.jin10.com/detail/20260531031045565800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "据英国金融时报：软银承诺投资750亿欧元在法国建设欧洲最大的人工智能设施。",
+          "url": "https://flash.jin10.com/detail/20260531024909031800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
         {
           "title": "住宅变“网约房” 邻居有权反对吗",
           "url": "https://www.baidu.com/s?wd=%E4%BD%8F%E5%AE%85%E5%8F%98%E2%80%9C%E7%BD%91%E7%BA%A6%E6%88%BF%E2%80%9D+%E9%82%BB%E5%B1%85%E6%9C%89%E6%9D%83%E5%8F%8D%E5%AF%B9%E5%90%97",
           "source": "百度热搜",
           "ranks": [
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时18分]"
         },
         {
           "title": "美防长：美中建设性战略稳定关系对亚太及世界和平至关重要",
@@ -26,8 +49,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时18分]"
         }
       ]
     }
