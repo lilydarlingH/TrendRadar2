@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T11:32:41.680225+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2026-05-30T14:47:37.290875+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "国务院国资委主任张玉卓履新工程院党组书记",
@@ -14,11 +14,12 @@
           "ranks": [
             16,
             15,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时35分 ~ 11时32分]"
+          "appearance_count": 5,
+          "time_info": "[02时35分 ~ 14时47分]"
         },
         {
           "title": "【焦点复盘】科创50指数放量跌超5%，半导体产业链遭深幅回调，地产产业链逆势大涨",
@@ -61,7 +62,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -72,9 +73,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "64岁张玉卓履新中国工程院党组书记，曾掌舵全球最大煤炭和炼油央企",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33267954",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         }
       ]
     }
