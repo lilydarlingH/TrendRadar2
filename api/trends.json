@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T06:09:40.915585+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-05-31T08:03:28.423431+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时09分]"
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 08时03分]"
         },
         {
           "title": "国际原子能机构：已获悉扎波罗热核电站今日发生无人机袭击，目标为该站的涡轮机建筑。",
@@ -25,11 +26,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时09分]"
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 08时03分]"
         },
         {
           "title": "报道：软银承诺投资750亿欧元在法国建设AI设施，总规模5 GW",
@@ -37,37 +39,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时09分]"
-        },
-        {
-          "title": "软银承诺投资750亿欧元在法国建设欧洲最大的人工智能设施",
-          "url": "https://flash.jin10.com/detail/20260531031045565800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            13,
-            16
+            5,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时18分 ~ 06时09分]"
-        },
-        {
-          "title": "据英国金融时报：软银承诺投资750亿欧元在法国建设欧洲最大的人工智能设施。",
-          "url": "https://flash.jin10.com/detail/20260531024909031800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 06时09分]"
+          "time_info": "[05时01分 ~ 08时03分]"
         },
         {
           "title": "住宅变“网约房” 邻居有权反对吗",
@@ -76,11 +53,40 @@
           "ranks": [
             16,
             20,
-            29
+            29,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 08时03分]"
+        },
+        {
+          "title": "软银承诺投资750亿欧元在法国建设欧洲最大的人工智能设施",
+          "url": "https://flash.jin10.com/detail/20260531031045565800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13,
+            16,
+            17
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时07分 ~ 05时01分]"
+          "time_info": "[03时18分 ~ 08时03分]"
+        },
+        {
+          "title": "据英国金融时报：软银承诺投资750亿欧元在法国建设欧洲最大的人工智能设施。",
+          "url": "https://flash.jin10.com/detail/20260531024909031800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时18分 ~ 08时03分]"
         },
         {
           "title": "美防长：美中建设性战略稳定关系对亚太及世界和平至关重要",
