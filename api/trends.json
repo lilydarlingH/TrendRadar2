@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T17:09:49.240021+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2026-06-02T22:05:49.997403+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "贵州大学通报“招聘被指萝卜岗”：报考条件设置不当，招聘终止",
@@ -48,7 +48,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -59,7 +59,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -133,6 +133,28 @@
           "time_info": "[12时04分 ~ 12时05分]"
         },
         {
+          "title": "上汽集团将在西班牙建设其欧洲首家电动汽车工厂",
+          "url": "https://wallstreetcn.com/livenews/3113125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
+          "title": "与马斯克有关联的WIT TECH LLC在计划建设芯片工厂之前已收购得克萨斯州6000英亩的土地。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3113124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
           "title": "协鑫集团董事长朱共山：单一光伏制造企业的概念或许会消失",
           "url": "https://wallstreetcn.com/livenews/3112791",
           "source": "华尔街见闻-快讯",
@@ -142,6 +164,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
+        },
+        {
+          "title": "阿布扎比国家石油公司计划建设一条绕过霍尔木兹海峡的石油产品管道。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3113119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         },
         {
           "title": "工信部：公开征求《边缘用户平面功能（UPF）内置的防火墙功能模块技术要求》等64项通信行业标准报批意见的公示，公示时间：2026年6月3日—2026年7月2日。",
@@ -161,7 +194,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -172,7 +205,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         }
