@@ -1,34 +1,12 @@
 {
-  "generated_at": "2026-06-03T22:41:36.066396+08:00",
-  "total_titles_processed": 1129,
+  "generated_at": "2026-06-04T02:45:55.827247+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 14,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "贸易强国建设稳步推进",
-          "url": "https://www.toutiao.com/trending/7646768512652361755/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
-        },
-        {
-          "title": "美国纽约州议员即将批准暂停数据中心建设",
-          "url": "https://wallstreetcn.com/livenews/3113232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
         {
           "title": "中国“水上电梯”创造多个世界第一",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E6%B0%B4%E4%B8%8A%E7%94%B5%E6%A2%AF%E2%80%9D%E5%88%9B%E9%80%A0%E5%A4%9A%E4%B8%AA%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80",
@@ -36,42 +14,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
-          "title": "数说世纪工程的硬核之最",
-          "url": "https://www.douyin.com/hot/2522392",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "男子买34层住宅收房时发现只建32层",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E4%B9%B034%E5%B1%82%E4%BD%8F%E5%AE%85%E6%94%B6%E6%88%BF%E6%97%B6%E5%8F%91%E7%8E%B0%E5%8F%AA%E5%BB%BA32%E5%B1%82",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "地产商治国？“小特朗普”将任代理国家情报总监",
-          "url": "https://news.ifeng.com/c/8teUlNkkPvO",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
+          "time_info": "02时45分"
         },
         {
           "title": "特朗普任命房屋监管主管兼任情报总监",
@@ -80,57 +25,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
-          "title": "中国水上电梯创造多个世界第一",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%B0%B4%E4%B8%8A%E7%94%B5%E6%A2%AF%E5%88%9B%E9%80%A0%E5%A4%9A%E4%B8%AA%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 22时41分]"
-        },
-        {
-          "title": "老宅被亲戚偷装光伏板女子崩溃痛哭",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E5%AE%85%E8%A2%AB%E4%BA%B2%E6%88%9A%E5%81%B7%E8%A3%85%E5%85%89%E4%BC%8F%E6%9D%BF%E5%A5%B3%E5%AD%90%E5%B4%A9%E6%BA%83%E7%97%9B%E5%93%AD%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            14,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 07时47分]"
-        },
-        {
-          "title": "贵州大学招聘要求配偶为优秀博士被指「萝卜岗」后终止，高校照顾家属，人情与公平如何平衡？",
-          "url": "https://www.zhihu.com/question/2044768845597082439",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时27分"
+          "time_info": "02时45分"
         },
         {
-          "title": "优步（Uber）在包括人力资源、招聘等业务的部门裁员23%，以简化团队结构。",
-          "url": "https://wallstreetcn.com/livenews/3113856",
+          "title": "【以军总参谋长称军队在黎巴嫩“没有停火可言”】当地时间3日，以色列国防军总参谋长扎米尔在视察海法海军基地时表示，以军在黎巴嫩“没有停火可言”，并称以军已准备好随时恢复针对伊朗的战斗。扎米尔称，以色列海军正成为以色列军队的“另一支远程战略力量”。他表示，自就任以来，他就指示要加强海军作为远程战略力量的建设，目前以军正在加速落实这一作战理念。针对伊朗问题，扎米尔补充说，以色列国防军的所有军种都已准备好，随时可以恢复针对伊朗的战斗。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3113969",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时41分"
+          "time_info": "02时45分"
         },
         {
           "title": "男子买34层住宅收房时发现只建到32层",
@@ -141,29 +49,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时27分"
+          "time_info": "02时45分"
         },
         {
-          "title": "光伏企业集体转型综合能源服务商，算电协同成争夺重地",
-          "url": "https://wallstreetcn.com/livenews/3113326",
-          "source": "华尔街见闻-快讯",
+          "title": "中国水上电梯创造多个世界第一",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%B0%B4%E4%B8%8A%E7%94%B5%E6%A2%AF%E5%88%9B%E9%80%A0%E5%A4%9A%E4%B8%AA%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80",
+          "source": "bilibili 热搜",
           "ranks": [
-            14
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时47分"
-        },
-        {
-          "title": "澳大利亚5月AIG建筑业表现指数 -9.9，前值-19.3。",
-          "url": "https://flash.jin10.com/detail/20260603070002418800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时47分"
+          "time_info": "02时45分"
         }
       ]
     }
