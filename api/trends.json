@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T02:45:55.827247+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-04T05:51:50.903979+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "中国“水上电梯”创造多个世界第一",
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时45分"
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 05时51分]"
         },
         {
           "title": "特朗普任命房屋监管主管兼任情报总监",
           "url": "https://news.ifeng.com/c/8tetwuxA0Fy",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时45分"
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 05时51分]"
         },
         {
           "title": "【以军总参谋长称军队在黎巴嫩“没有停火可言”】当地时间3日，以色列国防军总参谋长扎米尔在视察海法海军基地时表示，以军在黎巴嫩“没有停火可言”，并称以军已准备好随时恢复针对伊朗的战斗。扎米尔称，以色列海军正成为以色列军队的“另一支远程战略力量”。他表示，自就任以来，他就指示要加强海军作为远程战略力量的建设，目前以军正在加速落实这一作战理念。针对伊朗问题，扎米尔补充说，以色列国防军的所有军种都已准备好，随时可以恢复针对伊朗的战斗。（央视）",
@@ -45,11 +46,12 @@
           "url": "https://www.toutiao.com/trending/7646942010062307371/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时45分"
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 05时51分]"
         },
         {
           "title": "中国水上电梯创造多个世界第一",
@@ -59,8 +61,19 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 05时51分]"
+        },
+        {
+          "title": "特朗普计划拨款数亿美元，力推煤电厂建设及出口设施项目",
+          "url": "https://flash.jin10.com/detail/20260604044623532800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时45分"
+          "time_info": "05时51分"
         }
       ]
     }
