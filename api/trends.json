@@ -1,106 +1,33 @@
 {
-  "generated_at": "2026-06-04T23:18:33.247248+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-06-05T02:18:12.708467+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 19,
+      "match_count": 4,
       "titles": [
         {
-          "title": "中国“水上电梯”创造多个世界第一",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E6%B0%B4%E4%B8%8A%E7%94%B5%E6%A2%AF%E2%80%9D%E5%88%9B%E9%80%A0%E5%A4%9A%E4%B8%AA%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80",
-          "source": "百度热搜",
+          "title": "女童困电梯求救,保安冷眼旁观",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354875&amp;topic_name=%E5%A5%B3%E7%AB%A5%E5%9B%B0%E7%94%B5%E6%A2%AF%E6%B1%82%E6%95%91%2C%E4%BF%9D%E5%AE%89%E5%86%B7%E7%9C%BC%E6%97%81%E8%A7%82",
+          "source": "贴吧",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时45分 ~ 07时46分]"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 02时18分]"
         },
         {
-          "title": "经纬度：平陆运河全线通水，大国水网再添标志性工程",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33299669",
-          "source": "澎湃新闻",
+          "title": "贵州一小区称考上清北终身免物业费",
+          "url": "https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%A7%B0%E8%80%83%E4%B8%8A%E6%B8%85%E5%8C%97%E7%BB%88%E8%BA%AB%E5%85%8D%E7%89%A9%E4%B8%9A%E8%B4%B9",
+          "source": "百度热搜",
           "ranks": [
-            20,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时46分 ~ 19时56分]"
-        },
-        {
-          "title": "特朗普任命房屋监管主管兼任情报总监",
-          "url": "https://news.ifeng.com/c/8tetwuxA0Fy",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时45分 ~ 05时51分]"
-        },
-        {
-          "title": "英国5月建筑业PMI 38.2，预期 40.5，前值 39.7。",
-          "url": "https://wallstreetcn.com/livenews/3114309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时50分"
-        },
-        {
-          "title": "【以军总参谋长称军队在黎巴嫩“没有停火可言”】当地时间3日，以色列国防军总参谋长扎米尔在视察海法海军基地时表示，以军在黎巴嫩“没有停火可言”，并称以军已准备好随时恢复针对伊朗的战斗。扎米尔称，以色列海军正成为以色列军队的“另一支远程战略力量”。他表示，自就任以来，他就指示要加强海军作为远程战略力量的建设，目前以军正在加速落实这一作战理念。针对伊朗问题，扎米尔补充说，以色列国防军的所有军种都已准备好，随时可以恢复针对伊朗的战斗。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3113969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时45分"
-        },
-        {
-          "title": "中国水上电梯创造多个世界第一",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%B0%B4%E4%B8%8A%E7%94%B5%E6%A2%AF%E5%88%9B%E9%80%A0%E5%A4%9A%E4%B8%AA%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时45分 ~ 12时07分]"
-        },
-        {
-          "title": "男子买34层住宅收房时发现只建到32层",
-          "url": "https://www.toutiao.com/trending/7646942010062307371/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时45分 ~ 07时46分]"
-        },
-        {
-          "title": "中国汽车工程学会：预计2030年新能源车型在乘用车新车销量中占比超七成",
-          "url": "https://wallstreetcn.com/livenews/3114409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时56分"
+          "time_info": "[02时17分 ~ 02时18分]"
         },
         {
           "title": "外卖员送餐期间在小区电梯排泄，物业：已消杀，警方已介入",
@@ -109,119 +36,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "博盈特焊：越南生产基地首套HRSG产品已于2026年5月30日交付，二期4条生产线还在建设中。",
-          "url": "https://flash.jin10.com/detail/20260604115058387800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 02时18分]"
         },
         {
-          "title": "深圳：要在新型基础设施规划建设上谋项目强投资，加快算力网、新一代通信网等建设",
-          "url": "https://wallstreetcn.com/livenews/3114402",
+          "title": "谷歌公司：与Intersect在美国得州建设Meitner Energy Center。 其中，一个新数据中心的电力供应将来自Gray County和Roberts County。",
+          "url": "https://wallstreetcn.com/livenews/3114563",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时56分"
-        },
-        {
-          "title": "太空光伏产品“抢镜”SNEC展览会，钙钛矿叠层技术成企业押注方向",
-          "url": "https://wallstreetcn.com/livenews/3114052",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "6月3日凌晨，潍宿高铁至青岛连接线重点控制性工程——跨齐长城连续梁顺利合龙。",
-          "url": "https://flash.jin10.com/detail/20260604065456960800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "业主与物业争执被骂“住不起就滚”",
-          "url": "https://www.toutiao.com/trending/7646650193349492745/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时50分"
-        },
-        {
-          "title": "警方介入外卖员在小区电梯排泄事件",
-          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%E5%A4%96%E5%8D%96%E5%91%98%E5%9C%A8%E5%B0%8F%E5%8C%BA%E7%94%B5%E6%A2%AF%E6%8E%92%E6%B3%84%E4%BA%8B%E4%BB%B6",
-          "source": "百度热搜",
           "ranks": [
             16
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时56分"
-        },
-        {
-          "title": "苏州甪直镇房屋发生爆炸并着火，周边商户：附近有商铺玻璃被震碎",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33300136",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时50分"
-        },
-        {
-          "title": "金十数据整理：每日房地产行业动态汇总（2026-06-04）",
-          "url": "https://flash.jin10.com/detail/20260604160213205800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时50分"
-        },
-        {
-          "title": "特朗普计划拨款数亿美元，力推煤电厂建设及出口设施项目",
-          "url": "https://flash.jin10.com/detail/20260604044623532800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        },
-        {
-          "title": "贵州一小区称考上清北终身免物业费",
-          "url": "https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%A7%B0%E8%80%83%E4%B8%8A%E6%B8%85%E5%8C%97%E7%BB%88%E8%BA%AB%E5%85%8D%E7%89%A9%E4%B8%9A%E8%B4%B9",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时18分"
+          "time_info": "02时18分"
         }
       ]
     }
