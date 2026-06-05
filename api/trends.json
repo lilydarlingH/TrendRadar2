@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T05:29:30.163211+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-06-06T07:12:06.793330+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 05时29分]"
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 07时12分]"
         },
         {
           "title": "女童困电梯求救,保安冷眼旁观",
@@ -26,8 +26,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 05时29分]"
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 07时12分]"
         },
         {
           "title": "37 岁工程师猝死时工作群仍在派活，生前常加班至凌晨，这种「停不下来」的死循环，究竟是谁在按下加速键？",
@@ -48,7 +48,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
