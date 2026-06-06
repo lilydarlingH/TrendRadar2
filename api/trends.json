@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T17:28:21.225272+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2026-06-06T19:29:08.590935+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             14,
             19,
             22,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时57分 ~ 17时28分]"
+          "appearance_count": 12,
+          "time_info": "[01时57分 ~ 19时29分]"
         },
         {
           "title": "湘雅二医院逾8亿元工程招标疑云：首次公示前六家单位落选，第八名“逆袭”中标",
@@ -31,6 +32,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时57分 ~ 07时12分]"
+        },
+        {
+          "title": "吴清最新定调！加快建设一流投资机构，四大方向清晰了",
+          "url": "https://www.cls.cn/detail/2392651",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 19时29分]"
         },
         {
           "title": "湘雅二医院超8亿项目招标第8名中标",
@@ -54,17 +67,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时36分 ~ 14时55分]"
-        },
-        {
-          "title": "吴清最新定调！加快建设一流投资机构，四大方向清晰了",
-          "url": "https://www.cls.cn/detail/2392651",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 17时28分]"
         },
         {
           "title": "37 岁工程师猝死时工作群仍在派活，生前常加班至凌晨，这种「停不下来」的死循环，究竟是谁在按下加速键？",
