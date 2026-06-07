@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T03:25:16.340131+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-06-08T05:15:17.661427+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,12 @@
           "url": "https://www.cls.cn/detail/2392651",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 03时25分]"
-        },
-        {
-          "title": "官方拟规定 9 种情形可提取公积金，新增装修、支付物业费等，将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2046366435539260174",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时15分]"
         },
         {
           "title": "我国逐日工程取得新突破",
@@ -35,7 +25,19 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            2
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时15分]"
+        },
+        {
+          "title": "官方拟规定 9 种情形可提取公积金，新增装修、支付物业费等，将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2046366435539260174",
+          "source": "知乎",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
