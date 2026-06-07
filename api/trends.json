@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T01:18:45.739491+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-08T03:25:16.340131+08:00",
+  "total_titles_processed": 383,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 03时25分]"
         },
         {
           "title": "官方拟规定 9 种情形可提取公积金，新增装修、支付物业费等，将带来哪些影响？",
@@ -26,19 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 03时25分]"
         },
         {
           "title": "我国逐日工程取得新突破",
           "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%9B%BD%E9%80%90%E6%97%A5%E5%B7%A5%E7%A8%8B%E5%8F%96%E5%BE%97%E6%96%B0%E7%AA%81%E7%A0%B4",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 03时25分]"
         }
       ]
     }
