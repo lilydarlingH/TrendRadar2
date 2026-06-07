@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T16:25:16.281261+08:00",
-  "total_titles_processed": 819,
+  "generated_at": "2026-06-07T19:11:12.016293+08:00",
+  "total_titles_processed": 959,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时17分 ~ 16时25分]"
+          "appearance_count": 11,
+          "time_info": "[01时17分 ~ 19时11分]"
         },
         {
           "title": "吴清最新定调！加快建设一流投资机构，四大方向清晰了",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时17分 ~ 16时25分]"
+          "appearance_count": 11,
+          "time_info": "[01时17分 ~ 19时11分]"
         },
         {
           "title": "湘雅二医院逾 8 亿元工程现招标疑云，首次公示前六家单位落选，第八名「逆袭」中标，究竟是怎么回事？",
@@ -60,11 +60,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 16时25分]"
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 19时11分]"
         },
         {
           "title": "官方拟规定 9 种情形可提取公积金，新增装修、支付物业费等，将带来哪些影响？",
@@ -74,8 +75,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 16时25分]"
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 19时11分]"
         },
         {
           "title": "湖南针对“湘雅二院招标有关问题”成立调查组",
