@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T06:29:00.493578+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-06-09T08:09:01.332133+08:00",
+  "total_titles_processed": 579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "住房公积金管理条例修订征求意见，新增装修、物业费等用途，并允许灵活就业人员自愿缴存，如何解读？",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时55分 ~ 06时29分]"
+          "appearance_count": 7,
+          "time_info": "[01时55分 ~ 08时09分]"
         },
         {
           "title": "直击菲律宾7.9级强震：路边大型建筑轰然倒塌",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时55分 ~ 06时29分]"
+          "appearance_count": 7,
+          "time_info": "[01时55分 ~ 08时09分]"
         },
         {
           "title": "胜宏科技回应董事长电梯视频传闻",
@@ -37,11 +37,37 @@
           "ranks": [
             28,
             26,
-            24
+            24,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时55分 ~ 08时09分]"
+        },
+        {
+          "title": "高层住宅未来是不是垃圾资产？",
+          "url": "https://www.zhihu.com/question/1970866161697690581",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17,
+            19
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时55分 ~ 06时29分]"
+          "time_info": "[01时55分 ~ 08时09分]"
+        },
+        {
+          "title": "胜宏科技董事长“电梯门”事件",
+          "url": "https://www.douyin.com/hot/2527170",
+          "source": "抖音",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时28分 ~ 08时09分]"
         },
         {
           "title": "胜宏科技“电梯门”风波影响几何",
@@ -56,27 +82,15 @@
           "time_info": "[01时55分 ~ 04时21分]"
         },
         {
-          "title": "高层住宅未来是不是垃圾资产？",
-          "url": "https://www.zhihu.com/question/1970866161697690581",
+          "title": "3300 亿市值胜宏科技董事长被曝电梯亲密视频，公司称与生产经营无关，如何评价？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2047261881392422944",
           "source": "知乎",
           "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 06时29分]"
-        },
-        {
-          "title": "胜宏科技董事长“电梯门”事件",
-          "url": "https://www.douyin.com/hot/2527170",
-          "source": "抖音",
-          "ranks": [
-            19
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时28分 ~ 06时29分]"
+          "time_info": "[08时08分 ~ 08时09分]"
         },
         {
           "title": "工地小伙用水泥自制器材坚持健身",
@@ -96,7 +110,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         }
