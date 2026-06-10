@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T01:59:16.872728+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-11T04:38:37.178955+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 04时38分]"
         },
         {
           "title": "多个投资人入局 “光伏组件第一股”*ST亿晶预重整迎关键节点|速读公告",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 04时38分]"
         },
         {
           "title": "光伏龙头股突然绝地反攻，强制性能耗能效标准或于近期出台？",
@@ -37,8 +37,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 04时38分]"
         }
       ]
     }
