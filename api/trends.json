@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T06:53:31.864529+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-06-11T08:17:56.032893+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 06时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时58分 ~ 08时17分]"
         },
         {
           "title": "多个投资人入局 “光伏组件第一股”*ST亿晶预重整迎关键节点|速读公告",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 06时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时58分 ~ 08时17分]"
         },
         {
           "title": "光伏龙头股突然绝地反攻，强制性能耗能效标准或于近期出台？",
@@ -39,8 +39,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 04时38分]"
+          "appearance_count": 4,
+          "time_info": "[01时58分 ~ 08时17分]"
         },
         {
           "title": "OpenAI与甲骨文构建合作伙伴关系。 双方将围绕面向OCI（甲骨文云基础设施建设）客户的Codex进行合作。",
@@ -49,7 +49,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         },
@@ -60,7 +60,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         }
