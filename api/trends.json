@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T05:47:10.446074+08:00",
-  "total_titles_processed": 521,
+  "generated_at": "2026-06-13T07:19:34.540372+08:00",
+  "total_titles_processed": 558,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             4,
             2,
             10,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 07时19分]"
         },
         {
           "title": "物业私改线路从酒店偷电一年半",
