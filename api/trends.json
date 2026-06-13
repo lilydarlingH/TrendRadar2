@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T07:19:34.540372+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-06-13T11:52:57.621641+08:00",
+  "total_titles_processed": 757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "穿洞洞鞋记得坐垂直电梯",
@@ -32,6 +32,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时46分 ~ 05时47分]"
+        },
+        {
+          "title": "网传一大厂裁员后 bug 无人修复，靠虚假招聘骗修复方案，如何看待这一操作？",
+          "url": "https://www.zhihu.com/question/2047628590754133157",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
         },
         {
           "title": "波音(BA.N)：经过评估，公司认为T-7A教练机无法满足美国海军本科喷气机训练系统的需求。公司已通知美国海军，将不会参与当前招标请求的竞标。",
