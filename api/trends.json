@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T05:18:40.496096+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-06-14T07:07:03.104854+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时07分]"
         },
         {
           "title": "投资772亿工程开工仪式不到15分钟",
@@ -25,11 +25,12 @@
           "ranks": [
             18,
             9,
-            6
+            6,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时07分]"
         },
         {
           "title": "四川多地烈士陵园办公室招聘系谣言",
@@ -39,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 07时07分]"
         },
         {
           "title": "网传一大厂裁员后 bug 无人修复，靠虚假招聘骗修复方案，如何看待这一操作？",
@@ -48,11 +49,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 05时18分]"
+          "appearance_count": 4,
+          "time_info": "[03时28分 ~ 07时07分]"
         },
         {
           "title": "史上最大IPO是造梦摇篮还是烂尾工程",
