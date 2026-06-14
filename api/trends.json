@@ -1,188 +1,44 @@
 {
-  "generated_at": "2026-06-14T22:06:08.467900+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2026-06-15T00:24:18.536670+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 15,
+      "match_count": 3,
       "titles": [
         {
           "title": "女子考编第一被低分者顶替，维权后岗位取消，相关部门立案调查，为何会出现这一情况？招聘公平性如何保障？",
           "url": "https://www.zhihu.com/question/2049225127036990849",
           "source": "知乎",
           "ranks": [
-            10,
-            4,
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时11分 ~ 22时06分]"
-        },
-        {
-          "title": "特朗普姓名被从肯尼迪中心外墙移除",
-          "url": "https://news.ifeng.com/c/8tvV5h0ssCW",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 12时11分]"
-        },
-        {
-          "title": "成渝中线与成达万高铁枢纽连接工程取得关键突破",
-          "url": "https://flash.jin10.com/detail/20260614113130071800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
-          "title": "投资772亿工程开工仪式不到15分钟",
-          "url": "https://www.toutiao.com/trending/7650146869192146985/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            9,
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时07分]"
-        },
-        {
-          "title": "四川多地烈士陵园办公室招聘系谣言",
-          "url": "https://www.toutiao.com/trending/7650720118226173993/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时07分]"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 00时24分]"
         },
         {
           "title": "“小巴菲特”：我不投AI！最大遗憾错过早期Palantir少赚数百亿美元，看好被市场“烧伤”的商业地产",
           "url": "https://wallstreetcn.com/articles/3774608",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时32分 ~ 22时06分]"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 00时24分]"
         },
         {
-          "title": "网传一大厂裁员后 bug 无人修复，靠虚假招聘骗修复方案，如何看待这一操作？",
-          "url": "https://www.zhihu.com/question/2047628590754133157",
+          "title": "如果只能留下一座建筑代表人类文明，你会选哪一座？",
+          "url": "https://www.zhihu.com/question/2047738930267793255",
           "source": "知乎",
           "ranks": [
-            17,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时28分 ~ 07时07分]"
-        },
-        {
-          "title": "小米工程师谈某大模型重新出山",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%B0%88%E6%9F%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%87%8D%E6%96%B0%E5%87%BA%E5%B1%B1&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时41分 ~ 19时33分]"
-        },
-        {
-          "title": "张国清在青海调研时强调，高质量推进盐湖产业基地建设",
-          "url": "https://wallstreetcn.com/livenews/3119200",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时42分 ~ 19时33分]"
-        },
-        {
-          "title": "被陌生男尾随至电梯口 女生霸气回怼",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E9%99%8C%E7%94%9F%E7%94%B7%E5%B0%BE%E9%9A%8F%E8%87%B3%E7%94%B5%E6%A2%AF%E5%8F%A3+%E5%A5%B3%E7%94%9F%E9%9C%B8%E6%B0%94%E5%9B%9E%E6%80%BC",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时05分 ~ 22时06分]"
-        },
-        {
-          "title": "成渝中线与成达万高铁枢纽连接工程取得关键突破",
-          "url": "https://wallstreetcn.com/livenews/3119191",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 19时33分]"
-        },
-        {
-          "title": "王沪宁在两岸融合发展示范区建设专题推进会上强调，推动“十五五”时期两岸融合发展走深走实",
-          "url": "https://wallstreetcn.com/livenews/3119189",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 19时33分]"
-        },
-        {
-          "title": "小米工程师称不针对任何友商",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%A7%B0%E4%B8%8D%E9%92%88%E5%AF%B9%E4%BB%BB%E4%BD%95%E5%8F%8B%E5%95%86%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时05分 ~ 22时06分]"
-        },
-        {
-          "title": "张国清在青海调研时强调，高质量推进盐湖产业基地建设，着力提高防范应对自然灾害能力。",
-          "url": "https://flash.jin10.com/detail/20260614151618349800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "史上最大IPO是造梦摇篮还是烂尾工程",
-          "url": "https://www.toutiao.com/trending/7650825795148975643/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "[00时23分 ~ 00时24分]"
         }
       ]
     }
