@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T02:15:20.827494+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-06-15T04:20:06.169455+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 02时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 04时20分]"
         },
         {
           "title": "女子考编第一被低分者顶替，维权后岗位取消，相关部门立案调查，为何会出现这一情况？招聘公平性如何保障？",
@@ -28,19 +28,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 02时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 04时20分]"
         },
         {
           "title": "香港一对母女在太古城住宅单位坠楼身亡，其中女儿年仅 12 岁，事件背后可能有哪些不为人知的原因？",
           "url": "https://www.zhihu.com/question/2048484042136352334",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[02时14分 ~ 04时20分]"
         },
         {
           "title": "硅料困在深渊、锂电站上顶峰，光伏巨头协鑫“脱硅入锂”",
@@ -50,8 +51,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[02时14分 ~ 04时20分]"
         },
         {
           "title": "如果只能留下一座建筑代表人类文明，你会选哪一座？",
