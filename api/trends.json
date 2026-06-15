@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T06:12:27.943675+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-06-15T08:12:42.342781+08:00",
+  "total_titles_processed": 651,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "“小巴菲特”：我不投AI！最大遗憾错过早期Palantir少赚数百亿美元，看好被市场“烧伤”的商业地产",
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 06时12分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 08时12分]"
         },
         {
           "title": "女子考编第一被低分者顶替，维权后岗位取消，相关部门立案调查，为何会出现这一情况？招聘公平性如何保障？",
@@ -29,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 06时12分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 08时12分]"
         },
         {
           "title": "香港一对母女在太古城住宅单位坠楼身亡，其中女儿年仅 12 岁，事件背后可能有哪些不为人知的原因？",
@@ -66,6 +66,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 00时24分]"
+        },
+        {
+          "title": "英国6月Rightmove平均房屋要价指数环比 -0.6%，前值 1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3119307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
+          "title": "英国6月Rightmove平均房屋要价指数同比 -0.5%，前值 -0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3119308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
         }
       ]
     }
