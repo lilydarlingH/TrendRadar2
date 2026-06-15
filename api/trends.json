@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-16T05:45:20.390568+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-06-16T07:47:34.778994+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 05时45分]"
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 07时47分]"
         },
         {
           "title": "3亿北斗工程现“脆皮底座”",
@@ -28,19 +28,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 05时45分]"
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 07时47分]"
         },
         {
           "title": "媒体评3亿重点工程底座一掰就碎：监测滑坡的设备自己先“滑坡”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33381921",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 05时45分]"
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 07时47分]"
         },
         {
           "title": "标普500指数的11个板块多数收涨，信息技术/科技板块涨3.39%，电信板块涨2.42%，可选消费、工业板块至少涨1.36%，房地产板块则收跌0.9%，能源板块跌3.58%。 在所有成分股中，西部数据、Doordash、美光科技、希捷科技、安森美半导体、泰瑞达、高意公司Coherent领跑，Apa、因赛特公司、“大空头”Burry建仓的Fiserv、福克斯、福克斯A领跌。",
@@ -49,7 +50,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         }
