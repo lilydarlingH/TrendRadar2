@@ -1,36 +1,12 @@
 {
-  "generated_at": "2026-06-16T23:56:16.753577+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2026-06-17T03:38:51.202559+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 17,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "老破小成抢手货，租售比超 2% 跑赢存款利率，反映了房地产市场的哪些变化？投资老破小需注意哪些风险？",
-          "url": "https://www.zhihu.com/question/2049563481884701466",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时28分 ~ 07时47分]"
-        },
-        {
-          "title": "倒查三年：国内多所高校开展横向科研项目自查自纠工作",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33384470",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 18时10分]"
-        },
         {
           "title": "郑栅洁：国家发展改革委将深入贯彻党中央和国务院决策部署，加强“六张网”规划建设",
           "url": "https://www.cls.cn/detail/2401326",
@@ -39,80 +15,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时55分 ~ 23时56分]"
+          "appearance_count": 1,
+          "time_info": "03时38分"
         },
         {
-          "title": "国家统计局：5月份一线城市商品住宅销售价格环比上涨 二三线城市环比下降",
-          "url": "https://www.cls.cn/detail/2400763",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 18时10分]"
-        },
-        {
-          "title": "美日鼓噪中国开展“大规模且不透明的核力量建设”，国防部驳斥",
-          "url": "https://news.ifeng.com/c/8u0NGt5r0vs",
-          "source": "凤凰网",
+          "title": "曝电梯坠亡监控缺失",
+          "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E7%94%B5%E6%A2%AF%E5%9D%A0%E4%BA%A1%E7%9B%91%E6%8E%A7%E7%BC%BA%E5%A4%B1&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
-        },
-        {
-          "title": "媒体评3亿重点工程底座一掰就碎：监测滑坡的设备自己先“滑坡”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33381921",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时28分 ~ 12时15分]"
-        },
-        {
-          "title": "3亿北斗工程现“脆皮底座”",
-          "url": "https://www.toutiao.com/trending/7651272977132109833/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时28分 ~ 12时15分]"
+          "appearance_count": 1,
+          "time_info": "03时38分"
         },
         {
           "title": "投资近 3 亿北斗监测边坡系统，底座用手一掰就碎，工程质量监管为何失灵？巨额投资为何换来「脆皮」工程？",
           "url": "https://www.zhihu.com/question/2049801744209686933",
           "source": "知乎",
           "ranks": [
-            16,
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时09分 ~ 23时56分]"
-        },
-        {
-          "title": "51岁工地大叔9年考下13证 月薪过万",
-          "url": "https://www.baidu.com/s?wd=51%E5%B2%81%E5%B7%A5%E5%9C%B0%E5%A4%A7%E5%8F%949%E5%B9%B4%E8%80%83%E4%B8%8B13%E8%AF%81+%E6%9C%88%E8%96%AA%E8%BF%87%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时55分 ~ 23时56分]"
+          "appearance_count": 1,
+          "time_info": "03时38分"
         },
         {
           "title": "女子被困电梯获救时坠入井底身亡",
@@ -122,85 +48,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时55分 ~ 23时56分]"
+          "appearance_count": 1,
+          "time_info": "03时38分"
         },
         {
-          "title": "搞“政绩工程”‍、盲目招商引资……五起政绩观偏差典型案件公开通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33382686",
-          "source": "澎湃新闻",
+          "title": "51岁工地大叔9年考下13证 月薪过万",
+          "url": "https://www.baidu.com/s?wd=51%E5%B2%81%E5%B7%A5%E5%9C%B0%E5%A4%A7%E5%8F%949%E5%B9%B4%E8%80%83%E4%B8%8B13%E8%AF%81+%E6%9C%88%E8%96%AA%E8%BF%87%E4%B8%87",
+          "source": "百度热搜",
           "ranks": [
-            11
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
+          "appearance_count": 1,
+          "time_info": "03时38分"
         },
         {
-          "title": "女子电梯逃生坠亡监控画面缺失",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%B5%E6%A2%AF%E9%80%83%E7%94%9F%E5%9D%A0%E4%BA%A1%E7%9B%91%E6%8E%A7%E7%94%BB%E9%9D%A2%E7%BC%BA%E5%A4%B1%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时55分 ~ 23时56分]"
-        },
-        {
-          "title": "大爷骑电动车进电梯并吸烟",
-          "url": "https://www.toutiao.com/trending/7651965174412230707/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时55分 ~ 23时56分]"
-        },
-        {
-          "title": "标普500指数的11个板块多数收涨，信息技术/科技板块涨3.39%，电信板块涨2.42%，可选消费、工业板块至少涨1.36%，房地产板块则收跌0.9%，能源板块跌3.58%。 在所有成分股中，西部数据、Doordash、美光科技、希捷科技、安森美半导体、泰瑞达、高意公司Coherent领跑，Apa、因赛特公司、“大空头”Burry建仓的Fiserv、福克斯、福克斯A领跌。",
-          "url": "https://wallstreetcn.com/livenews/3119866",
+          "title": "加拿大负责与美国贸易事务的部长Leblanc在七国集团（G7）会议期金表示：与美国贸易代表格里尔进行了长时间的、富有建设性的会谈。 两国官员下周将再次开会讨论贸易问题。",
+          "url": "https://wallstreetcn.com/livenews/3120452",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "郑栅洁主任主持召开民营企业座谈会 围绕系统推进“六张网”建设听取意见建议",
-          "url": "https://flash.jin10.com/detail/20260616175347004800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "全球最大变质岩油田二期项目全部平台建造完工",
-          "url": "https://wallstreetcn.com/livenews/3120190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "我国成功研制出大面积全钙钛矿叠层光伏组件 光电转换效率刷新世界纪录达26.2%",
-          "url": "https://wallstreetcn.com/livenews/3120385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时56分"
+          "time_info": "03时38分"
         }
       ]
     }
