@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T08:19:04.471341+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-06-17T14:14:06.523009+08:00",
+  "total_titles_processed": 777,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "郑栅洁：国家发展改革委将深入贯彻党中央和国务院决策部署，加强“六张网”规划建设",
@@ -68,6 +68,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时38分 ~ 08时19分]"
+        },
+        {
+          "title": "山东3亿北斗工程现“脆皮底座”，官方组成联合调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33396010",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 14时14分]"
         },
         {
           "title": "加拿大负责与美国贸易事务的部长Leblanc在七国集团（G7）会议期金表示：与美国贸易代表格里尔进行了长时间的、富有建设性的会谈。 两国官员下周将再次开会讨论贸易问题。",
