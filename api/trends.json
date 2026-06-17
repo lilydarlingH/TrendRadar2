@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T05:09:02.801108+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-06-18T07:26:46.639994+08:00",
+  "total_titles_processed": 527,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时40分 ~ 05时09分]"
+          "appearance_count": 5,
+          "time_info": "[02时40分 ~ 07时26分]"
         },
         {
           "title": "山东3亿北斗工程现“脆皮底座”，官方组成联合调查组",
@@ -27,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时40分 ~ 05时09分]"
+          "appearance_count": 5,
+          "time_info": "[02时40分 ~ 07时26分]"
         },
         {
           "title": "星舰女王？SpaceX华裔女工程师辟谣：没有硕博学位，仅是飞控操作员之一",
@@ -38,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时40分 ~ 05时09分]"
+          "appearance_count": 5,
+          "time_info": "[02时40分 ~ 07时26分]"
         },
         {
           "title": "女子坠入电梯井身亡，家属质疑保安违规打开电梯门",
@@ -49,8 +50,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时40分 ~ 05时09分]"
+          "appearance_count": 5,
+          "time_info": "[02时40分 ~ 07时26分]"
         },
         {
           "title": "富豪伪造8亿存款中标35亿元工程",
@@ -70,7 +71,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -81,7 +82,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         }
