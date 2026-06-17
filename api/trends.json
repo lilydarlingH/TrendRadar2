@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T06:13:59.065440+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-06-17T08:19:04.471341+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 06时13分]"
+          "appearance_count": 4,
+          "time_info": "[03时38分 ~ 08时19分]"
+        },
+        {
+          "title": "投资近 3 亿北斗监测边坡系统，底座用手一掰就碎，工程质量监管为何失灵？巨额投资为何换来「脆皮」工程？",
+          "url": "https://www.zhihu.com/question/2049801744209686933",
+          "source": "知乎",
+          "ranks": [
+            6,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时38分 ~ 08时19分]"
         },
         {
           "title": "曝电梯坠亡监控缺失",
@@ -31,28 +44,17 @@
           "time_info": "[03时38分 ~ 06时13分]"
         },
         {
-          "title": "投资近 3 亿北斗监测边坡系统，底座用手一掰就碎，工程质量监管为何失灵？巨额投资为何换来「脆皮」工程？",
-          "url": "https://www.zhihu.com/question/2049801744209686933",
-          "source": "知乎",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 06时13分]"
-        },
-        {
           "title": "女子被困电梯获救时坠入井底身亡",
           "url": "https://www.toutiao.com/trending/7651601852219424822/",
           "source": "今日头条",
           "ranks": [
             9,
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 06时13分]"
+          "appearance_count": 4,
+          "time_info": "[03时38分 ~ 08时19分]"
         },
         {
           "title": "51岁工地大叔9年考下13证 月薪过万",
@@ -60,11 +62,12 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 06时13分]"
+          "appearance_count": 4,
+          "time_info": "[03时38分 ~ 08时19分]"
         },
         {
           "title": "加拿大负责与美国贸易事务的部长Leblanc在七国集团（G7）会议期金表示：与美国贸易代表格里尔进行了长时间的、富有建设性的会谈。 两国官员下周将再次开会讨论贸易问题。",
@@ -84,7 +87,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         }
