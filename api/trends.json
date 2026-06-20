@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T08:18:26.877106+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-06-20T13:16:38.793995+08:00",
+  "total_titles_processed": 744,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "水电工大叔转行做美甲师 90%是回头客",
@@ -58,6 +58,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "目睹母亲电梯坠亡 16岁女儿发声",
+          "url": "https://www.baidu.com/s?wd=%E7%9B%AE%E7%9D%B9%E6%AF%8D%E4%BA%B2%E7%94%B5%E6%A2%AF%E5%9D%A0%E4%BA%A1+16%E5%B2%81%E5%A5%B3%E5%84%BF%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
           "title": "伊朗能源部副部长：俄方已准备好派遣专家前往伊朗，以加快核电站2号和3号机组的建设。",
           "url": "https://flash.jin10.com/detail/20260620004032783800",
           "source": "金十数据",
@@ -80,13 +91,24 @@
           "time_info": "02时02分"
         },
         {
+          "title": "据半岛电视台：以色列对加沙市中心一处住宅公寓进行轰炸，遇难者人数上升至3人。",
+          "url": "https://flash.jin10.com/detail/20260620100415813800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
           "title": "张真源建设张真源进行曲",
           "url": "https://www.douyin.com/hot/2540874",
           "source": "抖音",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时18分"
         }
