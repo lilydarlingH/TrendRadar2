@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T07:15:22.964008+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-06-22T12:20:58.861435+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "消息称比亚迪将分拆工程院，此举背后有哪些商业考量？",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时40分 ~ 07时15分]"
+        },
+        {
+          "title": "韩国政策负责人警示芯片红利或引发房地产风险",
+          "url": "https://flash.jin10.com/detail/20260622114446939800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "巴基斯坦总理：感谢瑞士在签署具有历史意义的伊斯兰堡谅解备忘录之后所提供的支持以及建设性参与。双方一致认为，该备忘录的成功落实将有助于地区和平、稳定以及全球经济繁荣。",
@@ -39,9 +50,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "金十图示：2026年06月22日（周一）富时中国A50指数成分股午盘收盘行情一览：保险、证券、光伏设备板块走高，半导体、通信设备回调。",
+          "url": "https://flash.jin10.com/detail/20260622113520862800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
+          "title": "孟加拉国总理：已请求马来西亚总理尽快考虑招聘更多孟加拉工人，并尽早开放劳动力市场。",
+          "url": "https://flash.jin10.com/detail/20260622112745227800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         }
       ]
     }
