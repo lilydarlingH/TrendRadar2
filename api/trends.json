@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T08:08:41.627536+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-06-23T13:03:33.656296+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "李强：要大力发展高端装备制造业，加快建设现代化产业体系",
@@ -28,6 +28,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "吧友锐评医院电梯设专人按键",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355480&amp;topic_name=%E5%90%A7%E5%8F%8B%E9%94%90%E8%AF%84%E5%8C%BB%E9%99%A2%E7%94%B5%E6%A2%AF%E8%AE%BE%E4%B8%93%E4%BA%BA%E6%8C%89%E9%94%AE",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "建设工业：公司产品不涉及载人变形机甲",
+          "url": "https://flash.jin10.com/detail/20260623120624245800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
           "title": "标普500指数的11个板块中，电信板块收跌3.83%，可选消费板块跌2.33%，信息技术/科技板块跌0.04%，能源板块涨1.24%，房地产板块涨1.38%。",
