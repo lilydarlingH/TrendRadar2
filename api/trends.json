@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T06:04:54.242060+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-06-23T08:08:41.627536+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时30分 ~ 06时04分]"
+          "appearance_count": 4,
+          "time_info": "[03时30分 ~ 08时08分]"
         },
         {
           "title": "阿曼外长：今晚在马斯喀特欢迎了伊朗议会议长卡利巴夫和外长阿拉格齐。双方就近期伊朗与美国的谅解备忘录进行了建设性讨论，特别是霍尔木兹海峡的相关内容。",
@@ -25,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         }
