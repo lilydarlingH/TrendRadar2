@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T13:03:33.656296+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2026-06-23T17:42:02.284636+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "李强：要大力发展高端装备制造业，加快建设现代化产业体系",
@@ -30,15 +30,48 @@
           "time_info": "06时04分"
         },
         {
+          "title": "49岁女子坠入小区电梯井身亡，家属称共获赔100万",
+          "url": "https://news.ifeng.com/c/8uBiwLvrWLK",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
+        },
+        {
+          "title": "49岁女子电梯坠亡获赔100万 今日安葬",
+          "url": "https://www.baidu.com/s?wd=49%E5%B2%81%E5%A5%B3%E5%AD%90%E7%94%B5%E6%A2%AF%E5%9D%A0%E4%BA%A1%E8%8E%B7%E8%B5%94100%E4%B8%87+%E4%BB%8A%E6%97%A5%E5%AE%89%E8%91%AC",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
+        },
+        {
           "title": "吧友锐评医院电梯设专人按键",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355480&amp;topic_name=%E5%90%A7%E5%8F%8B%E9%94%90%E8%AF%84%E5%8C%BB%E9%99%A2%E7%94%B5%E6%A2%AF%E8%AE%BE%E4%B8%93%E4%BA%BA%E6%8C%89%E9%94%AE",
           "source": "贴吧",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
+        },
+        {
+          "title": "锦江航运：拟投资8.2亿元建造4艘集装箱船舶",
+          "url": "https://flash.jin10.com/detail/20260623170430470800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "建设工业：公司产品不涉及载人变形机甲",
@@ -47,7 +80,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
