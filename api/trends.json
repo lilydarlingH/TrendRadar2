@@ -1,22 +1,25 @@
 {
-  "generated_at": "2026-06-24T06:15:56.746031+08:00",
-  "total_titles_processed": 504,
-  "failed_sources": [],
+  "generated_at": "2026-06-24T08:00:47.446250+08:00",
+  "total_titles_processed": 629,
+  "failed_sources": [
+    "zhihu"
+  ],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "小作文带崩韩股？韩媒：国会议员讨论将股票、房地产未实现收益纳入综合征税",
           "url": "https://wallstreetcn.com/articles/3775281",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 06时15分]"
+          "appearance_count": 6,
+          "time_info": "[01时57分 ~ 08时00分]"
         },
         {
           "title": "美股半导体指数初步收跌约7.9%，创6月5日以来最差单日表现。 标普500指数初步收跌1.3%，科技板块跌3.4%，工业、原材料板块至多跌1.9%，房地产、保健、日用消费品板块至多涨1.8%。 纳斯达克100指数初步收跌3.2%，成分股中，闪迪初步收跌13.7%，美光科技跌3.1%，Arm控股跌10.1%，西部数据、美满电子、阿斯麦ADR至少跌约8%，英特尔跌6%，英伟达跌4%，汤森路透涨5.6%，Axon涨5.8%。 IBM初步收涨4.8%，Merck涨3.6%，领跑道指成分股，波音跌1.7%，霍尼韦尔跌2.4%，卡特彼勒跌3.5%，与英伟达表现最差。",
@@ -28,6 +31,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "美国众议院多数议员投票支持一项两党法案，旨在缓解严重住房短缺问题并推动保障性住房建设；投票仍在继续进行中。",
+          "url": "https://flash.jin10.com/detail/20260624071224150800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
+        },
+        {
+          "title": "英媒：德国拟放弃建造自二战以来其最大军舰的计划",
+          "url": "https://flash.jin10.com/detail/20260624063949341800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
+        },
+        {
+          "title": "据英国金融时报：德国计划取消建造自第二次世界大战以来最大军舰的计划。",
+          "url": "https://flash.jin10.com/detail/20260624063325747800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
         },
         {
           "title": "划完电梯后挪威人开始“划地铁”了",
