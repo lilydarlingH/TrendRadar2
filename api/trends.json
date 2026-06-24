@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T12:15:57.476015+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2026-06-24T16:24:12.064094+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "小作文带崩韩股？韩媒：国会议员讨论将股票、房地产未实现收益纳入综合征税",
@@ -37,9 +37,42 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "工信部总工程师：加强新一代通信网和算力网规划建设",
+          "url": "https://www.cls.cn/detail/2407859",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
+        },
+        {
+          "title": "阴和俊：以更大力度更实举措加强基础研究 打牢科技强国建设根基",
+          "url": "https://www.cls.cn/detail/2407418",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
+        },
+        {
+          "title": "工人装修将炮钉枪口对准自身中钉死亡",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E8%A3%85%E4%BF%AE%E5%B0%86%E7%82%AE%E9%92%89%E6%9E%AA%E5%8F%A3%E5%AF%B9%E5%87%86%E8%87%AA%E8%BA%AB%E4%B8%AD%E9%92%89%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
         },
         {
           "title": "美国众议院多数议员投票支持一项两党法案，旨在缓解严重住房短缺问题并推动保障性住房建设；投票仍在继续进行中。",
@@ -59,7 +92,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -70,7 +103,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -92,7 +125,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -114,7 +147,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
