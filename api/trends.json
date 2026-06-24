@@ -1,223 +1,33 @@
 {
-  "generated_at": "2026-06-24T22:33:58.165268+08:00",
-  "total_titles_processed": 1395,
+  "generated_at": "2026-06-25T01:06:40.105970+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 19,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "小作文带崩韩股？韩媒：国会议员讨论将股票、房地产未实现收益纳入综合征税",
-          "url": "https://wallstreetcn.com/articles/3775281",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时57分 ~ 12时15分]"
-        },
         {
           "title": "工信部总工程师：加强新一代通信网和算力网规划建设",
           "url": "https://www.cls.cn/detail/2407859",
           "source": "财联社热门",
           "ranks": [
-            10,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 22时33分]"
-        },
-        {
-          "title": "美股半导体指数初步收跌约7.9%，创6月5日以来最差单日表现。 标普500指数初步收跌1.3%，科技板块跌3.4%，工业、原材料板块至多跌1.9%，房地产、保健、日用消费品板块至多涨1.8%。 纳斯达克100指数初步收跌3.2%，成分股中，闪迪初步收跌13.7%，美光科技跌3.1%，Arm控股跌10.1%，西部数据、美满电子、阿斯麦ADR至少跌约8%，英特尔跌6%，英伟达跌4%，汤森路透涨5.6%，Axon涨5.8%。 IBM初步收涨4.8%，Merck涨3.6%，领跑道指成分股，波音跌1.7%，霍尼韦尔跌2.4%，卡特彼勒跌3.5%，与英伟达表现最差。",
-          "url": "https://wallstreetcn.com/livenews/3123625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时10分"
+          "time_info": "01时06分"
         },
         {
-          "title": "孙正义：将“建造世界上最大的数据中心”",
-          "url": "https://wallstreetcn.com/livenews/3123772",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "阴和俊：以更大力度更实举措加强基础研究 打牢科技强国建设根基",
-          "url": "https://www.cls.cn/detail/2407418",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 16时24分]"
-        },
-        {
-          "title": "工人装修将炮钉枪口对准自身中钉死亡",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E8%A3%85%E4%BF%AE%E5%B0%86%E7%82%AE%E9%92%89%E6%9E%AA%E5%8F%A3%E5%AF%B9%E5%87%86%E8%87%AA%E8%BA%AB%E4%B8%AD%E9%92%89%E6%AD%BB%E4%BA%A1",
+          "title": "79岁老人宅基地档案多了个陌生妻子",
+          "url": "https://www.baidu.com/s?wd=79%E5%B2%81%E8%80%81%E4%BA%BA%E5%AE%85%E5%9F%BA%E5%9C%B0%E6%A1%A3%E6%A1%88%E5%A4%9A%E4%BA%86%E4%B8%AA%E9%99%8C%E7%94%9F%E5%A6%BB%E5%AD%90",
           "source": "百度热搜",
           "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 16时24分]"
-        },
-        {
-          "title": "长电科技：拟投资78亿元建设高端先进封测工厂",
-          "url": "https://flash.jin10.com/detail/20260624194022255800",
-          "source": "金十数据",
-          "ranks": [
-            8
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "美国众议院多数议员投票支持一项两党法案，旨在缓解严重住房短缺问题并推动保障性住房建设；投票仍在继续进行中。",
-          "url": "https://flash.jin10.com/detail/20260624071224150800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时00分"
-        },
-        {
-          "title": "超长期特别国债已助力超36万台电梯更新",
-          "url": "https://wallstreetcn.com/livenews/3123757",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "世纪恒通：数据标注员招聘需求是基于现有交付需求进行的正常人员储备",
-          "url": "https://flash.jin10.com/detail/20260624115937839800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "南昌一村民被控抢建700平方米房屋获拆迁补偿涉嫌诈骗，辩方作无罪辩护",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33441895",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "英媒：德国拟放弃建造自二战以来其最大军舰的计划",
-          "url": "https://flash.jin10.com/detail/20260624063949341800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时00分"
-        },
-        {
-          "title": "房地产板块震荡走低，深深房A跌停，合肥城建、天地源、北辰实业、京能置业、大龙地产跌幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3123743",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "工信部公开征求《闪烁晶体用稀土氧化物》等37项行业标准报批意见。",
-          "url": "https://wallstreetcn.com/livenews/3123984",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "据英国金融时报：德国计划取消建造自第二次世界大战以来最大军舰的计划。",
-          "url": "https://flash.jin10.com/detail/20260624063325747800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时00分"
-        },
-        {
-          "title": "工信部公开征求《脑机接口信息系统脑电数据格式要求》等5项通信行业标准报批意见。",
-          "url": "https://wallstreetcn.com/livenews/3123983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "工人装修将炮钉枪口对准自身中钉死亡",
-          "url": "https://www.toutiao.com/trending/7654769671287259142/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "划完电梯后挪威人开始“划地铁”了",
-          "url": "https://www.baidu.com/s?wd=%E5%88%92%E5%AE%8C%E7%94%B5%E6%A2%AF%E5%90%8E%E6%8C%AA%E5%A8%81%E4%BA%BA%E5%BC%80%E5%A7%8B%E2%80%9C%E5%88%92%E5%9C%B0%E9%93%81%E2%80%9D%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "特朗普政府将提供175亿美元贷款，推动美国大型核电站建设",
-          "url": "https://wallstreetcn.com/livenews/3123570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
+          "time_info": "01时06分"
         }
       ]
     }
