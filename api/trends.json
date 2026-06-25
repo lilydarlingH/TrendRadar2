@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T18:44:09.907371+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2026-06-25T21:21:41.629915+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "工信部总工程师：加强新一代通信网和算力网规划建设",
@@ -23,11 +23,12 @@
           "url": "https://www.cls.cn/detail/2409201",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 18时44分]"
+          "appearance_count": 3,
+          "time_info": "[18时43分 ~ 21时21分]"
         },
         {
           "title": "79岁老人宅基地档案多了个陌生妻子",
@@ -81,9 +82,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
+        },
+        {
+          "title": "【大族激光：控股子公司拟共同投资不超过25.2亿元建设年产6000万芯公里光纤及预制棒项目】大族激光公告，为进一步落实公司战略发展规划，推进公司产能布局，助力公司光纤业务协同发展，公司控股子公司永通智造及张家港大族拟以自有资金及自筹资金于江苏省张家港市投资建设年产6000万芯公里光纤及预制棒项目，项目总投资不超过人民币25.2亿元，将根据业务情况分二期建设，一期项目投入15.2亿元，二期项目投入10亿元。",
+          "url": "https://wallstreetcn.com/livenews/3124692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：（就柏林超级工厂）随着计划中的产量提升，将再招聘1,000名员工。",
+          "url": "https://flash.jin10.com/detail/20260625205311254800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "如果现在让你重新装修新房，你有哪些想法呢？",
@@ -103,7 +126,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
