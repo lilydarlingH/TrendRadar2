@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T05:44:44.908477+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-06-26T07:20:22.205000+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "国家发改委、国家能源局印发《新型能源体系建设“十五五”规划》",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 05时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 07时20分]"
         },
         {
           "title": "根据县政府备案文件，SpaceX(SPCX.O)计划下个月开始建设通往得克萨斯州发射设施的天然气管道。",
@@ -34,11 +34,34 @@
           "url": "https://flash.jin10.com/detail/20260626050214318800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 07时20分]"
+        },
+        {
+          "title": "深圳土地市场再现“百亿地王” 未来售价有望达15万-20万/平",
+          "url": "https://www.cls.cn/detail/2409493",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 07时20分]"
+        },
+        {
+          "title": "西安一女子房屋在查封期内被网签给他人，当地正督促开发商申请撤销",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33406544",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 07时20分]"
         },
         {
           "title": "五角大楼将允许关键矿物工厂建设在美军基地内。",
@@ -47,7 +70,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         }
