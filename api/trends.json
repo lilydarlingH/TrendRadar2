@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-28T00:07:34.325376+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-28T02:06:03.432915+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
       "match_count": 5,
       "titles": [
+        {
+          "title": "经纬度：预计投资超20万亿元，中国加快建设新型能源体系",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33459893",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时06分]"
+        },
         {
           "title": "雄安新区获批建设国家级知识产权保护中心",
           "url": "https://wallstreetcn.com/livenews/3125603",
@@ -15,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 02时06分]"
         },
         {
           "title": "“陇电入浙”配套项目换流站750千伏接入工程进入架线阶段",
@@ -26,19 +38,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "经纬度：预计投资超20万亿元，中国加快建设新型能源体系",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33459893",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 02时06分]"
         },
         {
           "title": "雄安新区获批建设国家级知识产权保护中心",
