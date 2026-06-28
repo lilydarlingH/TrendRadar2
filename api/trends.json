@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T06:04:50.104513+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2026-06-28T08:05:15.874102+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 06时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 08时05分]"
         },
         {
           "title": "雄安新区获批建设国家级知识产权保护中心",
@@ -27,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 06时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 08时05分]"
         },
         {
           "title": "“陇电入浙”配套项目换流站750千伏接入工程进入架线阶段",
@@ -38,8 +39,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 06时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 08时05分]"
         },
         {
           "title": "雄安新区获批建设国家级知识产权保护中心",
