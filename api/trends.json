@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T03:23:09.930744+08:00",
-  "total_titles_processed": 368,
+  "generated_at": "2026-06-29T05:03:52.903550+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 05时03分]"
         },
         {
           "title": "特朗普政府质询美国纽约州在农业用地上的光伏项目",
@@ -28,19 +28,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 05时03分]"
         },
         {
           "title": "美国总统特朗普：我们决心在华盛顿建设世界上最伟大的高尔夫球场之一，并向公众开放。",
           "url": "https://flash.jin10.com/detail/20260629024615359800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 05时03分]"
         },
         {
           "title": "AI初创公司Firmus将与英伟达合作建设印尼数据中心",
