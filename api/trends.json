@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-06-30T05:43:15.404433+08:00",
-  "total_titles_processed": 473,
-  "failed_sources": [],
+  "generated_at": "2026-06-30T07:01:49.198579+08:00",
+  "total_titles_processed": 528,
+  "failed_sources": [
+    "toutiao"
+  ],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
       "match_count": 6,
       "titles": [
+        {
+          "title": "国常会：要加力推进人工智能创新突破，加快关键技术攻关和超大规模智算集群建设",
+          "url": "https://www.cls.cn/detail/2412070",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时38分 ~ 07时01分]"
+        },
         {
           "title": "未来五年，教育强国这样建设",
           "url": "https://www.toutiao.com/trending/7656783425231212070/",
@@ -15,19 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时38分 ~ 05时43分]"
-        },
-        {
-          "title": "国常会：要加力推进人工智能创新突破，加快关键技术攻关和超大规模智算集群建设",
-          "url": "https://www.cls.cn/detail/2412070",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时38分 ~ 05时43分]"
+          "appearance_count": 7,
+          "time_info": "[01时38分 ~ 07时00分]"
         },
         {
           "title": "DeepSeek启动成立来最大规模招聘",
@@ -46,11 +49,12 @@
           "url": "https://wallstreetcn.com/livenews/3126312",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时01分]"
         },
         {
           "title": "消息人士：康卡斯特可能会建设数据中心以利用人工智能的增长。",
@@ -59,7 +63,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
