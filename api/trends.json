@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T01:58:41.502948+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-02T04:03:14.624916+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2054320593491715458",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 04时03分]"
         },
         {
           "title": "Lazard高管George Bilicic：数据中心的建设将支持（能源行业的）高估值。（彭博电视）",
