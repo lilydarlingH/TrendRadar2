@@ -1,224 +1,33 @@
 {
-  "generated_at": "2026-07-01T23:44:29.716755+08:00",
-  "total_titles_processed": 1341,
+  "generated_at": "2026-07-02T01:58:41.502948+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 19,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "八部门：推动工业互联网基础设施和智算设施、超算设施等算力基础设施一体规划、同步建设",
-          "url": "https://www.cls.cn/detail/2413124",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 07时16分]"
-        },
-        {
-          "title": "市场消息：SPEEA（美国工程师与技术人员工会）表示，计划与波音分别就两份集体谈判协议展开谈判，一份覆盖约1.3万名工程师，另一份覆盖约4000名技术人员。",
-          "url": "https://flash.jin10.com/detail/20260701013147206800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        },
-        {
-          "title": "澳大利亚6月AIG建筑业表现指数 -38.1，前值-9.9。",
-          "url": "https://flash.jin10.com/detail/20260701070002368800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "英媒：苹果CEO与欧盟技术主管就“Siri AI”举行建设性会谈",
-          "url": "https://flash.jin10.com/detail/20260701065200498800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "美国农业部（USDA）将投资5亿美元到新建设的、以及现有的那些化肥设施。",
-          "url": "https://wallstreetcn.com/livenews/3127512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "博物馆回应工地挖出僧人圆寂坐缸容器",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E7%89%A9%E9%A6%86%E5%9B%9E%E5%BA%94%E5%B7%A5%E5%9C%B0%E6%8C%96%E5%87%BA%E5%83%A7%E4%BA%BA%E5%9C%86%E5%AF%82%E5%9D%90%E7%BC%B8%E5%AE%B9%E5%99%A8",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            9,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 07时16分]"
-        },
-        {
-          "title": "美公布6亿美元月球任务计划，推进月球基地建设",
-          "url": "https://wallstreetcn.com/livenews/3126989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时45分 ~ 07时16分]"
-        },
-        {
-          "title": "当一人公司加上 AI 杠杆，能做出多有趣的项目来？",
-          "url": "https://www.zhihu.com/question/2053591589927262082",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 16时20分]"
-        },
-        {
-          "title": "中方呼吁加大对近东救济工程处支持",
-          "url": "https://www.toutiao.com/trending/7657337860576444442/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 12时02分]"
-        },
-        {
-          "title": "沪指拉升涨超1%，微盘股指数涨超3%，深成指涨0.65%，创业板指涨0.17%，养殖、保险、证券、房地产等方向涨幅居前，沪深京三市上涨个股近4200只。",
-          "url": "https://wallstreetcn.com/livenews/3127125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "有研硅包头基地大单晶项目开工建设",
-          "url": "https://flash.jin10.com/detail/20260701194230752800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时10分"
-        },
-        {
-          "title": "美公布6亿美元月球任务计划 推进月球基地建设",
-          "url": "https://flash.jin10.com/detail/20260701045630053800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "据英国金融时报：苹果(AAPL.O)CEO库克与欧盟科技主管就“Siri AI”展开建设性的对话。",
-          "url": "https://flash.jin10.com/detail/20260701063003352800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
         {
           "title": "如何看待 DeepSeek 招聘多处点名要求 Rust？",
           "url": "https://www.zhihu.com/question/2054320593491715458",
           "source": "知乎",
           "ranks": [
-            14
+            13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时44分"
+          "time_info": "01时58分"
         },
         {
-          "title": "创业板指跌超1%，沪指涨0.46%，深成指涨0.06%，游戏、铜缆高速连接、培育钻石、光伏设备等方向跌幅居前，沪深京三市下跌个股超1600只。",
-          "url": "https://wallstreetcn.com/livenews/3127109",
+          "title": "Lazard高管George Bilicic：数据中心的建设将支持（能源行业的）高估值。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3127542",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "波音公司与工程师工会将于7月1日启动合同磋商。",
-          "url": "https://wallstreetcn.com/livenews/3126944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时03分"
-        },
-        {
-          "title": "特斯拉官方微博消息，首台量产赛博无人驾驶电动车Cybercab已在美国得州奥斯汀开启工程测试。",
-          "url": "https://wallstreetcn.com/livenews/3127102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "加强纺织工业水污染物排放管控，两部门联合发布行业标准",
-          "url": "https://wallstreetcn.com/livenews/3127373",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时10分"
-        },
-        {
-          "title": "联合国驻黎巴嫩临时部队：实现黎巴嫩南部持久稳定，关键在于加强黎巴嫩国家机构建设，尤其是黎巴嫩武装部队。",
-          "url": "https://flash.jin10.com/detail/20260701003953876800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "time_info": "01时58分"
         }
       ]
     }
