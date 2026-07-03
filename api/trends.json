@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T08:08:02.240275+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-07-03T12:43:22.780729+08:00",
+  "total_titles_processed": 905,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "房子一天没住还需全额缴物业费吗",
@@ -48,6 +48,29 @@
           "time_info": "[00时51分 ~ 08时08分]"
         },
         {
+          "title": "如果电梯故障，你会同意外卖骑手提出「各爬一半楼梯」的协商方案吗？",
+          "url": "https://www.zhihu.com/question/2052184985809974611",
+          "source": "知乎",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 12时43分]"
+        },
+        {
+          "title": "女子自费装“电梯”给全楼用遭抵制",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E8%B4%B9%E8%A3%85%E2%80%9C%E7%94%B5%E6%A2%AF%E2%80%9D%E7%BB%99%E5%85%A8%E6%A5%BC%E7%94%A8%E9%81%AD%E6%8A%B5%E5%88%B6",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 12时43分]"
+        },
+        {
           "title": "报道：AI基建遇阻，黑石旗下QTS放弃美国弗吉尼亚数据中心建设项目",
           "url": "https://wallstreetcn.com/livenews/3128197",
           "source": "华尔街见闻-快讯",
@@ -87,7 +110,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         }
