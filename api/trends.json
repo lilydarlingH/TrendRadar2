@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T16:10:50.542796+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2026-07-03T19:34:26.671263+08:00",
+  "total_titles_processed": 1261,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "房子一天没住还需全额缴物业费吗",
@@ -48,13 +48,24 @@
           "time_info": "[00时51分 ~ 08时08分]"
         },
         {
+          "title": "全国一体化算力网建设加速",
+          "url": "https://www.douyin.com/hot/2557015",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时10分 ~ 19时34分]"
+        },
+        {
           "title": "金十数据整理：每日房地产行业动态汇总（2026-07-03）",
           "url": "https://flash.jin10.com/detail/20260703155111459800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
         },
@@ -70,17 +81,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时42分 ~ 16时10分]"
-        },
-        {
-          "title": "全国一体化算力网建设加速",
-          "url": "https://www.douyin.com/hot/2557015",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时10分"
         },
         {
           "title": "女子自费装“电梯”给全楼用遭抵制",
@@ -103,6 +103,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "北京：加强世界人形机器人运动会、人形机器人半程马拉松等赛训实践场景建设",
+          "url": "https://wallstreetcn.com/livenews/3128657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
         },
         {
           "title": "美国科罗拉多州5场山火蔓延 烧毁近506平方公里土地",
