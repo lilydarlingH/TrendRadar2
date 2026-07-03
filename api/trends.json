@@ -1,163 +1,22 @@
 {
-  "generated_at": "2026-07-03T22:07:17.180466+08:00",
-  "total_titles_processed": 1417,
+  "generated_at": "2026-07-04T00:26:18.113299+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 13,
+      "match_count": 1,
       "titles": [
         {
-          "title": "房子一天没住还需全额缴物业费吗",
-          "url": "https://www.toutiao.com/trending/7657754297380487211/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            1,
-            16,
-            14,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 08时08分]"
-        },
-        {
-          "title": "国务院批复《体育强国建设“十五五”规划》 推进“三大球”振兴发展",
-          "url": "https://www.cls.cn/detail/2415451",
+          "title": "三项光伏强标实施进入倒计时 头部企业判断：硅料产能出清还有三个步骤",
+          "url": "https://www.cls.cn/detail/2416919",
           "source": "财联社热门",
           "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 08时08分]"
-        },
-        {
-          "title": "福建安溪龙须殿被曝遭紫雷劈中，这种雷威力有多大？周围有那么多比它高的建筑，为什么就它偏偏被雷击中？",
-          "url": "https://www.zhihu.com/question/2055683206213361694",
-          "source": "知乎",
-          "ranks": [
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 08时08分]"
-        },
-        {
-          "title": "全国一体化算力网建设加速",
-          "url": "https://www.douyin.com/hot/2557015",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 19时34分]"
-        },
-        {
-          "title": "金十数据整理：每日房地产行业动态汇总（2026-07-03）",
-          "url": "https://flash.jin10.com/detail/20260703155111459800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时10分"
-        },
-        {
-          "title": "如果电梯故障，你会同意外卖骑手提出「各爬一半楼梯」的协商方案吗？",
-          "url": "https://www.zhihu.com/question/2052184985809974611",
-          "source": "知乎",
-          "ranks": [
-            3,
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 16时10分]"
-        },
-        {
-          "title": "女子自费装“电梯”给全楼用遭抵制",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%87%AA%E8%B4%B9%E8%A3%85%E2%80%9C%E7%94%B5%E6%A2%AF%E2%80%9D%E7%BB%99%E5%85%A8%E6%A5%BC%E7%94%A8%E9%81%AD%E6%8A%B5%E5%88%B6",
-          "source": "百度热搜",
-          "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时42分 ~ 12时43分]"
-        },
-        {
-          "title": "报道：AI基建遇阻，黑石旗下QTS放弃美国弗吉尼亚数据中心建设项目",
-          "url": "https://wallstreetcn.com/livenews/3128197",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "北京：加强世界人形机器人运动会、人形机器人半程马拉松等赛训实践场景建设",
-          "url": "https://wallstreetcn.com/livenews/3128657",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
-          "title": "美国科罗拉多州5场山火蔓延 烧毁近506平方公里土地",
-          "url": "https://flash.jin10.com/detail/20260703031523544800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：已对“NetNut住宅代理网络”（也称为POPA）采取行动。",
-          "url": "https://flash.jin10.com/detail/20260703012900926800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "市场监管总局发布多项宇航领域国家标准",
-          "url": "https://wallstreetcn.com/livenews/3128706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
-        },
-        {
-          "title": "银价波动影响企业利润，光伏行业借金融工具破解保供难题",
-          "url": "https://wallstreetcn.com/livenews/3128257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "[00时25分 ~ 00时26分]"
         }
       ]
     }
