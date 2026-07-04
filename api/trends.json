@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T02:03:45.176439+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-07-05T04:10:46.044186+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 04时10分]"
         },
         {
           "title": "两公里路装20多个摄像头，媒体：乡村安防建设要拿捏好“合理适度”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33516839",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 04时10分]"
         },
         {
           "title": "华为何庭波发布V2版“韬定律”论文 补充工程细节和实测数据",
@@ -36,9 +37,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 04时10分]"
         },
         {
           "title": "小区没有停车棚，下雨了物业还提醒今晚有大暴雨，是不是很讽刺？",
@@ -48,8 +49,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 04时10分]"
         }
       ]
     }
