@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T06:02:11.991004+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-07-05T07:07:28.419715+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 06时02分]"
-        },
-        {
-          "title": "俄罗斯总统助理乌沙科夫：普京与特朗普的对话务实且富有建设性。",
-          "url": "https://flash.jin10.com/detail/20260705053346224800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 07时07分]"
         },
         {
           "title": "两公里路装20多个摄像头，媒体：乡村安防建设要拿捏好“合理适度”",
@@ -38,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 07时07分]"
         },
         {
           "title": "华为何庭波发布V2版“韬定律”论文 补充工程细节和实测数据",
@@ -50,19 +39,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 06时02分]"
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 07时07分]"
+        },
+        {
+          "title": "俄罗斯总统助理乌沙科夫：普京与特朗普的对话务实且富有建设性。",
+          "url": "https://flash.jin10.com/detail/20260705053346224800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时07分]"
         },
         {
           "title": "小区没有停车棚，下雨了物业还提醒今晚有大暴雨，是不是很讽刺？",
           "url": "https://www.zhihu.com/question/2042397982537037245",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 04时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 07时07分]"
         }
       ]
     }
