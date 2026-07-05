@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T07:07:28.419715+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-07-05T11:31:51.136606+08:00",
+  "total_titles_processed": 694,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "十五五期间美丽中国建设规划亮点",
@@ -19,6 +19,30 @@
           "time_info": "[00时05分 ~ 07时07分]"
         },
         {
+          "title": "华为何庭波发布V2版“韬定律”论文 补充工程细节和实测数据",
+          "url": "https://wallstreetcn.com/articles/3776195",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时03分 ~ 11时31分]"
+        },
+        {
+          "title": "建设循环经济高质量发展体系",
+          "url": "https://www.douyin.com/hot/2558979",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
+        },
+        {
           "title": "两公里路装20多个摄像头，媒体：乡村安防建设要拿捏好“合理适度”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33516839",
           "source": "澎湃新闻",
@@ -29,18 +53,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时05分 ~ 07时07分]"
-        },
-        {
-          "title": "华为何庭波发布V2版“韬定律”论文 补充工程细节和实测数据",
-          "url": "https://wallstreetcn.com/articles/3776195",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时03分 ~ 07时07分]"
         },
         {
           "title": "俄罗斯总统助理乌沙科夫：普京与特朗普的对话务实且富有建设性。",
@@ -65,6 +77,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时05分 ~ 07时07分]"
+        },
+        {
+          "title": "广东一国企北上淄博建“烧烤园区”遇阻：拿了土地证，地上20间房屋遭法拍易主",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33518253",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
+        },
+        {
+          "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
+          "url": "https://wallstreetcn.com/articles/3776207",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
         }
       ]
     }
