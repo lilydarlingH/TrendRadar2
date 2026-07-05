@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T00:11:26.673157+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-06T02:05:35.429692+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时05分]"
         },
         {
           "title": "电梯超载,全员罚站僵持不下",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355912&amp;topic_name=%E7%94%B5%E6%A2%AF%E8%B6%85%E8%BD%BD%2C%E5%85%A8%E5%91%98%E7%BD%9A%E7%AB%99%E5%83%B5%E6%8C%81%E4%B8%8D%E4%B8%8B",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "内塔尼亚胡为在被占领的耶路撒冷周边建造定居点的行为辩解",
-          "url": "https://flash.jin10.com/detail/20260705232744028800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时05分]"
         },
         {
           "title": "陕西临渭公安通报“未成年人在电梯内被掌掴”：依法处理",
@@ -48,8 +38,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时05分]"
         },
         {
           "title": "国内的房地产开发商为什么都不看重隔音？",
@@ -57,6 +47,17 @@
           "source": "知乎",
           "ranks": [
             17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时05分]"
+        },
+        {
+          "title": "内塔尼亚胡为在被占领的耶路撒冷周边建造定居点的行为辩解",
+          "url": "https://flash.jin10.com/detail/20260705232744028800",
+          "source": "金十数据",
+          "ranks": [
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
