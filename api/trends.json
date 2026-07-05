@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-07-05T18:15:09.187704+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-07-05T20:18:23.087944+08:00",
+  "total_titles_processed": 1105,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
+          "url": "https://wallstreetcn.com/articles/3776207",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时30分 ~ 20时18分]"
+        },
+        {
+          "title": "电梯超载,全员罚站僵持不下",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355912&amp;topic_name=%E7%94%B5%E6%A2%AF%E8%B6%85%E8%BD%BD%2C%E5%85%A8%E5%91%98%E7%BD%9A%E7%AB%99%E5%83%B5%E6%8C%81%E4%B8%8D%E4%B8%8B",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时27分 ~ 20时18分]"
+        },
         {
           "title": "十五五期间美丽中国建设规划亮点",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%BA%94%E4%BA%94%E6%9C%9F%E9%97%B4%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E5%BB%BA%E8%AE%BE%E8%A7%84%E5%88%92%E4%BA%AE%E7%82%B9%23&t=31&band_rank=3&Refer=top",
@@ -19,29 +44,18 @@
           "time_info": "[00时05分 ~ 07时07分]"
         },
         {
-          "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
-          "url": "https://wallstreetcn.com/articles/3776207",
-          "source": "华尔街见闻",
+          "title": "广东一国企北上淄博建“烧烤园区”遇阻：拿了土地证，地上20间房屋遭法拍易主",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33518253",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            4,
-            5
+            7,
+            6,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时30分 ~ 18时15分]"
-        },
-        {
-          "title": "电梯超载,全员罚站僵持不下",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355912&amp;topic_name=%E7%94%B5%E6%A2%AF%E8%B6%85%E8%BD%BD%2C%E5%85%A8%E5%91%98%E7%BD%9A%E7%AB%99%E5%83%B5%E6%8C%81%E4%B8%8D%E4%B8%8B",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时27分 ~ 18时15分]"
+          "appearance_count": 8,
+          "time_info": "[11时30分 ~ 20时18分]"
         },
         {
           "title": "建设循环经济高质量发展体系",
@@ -53,19 +67,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时30分 ~ 15时28分]"
-        },
-        {
-          "title": "广东一国企北上淄博建“烧烤园区”遇阻：拿了土地证，地上20间房屋遭法拍易主",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33518253",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时30分 ~ 18时15分]"
         },
         {
           "title": "华为何庭波发布V2版“韬定律”论文 补充工程细节和实测数据",
@@ -138,6 +139,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时27分 ~ 15时28分]"
+        },
+        {
+          "title": "陕西临渭公安通报“未成年人在电梯内被掌掴”：依法处理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33521058",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时17分 ~ 20时18分]"
         },
         {
           "title": "广州疑现龙卷风有房屋受损车被掀翻",
