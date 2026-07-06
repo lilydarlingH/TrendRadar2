@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T04:31:42.850679+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-07-07T05:44:46.837174+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
         {
           "title": "韬定律从理论走向工程落地 EDA成关键胜负手？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时45分 ~ 04时31分]"
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 05时44分]"
         },
         {
           "title": "今年“两重”建设项目清单全部下达完毕",
@@ -26,8 +26,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时45分 ~ 04时31分]"
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 05时44分]"
+        },
+        {
+          "title": "亚美尼亚总理：希望以建设性方式解决同俄罗斯的问题",
+          "url": "https://flash.jin10.com/detail/20260707052248546800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
         },
         {
           "title": "标普500指数初步收0.7%，电信板块涨1.8%，科技板块涨1.3%，可选消费板块涨0.9%，公用事业、保健、房地产板块至多跌超1.1%。 纳斯达克100指数初步收1.3%，成分股中，AMD初步收涨7%，Astera Labs、西部数据、特斯拉、CoreWeave、高通、希捷科技至少涨约5.4%，奈飞则跌2.4%，ORLY跌6.8%，Rocket Lab跌7.8%。 费城半导体指数涨2.1%，存储芯片指数涨2%。",
@@ -36,9 +47,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "亚美尼亚总理：希望以建设性方式解决同俄罗斯的问题",
+          "url": "https://wallstreetcn.com/livenews/3129575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
         },
         {
           "title": "女子自费装电梯,全楼不领情",
@@ -48,8 +70,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时45分 ~ 04时31分]"
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 05时44分]"
         },
         {
           "title": "电梯超载,全员罚站僵持不下",
@@ -59,8 +81,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时45分 ~ 04时31分]"
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 05时44分]"
         },
         {
           "title": "黑石出售 3 处数据中心，又叫停全球最大数据中心建设，这对「AI 经济」影响几何？",
@@ -72,6 +94,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时45分 ~ 01时46分]"
+        },
+        {
+          "title": "丰田宣布将在美国得克萨斯州建设价值36亿美元的新工厂，并将部分卡车生产从墨西哥转移至美国。",
+          "url": "https://wallstreetcn.com/livenews/3129563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "周一（7月6日），美股行业ETF多数收涨，全球科技股指数ETF涨2.18%，半导体ETF涨2.03%，科技行业ETF、网络股指数ETF至多涨1.67%，能源业ETF、生物科技指数ETF则至多收跌0.20%，公用事业ETF、医疗业ETF、日常消费品ETF至多跌1.05%。 标普500指数的11个板块中，电信板块收涨1.64%，信息技术/科技板块涨1.34%，房地产、日用消费品板块跌0.9%，公用事业、保健板块至多跌1.17%。",
+          "url": "https://wallstreetcn.com/livenews/3129551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "市场消息：丰田宣布将在美国德克萨斯州建设价值36亿美元的新工厂，并将部分卡车生产从墨西哥转移至美国。",
+          "url": "https://flash.jin10.com/detail/20260707043051603800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
         }
       ]
     }
