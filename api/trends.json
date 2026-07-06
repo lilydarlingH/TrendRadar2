@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T18:25:08.448569+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2026-07-06T22:27:59.624148+08:00",
+  "total_titles_processed": 1238,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
@@ -28,11 +28,24 @@
             9,
             10,
             16,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时11分 ~ 18时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 22时27分]"
+        },
+        {
+          "title": "韬定律从理论走向工程落地 EDA成关键胜负手？",
+          "url": "https://www.cls.cn/detail/2417907",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 22时27分]"
         },
         {
           "title": "国内的房地产开发商为什么都不看重隔音？",
@@ -83,17 +96,6 @@
           "time_info": "[18时24分 ~ 18时25分]"
         },
         {
-          "title": "韬定律从理论走向工程落地 EDA成关键胜负手？",
-          "url": "https://www.cls.cn/detail/2417907",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 18时25分]"
-        },
-        {
           "title": "我国加快建设循环经济高质量发展体系",
           "url": "https://www.toutiao.com/trending/7658301018397163570/",
           "source": "今日头条",
@@ -116,6 +118,30 @@
           "time_info": "13时13分"
         },
         {
+          "title": "今年“两重”建设项目清单全部下达完毕",
+          "url": "https://www.cls.cn/detail/2418331",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
+          "title": "女子自费装电梯,全楼不领情",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355931&amp;topic_name=%E5%A5%B3%E5%AD%90%E8%87%AA%E8%B4%B9%E8%A3%85%E7%94%B5%E6%A2%AF%2C%E5%85%A8%E6%A5%BC%E4%B8%8D%E9%A2%86%E6%83%85",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时13分 ~ 22时27分]"
+        },
+        {
           "title": "雄安新区80家单位招聘5600余个岗位",
           "url": "https://www.baidu.com/s?wd=%E9%9B%84%E5%AE%89%E6%96%B0%E5%8C%BA80%E5%AE%B6%E5%8D%95%E4%BD%8D%E6%8B%9B%E8%81%985600%E4%BD%99%E4%B8%AA%E5%B2%97%E4%BD%8D",
           "source": "百度热搜",
@@ -134,18 +160,6 @@
           "ranks": [
             10,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 18时25分]"
-        },
-        {
-          "title": "女子自费装电梯,全楼不领情",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355931&amp;topic_name=%E5%A5%B3%E5%AD%90%E8%87%AA%E8%B4%B9%E8%A3%85%E7%94%B5%E6%A2%AF%2C%E5%85%A8%E6%A5%BC%E4%B8%8D%E9%A2%86%E6%83%85",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            14
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -203,7 +217,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -214,7 +228,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         }
