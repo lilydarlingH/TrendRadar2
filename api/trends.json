@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T02:21:04.359959+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-07-09T04:22:42.394990+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "“中国房地产调整或接近尾声”",
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             16,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 02时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 04时22分]"
         },
         {
           "title": "邢自强：中国房地产调整或接近尾声",
@@ -25,11 +26,12 @@
           "source": "今日头条",
           "ranks": [
             20,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 02时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 04时22分]"
         },
         {
           "title": "美国总统特朗普：洛克希德马丁正在建设5座新工厂。总体而言，新建的国防工厂将使产能提高三倍。",
@@ -41,6 +43,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "Meta Platforms(META.O)：宣布将在加拿大阿尔伯塔省建设一座价值130亿加元（约91.7亿美元）的数据中心。该数据中心位于阿尔伯塔省斯特金县，装机容量达1吉瓦，将是公司在加拿大建设的首个数据中心。",
+          "url": "https://flash.jin10.com/detail/20260709033057056800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "湖北宜昌一栋楼房屋顶被狂风掀飞",
+          "url": "https://www.toutiao.com/trending/7659585495101931574/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
         },
         {
           "title": "美国总统特朗普：我已指示包括洛克希德马丁(LMT.N)、雷神技术(RTX.N)在内的美国国防企业建设新工厂。",
