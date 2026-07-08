@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T16:32:58.197131+08:00",
-  "total_titles_processed": 1133,
+  "generated_at": "2026-07-08T19:06:51.028055+08:00",
+  "total_titles_processed": 1309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "国务院原则同意《旅游强国建设“十五五”规划》",
@@ -86,6 +86,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "博汇股份：全资子公司拟投资2.8亿元建设环保芳烃油及特种油加氢项目",
+          "url": "https://flash.jin10.com/detail/20260708182623084800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
+        },
+        {
+          "title": "金刚光伏：控股股东拟增持不低于1亿元股份",
+          "url": "https://flash.jin10.com/detail/20260708182335712800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时06分"
         },
         {
           "title": "A股旅游板块开盘领涨，岭南控股竞价涨停，西藏旅游、天府文旅、西域旅游、陕西旅游、曲江文旅纷纷高开，消息上，国务院原则同意《旅游强国建设“十五五”规划》，培育旅游发展新动能，丰富旅游供给，释放消费潜力，加快建设旅游强国。",
