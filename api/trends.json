@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T13:53:47.747147+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-07-08T16:32:58.197131+08:00",
+  "total_titles_processed": 1133,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "百度热搜",
           "ranks": [
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 13时53分]"
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 16时32分]"
         },
         {
           "title": "香港黑帮头目垄断工地盒饭年入1200万",
