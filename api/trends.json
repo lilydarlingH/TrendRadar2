@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T05:26:08.213493+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-07-10T07:14:43.998605+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 05时26分]"
+          "appearance_count": 5,
+          "time_info": "[01时58分 ~ 07时14分]"
         },
         {
           "title": "业主欠缴物业费8年 法院判了",
@@ -24,11 +24,12 @@
           "source": "今日头条",
           "ranks": [
             27,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时52分 ~ 05时26分]"
+          "appearance_count": 4,
+          "time_info": "[03时52分 ~ 07时14分]"
         }
       ]
     }
