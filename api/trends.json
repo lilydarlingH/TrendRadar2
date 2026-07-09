@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T06:08:23.382701+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2026-07-09T08:12:39.773161+08:00",
+  "total_titles_processed": 664,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             16,
             10,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 06时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 08时12分]"
         },
         {
           "title": "邢自强：中国房地产调整或接近尾声",
@@ -63,7 +64,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -85,7 +86,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
