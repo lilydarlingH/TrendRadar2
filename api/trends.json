@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T02:25:33.646295+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-07-11T04:25:15.048163+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时25分]"
         },
         {
           "title": "如何看待拼多多花 33 亿元在上海陆家嘴买了一栋楼，达成今年上半年上海房地产大宗交易最大金额？",
@@ -25,11 +25,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时25分]"
         },
         {
           "title": "美联储报告：房地产市场的活动一直处于“停滞”状态。",
