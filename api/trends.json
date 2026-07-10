@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T15:38:44.654085+08:00",
-  "total_titles_processed": 957,
+  "generated_at": "2026-07-10T18:56:56.906248+08:00",
+  "total_titles_processed": 1157,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "科技强国建设进入加速冲刺阶段",
@@ -14,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -54,6 +54,17 @@
           "time_info": "[11时24分 ~ 11时25分]"
         },
         {
+          "title": "保利发展：新增加8个房地产项目，总价款170.94亿元",
+          "url": "https://flash.jin10.com/detail/20260710184751262800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
           "title": "A股房地产板块震荡走强，首开股份涨停，粤宏远A、盈新发展此前封板，华发股份、天健集团、深振业A跟涨。",
           "url": "https://flash.jin10.com/detail/20260710105309926800",
           "source": "金十数据",
@@ -71,7 +82,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         }
