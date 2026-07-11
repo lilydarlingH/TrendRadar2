@@ -1,170 +1,33 @@
 {
-  "generated_at": "2026-07-11T23:59:05.791243+08:00",
-  "total_titles_processed": 1513,
+  "generated_at": "2026-07-12T01:03:44.797627+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 14,
+      "match_count": 2,
       "titles": [
         {
           "title": "国常会：要系统推进数字中国建设，加快新一代通信网、算力网建设，全面赋能经济社会发展",
           "url": "https://www.cls.cn/detail/2423220",
           "source": "财联社热门",
           "ranks": [
-            3,
-            2,
             4
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时26分 ~ 23时59分]"
-        },
-        {
-          "title": "村民坟墓被施工方挖毁 涉事人员被拘",
-          "url": "https://www.toutiao.com/trending/7660407553112686635/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时49分 ~ 18时17分]"
-        },
-        {
-          "title": "如何看待拼多多花 33 亿元在上海陆家嘴买了一栋楼，达成今年上半年上海房地产大宗交易最大金额？",
-          "url": "https://www.zhihu.com/question/2058676026578657793",
-          "source": "知乎",
-          "ranks": [
-            14,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时25分]"
-        },
-        {
-          "title": "张玉卓任中国工程院党组书记、院长",
-          "url": "https://www.toutiao.com/trending/7661073045104410660/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 11时28分]"
-        },
-        {
-          "title": "陈薇任中国工程院副院长",
-          "url": "https://www.toutiao.com/trending/7661085054773755914/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 11时28分]"
-        },
-        {
-          "title": "“人民英雄”陈薇任中国工程院副院长",
-          "url": "https://www.toutiao.com/trending/7661085054773755914/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
-        },
-        {
-          "title": "大模型算法是否会催生一大批不懂业务的算法工程师，热度过后他们将何去何从？",
-          "url": "https://www.zhihu.com/question/7707791899",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时00分]"
+          "appearance_count": 1,
+          "time_info": "01时03分"
         },
         {
           "title": "中国工程院产生新一届院领导班子，张玉卓任院长",
           "url": "https://m.thepaper.cn/newsDetail_forward_33564743",
           "source": "澎湃新闻",
           "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时58分 ~ 23时59分]"
-        },
-        {
-          "title": "银川一施工现场让巡查组连说6个乱",
-          "url": "https://www.toutiao.com/trending/7660806881870659627/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 11时28分]"
-        },
-        {
-          "title": "2位高校党委书记任中国工程院副院长",
-          "url": "https://www.toutiao.com/trending/7661084366626635827/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
-        },
-        {
-          "title": "美国总统特朗普：原来的那份协议我无法接受！新协议很棒，也很公平。感谢加拿大政府，并祝贺他们。愿我们两国在这一精彩的新工程上共同取得多年成功！！",
-          "url": "https://flash.jin10.com/detail/20260711120611427800",
-          "source": "金十数据",
-          "ranks": [
-            12
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时15分"
-        },
-        {
-          "title": "三菱地所（Mitsubishi Estate）将投资1.5万亿日元用于日本数据中心建设。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3132297",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时15分"
-        },
-        {
-          "title": "美联储报告：房地产市场的活动一直处于“停滞”状态。",
-          "url": "https://wallstreetcn.com/livenews/3132165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "美联储报告：股票、公司债和住宅房地产的资产估值均高于历史常态水平。",
-          "url": "https://wallstreetcn.com/livenews/3132161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "01时03分"
         }
       ]
     }
