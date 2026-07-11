@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T06:05:23.857079+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-07-11T08:00:49.234104+08:00",
+  "total_titles_processed": 613,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "国常会：要系统推进数字中国建设，加快新一代通信网、算力网建设，全面赋能经济社会发展",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时05分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 08时00分]"
         },
         {
           "title": "如何看待拼多多花 33 亿元在上海陆家嘴买了一栋楼，达成今年上半年上海房地产大宗交易最大金额？",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时26分 ~ 04时25分]"
+        },
+        {
+          "title": "大模型算法是否会催生一大批不懂业务的算法工程师，热度过后他们将何去何从？",
+          "url": "https://www.zhihu.com/question/7707791899",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 08时00分]"
         },
         {
           "title": "美联储报告：房地产市场的活动一直处于“停滞”状态。",
