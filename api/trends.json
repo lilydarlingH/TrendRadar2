@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T01:03:44.797627+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-12T03:05:41.026250+08:00",
+  "total_titles_processed": 344,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 03时05分]"
         },
         {
           "title": "中国工程院产生新一届院领导班子，张玉卓任院长",
@@ -26,8 +26,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 03时05分]"
         }
       ]
     }
