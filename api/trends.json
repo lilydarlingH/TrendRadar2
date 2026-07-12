@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T03:19:31.184214+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-07-13T04:51:39.122617+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 04时51分]"
         },
         {
           "title": "存储扩产预期再度强化！三星电子晶圆厂建设提速 半导体设备增量空间可期",
           "url": "https://www.cls.cn/detail/2423747",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 04时51分]"
         }
       ]
     }
