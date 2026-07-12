@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T10:50:53.409289+08:00",
-  "total_titles_processed": 631,
+  "generated_at": "2026-07-12T14:05:01.290302+08:00",
+  "total_titles_processed": 790,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "国常会：要系统推进数字中国建设，加快新一代通信网、算力网建设，全面赋能经济社会发展",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时03分 ~ 10时50分]"
+        },
+        {
+          "title": "黄仁勋称「Prompt 已死，AI 圈正追逐 Loop」，这对 AI 开发及工程师意味着什么？",
+          "url": "https://www.zhihu.com/question/2054980630543442226",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时04分 ~ 14时05分]"
         }
       ]
     }
