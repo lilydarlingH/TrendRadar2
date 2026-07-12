@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T04:51:39.122617+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-07-13T05:53:42.277641+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时53分]"
         },
         {
           "title": "存储扩产预期再度强化！三星电子晶圆厂建设提速 半导体设备增量空间可期",
@@ -27,8 +27,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时53分]"
         }
       ]
     }
