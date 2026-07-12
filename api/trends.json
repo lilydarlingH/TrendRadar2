@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-12T19:11:48.609606+08:00",
-  "total_titles_processed": 1051,
+  "generated_at": "2026-07-12T21:22:15.371593+08:00",
+  "total_titles_processed": 1178,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
       "match_count": 4,
       "titles": [
+        {
+          "title": "周末要闻汇总：国常会最新部署！加快新一代通信网、算力网建设；长江存储IPO有最新进展",
+          "url": "https://www.cls.cn/detail/2423777",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 21时22分]"
+        },
         {
           "title": "国常会：要系统推进数字中国建设，加快新一代通信网、算力网建设，全面赋能经济社会发展",
           "url": "https://www.cls.cn/detail/2423220",
@@ -17,18 +30,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时03分 ~ 03时05分]"
-        },
-        {
-          "title": "周末要闻汇总：国常会最新部署！加快新一代通信网、算力网建设；长江存储IPO有最新进展",
-          "url": "https://www.cls.cn/detail/2423777",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 19时11分]"
         },
         {
           "title": "中国工程院产生新一届院领导班子，张玉卓任院长",
