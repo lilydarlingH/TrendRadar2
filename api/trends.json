@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T07:56:50.233657+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-07-13T10:52:20.813794+08:00",
+  "total_titles_processed": 734,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "周末要闻汇总：国常会最新部署！加快新一代通信网、算力网建设；长江存储IPO有最新进展",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 07时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 10时52分]"
         },
         {
           "title": "存储扩产预期再度强化！三星电子晶圆厂建设提速 半导体设备增量空间可期",
@@ -24,11 +24,23 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 07时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 10时52分]"
+        },
+        {
+          "title": "A股银行板块震荡走高，苏州银行涨超5%，宁波银行、建设银行、交通银行、工商银行跟涨。",
+          "url": "https://flash.jin10.com/detail/20260713104313549800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         }
       ]
     }
