@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T04:17:06.128147+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-07-14T05:59:05.678679+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "浙江富春江水电站17孔全开泄洪",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时35分 ~ 04时17分]"
+        },
+        {
+          "title": "专家：房地产已回归居住属性",
+          "url": "https://www.toutiao.com/trending/7661986957806800390/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 05时59分]"
         }
       ]
     }
