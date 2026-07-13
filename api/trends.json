@@ -1,101 +1,22 @@
 {
-  "generated_at": "2026-07-13T18:28:43.112930+08:00",
-  "total_titles_processed": 1125,
+  "generated_at": "2026-07-14T00:36:12.612332+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 8,
+      "match_count": 1,
       "titles": [
         {
-          "title": "周末要闻汇总：国常会最新部署！加快新一代通信网、算力网建设；长江存储IPO有最新进展",
-          "url": "https://www.cls.cn/detail/2423777",
-          "source": "财联社热门",
+          "title": "浙江富春江水电站17孔全开泄洪",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E5%AF%8C%E6%98%A5%E6%B1%9F%E6%B0%B4%E7%94%B5%E7%AB%9917%E5%AD%94%E5%85%A8%E5%BC%80%E6%B3%84%E6%B4%AA",
+          "source": "百度热搜",
           "ranks": [
-            1
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 10时52分]"
-        },
-        {
-          "title": "存储扩产预期再度强化！三星电子晶圆厂建设提速 半导体设备增量空间可期",
-          "url": "https://www.cls.cn/detail/2423747",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 10时52分]"
-        },
-        {
-          "title": "A股银行板块震荡走高，苏州银行涨超5%，宁波银行、建设银行、交通银行、工商银行跟涨。",
-          "url": "https://flash.jin10.com/detail/20260713104313549800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "云南能投：披嘎打厂箐光伏项目全容量并网发电，额定容量3.5万千瓦",
-          "url": "https://flash.jin10.com/detail/20260713175935841800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
-          "title": "重度荒漠化土地减少40%！美媒：中国用最朴素的方式驯服沙漠",
-          "url": "https://news.ifeng.com/c/8uiuInkDR4B",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
-          "title": "《扩大消费“十五五”规划》：推动全国一体化算力网建设 推进“信号升格”专项行动",
-          "url": "https://wallstreetcn.com/livenews/3132775",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
-          "title": "电投水电：预计2026年半年度净利润11.9亿元左右，同比增长7673%左右",
-          "url": "https://wallstreetcn.com/livenews/3132771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
-          "title": "【《扩大消费“十五五”规划》： 持续巩固资本市场稳中向好发展态势 多渠道增加城乡居民财产性收入】国务院批复《扩大消费“十五五”规划》，多渠道促进居民增收。健全按要素分配政策制度，促进多劳者多得、技高者多得、创新者多得。完善劳动者工资决定、合理增长、支付保障机制，健全最低工资标准调整机制，稳步提高最低工资标准，加强企业工资分配宏观指导。持续改善小微企业和个体工商户经营环境。促进房地产市场持续健康发展，持续巩固资本市场稳中向好发展态势，多渠道增加城乡居民财产性收入。加强税收、社会保障、转移支付等再分配调节。",
-          "url": "https://wallstreetcn.com/livenews/3132770",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 00时36分]"
         }
       ]
     }
