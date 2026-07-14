@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-07-14T07:01:31.152189+08:00",
-  "total_titles_processed": 605,
-  "failed_sources": [
-    "toutiao"
-  ],
+  "generated_at": "2026-07-14T08:02:46.321295+08:00",
+  "total_titles_processed": 691,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
@@ -27,11 +25,12 @@
           "url": "https://www.toutiao.com/trending/7661986957806800390/",
           "source": "今日头条",
           "ranks": [
-            29
+            29,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时58分 ~ 07时00分]"
+          "appearance_count": 4,
+          "time_info": "[05时58分 ~ 08时02分]"
         }
       ]
     }
