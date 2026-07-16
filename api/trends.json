@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T01:18:31.956836+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-17T03:13:55.525813+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.toutiao.com/trending/7662718025757524031/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 03时13分]"
         },
         {
           "title": "笔试第一却落选，考生实名举报招聘违规，当地成立调查组",
@@ -26,8 +27,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 03时13分]"
         },
         {
           "title": "消息人士：沙特国有地产开发商ROSHN正为世界杯体育场建设项目引入投资者。",
