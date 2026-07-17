@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T14:20:18.917983+08:00",
-  "total_titles_processed": 998,
+  "generated_at": "2026-07-17T17:11:52.997690+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
@@ -40,7 +40,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -60,11 +60,12 @@
           "url": "https://www.zhihu.com/question/2061107208805414314",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 14时20分]"
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 17时11分]"
         },
         {
           "title": "重庆山体垮塌受损房屋被曝有五六层",
@@ -150,7 +151,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         }
