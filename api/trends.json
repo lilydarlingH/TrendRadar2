@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T11:32:57.297665+08:00",
-  "total_titles_processed": 846,
+  "generated_at": "2026-07-17T14:20:18.917983+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "昆明暴雨呈柱状倾泻如“登天电梯”",
@@ -15,11 +15,34 @@
             10,
             5,
             6,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时18分 ~ 11时32分]"
+          "appearance_count": 10,
+          "time_info": "[01时18分 ~ 14时20分]"
+        },
+        {
+          "title": "重庆山体垮塌受损房屋被曝有五六层",
+          "url": "https://www.toutiao.com/trending/7662931043699703859/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
+          "title": "伊朗学生通讯社：卫星图像显示，位于阿联酋扎耶德（Zayed）的三栋美方建筑物遭到破坏。",
+          "url": "https://flash.jin10.com/detail/20260717140033727800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "笔试第一却落选，考生实名举报招聘违规，当地成立调查组",
@@ -31,6 +54,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时18分 ~ 06时12分]"
+        },
+        {
+          "title": "光伏板挡住了阳光，下面的草为啥长得更茂盛了？",
+          "url": "https://www.zhihu.com/question/2061107208805414314",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
+          "title": "重庆山体垮塌受损房屋被曝有五六层",
+          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%B1%B1%E4%BD%93%E5%9E%AE%E5%A1%8C%E5%8F%97%E6%8D%9F%E6%88%BF%E5%B1%8B%E8%A2%AB%E6%9B%9D%E6%9C%89%E4%BA%94%E5%85%AD%E5%B1%82",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
           "title": "美联储副主席杰斐逊：低招聘、低裁员的环境是由不确定性驱动的，尤其是对人工智能的担忧。",
@@ -50,7 +95,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -97,6 +142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "浙江宁波：首座1000千伏特高压变电站建设有序推进",
+          "url": "https://wallstreetcn.com/livenews/3135469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         }
       ]
     }
