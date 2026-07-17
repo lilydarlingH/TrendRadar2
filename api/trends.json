@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T08:03:05.357894+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2026-07-17T11:32:57.297665+08:00",
+  "total_titles_processed": 846,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "昆明暴雨呈柱状倾泻如“登天电梯”",
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时18分 ~ 08时03分]"
+          "appearance_count": 8,
+          "time_info": "[01时18分 ~ 11时32分]"
         },
         {
           "title": "笔试第一却落选，考生实名举报招聘违规，当地成立调查组",
@@ -38,9 +39,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "市场监管总局：电梯交付验证强制性国家标准公开征求意见",
+          "url": "https://flash.jin10.com/detail/20260717111800368800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         },
         {
           "title": "谷歌A收跌4.4%，市值蒸发2000亿美元。 标普500指数的11个板块中，日用品板块收涨2.9%，保健、房地产板块至少涨2.1%，能源板块涨1%，信息技术/可选消费板块跌1.77%，电信板块跌2.85%。 在标普500指数的所有成分股里，谷歌A跌幅靠前，在标普电信板块，谷歌A跌幅仅次于回声星通信（ECHO）——后者收跌5.21%。",
@@ -71,7 +83,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
