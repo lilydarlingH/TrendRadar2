@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T17:11:52.997690+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-07-17T19:24:09.292857+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "昆明暴雨呈柱状倾泻如“登天电梯”",
@@ -21,6 +21,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时18分 ~ 14时20分]"
+        },
+        {
+          "title": "光伏板挡住了阳光，下面的草为啥长得更茂盛了？",
+          "url": "https://www.zhihu.com/question/2061107208805414314",
+          "source": "知乎",
+          "ranks": [
+            12,
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时19分 ~ 19时24分]"
         },
         {
           "title": "重庆山体垮塌受损房屋被曝有五六层",
@@ -56,18 +69,6 @@
           "time_info": "[01时18分 ~ 06时12分]"
         },
         {
-          "title": "光伏板挡住了阳光，下面的草为啥长得更茂盛了？",
-          "url": "https://www.zhihu.com/question/2061107208805414314",
-          "source": "知乎",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时19分 ~ 17时11分]"
-        },
-        {
           "title": "重庆山体垮塌受损房屋被曝有五六层",
           "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%B1%B1%E4%BD%93%E5%9E%AE%E5%A1%8C%E5%8F%97%E6%8D%9F%E6%88%BF%E5%B1%8B%E8%A2%AB%E6%9B%9D%E6%9C%89%E4%BA%94%E5%85%AD%E5%B1%82",
           "source": "百度热搜",
@@ -88,6 +89,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "中国光伏行业协会征集行业专家开展太空光伏领域专项研究",
+          "url": "https://flash.jin10.com/detail/20260717191248262800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "市场监管总局：电梯交付验证强制性国家标准公开征求意见",
@@ -154,6 +166,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "【TCL中环：子公司拟投资119.6亿元建设半导体大硅片项目】TCL中环公告，公司控股子公司中环领先拟以全资子公司深圳中环领先为主体，投资建设“集成电路用半导体大硅片深圳项目”，项目总投资预计约为119.6亿元，规划产能为集成电路用12英寸抛光片及外延片、测试片共计70万片/月。项目尚处于筹备启动阶段，建设期从桩基施工到一期产能试投产共18个月，项目实施总周期60个月。公司拟以自有资金出资注册资本金不超过总投资额的40%，差额通过股权融资或银团贷款等方式解决。本次投资事项已获董事会审议通过，无需提交股东会审议。",
+          "url": "https://wallstreetcn.com/livenews/3135649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         }
       ]
     }
