@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T21:40:06.759840+08:00",
-  "total_titles_processed": 1493,
+  "generated_at": "2026-07-17T23:15:32.486310+08:00",
+  "total_titles_processed": 1631,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "ranks": [
             12,
             9,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时19分 ~ 21时40分]"
+          "appearance_count": 8,
+          "time_info": "[14时19分 ~ 23时15分]"
         },
         {
           "title": "重庆山体垮塌受损房屋被曝有五六层",
@@ -108,7 +109,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -163,7 +164,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -207,7 +208,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         }
