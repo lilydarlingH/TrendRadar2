@@ -1,102 +1,22 @@
 {
-  "generated_at": "2026-07-18T23:59:41.841047+08:00",
-  "total_titles_processed": 1506,
+  "generated_at": "2026-07-19T01:04:49.575229+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 8,
+      "match_count": 1,
       "titles": [
         {
           "title": "上海标志性太空算力星座工程发布 剑指千星部署 商业航天再迎催化",
           "url": "https://www.cls.cn/detail/2430247",
           "source": "财联社热门",
           "ranks": [
-            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时55分 ~ 23时59分]"
-        },
-        {
-          "title": "上海太空算力星座工程发布，商业运营阶段将完成千星部署",
-          "url": "https://wallstreetcn.com/livenews/3135989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 19时06分]"
-        },
-        {
-          "title": "光伏板挡住了阳光，下面的草为啥长得更茂盛了？",
-          "url": "https://www.zhihu.com/question/2061107208805414314",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 01时15分]"
-        },
-        {
-          "title": "加纳土地和自然资源部在其网站上的一份声明中表示，如果新法颁布，新采矿租约的最长期限将从30年缩减至20年。",
-          "url": "https://wallstreetcn.com/livenews/3135840",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 03时11分]"
-        },
-        {
-          "title": "火箭军工程大学举行2026届毕业典礼",
-          "url": "https://www.toutiao.com/trending/7662692001532002310/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
-          "title": "上海发布一批量子城市空间智能建设核心成果",
-          "url": "https://flash.jin10.com/detail/20260718200751714800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时18分"
-        },
-        {
-          "title": "上海发布一批量子城市空间智能建设核心成果",
-          "url": "https://wallstreetcn.com/livenews/3136020",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时18分"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数跌0.2%，报392.10点。 在十个板块中，北欧工业板块跌幅最大。 高科技工程集团Sandvik AB（山特维克，矿业设备制造商）跌9.3%，在一众北欧个股里表现最差。 最新业绩报告显示，该公司二季度营收367.5亿瑞典克朗（SEK），分析师预期361.3亿克朗。 二季度订单378亿克朗，分析师预期387.5亿克朗。 维持全年资本开支预期在40亿-45亿克朗不变。",
-          "url": "https://wallstreetcn.com/livenews/3135830",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "time_info": "01时04分"
         }
       ]
     }
