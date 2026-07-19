@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T10:47:58.044118+08:00",
-  "total_titles_processed": 721,
+  "generated_at": "2026-07-19T13:55:37.123105+08:00",
+  "total_titles_processed": 888,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
           "title": "上海标志性太空算力星座工程发布 剑指千星部署 商业航天再迎催化",
@@ -16,8 +16,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 10时47分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 13时55分]"
+        },
+        {
+          "title": "开工率100%，上海市重大工程上半年“时间过半、任务过半”",
+          "url": "https://wallstreetcn.com/livenews/3136149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
+          "title": "物业主动撤离小区 谁来接盘",
+          "url": "https://www.baidu.com/s?wd=%E7%89%A9%E4%B8%9A%E4%B8%BB%E5%8A%A8%E6%92%A4%E7%A6%BB%E5%B0%8F%E5%8C%BA+%E8%B0%81%E6%9D%A5%E6%8E%A5%E7%9B%98",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         },
         {
           "title": "中国工程院院士郑纬民：智能体时代，产出稳定且低成本Token（词元）的能力非常稀缺",
@@ -26,9 +48,31 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "俄罗斯对基辅的导弹袭击造成至少一人死亡，13人受伤，多个住宅受损。",
+          "url": "https://flash.jin10.com/detail/20260719124808170800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
+          "title": "中国工程院院士郑纬民：智能体时代，产出稳定且低成本Token（词元）的能力非常稀缺",
+          "url": "https://wallstreetcn.com/livenews/3136129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         }
       ]
     }
