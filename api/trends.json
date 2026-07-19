@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T00:03:11.636133+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-20T01:10:18.136249+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2430247",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 01时10分]"
         },
         {
           "title": "国际原子能机构称正调查伊朗在建核电站遭袭相关事宜",
@@ -25,9 +26,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 01时10分]"
         }
       ]
     }
