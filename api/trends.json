@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T06:02:51.874499+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-07-21T07:11:24.924031+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2431671",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时05分 ~ 06时02分]"
+          "appearance_count": 5,
+          "time_info": "[02时05分 ~ 07时11分]"
         },
         {
           "title": "物业大撤场,小区业主挠破头",
@@ -26,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时05分 ~ 06时02分]"
+          "appearance_count": 5,
+          "time_info": "[02时05分 ~ 07时11分]"
         },
         {
           "title": "周一（7月20日），美股行业ETF多数收跌，生物科技指数ETF跌1.70%，医疗业ETF、银行业ETF、区域银行ETF至多跌1.14%。 科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨0.29%，半导体ETF涨0.34%，能源业ETF涨0.49%。 标普500指数的11个板块中，保健板块收跌1.15%，原材料、工业、房地产、金融、可选消费板块至多跌0.94%，信息技术/科技板块涨0.1%，能源部那张0.55%，电信板块涨0.74%。",
