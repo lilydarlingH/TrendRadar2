@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T21:08:32.210757+08:00",
-  "total_titles_processed": 1449,
+  "generated_at": "2026-07-20T23:52:52.310690+08:00",
+  "total_titles_processed": 1590,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             1,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时48分 ~ 21时08分]"
+          "appearance_count": 4,
+          "time_info": "[14时48分 ~ 23时52分]"
         },
         {
           "title": "国投电力：控股子公司雅砻江水电拟投资333.94亿元建设牙根二级水电站",
@@ -44,6 +45,31 @@
           "time_info": "18时13分"
         },
         {
+          "title": "随着中国降水线北移，南水北调工程还有必要吗？",
+          "url": "https://www.zhihu.com/question/1965460526583777091",
+          "source": "知乎",
+          "ranks": [
+            10,
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 23时52分]"
+        },
+        {
+          "title": "国常会：听取对服务业扩能提质和“六张网”规划建设督查情况汇报",
+          "url": "https://www.cls.cn/detail/2431671",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 23时52分]"
+        },
+        {
           "title": "伊朗副外长：美方针对在建的达尔赫温（Darkhwin）发电厂发起的袭击，是对伊朗和平基础设施的危险攻击；美方须对局势升级、不安全与不稳定加剧所引发的后果承担全部责任。伊朗在强烈谴责这一侵略行径的同时，将采取适当行动捍卫国家利益与安全。",
           "url": "https://flash.jin10.com/detail/20260720041116682800",
           "source": "金十数据",
@@ -54,18 +80,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时55分]"
-        },
-        {
-          "title": "随着中国降水线北移，南水北调工程还有必要吗？",
-          "url": "https://www.zhihu.com/question/1965460526583777091",
-          "source": "知乎",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 21时08分]"
         },
         {
           "title": "国际原子能机构称正调查伊朗在建核电站遭袭相关事宜",
@@ -180,17 +194,6 @@
           "time_info": "18时13分"
         },
         {
-          "title": "国常会：听取对服务业扩能提质和“六张网”规划建设督查情况汇报",
-          "url": "https://www.cls.cn/detail/2431671",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
           "title": "台积电(TSM.N)首席财务官：亚利桑那州工厂建设面临物理层面的制约；正与美国政府密切合作。",
           "url": "https://flash.jin10.com/detail/20260720070044294800",
           "source": "金十数据",
@@ -208,7 +211,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
