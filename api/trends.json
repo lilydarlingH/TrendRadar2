@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T06:55:00.286925+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-07-20T08:00:59.278043+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 4,
+      "match_count": 10,
       "titles": [
         {
           "title": "上海标志性太空算力星座工程发布 剑指千星部署 商业航天再迎催化",
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 06时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 08时00分]"
         },
         {
           "title": "伊朗副外长：美方针对在建的达尔赫温（Darkhwin）发电厂发起的袭击，是对伊朗和平基础设施的危险攻击；美方须对局势升级、不安全与不稳定加剧所引发的后果承担全部责任。伊朗在强烈谴责这一侵略行径的同时，将采取适当行动捍卫国家利益与安全。",
@@ -54,6 +54,72 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时55分]"
+        },
+        {
+          "title": "台积电CFO：看到AI芯片有“强劲且可持续多年”的需求。 亚利桑那州工厂建设存在物理制约因素，正与美国政府紧密合作。 若市场时机有利，不排除发行债券来资助资本支出。",
+          "url": "https://wallstreetcn.com/livenews/3136379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
+        },
+        {
+          "title": "英国7月Rightmove平均房屋要价指数年率 -0.4%，前值-0.50%。",
+          "url": "https://flash.jin10.com/detail/20260720070222759800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
+        },
+        {
+          "title": "英国7月Rightmove平均房屋要价指数同比 -0.4%，前值 -0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3136378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
+        },
+        {
+          "title": "英国7月Rightmove平均房屋要价指数月率 -1%，前值-0.60%。",
+          "url": "https://flash.jin10.com/detail/20260720070214743800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
+        },
+        {
+          "title": "英国7月Rightmove平均房屋要价指数环比 -1%，前值 -0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3136377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
+        },
+        {
+          "title": "台积电(TSM.N)首席财务官：亚利桑那州工厂建设面临物理层面的制约；正与美国政府密切合作。",
+          "url": "https://flash.jin10.com/detail/20260720070044294800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时00分"
         }
       ]
     }
