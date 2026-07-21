@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T13:53:45.503606+08:00",
-  "total_titles_processed": 902,
+  "generated_at": "2026-07-21T16:32:59.570217+08:00",
+  "total_titles_processed": 1068,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             6,
             9,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时05分 ~ 13时53分]"
+          "appearance_count": 8,
+          "time_info": "[02时05分 ~ 16时32分]"
         },
         {
           "title": "越来越多物业主动“开掉”业主",
@@ -62,11 +63,12 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 13时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 16时32分]"
         },
         {
           "title": "阿联酋阿布扎比国家石油公司ADNOC：最终投资决定涵盖了由ADNOC授予联合体、总价值达51亿美元的大型海上基础设施EPC（设计、采购与施工）合同包。",
@@ -75,7 +77,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
