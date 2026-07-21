@@ -1,165 +1,33 @@
 {
-  "generated_at": "2026-07-21T23:45:59.465301+08:00",
-  "total_titles_processed": 1542,
+  "generated_at": "2026-07-22T01:22:08.595579+08:00",
+  "total_titles_processed": 317,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 13,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "物业大撤场,小区业主挠破头",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356335&amp;topic_name=%E7%89%A9%E4%B8%9A%E5%A4%A7%E6%92%A4%E5%9C%BA%2C%E5%B0%8F%E5%8C%BA%E4%B8%9A%E4%B8%BB%E6%8C%A0%E7%A0%B4%E5%A4%B4",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            9,
-            13,
-            19,
-            24,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时05分 ~ 23时45分]"
-        },
-        {
-          "title": "国常会：听取对服务业扩能提质和“六张网”规划建设督查情况汇报",
-          "url": "https://www.cls.cn/detail/2431671",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 07时11分]"
-        },
-        {
-          "title": "光伏行业能耗、能效强制性国家标准宣贯会在江苏无锡举办",
-          "url": "https://wallstreetcn.com/livenews/3137538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时10分"
-        },
-        {
-          "title": "越来越多物业主动“开掉”业主",
-          "url": "https://www.toutiao.com/trending/7663683747670163475/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 13时53分]"
-        },
-        {
-          "title": "周一（7月20日），美股行业ETF多数收跌，生物科技指数ETF跌1.70%，医疗业ETF、银行业ETF、区域银行ETF至多跌1.14%。 科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨0.29%，半导体ETF涨0.34%，能源业ETF涨0.49%。 标普500指数的11个板块中，保健板块收跌1.15%，原材料、工业、房地产、金融、可选消费板块至多跌0.94%，信息技术/科技板块涨0.1%，能源部那张0.55%，电信板块涨0.74%。",
-          "url": "https://wallstreetcn.com/livenews/3137077",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 06时02分]"
-        },
-        {
-          "title": "越来越多物业主动“开掉”业主",
-          "url": "https://www.baidu.com/s?wd=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E7%89%A9%E4%B8%9A%E4%B8%BB%E5%8A%A8%E2%80%9C%E5%BC%80%E6%8E%89%E2%80%9D%E4%B8%9A%E4%B8%BB",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 16时32分]"
-        },
-        {
-          "title": "大理苍山景区电梯个人码收费",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%90%86%E8%8B%8D%E5%B1%B1%E6%99%AF%E5%8C%BA%E7%94%B5%E6%A2%AF%E4%B8%AA%E4%BA%BA%E7%A0%81%E6%94%B6%E8%B4%B9%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时52分 ~ 21时53分]"
-        },
         {
           "title": "装修工人封顶将工友封进夹层",
           "url": "https://www.baidu.com/s?wd=%E8%A3%85%E4%BF%AE%E5%B7%A5%E4%BA%BA%E5%B0%81%E9%A1%B6%E5%B0%86%E5%B7%A5%E5%8F%8B%E5%B0%81%E8%BF%9B%E5%A4%B9%E5%B1%82",
           "source": "百度热搜",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时45分"
-        },
-        {
-          "title": "阿联酋阿布扎比国家石油公司ADNOC：最终投资决定涵盖了由ADNOC授予联合体、总价值达51亿美元的大型海上基础设施EPC（设计、采购与施工）合同包。",
-          "url": "https://flash.jin10.com/detail/20260721133007914800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 01时22分]"
         },
         {
-          "title": "标普500指数初步收跌0.2%，保健板块跌1%，原材料、工业、房地产板块至多跌0.9%，科技板块大致收平，电信板块涨0.8%。 纳斯达克100指数初步大致收平，成分股中，“新成员”霍尼韦尔航空初步收跌4.5%，，西部数据跌3.7%，RKLB跌3.1%，SpaceX跌3%，特斯拉跌2.8%，苹果跌2%，拼多多涨2.4%，闪迪涨2.7%，Strategy涨3%，泰瑞达涨3.4%，Lumentum涨4.5%。 美股存储芯片指数高开低走，初步收涨大约1.3%于日低附近；费城半导体指数涨0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3137070",
-          "source": "华尔街见闻-快讯",
+          "title": "物业大撤场,小区业主挠破头",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356335&amp;topic_name=%E7%89%A9%E4%B8%9A%E5%A4%A7%E6%92%A4%E5%9C%BA%2C%E5%B0%8F%E5%8C%BA%E4%B8%9A%E4%B8%BB%E6%8C%A0%E7%A0%B4%E5%A4%B4",
+          "source": "贴吧",
           "ranks": [
-            9
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时23分"
-        },
-        {
-          "title": "男孩高考后去工地搬钢筋挣钱",
-          "url": "https://www.toutiao.com/trending/7664373548546506771/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "北京：下半年将布局建设Token工厂 力争新增智能算力5万P",
-          "url": "https://wallstreetcn.com/livenews/3137590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "衡德高速改扩建工程转体桥成功跨越石德铁路",
-          "url": "https://wallstreetcn.com/livenews/3137506",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时10分"
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 01时22分]"
         }
       ]
     }
