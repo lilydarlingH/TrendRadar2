@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T07:11:24.924031+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2026-07-21T10:45:58.113089+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "国常会：听取对服务业扩能提质和“六张网”规划建设督查情况汇报",
@@ -24,11 +24,23 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356335&amp;topic_name=%E7%89%A9%E4%B8%9A%E5%A4%A7%E6%92%A4%E5%9C%BA%2C%E5%B0%8F%E5%8C%BA%E4%B8%9A%E4%B8%BB%E6%8C%A0%E7%A0%B4%E5%A4%B4",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 07时11分]"
+          "appearance_count": 6,
+          "time_info": "[02时05分 ~ 10时45分]"
+        },
+        {
+          "title": "越来越多物业主动“开掉”业主",
+          "url": "https://www.toutiao.com/trending/7663683747670163475/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "周一（7月20日），美股行业ETF多数收跌，生物科技指数ETF跌1.70%，医疗业ETF、银行业ETF、区域银行ETF至多跌1.14%。 科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨0.29%，半导体ETF涨0.34%，能源业ETF涨0.49%。 标普500指数的11个板块中，保健板块收跌1.15%，原材料、工业、房地产、金融、可选消费板块至多跌0.94%，信息技术/科技板块涨0.1%，能源部那张0.55%，电信板块涨0.74%。",
@@ -52,6 +64,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        },
+        {
+          "title": "男孩高考后去工地搬钢筋挣钱",
+          "url": "https://www.toutiao.com/trending/7664373548546506771/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "越来越多物业主动“开掉”业主",
+          "url": "https://www.baidu.com/s?wd=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E7%89%A9%E4%B8%9A%E4%B8%BB%E5%8A%A8%E2%80%9C%E5%BC%80%E6%8E%89%E2%80%9D%E4%B8%9A%E4%B8%BB",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         }
       ]
     }
