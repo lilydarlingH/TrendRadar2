@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T21:53:24.225784+08:00",
-  "total_titles_processed": 1405,
+  "generated_at": "2026-07-21T23:45:59.465301+08:00",
+  "total_titles_processed": 1542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "物业大撤场,小区业主挠破头",
@@ -17,11 +17,12 @@
             13,
             19,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时05分 ~ 21时53分]"
+          "appearance_count": 12,
+          "time_info": "[02时05分 ~ 23时45分]"
         },
         {
           "title": "国常会：听取对服务业扩能提质和“六张网”规划建设督查情况汇报",
@@ -95,6 +96,17 @@
           "time_info": "[21时52分 ~ 21时53分]"
         },
         {
+          "title": "装修工人封顶将工友封进夹层",
+          "url": "https://www.baidu.com/s?wd=%E8%A3%85%E4%BF%AE%E5%B7%A5%E4%BA%BA%E5%B0%81%E9%A1%B6%E5%B0%86%E5%B7%A5%E5%8F%8B%E5%B0%81%E8%BF%9B%E5%A4%B9%E5%B1%82",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "阿联酋阿布扎比国家石油公司ADNOC：最终投资决定涵盖了由ADNOC授予联合体、总价值达51亿美元的大型海上基础设施EPC（设计、采购与施工）合同包。",
           "url": "https://flash.jin10.com/detail/20260721133007914800",
           "source": "金十数据",
@@ -134,7 +146,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
