@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T11:34:31.450284+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2026-07-22T14:32:46.264942+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "装修工人封顶将工友封进夹层",
@@ -34,6 +34,17 @@
           "time_info": "[01时21分 ~ 11时34分]"
         },
         {
+          "title": "澳外长宣称：中国要就军事建设做出保证",
+          "url": "https://news.ifeng.com/c/8uxc6goCNKL",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时34分 ~ 14时32分]"
+        },
+        {
           "title": "核能企业Oklo和X-energy已加入特朗普政府推动的新核反应堆建设计划，旨在加快为人工智能数据中心提供能源支持。",
           "url": "https://flash.jin10.com/detail/20260722044021391800",
           "source": "金十数据",
@@ -43,17 +54,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
-        },
-        {
-          "title": "澳外长宣称：中国要就军事建设做出保证",
-          "url": "https://news.ifeng.com/c/8uxc6goCNKL",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时34分"
         },
         {
           "title": "大理苍山景区电梯用个人码收费",
@@ -75,7 +75,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -86,7 +86,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -97,9 +97,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
+        },
+        {
+          "title": "Oklo、X-Energy股价暴涨 据称入选白宫AI核电建设加速计划",
+          "url": "https://www.cls.cn/detail/2433228",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "多地加紧推进重大项目建设，助力三季度经济稳增长",
@@ -119,7 +130,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -130,7 +141,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -141,7 +152,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
