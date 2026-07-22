@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T03:22:25.328949+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-07-23T05:10:07.416831+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 05时10分]"
         },
         {
           "title": "从“靠天发电”到可控发电：光伏告别规模扩张后 AI与光储融合构筑新增长底座",
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 05时10分]"
         }
       ]
     }
