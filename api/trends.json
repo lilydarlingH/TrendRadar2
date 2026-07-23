@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T19:14:08.213359+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2026-07-23T22:03:38.631703+08:00",
+  "total_titles_processed": 1441,
   "failed_sources": [],
   "trends": [
     {
@@ -70,11 +70,12 @@
           "url": "https://www.cls.cn/detail/2435048",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 22时03分]"
         },
         {
           "title": "为何越来越多物业主动“开掉”业主",
@@ -127,7 +128,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
