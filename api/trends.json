@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T04:14:08.843423+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-07-24T06:05:57.025255+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 04时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 06时05分]"
         },
         {
           "title": "上海地产集团8比5米粒乒乓球特长生",
@@ -27,8 +27,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 04时14分]"
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 06时05分]"
         },
         {
           "title": "花旗包括Andrew Gardiner在内的分析师在一份报告中指出：意法半导体（STMicroelectronics NV）业绩展望显示出终端市场正在建立周期性复苏，且AI/数据中心的增长持续加速。 但相应的，市场预期和股价今年也已大幅上涨。在缺乏进一步上调盈利预期的动力下，该股短期内可能面临压力。",
@@ -37,7 +37,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         }
