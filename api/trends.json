@@ -1,158 +1,22 @@
 {
-  "generated_at": "2026-07-23T22:03:38.631703+08:00",
-  "total_titles_processed": 1441,
+  "generated_at": "2026-07-24T00:40:08.426726+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 13,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "体育强国建设“十五五”规划发布：加强体育饭圈乱象整治、杜绝运动员网红化",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33636542",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时21分 ~ 16时33分]"
-        },
-        {
-          "title": "从“靠天发电”到可控发电：光伏告别规模扩张后 AI与光储融合构筑新增长底座",
-          "url": "https://www.cls.cn/detail/2434259",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 07时06分]"
-        },
-        {
-          "title": "马斯克：特斯拉正在进行二战以来美国最快的工业规模扩张。 我们试图在美国生产大量光伏产品。",
-          "url": "https://wallstreetcn.com/livenews/3138455",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "A股光伏设备午后走强，赛伍技术涨停，德业股份、艾罗能源、阳光电源、锦浪科技、固德威跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3138635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "分析师：电话会进一步证实，特斯拉仍处于“建设模式”，可能会继续如此",
-          "url": "https://wallstreetcn.com/livenews/3138453",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
         {
           "title": "建设更具世界影响力的社会主义国际文化大都市，上海擘画未来五年新蓝图！",
           "url": "https://www.cls.cn/detail/2435048",
           "source": "财联社热门",
           "ranks": [
-            8,
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 22时03分]"
-        },
-        {
-          "title": "为何越来越多物业主动“开掉”业主",
-          "url": "https://www.toutiao.com/trending/7664769718138699785/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时48分 ~ 10时49分]"
-        },
-        {
-          "title": "A股光伏设备板块午后走强，赛伍技术涨停，德业股份、艾罗能源、阳光电源、锦浪科技、固德威等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260723134118095800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：与俄罗斯外长拉夫罗夫进行了良好而坦诚的对话。 美国已准备好发挥建设性作用，以结束这场“无谓的战争”。 伊朗曾计划将导弹库存翻倍。 看来伊朗还没准备好达成协议。 伊朗每天都在恳求美国达成协议。 伊朗将继续付出代价，每晚的代价都在升高。 （谈红海局势）希望胡塞武装停止（行动）。 沙特一直是美国的重要战略伙伴。",
-          "url": "https://wallstreetcn.com/livenews/3138721",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "“太空光伏工作组”将成立 拟构建太空光伏领域标准体系框架",
-          "url": "https://flash.jin10.com/detail/20260723133522259800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "鹏鼎控股：拟投资人民币100亿元资新建深圳第三园区，并建设人工智能高阶类载板及柔性电路板智造基地项目，本项目计划自2026年7月启动，至2033年建成投产。",
-          "url": "https://wallstreetcn.com/livenews/3138799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "体育概念股开盘活跃，舒华体育触及涨停，共创草坪、金陵体育、华洋赛车、中体产业、粤传媒等多股高开，体育总局发布《体育强国建设“十五五”规划》。",
-          "url": "https://wallstreetcn.com/livenews/3138519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "上海：深化债券市场“科技板”建设",
-          "url": "https://wallstreetcn.com/livenews/3138597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
+          "time_info": "[00时39分 ~ 00时40分]"
         }
       ]
     }
