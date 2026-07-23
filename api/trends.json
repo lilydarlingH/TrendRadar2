@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T16:33:13.874862+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2026-07-23T19:14:08.213359+08:00",
+  "total_titles_processed": 1252,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "体育强国建设“十五五”规划发布：加强体育饭圈乱象整治、杜绝运动员网红化",
@@ -66,6 +66,17 @@
           "time_info": "07时06分"
         },
         {
+          "title": "建设更具世界影响力的社会主义国际文化大都市，上海擘画未来五年新蓝图！",
+          "url": "https://www.cls.cn/detail/2435048",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时14分]"
+        },
+        {
           "title": "为何越来越多物业主动“开掉”业主",
           "url": "https://www.toutiao.com/trending/7664769718138699785/",
           "source": "今日头条",
@@ -94,7 +105,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -108,6 +119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
+        },
+        {
+          "title": "鹏鼎控股：拟投资人民币100亿元资新建深圳第三园区，并建设人工智能高阶类载板及柔性电路板智造基地项目，本项目计划自2026年7月启动，至2033年建成投产。",
+          "url": "https://wallstreetcn.com/livenews/3138799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "体育概念股开盘活跃，舒华体育触及涨停，共创草坪、金陵体育、华洋赛车、中体产业、粤传媒等多股高开，体育总局发布《体育强国建设“十五五”规划》。",
