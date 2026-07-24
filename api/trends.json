@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T21:48:42.098746+08:00",
-  "total_titles_processed": 1488,
+  "generated_at": "2026-07-24T23:27:57.638497+08:00",
+  "total_titles_processed": 1614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "建设更具世界影响力的社会主义国际文化大都市，上海擘画未来五年新蓝图！",
@@ -31,6 +31,29 @@
           "time_info": "11时36分"
         },
         {
+          "title": "全国首条穿越长江高铁隧道贯通，这是一个怎样的工程？在长江底下挖高铁隧道，有多难？",
+          "url": "https://www.zhihu.com/question/2063952005505324990",
+          "source": "知乎",
+          "ranks": [
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 23时27分]"
+        },
+        {
+          "title": "缅北“四大家族”犯罪集团被彻底摧毁，园区630余栋建筑全拆除",
+          "url": "https://news.ifeng.com/c/8v1N00AaxqZ",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 23时27分]"
+        },
+        {
           "title": "上海地产集团8比5米粒乒乓球特长生",
           "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E4%BA%A7%E9%9B%86%E5%9B%A28%E6%AF%945%E7%B1%B3%E7%B2%92%E4%B9%92%E4%B9%93%E7%90%83%E7%89%B9%E9%95%BF%E7%94%9F",
           "source": "百度热搜",
@@ -43,27 +66,16 @@
           "time_info": "[04时13分 ~ 08时02分]"
         },
         {
-          "title": "全国首条穿越长江高铁隧道贯通，这是一个怎样的工程？在长江底下挖高铁隧道，有多难？",
-          "url": "https://www.zhihu.com/question/2063952005505324990",
-          "source": "知乎",
+          "title": "野猴坐工地狂喝饮料 工人一脸无奈",
+          "url": "https://www.baidu.com/s?wd=%E9%87%8E%E7%8C%B4%E5%9D%90%E5%B7%A5%E5%9C%B0%E7%8B%82%E5%96%9D%E9%A5%AE%E6%96%99+%E5%B7%A5%E4%BA%BA%E4%B8%80%E8%84%B8%E6%97%A0%E5%A5%88",
+          "source": "百度热搜",
           "ranks": [
-            16,
-            10
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 21时48分]"
-        },
-        {
-          "title": "缅北“四大家族”犯罪集团被彻底摧毁，园区630余栋建筑全拆除",
-          "url": "https://news.ifeng.com/c/8v1N00AaxqZ",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 21时48分]"
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 23时27分]"
         },
         {
           "title": "物业大撤退背后发生了什么",
@@ -76,17 +88,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时44分 ~ 21时48分]"
-        },
-        {
-          "title": "野猴坐工地狂喝饮料 工人一脸无奈",
-          "url": "https://www.baidu.com/s?wd=%E9%87%8E%E7%8C%B4%E5%9D%90%E5%B7%A5%E5%9C%B0%E7%8B%82%E5%96%9D%E9%A5%AE%E6%96%99+%E5%B7%A5%E4%BA%BA%E4%B8%80%E8%84%B8%E6%97%A0%E5%A5%88",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
         },
         {
           "title": "工信部公开征求《汽车芯片信息安全技术规范》等10项推荐性国家标准报批意见。",
@@ -109,6 +110,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
+        },
+        {
+          "title": "专访菲尔兹奖得主王虹：曾考虑“转行”建筑，证明挂谷猜想并非最初目标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33649332",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "花旗包括Andrew Gardiner在内的分析师在一份报告中指出：意法半导体（STMicroelectronics NV）业绩展望显示出终端市场正在建立周期性复苏，且AI/数据中心的增长持续加速。 但相应的，市场预期和股价今年也已大幅上涨。在缺乏进一步上调盈利预期的动力下，该股短期内可能面临压力。",
