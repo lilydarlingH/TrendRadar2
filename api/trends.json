@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T17:24:28.483956+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2026-07-24T19:44:29.337053+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "建设更具世界影响力的社会主义国际文化大都市，上海擘画未来五年新蓝图！",
@@ -43,15 +43,27 @@
           "time_info": "[04时13分 ~ 08时02分]"
         },
         {
+          "title": "全国首条穿越长江高铁隧道贯通，这是一个怎样的工程？在长江底下挖高铁隧道，有多难？",
+          "url": "https://www.zhihu.com/question/2063952005505324990",
+          "source": "知乎",
+          "ranks": [
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 19时44分]"
+        },
+        {
           "title": "缅北“四大家族”犯罪集团被彻底摧毁，园区630余栋建筑全拆除",
           "url": "https://news.ifeng.com/c/8v1N00AaxqZ",
           "source": "凤凰网",
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 19时44分]"
         },
         {
           "title": "工信部公开征求《汽车芯片信息安全技术规范》等10项推荐性国家标准报批意见。",
@@ -65,24 +77,13 @@
           "time_info": "11时36分"
         },
         {
-          "title": "全国首条穿越长江高铁隧道贯通，这是一个怎样的工程？在长江底下挖高铁隧道，有多难？",
-          "url": "https://www.zhihu.com/question/2063952005505324990",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
           "title": "中国人民银行：中国人民银行将在7月29日至7月31日、8月3日开展隔夜逆回购操作，采用固定利率、数量招标。7月29日至7月31日每日开展6000亿元，8月3日开展3000亿元。",
           "url": "https://flash.jin10.com/detail/20260724170133838800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -104,7 +105,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -115,7 +116,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -129,6 +130,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
+        },
+        {
+          "title": "物业大撤退背后发生了什么",
+          "url": "https://www.toutiao.com/trending/7665948964046471211/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "乒超：林诗栋领衔上海地产冲3连胜",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%92%E8%B6%85%EF%BC%9A%E6%9E%97%E8%AF%97%E6%A0%8B%E9%A2%86%E8%A1%94%E4%B8%8A%E6%B5%B7%E5%9C%B0%E4%BA%A7%E5%86%B23%E8%BF%9E%E8%83%9C",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "中船特气：年产3383吨高纯硫化氢等电子气体建设项目新增1000吨/年六氟化钨产能预计将于2027年建成投产",
+          "url": "https://flash.jin10.com/detail/20260724191924583800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "上半年量价承压，光伏产业链反转拐点或临近",
