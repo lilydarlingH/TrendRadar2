@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-25T01:53:40.885427+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-25T03:27:02.839935+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "野猴坐工地狂喝饮料 工人一脸无奈",
           "url": "https://www.baidu.com/s?wd=%E9%87%8E%E7%8C%B4%E5%9D%90%E5%B7%A5%E5%9C%B0%E7%8B%82%E5%96%9D%E9%A5%AE%E6%96%99+%E5%B7%A5%E4%BA%BA%E4%B8%80%E8%84%B8%E6%97%A0%E5%A5%88",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时27分]"
         },
         {
           "title": "全国首条穿越长江高铁隧道贯通，这是一个怎样的工程？在长江底下挖高铁隧道，有多难？",
@@ -26,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时27分]"
         },
         {
           "title": "缅北“四大家族”犯罪集团被彻底摧毁，园区630余栋建筑全拆除",
@@ -37,8 +38,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时27分]"
         },
         {
           "title": "专访菲尔兹奖得主王虹：曾考虑“转行”建筑，证明挂谷猜想并非最初目标",
@@ -48,8 +49,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时27分]"
+        },
+        {
+          "title": "物业大撤退背后发生了什么",
+          "url": "https://www.toutiao.com/trending/7665948964046471211/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 03时27分]"
         }
       ]
     }
