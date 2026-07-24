@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T14:28:07.511643+08:00",
-  "total_titles_processed": 998,
+  "generated_at": "2026-07-24T17:24:28.483956+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "建设更具世界影响力的社会主义国际文化大都市，上海擘画未来五年新蓝图！",
@@ -43,6 +43,17 @@
           "time_info": "[04时13分 ~ 08时02分]"
         },
         {
+          "title": "缅北“四大家族”犯罪集团被彻底摧毁，园区630余栋建筑全拆除",
+          "url": "https://news.ifeng.com/c/8v1N00AaxqZ",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "工信部公开征求《汽车芯片信息安全技术规范》等10项推荐性国家标准报批意见。",
           "url": "https://flash.jin10.com/detail/20260724105922784800",
           "source": "金十数据",
@@ -54,6 +65,28 @@
           "time_info": "11时36分"
         },
         {
+          "title": "全国首条穿越长江高铁隧道贯通，这是一个怎样的工程？在长江底下挖高铁隧道，有多难？",
+          "url": "https://www.zhihu.com/question/2063952005505324990",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "中国人民银行：中国人民银行将在7月29日至7月31日、8月3日开展隔夜逆回购操作，采用固定利率、数量招标。7月29日至7月31日每日开展6000亿元，8月3日开展3000亿元。",
+          "url": "https://flash.jin10.com/detail/20260724170133838800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "花旗包括Andrew Gardiner在内的分析师在一份报告中指出：意法半导体（STMicroelectronics NV）业绩展望显示出终端市场正在建立周期性复苏，且AI/数据中心的增长持续加速。 但相应的，市场预期和股价今年也已大幅上涨。在缺乏进一步上调盈利预期的动力下，该股短期内可能面临压力。",
           "url": "https://wallstreetcn.com/livenews/3139028",
           "source": "华尔街见闻-快讯",
@@ -63,6 +96,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "江南化工公告，公司2026年1-6月新签或开始执行的爆破服务工程类日常经营合同金额合计58.68亿元。",
+          "url": "https://flash.jin10.com/detail/20260724165651729800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "黑龙江隧道施工遇上洞内“回南天”",
+          "url": "https://www.toutiao.com/trending/7665958922729979950/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "军工板块异动拉升，长城军工2连板，中光防雷20cm涨停，北方长龙、北自科技、江龙船艇、建设工业涨幅居前。",
