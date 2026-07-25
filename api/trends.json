@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-26T03:22:56.873495+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-07-26T04:55:23.806847+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "据以色列广播局：在以色列国家安全部长本·格维尔住宅附近坠毁的无人机仅携带了摄像头。",
+          "url": "https://flash.jin10.com/detail/20260726041034041800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
         {
           "title": "实地探秘造价140亿的邮轮体验",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E5%9C%B0%E6%8E%A2%E7%A7%98%E9%80%A0%E4%BB%B7140%E4%BA%BF%E7%9A%84%E9%82%AE%E8%BD%AE%E4%BD%93%E9%AA%8C",
@@ -18,6 +29,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时01分 ~ 03时22分]"
+        },
+        {
+          "title": "以色列国家安全部长办公室：在部长本-格维尔住宅附近坠毁的无人机已由以色列国防军回收，无人员伤亡。部长及其家人状况良好。",
+          "url": "https://flash.jin10.com/detail/20260726034612336800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "据以色列方面报道，一架无人机在以色列国家安全部长本-格维尔位于希伯伦的住宅附近坠毁。细节正在调查中。",
+          "url": "https://flash.jin10.com/detail/20260726034033729800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
         }
       ]
     }
