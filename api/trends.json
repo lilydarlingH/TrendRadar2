@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T05:58:16.238691+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-07-26T06:59:52.412543+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时55分 ~ 05时58分]"
+          "appearance_count": 3,
+          "time_info": "[04时55分 ~ 06时59分]"
         },
         {
           "title": "实地探秘造价140亿的邮轮体验",
@@ -37,11 +38,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时55分 ~ 05时58分]"
+          "appearance_count": 3,
+          "time_info": "[04时55分 ~ 06时59分]"
         },
         {
           "title": "据以色列方面报道，一架无人机在以色列国家安全部长本-格维尔位于希伯伦的住宅附近坠毁。细节正在调查中。",
@@ -49,11 +51,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时55分 ~ 05时58分]"
+          "appearance_count": 3,
+          "time_info": "[04时55分 ~ 06时59分]"
         }
       ]
     }
