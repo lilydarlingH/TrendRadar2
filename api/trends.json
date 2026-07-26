@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T08:05:50.491453+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2026-07-26T12:28:19.923366+08:00",
+  "total_titles_processed": 713,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "实地探秘造价140亿的邮轮体验",
@@ -14,11 +14,23 @@
           "ranks": [
             5,
             8,
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 12时28分]"
+        },
+        {
+          "title": "郑州银行利润 18.95 亿却不分红，将 3.37 亿砸进总部大楼建设，中小股东的反对票说明了什么？",
+          "url": "https://www.zhihu.com/question/2063564177688597653",
+          "source": "知乎",
+          "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 08时05分]"
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 12时28分]"
         },
         {
           "title": "据以色列广播局：在以色列国家安全部长本·格维尔住宅附近坠毁的无人机仅携带了摄像头。",
