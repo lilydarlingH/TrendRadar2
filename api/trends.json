@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T19:28:31.691135+08:00",
-  "total_titles_processed": 1089,
+  "generated_at": "2026-07-26T21:25:16.113581+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时27分 ~ 19时28分]"
+          "appearance_count": 8,
+          "time_info": "[12时27分 ~ 21时25分]"
         },
         {
           "title": "实地探秘造价140亿的邮轮体验",
@@ -41,11 +41,12 @@
           "url": "https://www.toutiao.com/trending/7665882531048308790/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 21时25分]"
         },
         {
           "title": "如何看待敦煌融媒体中心 90 万招聘 24 岁美国人任双语主播？外国主播对景区提升海外影响力有助力吗？",
@@ -54,7 +55,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
