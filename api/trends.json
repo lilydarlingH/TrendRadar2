@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T15:33:52.386968+08:00",
-  "total_titles_processed": 949,
+  "generated_at": "2026-07-27T19:24:42.411852+08:00",
+  "total_titles_processed": 1147,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "业主拒交2年物业费被起诉 法院判了",
@@ -75,6 +75,28 @@
           "time_info": "[11时57分 ~ 15时33分]"
         },
         {
+          "title": "国家能源局：按照天然气“全国一张网”规划及实施方案 推进鄂东区域煤层气输气管网建设",
+          "url": "https://flash.jin10.com/detail/20260727184714900800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "国家能源局：按照天然气“全国一张网”规划及实施方案 推进鄂东区域煤层气输气管网建设",
+          "url": "https://wallstreetcn.com/livenews/3140264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "今年上半年全国实施水利项目3.3万个，完成水利建设投资5151亿元",
           "url": "https://wallstreetcn.com/livenews/3139988",
           "source": "华尔街见闻-快讯",
@@ -84,6 +106,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
+        },
+        {
+          "title": "汇丰控股计划在新加坡招聘100多名人工智能专家",
+          "url": "https://flash.jin10.com/detail/20260727183139245800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "市场监管总局发布多项船舶救生领域国家标准",
+          "url": "https://wallstreetcn.com/livenews/3140243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         }
       ]
     }
