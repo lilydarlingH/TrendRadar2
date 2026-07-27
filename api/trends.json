@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T00:59:38.436857+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-28T02:27:50.490569+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "美国总统特朗普：正在建造大量爱国者导弹。",
@@ -17,6 +17,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "美国众议员南希·梅斯再次呼吁推动对南卡罗来纳州新的数据中心建设实施为期一年的暂停。",
+          "url": "https://flash.jin10.com/detail/20260728014000012800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时27分"
+        },
+        {
+          "title": "房地产市场筑底回稳态势增强，发展模式加速转型",
+          "url": "https://wallstreetcn.com/livenews/3140453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时27分"
         },
         {
           "title": "英国首相伯纳姆：下次预算不会改变或取消房地产购买印花税。",
