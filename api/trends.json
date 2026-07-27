@@ -1,166 +1,33 @@
 {
-  "generated_at": "2026-07-27T22:38:10.968995+08:00",
-  "total_titles_processed": 1326,
+  "generated_at": "2026-07-28T00:59:38.436857+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 13,
+      "match_count": 2,
       "titles": [
         {
-          "title": "业主拒交2年物业费被起诉 法院判了",
-          "url": "https://www.toutiao.com/trending/7665882531048308790/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时03分 ~ 15时33分]"
-        },
-        {
-          "title": "经纬度：推动房地产高质量发展，构建房地产发展新模式",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33651642",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            13,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时03分 ~ 15时33分]"
-        },
-        {
-          "title": "郑州银行利润 18.95 亿却不分红，将 3.37 亿砸进总部大楼建设，中小股东的反对票说明了什么？",
-          "url": "https://www.zhihu.com/question/2063564177688597653",
-          "source": "知乎",
-          "ranks": [
-            13,
-            17,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 06时07分]"
-        },
-        {
-          "title": "叙利亚外长：感谢联合国秘书长古特雷斯对叙利亚的访问。与古特雷斯先生讨论了多个共同关心的议题，包括联合国在支持恢复优先事项、人权、经济发展等方面的作用，以增强叙利亚在建设更稳定未来方面的努力。",
-          "url": "https://flash.jin10.com/detail/20260727015653912800",
+          "title": "美国总统特朗普：正在建造大量爱国者导弹。",
+          "url": "https://flash.jin10.com/detail/20260728002940114800",
           "source": "金十数据",
           "ranks": [
-            10,
-            22
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 05时00分]"
+          "appearance_count": 1,
+          "time_info": "00时59分"
         },
         {
-          "title": "实地探秘造价140亿的邮轮体验",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E5%9C%B0%E6%8E%A2%E7%A7%98%E9%80%A0%E4%BB%B7140%E4%BA%BF%E7%9A%84%E9%82%AE%E8%BD%AE%E4%BD%93%E9%AA%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 15时33分]"
-        },
-        {
-          "title": "国务院国资委：将深入推进央企“AI+”专项行动，加快算力基础设施建设",
-          "url": "https://wallstreetcn.com/livenews/3140376",
+          "title": "英国首相伯纳姆：下次预算不会改变或取消房地产购买印花税。",
+          "url": "https://wallstreetcn.com/livenews/3140412",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时38分"
-        },
-        {
-          "title": "国家能源局：按照天然气“全国一张网”规划及实施方案 推进鄂东区域煤层气输气管网建设",
-          "url": "https://flash.jin10.com/detail/20260727184714900800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "国家能源局：按照天然气“全国一张网”规划及实施方案 推进鄂东区域煤层气输气管网建设",
-          "url": "https://wallstreetcn.com/livenews/3140264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "今年上半年全国实施水利项目3.3万个，完成水利建设投资5151亿元",
-          "url": "https://wallstreetcn.com/livenews/3139988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "国务院国资委：将深入推进央企“AI+”专项行动 加快算力基础设施建设",
-          "url": "https://flash.jin10.com/detail/20260727215331373800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时38分"
-        },
-        {
-          "title": "汇丰控股计划在新加坡招聘100多名人工智能专家",
-          "url": "https://flash.jin10.com/detail/20260727183139245800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "市场监管总局发布多项船舶救生领域国家标准",
-          "url": "https://wallstreetcn.com/livenews/3140243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "恒大物业：有关潜在交易的讨论仍处于初步阶段",
-          "url": "https://wallstreetcn.com/livenews/3140353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时38分"
+          "time_info": "00时59分"
         }
       ]
     }
