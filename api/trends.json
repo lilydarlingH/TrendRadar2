@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T06:07:12.366094+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-07-27T08:02:43.039649+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,25 @@
           "source": "今日头条",
           "ranks": [
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 06时07分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 08时02分]"
+        },
+        {
+          "title": "经纬度：推动房地产高质量发展，构建房地产发展新模式",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33651642",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 08时02分]"
         },
         {
           "title": "郑州银行利润 18.95 亿却不分红，将 3.37 亿砸进总部大楼建设，中小股东的反对票说明了什么？",
@@ -28,18 +42,6 @@
             17,
             10,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 06时07分]"
-        },
-        {
-          "title": "经纬度：推动房地产高质量发展，构建房地产发展新模式",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33651642",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
           ],
           "is_new": false,
           "appearance_count": 7,
