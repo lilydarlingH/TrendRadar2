@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-28T08:04:58.830486+08:00",
-  "total_titles_processed": 674,
+  "generated_at": "2026-07-28T12:12:23.214352+08:00",
+  "total_titles_processed": 884,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "如何评价长春一汽 22 街区「书香门第」大娘装修事件?",
+          "url": "https://www.zhihu.com/question/2064387599721031437",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 12时12分]"
+        },
         {
           "title": "美国总统特朗普：正在建造大量爱国者导弹。",
           "url": "https://flash.jin10.com/detail/20260728002940114800",
@@ -23,11 +34,34 @@
           "url": "https://www.zhihu.com/question/2064587805762777523",
           "source": "知乎",
           "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 12时12分]"
+        },
+        {
+          "title": "3名工程师利用“取消订单”敛财被拘",
+          "url": "https://www.baidu.com/s?wd=3%E5%90%8D%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%88%A9%E7%94%A8%E2%80%9C%E5%8F%96%E6%B6%88%E8%AE%A2%E5%8D%95%E2%80%9D%E6%95%9B%E8%B4%A2%E8%A2%AB%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 12时12分]"
+        },
+        {
+          "title": "澳洲联储主席布洛克：房地产市场在金融环境是否紧缩方面是一个试金石。",
+          "url": "https://flash.jin10.com/detail/20260728115530280800",
+          "source": "金十数据",
+          "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时04分"
+          "time_info": "12时12分"
         },
         {
           "title": "美国众议员南希·梅斯再次呼吁推动对南卡罗来纳州新的数据中心建设实施为期一年的暂停。",
@@ -58,7 +92,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -80,9 +114,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "澳洲联储主席布洛克：我们看到经济放缓，房地产市场放缓的幅度超出预期。",
+          "url": "https://flash.jin10.com/detail/20260728113333770800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         }
       ]
     }
