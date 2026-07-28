@@ -1,300 +1,77 @@
 {
-  "generated_at": "2026-07-28T23:23:32.259258+08:00",
-  "total_titles_processed": 1545,
+  "generated_at": "2026-07-29T01:29:48.146204+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 26,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "如何评价长春一汽 22 街区「书香门第」大娘装修事件?",
-          "url": "https://www.zhihu.com/question/2064387599721031437",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 12时12分]"
-        },
-        {
-          "title": "部分能源资源行业企业城镇土地使用税政策将调整",
-          "url": "https://wallstreetcn.com/livenews/3140866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
-          "title": "美国总统特朗普：正在建造大量爱国者导弹。",
-          "url": "https://flash.jin10.com/detail/20260728002940114800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "两部门：调整部分能源资源行业企业城镇土地使用税政策",
-          "url": "https://wallstreetcn.com/livenews/3140864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
-          "title": "中国央行：二季度末人民币房地产贷款余额50.74万亿元，同比下降4.9%",
-          "url": "https://wallstreetcn.com/livenews/3140945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "财政部、国家税务总局：9月1日起对部分企业土地免征城镇土地使用税",
-          "url": "https://flash.jin10.com/detail/20260728160602156800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
-          "title": "如何看待 LV 回应起诉厦门一楼盘，称并非因四叶雕花装饰纹样，而是相关场所内存在涉嫌销售假冒商品？",
-          "url": "https://www.zhihu.com/question/2064587805762777523",
-          "source": "知乎",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 12时12分]"
-        },
-        {
-          "title": "男孩挡电梯等人被催促，其母动手打女孩后双方扭打，湖北仙桃警方已介入",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33672435",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时37分 ~ 23时23分]"
-        },
         {
           "title": "股价重返10元上方！建设银行创历史新高，银行板块月内活跃，哪些方向同样领跑？",
           "url": "https://www.cls.cn/detail/2439103",
           "source": "财联社热门",
           "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时56分 ~ 23时23分]"
-        },
-        {
-          "title": "3名工程师利用“取消订单”敛财被拘",
-          "url": "https://www.baidu.com/s?wd=3%E5%90%8D%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%88%A9%E7%94%A8%E2%80%9C%E5%8F%96%E6%B6%88%E8%AE%A2%E5%8D%95%E2%80%9D%E6%95%9B%E8%B4%A2%E8%A2%AB%E6%8B%98",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 12时12分]"
-        },
-        {
-          "title": "澳洲联储主席布洛克：房地产市场在金融环境是否紧缩方面是一个试金石。",
-          "url": "https://flash.jin10.com/detail/20260728115530280800",
-          "source": "金十数据",
-          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "美国众议员南希·梅斯再次呼吁推动对南卡罗来纳州新的数据中心建设实施为期一年的暂停。",
-          "url": "https://flash.jin10.com/detail/20260728014000012800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "女孩催促不要挡电梯被男孩母亲打",
-          "url": "https://www.toutiao.com/trending/7667339693469483027/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "房地产市场筑底回稳态势增强，发展模式加速转型",
-          "url": "https://wallstreetcn.com/livenews/3140453",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "财政部、国家税务总局：调整部分能源资源行业企业城镇土地使用税政策",
-          "url": "https://flash.jin10.com/detail/20260728160358132800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
-          "title": "首批完整社区建设可复制经验做法清单发布",
-          "url": "https://wallstreetcn.com/livenews/3141008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "财政部、国家税务总局：调整部分能源资源行业企业城镇土地使用税政策。",
-          "url": "https://flash.jin10.com/detail/20260728160250336800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
-          "title": "美国贸易代表格里尔：关税对利率根本没有任何影响。 与墨西哥围绕美国墨西哥加拿大贸易协议（USMCA）的对话一直都富有建设性。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3140546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "自助仓储领域首项国家标准8月1日起实施",
-          "url": "https://wallstreetcn.com/livenews/3140910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "英国首相伯纳姆：下次预算不会改变或取消房地产购买印花税。",
-          "url": "https://wallstreetcn.com/livenews/3140412",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "女孩催促不要挡电梯被男孩母亲打",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%82%AC%E4%BF%83%E4%B8%8D%E8%A6%81%E6%8C%A1%E7%94%B5%E6%A2%AF%E8%A2%AB%E7%94%B7%E5%AD%A9%E6%AF%8D%E4%BA%B2%E6%89%93%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "基本半导体港交所公告：本公司与承包商就建造碳化硅模块封装产线基地项目订立工程总承包合约。 据此，承包商同意承接本公司碳化硅模块封装产线基地的工程，合约价格总价为人民币1.933亿元。",
-          "url": "https://wallstreetcn.com/livenews/3140536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
+          "time_info": "01时29分"
         },
         {
           "title": "女孩催促不要挡电梯被男孩母亲打",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E5%82%AC%E4%BF%83%E4%B8%8D%E8%A6%81%E6%8C%A1%E7%94%B5%E6%A2%AF%E8%A2%AB%E7%94%B7%E5%AD%A9%E6%AF%8D%E4%BA%B2%E6%89%93",
           "source": "百度热搜",
           "ranks": [
-            27
+            12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时23分"
+          "time_info": "01时29分"
         },
         {
-          "title": "澳洲联储主席布洛克：我们看到经济放缓，房地产市场放缓的幅度超出预期。",
-          "url": "https://flash.jin10.com/detail/20260728113333770800",
+          "title": "男孩挡电梯等人被催促，其母动手打女孩后双方扭打，湖北仙桃警方已介入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33672435",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "石化公司英力士：英力士位于比利时安特卫普、总投资50亿欧元工程项目所需的两台关键模块设备中的第一台已于今日运抵，此前其曾长期滞留霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260729010022726800",
           "source": "金十数据",
           "ranks": [
-            28
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时12分"
+          "time_info": "01时29分"
         },
         {
-          "title": "市场消息：日本地震导致12栋建筑倒塌，警方称有四人被困。",
-          "url": "https://flash.jin10.com/detail/20260728175643588800",
-          "source": "金十数据",
+          "title": "女孩催促不要挡电梯被男孩母亲打",
+          "url": "https://www.toutiao.com/trending/7667339693469483027/",
+          "source": "今日头条",
           "ranks": [
-            29
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时37分"
+          "time_info": "01时29分"
         },
         {
-          "title": "上海市委财经工作委员会举行会议，研究“十五五”时期推进国际消费中心城市建设、推动未来产业发展",
-          "url": "https://wallstreetcn.com/livenews/3140986",
-          "source": "华尔街见闻-快讯",
+          "title": "男童挡电梯20秒等家长女子催促被打",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E6%8C%A1%E7%94%B5%E6%A2%AF20%E7%A7%92%E7%AD%89%E5%AE%B6%E9%95%BF%E5%A5%B3%E5%AD%90%E5%82%AC%E4%BF%83%E8%A2%AB%E6%89%93%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
           "ranks": [
-            30
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时56分"
+          "time_info": "01时29分"
         }
       ]
     }
