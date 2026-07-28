@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T12:12:23.214352+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2026-07-28T16:16:57.925448+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "如何评价长春一汽 22 街区「书香门第」大娘装修事件?",
@@ -19,6 +19,17 @@
           "time_info": "[12时11分 ~ 12时12分]"
         },
         {
+          "title": "部分能源资源行业企业城镇土地使用税政策将调整",
+          "url": "https://wallstreetcn.com/livenews/3140866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
           "title": "美国总统特朗普：正在建造大量爱国者导弹。",
           "url": "https://flash.jin10.com/detail/20260728002940114800",
           "source": "金十数据",
@@ -28,6 +39,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "两部门：调整部分能源资源行业企业城镇土地使用税政策",
+          "url": "https://wallstreetcn.com/livenews/3140864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "财政部、国家税务总局：9月1日起对部分企业土地免征城镇土地使用税",
+          "url": "https://flash.jin10.com/detail/20260728160602156800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "如何看待 LV 回应起诉厦门一楼盘，称并非因四叶雕花装饰纹样，而是相关场所内存在涉嫌销售假冒商品？",
@@ -59,7 +92,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -84,6 +117,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        },
+        {
+          "title": "财政部、国家税务总局：调整部分能源资源行业企业城镇土地使用税政策",
+          "url": "https://flash.jin10.com/detail/20260728160358132800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "财政部、国家税务总局：调整部分能源资源行业企业城镇土地使用税政策。",
+          "url": "https://flash.jin10.com/detail/20260728160250336800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "美国贸易代表格里尔：关税对利率根本没有任何影响。 与墨西哥围绕美国墨西哥加拿大贸易协议（USMCA）的对话一直都富有建设性。（福克斯新闻）",
@@ -125,7 +180,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         }
