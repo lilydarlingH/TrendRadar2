@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T18:37:45.589773+08:00",
-  "total_titles_processed": 1241,
+  "generated_at": "2026-07-28T20:56:55.717183+08:00",
+  "total_titles_processed": 1395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "如何评价长春一汽 22 街区「书香门第」大娘装修事件?",
@@ -58,7 +58,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -84,6 +84,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时04分 ~ 12时12分]"
+        },
+        {
+          "title": "男孩挡电梯等人被催促，其母动手打女孩后双方扭打，湖北仙桃警方已介入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33672435",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 20时56分]"
         },
         {
           "title": "3名工程师利用“取消订单”敛财被拘",
@@ -141,15 +152,26 @@
           "time_info": "16时16分"
         },
         {
-          "title": "男孩挡电梯等人被催促，其母动手打女孩后双方扭打，湖北仙桃警方已介入",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33672435",
-          "source": "澎湃新闻",
+          "title": "股价重返10元上方！建设银行创历史新高，银行板块月内活跃，哪些方向同样领跑？",
+          "url": "https://www.cls.cn/detail/2439103",
+          "source": "财联社热门",
           "ranks": [
-            16
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时37分"
+          "time_info": "20时56分"
+        },
+        {
+          "title": "首批完整社区建设可复制经验做法清单发布",
+          "url": "https://wallstreetcn.com/livenews/3141008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "财政部、国家税务总局：调整部分能源资源行业企业城镇土地使用税政策。",
@@ -180,7 +202,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -194,6 +216,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "女孩催促不要挡电梯被男孩母亲打",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%82%AC%E4%BF%83%E4%B8%8D%E8%A6%81%E6%8C%A1%E7%94%B5%E6%A2%AF%E8%A2%AB%E7%94%B7%E5%AD%A9%E6%AF%8D%E4%BA%B2%E6%89%93%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "基本半导体港交所公告：本公司与承包商就建造碳化硅模块封装产线基地项目订立工程总承包合约。 据此，承包商同意承接本公司碳化硅模块封装产线基地的工程，合约价格总价为人民币1.933亿元。",
@@ -224,9 +257,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
+        },
+        {
+          "title": "上海市委财经工作委员会举行会议，研究“十五五”时期推进国际消费中心城市建设、推动未来产业发展",
+          "url": "https://wallstreetcn.com/livenews/3140986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         }
       ]
     }
