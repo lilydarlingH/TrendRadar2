@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T06:10:02.155095+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-07-28T08:04:58.830486+08:00",
+  "total_titles_processed": 674,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国总统特朗普：正在建造大量爱国者导弹。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "如何看待 LV 回应起诉厦门一楼盘，称并非因四叶雕花装饰纹样，而是相关场所内存在涉嫌销售假冒商品？",
+          "url": "https://www.zhihu.com/question/2064587805762777523",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "美国众议员南希·梅斯再次呼吁推动对南卡罗来纳州新的数据中心建设实施为期一年的暂停。",
@@ -41,6 +52,17 @@
           "time_info": "02时27分"
         },
         {
+          "title": "美国贸易代表格里尔：关税对利率根本没有任何影响。 与墨西哥围绕美国墨西哥加拿大贸易协议（USMCA）的对话一直都富有建设性。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3140546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
           "title": "英国首相伯纳姆：下次预算不会改变或取消房地产购买印花税。",
           "url": "https://wallstreetcn.com/livenews/3140412",
           "source": "华尔街见闻-快讯",
@@ -50,6 +72,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "基本半导体港交所公告：本公司与承包商就建造碳化硅模块封装产线基地项目订立工程总承包合约。 据此，承包商同意承接本公司碳化硅模块封装产线基地的工程，合约价格总价为人民币1.933亿元。",
+          "url": "https://wallstreetcn.com/livenews/3140536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         }
       ]
     }
