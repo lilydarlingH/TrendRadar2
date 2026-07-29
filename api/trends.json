@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T01:17:05.244586+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-30T03:18:35.476467+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "小区电梯失控从31楼下坠到负2楼",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 03时18分]"
         },
         {
           "title": "空客首席执行官：与普惠公司就发动机数量问题仍存在争议，正致力于以建设性的方式解决发动机纠纷。",
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 03时18分]"
         },
         {
           "title": "电梯争执互殴,宝妈怂恿娃参战",
@@ -48,8 +48,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 03时18分]"
         },
         {
           "title": "小区电梯突然失控从31楼下坠到负2楼",
@@ -61,6 +61,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 01时17分]"
+        },
+        {
+          "title": "美联储主席沃什举行新闻发布会：本次FOMC讨论富有建设性。",
+          "url": "https://wallstreetcn.com/livenews/3141835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
         }
       ]
     }
