@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T03:18:35.476467+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2026-07-30T05:02:13.373018+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 05时02分]"
         },
         {
           "title": "空客首席执行官：与普惠公司就发动机数量问题仍存在争议，正致力于以建设性的方式解决发动机纠纷。",
@@ -34,11 +34,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%8C%BA%E7%94%B5%E6%A2%AF%E5%A4%B1%E6%8E%A7%E4%BB%8E31%E6%A5%BC%E4%B8%8B%E5%9D%A0%E5%88%B0%E8%B4%9F2%E6%A5%BC%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 05时02分]"
         },
         {
           "title": "电梯争执互殴,宝妈怂恿娃参战",
@@ -48,8 +49,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 05时02分]"
         },
         {
           "title": "小区电梯突然失控从31楼下坠到负2楼",
@@ -69,7 +70,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
         }
