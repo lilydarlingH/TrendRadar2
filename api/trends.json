@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T17:33:10.445035+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2026-07-30T19:53:57.899252+08:00",
+  "total_titles_processed": 1310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "小区电梯失控从31楼下坠到负2楼",
@@ -54,8 +54,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 17时33分]"
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 19时53分]"
         },
         {
           "title": "《重庆市加力培育建设国际消费中心城市若干政策措施》印发",
@@ -134,6 +134,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        },
+        {
+          "title": "外媒称解放军打造台湾建筑等比例模型，国防部回应",
+          "url": "https://wallstreetcn.com/livenews/3142421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "科威特石油公司招标文件显示，将提供55,000吨石脑油，供应范围为新加坡至日本区域。",
+          "url": "https://flash.jin10.com/detail/20260730191517467800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "乒超男团汕头明润vs上海地产集团",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%92%E8%B6%85%E7%94%B7%E5%9B%A2%E6%B1%95%E5%A4%B4%E6%98%8E%E6%B6%A6vs%E4%B8%8A%E6%B5%B7%E5%9C%B0%E4%BA%A7%E9%9B%86%E5%9B%A2",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "溢价80.44%！嘉里建设联合体27亿元竞得上海浦东新杨思商业综合体地块",
+          "url": "https://wallstreetcn.com/livenews/3142406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "A股银行板块盘中逆势拉升，工商银行、建设银行创历史新高，瑞丰银行涨近3%，青农商行、渝农商行、沪农商行等跟涨。",
