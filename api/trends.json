@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T14:32:03.393299+08:00",
-  "total_titles_processed": 956,
+  "generated_at": "2026-07-30T17:33:10.445035+08:00",
+  "total_titles_processed": 1145,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "小区电梯失控从31楼下坠到负2楼",
@@ -26,11 +26,12 @@
             11,
             14,
             19,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时16分 ~ 14时32分]"
+          "appearance_count": 13,
+          "time_info": "[01时16分 ~ 17时33分]"
         },
         {
           "title": "小区电梯失控从31楼下坠到负2楼",
@@ -46,13 +47,24 @@
           "time_info": "[01时16分 ~ 11时19分]"
         },
         {
+          "title": "一图看懂 | 中央政治局会议重磅定调！事关扩大内需、房地产市场、资本市场......",
+          "url": "https://www.cls.cn/detail/2441315",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 17时33分]"
+        },
+        {
           "title": "《重庆市加力培育建设国际消费中心城市若干政策措施》印发",
           "url": "https://flash.jin10.com/detail/20260730142339517800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -80,6 +92,17 @@
           "time_info": "[11时18分 ~ 14时32分]"
         },
         {
+          "title": "南水北调集团辟谣虚构工程项目",
+          "url": "https://www.douyin.com/hot/2590101",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 17时33分]"
+        },
+        {
           "title": "小区电梯突然失控从31楼下坠到负2楼",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%8C%BA%E7%94%B5%E6%A2%AF%E7%AA%81%E7%84%B6%E5%A4%B1%E6%8E%A7%E4%BB%8E31%E6%A5%BC%E4%B8%8B%E5%9D%A0%E5%88%B0%E8%B4%9F2%E6%A5%BC",
           "source": "百度热搜",
@@ -89,6 +112,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 01时17分]"
+        },
+        {
+          "title": "律师分析仙桃电梯内打斗事件",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%8B%E5%B8%88%E5%88%86%E6%9E%90%E4%BB%99%E6%A1%83%E7%94%B5%E6%A2%AF%E5%86%85%E6%89%93%E6%96%97%E4%BA%8B%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 17时33分]"
         },
         {
           "title": "A股银行板块逆势走强，工商银行、建设银行均创历史新高，瑞丰银行、青农商行、沪农商行、无锡银行等涨幅靠前。",
