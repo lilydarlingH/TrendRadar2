@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T05:06:42.141249+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-08-01T07:03:26.144250+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 05时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 07时03分]"
         },
         {
           "title": "4万亿元将投向算力网建设",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 05时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 07时03分]"
         },
         {
           "title": "国常会：核准辽宁庄河一期工程等四个核电项目",
@@ -39,8 +39,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 05时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 07时03分]"
+        },
+        {
+          "title": "敦煌融媒拟招聘的外籍主播古爱华已放弃聘任资格",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33691794",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 07时03分]"
         },
         {
           "title": "标普500指数的11个板块中，可选消费板块收涨6.07%，电信板块涨4.6%，工业板块涨0.79%表现第三，信息技术/科技板块跌0.54%，房地产板块跌0.68%，公用事业板块跌0.74%，原材料板块跌2.71%。",
@@ -49,20 +61,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
-        },
-        {
-          "title": "敦煌融媒拟招聘的外籍主播古爱华已放弃聘任资格",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33691794",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 05时06分]"
         }
       ]
     }
