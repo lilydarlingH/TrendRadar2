@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-31T06:08:33.229412+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-07-31T08:04:01.022305+08:00",
+  "total_titles_processed": 669,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "男孩挡电梯门近2分钟被家长“制裁”",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%8C%A1%E7%94%B5%E6%A2%AF%E9%97%A8%E8%BF%912%E5%88%86%E9%92%9F%E8%A2%AB%E5%AE%B6%E9%95%BF%E2%80%9C%E5%88%B6%E8%A3%81%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            17,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时17分 ~ 08时04分]"
+        },
         {
           "title": "【伊朗军队称打击美军在巴林空军基地，已对其装备和中心造成了重大破坏】当地时间7月30日晚，伊朗军队发布公告称，军队使用无人机袭击了美军位于巴林的谢赫伊萨空军基地的发电机、导航系统以及行政和后勤保障建筑。公告表示，尽管美军基地拥有众多防御系统和装备，但近日针对该地区美军基地的袭击，已对其装备和中心造成了重大破坏。（央视）",
           "url": "https://wallstreetcn.com/livenews/3142603",
@@ -20,17 +34,38 @@
           "time_info": "[02时18分 ~ 04时17分]"
         },
         {
-          "title": "男孩挡电梯门近2分钟被家长“制裁”",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%A9%E6%8C%A1%E7%94%B5%E6%A2%AF%E9%97%A8%E8%BF%912%E5%88%86%E9%92%9F%E8%A2%AB%E5%AE%B6%E9%95%BF%E2%80%9C%E5%88%B6%E8%A3%81%E2%80%9D",
-          "source": "百度热搜",
+          "title": "国防部回应解放军打造台湾建筑模型",
+          "url": "https://www.toutiao.com/trending/7668241517416464420/",
+          "source": "今日头条",
           "ranks": [
-            24,
-            17,
+            26,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时08分 ~ 08时04分]"
+        },
+        {
+          "title": "如何看待网传支付宝体验技术部被拆分，员工分散到各业务线，统一切换为「Agent 开发全栈工程师」？",
+          "url": "https://www.zhihu.com/question/2065451751201661992",
+          "source": "知乎",
+          "ranks": [
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时17分 ~ 06时08分]"
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 08时04分]"
+        },
+        {
+          "title": "国防部回应“解放军打造台建筑模型”",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E8%A7%A3%E6%94%BE%E5%86%9B%E6%89%93%E9%80%A0%E5%8F%B0%E5%BB%BA%E7%AD%91%E6%A8%A1%E5%9E%8B%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 08时04分]"
         },
         {
           "title": "英国央行行长：年轻人承受了“低招聘、低解雇”经济的主要冲击",
@@ -44,6 +79,17 @@
           "time_info": "00时29分"
         },
         {
+          "title": "美国总统特朗普：“并不确定”是否会允许乌克兰建造爱国者导弹。",
+          "url": "https://flash.jin10.com/detail/20260731073406103800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
           "title": "【何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话】北京时间7月30日晚，中美经贸中方牵头人、国务院副总理何立峰与美方牵头人、美国财政部长贝森特和贸易代表格里尔举行视频通话，双方围绕落实好中美两国元首北京会晤重要共识，就下一阶段中美双方保持经贸关系稳定、拓展务实合作、妥善解决彼此关切，进行了坦诚、深入、富有建设性的交流。中方就近期美对华经贸限制措施表达严正关切。双方同意在两国元首战略引领下，进一步发挥好中美经贸磋商机制作用，加强沟通、增信释疑、拓展合作，推动中美经贸关系稳定向好，助力构建中美建设性战略稳定关系。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3142543",
           "source": "华尔街见闻-快讯",
@@ -55,15 +101,15 @@
           "time_info": "00时29分"
         },
         {
-          "title": "国防部回应解放军打造台湾建筑模型",
-          "url": "https://www.toutiao.com/trending/7668241517416464420/",
-          "source": "今日头条",
+          "title": "电力产业链公司半年报亮相，水电企业收获丰水红利",
+          "url": "https://wallstreetcn.com/livenews/3142681",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时08分"
+          "time_info": "08时04分"
         }
       ]
     }
