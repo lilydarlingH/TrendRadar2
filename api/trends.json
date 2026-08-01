@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T10:52:17.382935+08:00",
-  "total_titles_processed": 719,
+  "generated_at": "2026-08-01T13:56:50.435515+08:00",
+  "total_titles_processed": 880,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "国常会：核准辽宁庄河一期工程等四个核电项目",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时39分 ~ 10时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时39分 ~ 13时56分]"
         },
         {
           "title": "习近平：加快建设健康中国",
@@ -64,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        },
+        {
+          "title": "据伊通社（IRNA）报道，伊朗政府发言人法蒂玛·穆哈杰拉尼表示，当敌人将炼油厂、油库、燃料管道乃至天然气设施列为打击目标时，其用意显然远不止摧毁几座工业建筑。敌人真正想要的是扰乱伊朗人民的日常生活——制造排队、散布焦虑、动摇社会的心理安全防线。正因如此，能源安全不仅是国家安全的基石，更是国家韧性的关键支柱。",
+          "url": "https://flash.jin10.com/detail/20260801133336850800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         }
       ]
     }
