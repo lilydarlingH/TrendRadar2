@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T05:58:39.260433+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-08-02T06:59:29.331740+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 06时59分]"
         },
         {
           "title": "我朋友去面试，公司规模不大，他侧面了解这个岗位，年年都在招聘，根本留不住人，他犹豫到底要不要去上班？",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 06时59分]"
         }
       ]
     }
