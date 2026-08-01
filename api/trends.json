@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-01T07:03:26.144250+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-08-01T10:52:17.382935+08:00",
+  "total_titles_processed": 719,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
       "match_count": 5,
       "titles": [
+        {
+          "title": "国常会：核准辽宁庄河一期工程等四个核电项目",
+          "url": "https://www.cls.cn/detail/2442919",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时39分 ~ 10时52分]"
+        },
         {
           "title": "习近平：加快建设健康中国",
           "url": "https://www.cls.cn/detail/2442494",
@@ -24,18 +36,6 @@
           "url": "https://www.douyin.com/hot/2591699",
           "source": "抖音",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 07时03分]"
-        },
-        {
-          "title": "国常会：核准辽宁庄河一期工程等四个核电项目",
-          "url": "https://www.cls.cn/detail/2442919",
-          "source": "财联社热门",
-          "ranks": [
-            4,
             3
           ],
           "is_new": false,
