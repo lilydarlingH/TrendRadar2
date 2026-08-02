@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T06:59:29.331740+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-08-02T08:02:35.594965+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3143623",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 06时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 08时02分]"
         },
         {
           "title": "我朋友去面试，公司规模不大，他侧面了解这个岗位，年年都在招聘，根本留不住人，他犹豫到底要不要去上班？",
