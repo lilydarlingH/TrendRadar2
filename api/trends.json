@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T14:35:54.426223+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2026-08-02T17:11:23.981676+08:00",
+  "total_titles_processed": 932,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊利集团董事长潘刚：联合英伟达、腾讯等启动乳业数纽中心建设",
@@ -33,15 +33,38 @@
           "time_info": "[00时03分 ~ 06时59分]"
         },
         {
+          "title": "新一代通信网建设加快",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%80%E4%BB%A3%E9%80%9A%E4%BF%A1%E7%BD%91%E5%BB%BA%E8%AE%BE%E5%8A%A0%E5%BF%AB%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时10分 ~ 17时11分]"
+        },
+        {
           "title": "住建部部长倪虹出席2026中国—东盟建设部长圆桌会议",
           "url": "https://wallstreetcn.com/livenews/3143652",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 17时11分]"
+        },
+        {
+          "title": "一看就想睡的装修风格",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E7%9C%8B%E5%B0%B1%E6%83%B3%E7%9D%A1%E7%9A%84%E8%A3%85%E4%BF%AE%E9%A3%8E%E6%A0%BC&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时10分 ~ 17时11分]"
         },
         {
           "title": "倪虹出席2026中国—东盟建设部长圆桌会议",
@@ -50,7 +73,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         }
