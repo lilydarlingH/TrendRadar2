@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T04:12:27.234555+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-08-03T05:59:06.594464+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时12分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 05时59分]"
         },
         {
           "title": "海南将实施98个交通枢纽重大工程",
@@ -25,11 +25,12 @@
           "ranks": [
             11,
             17,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 04时12分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 05时59分]"
         },
         {
           "title": "长沙一高层住宅火灾致4死2伤",
