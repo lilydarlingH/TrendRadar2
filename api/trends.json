@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T05:59:06.594464+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-08-03T07:01:51.039908+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33698197",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时01分]"
         },
         {
           "title": "海南将实施98个交通枢纽重大工程",
@@ -37,11 +38,12 @@
           "url": "https://www.douyin.com/hot/2594710",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 07时01分]"
         },
         {
           "title": "住房城乡建设部城市建设司召开燃气安全事故防范工作约谈会",
