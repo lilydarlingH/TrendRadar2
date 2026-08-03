@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T07:01:51.039908+08:00",
-  "total_titles_processed": 500,
+  "generated_at": "2026-08-03T08:07:35.984223+08:00",
+  "total_titles_processed": 608,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,25 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 07时01分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 08时07分]"
+        },
+        {
+          "title": "长沙一高层住宅火灾致4死2伤",
+          "url": "https://www.douyin.com/hot/2594710",
+          "source": "抖音",
+          "ranks": [
+            9,
+            23,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 08时07分]"
         },
         {
           "title": "海南将实施98个交通枢纽重大工程",
@@ -32,18 +46,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时02分 ~ 05时59分]"
-        },
-        {
-          "title": "长沙一高层住宅火灾致4死2伤",
-          "url": "https://www.douyin.com/hot/2594710",
-          "source": "抖音",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 07时01分]"
         },
         {
           "title": "住房城乡建设部城市建设司召开燃气安全事故防范工作约谈会",
