@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T16:39:13.110465+08:00",
-  "total_titles_processed": 1074,
+  "generated_at": "2026-08-04T19:25:04.226085+08:00",
+  "total_titles_processed": 1246,
   "failed_sources": [],
   "trends": [
     {
@@ -109,6 +109,19 @@
           "time_info": "[01时53分 ~ 07时03分]"
         },
         {
+          "title": "外出 80 年的大爷爷一脉，现在回来要分老家宅基地，我们不想给，按法律该怎么应对？",
+          "url": "https://www.zhihu.com/question/2037600994301882510",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时48分 ~ 19时25分]"
+        },
+        {
           "title": "中央考核巡查组检查工地时连连摇头",
           "url": "https://www.toutiao.com/trending/7669266579925958666/",
           "source": "今日头条",
@@ -120,18 +133,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时53分 ~ 07时03分]"
-        },
-        {
-          "title": "外出 80 年的大爷爷一脉，现在回来要分老家宅基地，我们不想给，按法律该怎么应对？",
-          "url": "https://www.zhihu.com/question/2037600994301882510",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时48分 ~ 16时39分]"
         },
         {
           "title": "是不是发达国家都不建高层住宅楼，为什么呢？",
@@ -162,7 +163,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -184,7 +185,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
