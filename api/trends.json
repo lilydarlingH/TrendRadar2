@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T13:49:04.398382+08:00",
-  "total_titles_processed": 907,
+  "generated_at": "2026-08-04T16:39:13.110465+08:00",
+  "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "新型电力系统建设十五五规划发布",
@@ -59,6 +59,17 @@
           "time_info": "[01时53分 ~ 10时35分]"
         },
         {
+          "title": "对领导总是「能躲就躲」，电梯里碰到就尴尬，这是社交恐惧还是职业成熟度不够？",
+          "url": "https://www.zhihu.com/question/2062470329155465396",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时48分 ~ 16时39分]"
+        },
+        {
           "title": "住房公积金条例迎重大修订，装修、物业费被明确纳入范围，灵活就业人员可自愿缴存，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2067218440234985170",
           "source": "知乎",
@@ -78,17 +89,6 @@
           "source": "今日头条",
           "ranks": [
             4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时48分 ~ 13时49分]"
-        },
-        {
-          "title": "对领导总是「能躲就躲」，电梯里碰到就尴尬，这是社交恐惧还是职业成熟度不够？",
-          "url": "https://www.zhihu.com/question/2062470329155465396",
-          "source": "知乎",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -122,6 +122,18 @@
           "time_info": "[01时53分 ~ 07时03分]"
         },
         {
+          "title": "外出 80 年的大爷爷一脉，现在回来要分老家宅基地，我们不想给，按法律该怎么应对？",
+          "url": "https://www.zhihu.com/question/2037600994301882510",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时48分 ~ 16时39分]"
+        },
+        {
           "title": "是不是发达国家都不建高层住宅楼，为什么呢？",
           "url": "https://www.zhihu.com/question/337396249",
           "source": "知乎",
@@ -131,17 +143,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时34分 ~ 10时35分]"
-        },
-        {
-          "title": "外出 80 年的大爷爷一脉，现在回来要分老家宅基地，我们不想给，按法律该怎么应对？",
-          "url": "https://www.zhihu.com/question/2037600994301882510",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时48分 ~ 13时49分]"
         },
         {
           "title": "核能初创公司Valar首席执行官Isaiah Taylor：人工智能正在飞速发展。我们在各个方面都需要大量电力。对我们来说，这关乎规模化。这正是我们去建设所需的火力。 预计8月初这笔融资我们希望证明我们的生产节奏。我们希望将建造一座反应堆的周期从一年缩短到六个月，再到一个月一次，甚至更快。（彭博电视）",
@@ -155,6 +156,17 @@
           "time_info": "07时03分"
         },
         {
+          "title": "《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布，拟于2027年7月1日起正式实施。",
+          "url": "https://flash.jin10.com/detail/20260804162948779800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "澳大利亚7月ANZ招聘广告环比 0.8%，前值 -0.2%。",
           "url": "https://wallstreetcn.com/livenews/3144434",
           "source": "华尔街见闻-快讯",
@@ -166,13 +178,24 @@
           "time_info": "10时35分"
         },
         {
+          "title": "沙特阿美：全球政府寻求建设更多石油储存设施。 公司在研究开发潜在的新出口路线。 经由苏伊士运河向亚洲出口原油，运输时间要延长20至25天。",
+          "url": "https://wallstreetcn.com/livenews/3144601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "7月深圳新建商品住宅成交同比涨超三成",
           "url": "https://wallstreetcn.com/livenews/3144513",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
         }
