@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T19:25:04.226085+08:00",
-  "total_titles_processed": 1246,
+  "generated_at": "2026-08-04T22:14:08.968652+08:00",
+  "total_titles_processed": 1422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "新型电力系统建设十五五规划发布",
@@ -135,6 +135,17 @@
           "time_info": "[01时53分 ~ 07时03分]"
         },
         {
+          "title": "韦布望远镜看穿戴森球假象：所谓“外星文明巨型工程”实为天然天体物理源",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33711823",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 22时14分]"
+        },
+        {
           "title": "是不是发达国家都不建高层住宅楼，为什么呢？",
           "url": "https://www.zhihu.com/question/337396249",
           "source": "知乎",
@@ -144,6 +155,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时34分 ~ 10时35分]"
+        },
+        {
+          "title": "《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33713556",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 22时14分]"
         },
         {
           "title": "核能初创公司Valar首席执行官Isaiah Taylor：人工智能正在飞速发展。我们在各个方面都需要大量电力。对我们来说，这关乎规模化。这正是我们去建设所需的火力。 预计8月初这笔融资我们希望证明我们的生产节奏。我们希望将建造一座反应堆的周期从一年缩短到六个月，再到一个月一次，甚至更快。（彭博电视）",
@@ -199,6 +221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
+        },
+        {
+          "title": "字节跳动启动2027校园招聘，持续加码AI人才",
+          "url": "https://wallstreetcn.com/livenews/3144778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         }
       ]
     }
