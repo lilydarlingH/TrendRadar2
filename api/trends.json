@@ -1,33 +1,68 @@
 {
-  "generated_at": "2026-08-06T01:39:52.707853+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-06T03:37:19.411888+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "广东雷州通报“特教老师招聘存在违规”：启动问责程序，副校长被停职",
           "url": "https://m.thepaper.cn/newsDetail_forward_33722151",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 03时37分]"
+        },
+        {
+          "title": "美国光伏股哀鸿遍野，SolarEdge跌28.3%，SunPower跌10.7%，第一太阳能跌幅迅速扩大至6.8%，太阳能ETF跌4.6%",
+          "url": "https://wallstreetcn.com/livenews/3145564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时39分"
+          "time_info": "03时37分"
         },
         {
           "title": "联合国教科文组织确认北京为2029年“世界建筑之都”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33723954",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 03时37分]"
+        },
+        {
+          "title": "加拿大总理卡尼宣布政府与多伦多27亿加元（折合19亿美元）的住房协议。 将建设超过18个租赁房项目。",
+          "url": "https://wallstreetcn.com/livenews/3145552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时39分"
+          "time_info": "03时37分"
+        },
+        {
+          "title": "加拿大总理卡尼：我的政府将在三年内投资27亿加元用于在多伦多建设租赁住房项目。",
+          "url": "https://flash.jin10.com/detail/20260806023731802800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         },
         {
           "title": "Starboard Value的CEO Jeff Smith：公司已经持股Shake Shack。 价值投资者创造价值正当其时。（彭博电视）",
