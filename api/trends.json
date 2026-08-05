@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T15:42:14.451445+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2026-08-05T18:37:01.024380+08:00",
+  "total_titles_processed": 1218,
   "failed_sources": [],
   "trends": [
     {
@@ -55,6 +55,19 @@
           "time_info": "[00时52分 ~ 06时14分]"
         },
         {
+          "title": "物业费4次涨价 九成业主赞成",
+          "url": "https://www.baidu.com/s?wd=%E7%89%A9%E4%B8%9A%E8%B4%B94%E6%AC%A1%E6%B6%A8%E4%BB%B7+%E4%B9%9D%E6%88%90%E4%B8%9A%E4%B8%BB%E8%B5%9E%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时41分 ~ 18时37分]"
+        },
+        {
           "title": "“祁连明、吴强坚决不插手干预工程建设”，西藏一医院公开书记院长申明",
           "url": "https://m.thepaper.cn/newsDetail_forward_33712543",
           "source": "澎湃新闻",
@@ -65,18 +78,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时11分 ~ 15时42分]"
-        },
-        {
-          "title": "物业费4次涨价 九成业主赞成",
-          "url": "https://www.baidu.com/s?wd=%E7%89%A9%E4%B8%9A%E8%B4%B94%E6%AC%A1%E6%B6%A8%E4%BB%B7+%E4%B9%9D%E6%88%90%E4%B8%9A%E4%B8%BB%E8%B5%9E%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时41分 ~ 15时42分]"
         },
         {
           "title": "澳大利亚7月AIG建筑业表现指数 -40.6，前值-38.1。",
