@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T12:11:50.197815+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2026-08-05T15:42:14.451445+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布",
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 12时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 15时42分]"
         },
         {
           "title": "韦布望远镜看穿戴森球假象：所谓“外星文明巨型工程”实为天然天体物理源",
@@ -38,7 +38,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         },
@@ -53,6 +53,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时52分 ~ 06时14分]"
+        },
+        {
+          "title": "“祁连明、吴强坚决不插手干预工程建设”，西藏一医院公开书记院长申明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33712543",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 15时42分]"
+        },
+        {
+          "title": "物业费4次涨价 九成业主赞成",
+          "url": "https://www.baidu.com/s?wd=%E7%89%A9%E4%B8%9A%E8%B4%B94%E6%AC%A1%E6%B6%A8%E4%BB%B7+%E4%B9%9D%E6%88%90%E4%B8%9A%E4%B8%BB%E8%B5%9E%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 15时42分]"
         },
         {
           "title": "澳大利亚7月AIG建筑业表现指数 -40.6，前值-38.1。",
@@ -75,17 +99,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
-        },
-        {
-          "title": "“祁连明、吴强坚决不插手干预工程建设”，西藏一医院公开书记院长申明",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33712543",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时11分"
         },
         {
           "title": "Blue Owl成功完成欧洲净租赁基金募集，总承诺资本超过16亿欧元，旨在为投资级企业房地产租户提供差异化的资本解决方案。",
