@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T07:02:13.640538+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-08-06T12:14:48.150690+08:00",
+  "total_titles_processed": 777,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "广东雷州通报“特教老师招聘存在违规”：启动问责程序，副校长被停职",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时39分 ~ 07时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时39分 ~ 12时14分]"
         },
         {
           "title": "联合国教科文组织确认北京为2029年“世界建筑之都”",
@@ -26,11 +26,12 @@
           "ranks": [
             11,
             9,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时39分 ~ 07时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时39分 ~ 12时14分]"
         },
         {
           "title": "美国光伏股哀鸿遍野，SolarEdge跌28.3%，SunPower跌10.7%，第一太阳能跌幅迅速扩大至6.8%，太阳能ETF跌4.6%",
@@ -75,6 +76,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "北京被确认为2029年“世界建筑之都”",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E8%A2%AB%E7%A1%AE%E8%AE%A4%E4%B8%BA2029%E5%B9%B4%E2%80%9C%E4%B8%96%E7%95%8C%E5%BB%BA%E7%AD%91%E4%B9%8B%E9%83%BD%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         }
       ]
     }
