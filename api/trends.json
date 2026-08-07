@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T06:37:34.131483+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-08-08T07:36:12.475470+08:00",
+  "total_titles_processed": 621,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 07时36分]"
         },
         {
           "title": "官方再通报“特教老师招聘违规”：多人受到党纪政务处分和组织处理",
@@ -26,11 +27,12 @@
           "ranks": [
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 07时36分]"
         },
         {
           "title": "300万元行贿、“定制”标书、现场厕所协商，河南某医院2.33亿元工程串标案细节披露",
@@ -41,8 +43,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 07时36分]"
         },
         {
           "title": "国乒男单 梯队建设",
@@ -52,11 +54,12 @@
             16,
             15,
             13,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 07时36分]"
         },
         {
           "title": "广东雷州通报特教老师招聘违规事件，多人受到党纪政务处分和组织处理，如何避免此类事件再次发生？",
