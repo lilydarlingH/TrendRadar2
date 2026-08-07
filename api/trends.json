@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T02:59:24.383139+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-08-08T03:55:29.796549+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "佛山一中学教师招聘笔试前13名被淘汰、后5名进体检名单？市教育局通报",
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 02时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 03时55分]"
         },
         {
           "title": "官方再通报“特教老师招聘违规”：多人受到党纪政务处分和组织处理",
@@ -25,11 +25,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 02时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 03时55分]"
         },
         {
           "title": "300万元行贿、“定制”标书、现场厕所协商，河南某医院2.33亿元工程串标案细节披露",
@@ -40,19 +41,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 02时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 03时55分]"
         },
         {
           "title": "广东雷州通报特教老师招聘违规事件，多人受到党纪政务处分和组织处理，如何避免此类事件再次发生？",
           "url": "https://www.zhihu.com/question/2069118407937455677",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 02时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 03时55分]"
         },
         {
           "title": "国乒男单 梯队建设",
@@ -61,11 +63,23 @@
           "ranks": [
             16,
             15,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 02时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 03时55分]"
+        },
+        {
+          "title": "美国总统特朗普：向美国采矿院校提供1亿美元资金，这项投资将帮助培养下一代采矿工程师，因为该行业正面临大规模退休潮以及毕业生人数不足的问题。",
+          "url": "https://flash.jin10.com/detail/20260808031924352800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时55分"
         }
       ]
     }
