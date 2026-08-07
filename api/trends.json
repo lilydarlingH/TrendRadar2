@@ -1,22 +1,45 @@
 {
-  "generated_at": "2026-08-07T13:42:05.286502+08:00",
-  "total_titles_processed": 683,
+  "generated_at": "2026-08-07T15:19:05.084472+08:00",
+  "total_titles_processed": 820,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "官方通报教师招聘笔试前13名被淘汰",
+          "url": "https://www.toutiao.com/trending/7671138775929471014/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 15时19分]"
+        },
+        {
+          "title": "克利夫兰联储关于“低招聘、低解雇”劳动力市场的解读（全文翻译）",
+          "url": "https://flash.jin10.com/detail/20260807145651292800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
         {
           "title": "300万元行贿、“定制”标书、现场厕所协商，河南某医院2.33亿元工程串标案细节披露",
           "url": "https://m.thepaper.cn/newsDetail_forward_33685397",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
+          "appearance_count": 4,
+          "time_info": "[13时41分 ~ 15时19分]"
         },
         {
           "title": "国企拖欠3700万致市政工程停工",
@@ -70,7 +93,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
         }
