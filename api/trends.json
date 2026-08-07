@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T21:05:52.321233+08:00",
-  "total_titles_processed": 1325,
+  "generated_at": "2026-08-07T22:54:55.694093+08:00",
+  "total_titles_processed": 1475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "300万元行贿、“定制”标书、现场厕所协商，河南某医院2.33亿元工程串标案细节披露",
@@ -19,8 +19,33 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时41分 ~ 21时05分]"
+          "appearance_count": 9,
+          "time_info": "[13时41分 ~ 22时54分]"
+        },
+        {
+          "title": "佛山一中学教师招聘笔试前13名被淘汰、后5名进体检名单？市教育局通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33736773",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时02分 ~ 22时54分]"
+        },
+        {
+          "title": "重磅！北京调整房地产政策",
+          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E7%A3%85%EF%BC%81%E5%8C%97%E4%BA%AC%E8%B0%83%E6%95%B4%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%94%BF%E7%AD%96",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "东睦股份：拟设立孙公司并投资7亿元建设新科技项目",
@@ -45,15 +70,37 @@
           "time_info": "18时08分"
         },
         {
+          "title": "北京出台房地产新政",
+          "url": "https://www.douyin.com/hot/2601420",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "匈牙利总理毛焦尔：政府将在8月31日前就700兆瓦风电装机容量发布招标。",
           "url": "https://flash.jin10.com/detail/20260807205313031800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
+        },
+        {
+          "title": "美团王莆中：在AI助力下将建设“15分钟医疗圈",
+          "url": "https://wallstreetcn.com/livenews/3146803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "官方通报教师招聘笔试前13名被淘汰",
@@ -75,23 +122,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
-        },
-        {
-          "title": "佛山一中学教师招聘笔试前13名被淘汰、后5名进体检名单？市教育局通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33736773",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时02分 ~ 21时05分]"
         },
         {
           "title": "克利夫兰联储关于“低招聘、低解雇”劳动力市场的解读（全文翻译）",
@@ -110,11 +143,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时47分 ~ 21时05分]"
+          "appearance_count": 3,
+          "time_info": "[19时47分 ~ 22时54分]"
         },
         {
           "title": "国企拖欠3700万致市政工程停工",
@@ -185,6 +219,17 @@
           "time_info": "18时08分"
         },
         {
+          "title": "北京出台房地产新政策",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%87%BA%E5%8F%B0%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%96%B0%E6%94%BF%E7%AD%96%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "超颖电子：拟投资20.86亿元建设高多层及HDI印制电路板P3项目",
           "url": "https://wallstreetcn.com/livenews/3146611",
           "source": "华尔街见闻-快讯",
@@ -202,9 +247,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
+        },
+        {
+          "title": "美联储巴尔金：就业数据表现为低招聘、低裁员状态。",
+          "url": "https://flash.jin10.com/detail/20260807221018885800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "挪威首相提议加快电网建设的措施。",
