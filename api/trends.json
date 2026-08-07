@@ -1,313 +1,66 @@
 {
-  "generated_at": "2026-08-07T23:58:17.199225+08:00",
-  "total_titles_processed": 1565,
+  "generated_at": "2026-08-08T00:57:31.187709+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 26,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "300万元行贿、“定制”标书、现场厕所协商，河南某医院2.33亿元工程串标案细节披露",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33685397",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时41分 ~ 23时58分]"
-        },
         {
           "title": "佛山一中学教师招聘笔试前13名被淘汰、后5名进体检名单？市教育局通报",
           "url": "https://m.thepaper.cn/newsDetail_forward_33736773",
           "source": "澎湃新闻",
           "ranks": [
-            9,
-            8,
-            5,
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时02分 ~ 23时58分]"
-        },
-        {
-          "title": "重磅！北京调整房地产政策",
-          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E7%A3%85%EF%BC%81%E5%8C%97%E4%BA%AC%E8%B0%83%E6%95%B4%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%94%BF%E7%AD%96",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时54分"
-        },
-        {
-          "title": "东睦股份：拟设立孙公司并投资7亿元建设新科技项目",
-          "url": "https://flash.jin10.com/detail/20260807180423121800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "美国建筑商Dream Finders已同意以每股33.50美元收购建筑公司Beazer Homes。",
-          "url": "https://wallstreetcn.com/livenews/3146621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "北京出台房地产新政",
-          "url": "https://www.douyin.com/hot/2601420",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时54分"
-        },
-        {
-          "title": "匈牙利总理毛焦尔：政府将在8月31日前就700兆瓦风电装机容量发布招标。",
-          "url": "https://flash.jin10.com/detail/20260807205313031800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "官方通报教师招聘笔试前13名被淘汰",
-          "url": "https://www.toutiao.com/trending/7671138775929471014/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时18分 ~ 18时08分]"
-        },
-        {
-          "title": "经济学家斯妮哈·普里：“世界杯招聘潮”落空",
-          "url": "https://flash.jin10.com/detail/20260807204837032800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "克利夫兰联储关于“低招聘、低解雇”劳动力市场的解读（全文翻译）",
-          "url": "https://flash.jin10.com/detail/20260807145651292800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
+          "time_info": "00时57分"
         },
         {
           "title": "官方再通报“特教老师招聘违规”：多人受到党纪政务处分和组织处理",
           "url": "https://m.thepaper.cn/newsDetail_forward_33739023",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            10,
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时47分 ~ 23时58分]"
+          "appearance_count": 1,
+          "time_info": "00时57分"
         },
         {
-          "title": "美团王莆中：在AI助力下将建设“15分钟医疗圈",
-          "url": "https://wallstreetcn.com/livenews/3146803",
-          "source": "华尔街见闻-快讯",
+          "title": "300万元行贿、“定制”标书、现场厕所协商，河南某医院2.33亿元工程串标案细节披露",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33685397",
+          "source": "澎湃新闻",
           "ranks": [
-            2,
-            19
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时54分 ~ 23时58分]"
-        },
-        {
-          "title": "北京出台房地产新政策",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%87%BA%E5%8F%B0%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%96%B0%E6%94%BF%E7%AD%96%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时54分 ~ 23时58分]"
+          "appearance_count": 1,
+          "time_info": "00时57分"
         },
         {
           "title": "广东雷州通报特教老师招聘违规事件，多人受到党纪政务处分和组织处理，如何避免此类事件再次发生？",
           "url": "https://www.zhihu.com/question/2069118407937455677",
           "source": "知乎",
           "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时05分 ~ 23时58分]"
-        },
-        {
-          "title": "国企拖欠3700万致市政工程停工",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BC%81%E6%8B%96%E6%AC%A03700%E4%B8%87%E8%87%B4%E5%B8%82%E6%94%BF%E5%B7%A5%E7%A8%8B%E5%81%9C%E5%B7%A5%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "河南某医院2.33亿工程串标案细节披露",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E6%9F%90%E5%8C%BB%E9%99%A22.33%E4%BA%BF%E5%B7%A5%E7%A8%8B%E4%B8%B2%E6%A0%87%E6%A1%88%E7%BB%86%E8%8A%82%E6%8A%AB%E9%9C%B2",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "建筑工人不慎坠落身体被3根钢筋刺穿",
-          "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E7%AD%91%E5%B7%A5%E4%BA%BA%E4%B8%8D%E6%85%8E%E5%9D%A0%E8%90%BD%E8%BA%AB%E4%BD%93%E8%A2%AB3%E6%A0%B9%E9%92%A2%E7%AD%8B%E5%88%BA%E7%A9%BF",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时47分 ~ 21时05分]"
-        },
-        {
-          "title": "广东雷州通报特教老师招聘违规事件",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E9%9B%B7%E5%B7%9E%E9%80%9A%E6%8A%A5%E7%89%B9%E6%95%99%E8%80%81%E5%B8%88%E6%8B%9B%E8%81%98%E8%BF%9D%E8%A7%84%E4%BA%8B%E4%BB%B6",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时47分 ~ 21时05分]"
-        },
-        {
-          "title": "一线城市土地市场持续火热",
-          "url": "https://wallstreetcn.com/livenews/3146312",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "广西集中整治房地产市场交易乱象",
-          "url": "https://wallstreetcn.com/livenews/3146615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "超颖电子：拟投资20.86亿元建设高多层及HDI印制电路板P3项目",
-          "url": "https://wallstreetcn.com/livenews/3146611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时08分"
+          "time_info": "00时57分"
         },
         {
-          "title": "美联储巴尔金：就业数据表现为低招聘、低裁员状态。",
-          "url": "https://flash.jin10.com/detail/20260807221018885800",
-          "source": "金十数据",
+          "title": "国乒男单 梯队建设",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8D%95%20%E6%A2%AF%E9%98%9F%E5%BB%BA%E8%AE%BE&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时54分"
-        },
-        {
-          "title": "挪威首相提议加快电网建设的措施。",
-          "url": "https://flash.jin10.com/detail/20260807190523586800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时47分"
-        },
-        {
-          "title": "十四项黄河流域用水定额强制性国家标准实施",
-          "url": "https://wallstreetcn.com/livenews/3146573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "光伏硅料八巨头签署倡议：不得低于成本价销售",
-          "url": "https://wallstreetcn.com/livenews/3146366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "多家光伏龙头回应美国加征关税",
-          "url": "https://wallstreetcn.com/livenews/3146417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
+          "time_info": "00时57分"
         }
       ]
     }
