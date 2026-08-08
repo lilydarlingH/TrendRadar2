@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T12:59:18.806958+08:00",
-  "total_titles_processed": 913,
+  "generated_at": "2026-08-08T13:47:08.221327+08:00",
+  "total_titles_processed": 956,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时57分 ~ 12时59分]"
+          "appearance_count": 17,
+          "time_info": "[00时57分 ~ 13时47分]"
         },
         {
           "title": "官方再通报“特教老师招聘违规”：多人受到党纪政务处分和组织处理",
@@ -31,8 +31,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时57分 ~ 12时59分]"
+          "appearance_count": 17,
+          "time_info": "[00时57分 ~ 13时47分]"
         },
         {
           "title": "300万元行贿、“定制”标书、现场厕所协商，河南某医院2.33亿元工程串标案细节披露",
@@ -63,6 +63,18 @@
           "time_info": "[00时57分 ~ 09时42分]"
         },
         {
+          "title": "佛山一中学招聘前 13 名考生均被淘汰，后 5 名反进体检，教育局已成立调查组，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2069064416709063399",
+          "source": "知乎",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时28分 ~ 13时47分]"
+        },
+        {
           "title": "广东雷州通报特教老师招聘违规事件，多人受到党纪政务处分和组织处理，如何避免此类事件再次发生？",
           "url": "https://www.zhihu.com/question/2069118407937455677",
           "source": "知乎",
@@ -73,18 +85,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时57分 ~ 03时55分]"
-        },
-        {
-          "title": "佛山一中学招聘前 13 名考生均被淘汰，后 5 名反进体检，教育局已成立调查组，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2069064416709063399",
-          "source": "知乎",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时28分 ~ 12时59分]"
         },
         {
           "title": "男子工地坠亡百万赔偿金妻女仅得3万",
