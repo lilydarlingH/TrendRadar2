@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T09:42:40.053051+08:00",
-  "total_titles_processed": 739,
+  "generated_at": "2026-08-08T11:28:40.347976+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "佛山一中学教师招聘笔试前13名被淘汰、后5名进体检名单？市教育局通报",
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时57分 ~ 09时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时57分 ~ 11时28分]"
         },
         {
           "title": "官方再通报“特教老师招聘违规”：多人受到党纪政务处分和组织处理",
@@ -31,8 +31,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时57分 ~ 09时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时57分 ~ 11时28分]"
         },
         {
           "title": "300万元行贿、“定制”标书、现场厕所协商，河南某医院2.33亿元工程串标案细节披露",
@@ -81,9 +81,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "佛山一中学招聘前 13 名考生均被淘汰，后 5 名反进体检，教育局已成立调查组，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2069064416709063399",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         },
         {
           "title": "美国总统特朗普：向美国采矿院校提供1亿美元资金，这项投资将帮助培养下一代采矿工程师，因为该行业正面临大规模退休潮以及毕业生人数不足的问题。",
