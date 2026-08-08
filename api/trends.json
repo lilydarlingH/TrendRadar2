@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T00:35:24.621973+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-09T01:32:36.475218+08:00",
+  "total_titles_processed": 356,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时32分]"
         },
         {
           "title": "检测列车撞人致11死2伤，施工业务外包单位被罚1.5万元",
@@ -26,8 +26,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时32分]"
+        },
+        {
+          "title": "如何看待印度打听雅下水电项目细节",
+          "url": "https://www.toutiao.com/trending/7671067894347956275/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时32分]"
         },
         {
           "title": "据阿曼国家通讯社：阿曼方面表示，关于霍尔木兹海峡安排的持续谈判是积极的和具有建设性的。",
@@ -35,17 +47,6 @@
           "source": "金十数据",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "如何看待印度打听雅下水电项目细节",
-          "url": "https://www.toutiao.com/trending/7671067894347956275/",
-          "source": "今日头条",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 1,
