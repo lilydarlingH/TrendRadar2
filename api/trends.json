@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T03:35:39.461035+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-08-10T04:34:29.422503+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 03时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 04时34分]"
         },
         {
           "title": "俄媒称伊朗布什尔核电站新机组建设仍在继续",
@@ -27,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 03时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 04时34分]"
         },
         {
           "title": "女子3万全款购入宝鸡40平米住宅",
@@ -36,11 +37,12 @@
           "source": "微博",
           "ranks": [
             24,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时35分]"
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 04时34分]"
         }
       ]
     }
