@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-09T14:59:04.347916+08:00",
-  "total_titles_processed": 868,
+  "generated_at": "2026-08-09T15:57:11.698012+08:00",
+  "total_titles_processed": 938,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
       "match_count": 6,
       "titles": [
+        {
+          "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744455",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时47分 ~ 15时57分]"
+        },
         {
           "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
           "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
@@ -25,11 +38,12 @@
           "ranks": [
             8,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 14时59分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 15时57分]"
         },
         {
           "title": "如何看待印度打听雅下水电项目细节",
@@ -48,18 +62,6 @@
           "time_info": "[00时35分 ~ 07时31分]"
         },
         {
-          "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33744455",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 14时59分]"
-        },
-        {
           "title": "AI推理前瞻——从基础设施建设到商业化变现",
           "url": "https://wallstreetcn.com/articles/3778997",
           "source": "华尔街见闻",
@@ -68,8 +70,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时06分 ~ 14时59分]"
+          "appearance_count": 6,
+          "time_info": "[13时06分 ~ 15时57分]"
         },
         {
           "title": "据阿曼国家通讯社：阿曼方面表示，关于霍尔木兹海峡安排的持续谈判是积极的和具有建设性的。",
