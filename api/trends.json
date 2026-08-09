@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T13:07:23.201272+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2026-08-09T14:59:04.347916+08:00",
+  "total_titles_processed": 868,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 13时07分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 14时59分]"
         },
         {
           "title": "如何看待印度打听雅下水电项目细节",
@@ -56,19 +56,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 13时07分]"
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 14时59分]"
         },
         {
           "title": "AI推理前瞻——从基础设施建设到商业化变现",
           "url": "https://wallstreetcn.com/articles/3778997",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时06分 ~ 13时07分]"
+          "appearance_count": 4,
+          "time_info": "[13时06分 ~ 14时59分]"
         },
         {
           "title": "据阿曼国家通讯社：阿曼方面表示，关于霍尔木兹海峡安排的持续谈判是积极的和具有建设性的。",
