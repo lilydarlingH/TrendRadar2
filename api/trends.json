@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T20:52:44.834095+08:00",
-  "total_titles_processed": 1246,
+  "generated_at": "2026-08-09T21:52:13.887126+08:00",
+  "total_titles_processed": 1308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
@@ -73,6 +73,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时06分 ~ 17时41分]"
+        },
+        {
+          "title": "200多位院士专家为一人齐聚哈工程",
+          "url": "https://www.toutiao.com/trending/7671958308341481508/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时51分 ~ 21时52分]"
         },
         {
           "title": "据阿曼国家通讯社：阿曼方面表示，关于霍尔木兹海峡安排的持续谈判是积极的和具有建设性的。",
