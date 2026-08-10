@@ -1,106 +1,22 @@
 {
-  "generated_at": "2026-08-10T23:01:20.601956+08:00",
-  "total_titles_processed": 1651,
+  "generated_at": "2026-08-11T00:08:13.531920+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 22,
+      "match_count": 4,
       "titles": [
         {
-          "title": "200多位院士专家为一人齐聚哈工程",
-          "url": "https://www.toutiao.com/trending/7671958308341481508/",
+          "title": "“温州一建筑被台风吹塌”不实",
+          "url": "https://www.toutiao.com/trending/7671612619727359507/",
           "source": "今日头条",
           "ranks": [
-            2,
-            4,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 06时33分]"
-        },
-        {
-          "title": "湖南一企业诉县政府未交地：这边还在打官司，那边涉案土地被拍卖了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33748183",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时51分 ~ 17时23分]"
-        },
-        {
-          "title": "俄媒称伊朗布什尔核电站新机组建设仍在继续",
-          "url": "https://wallstreetcn.com/livenews/3147111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时33分]"
-        },
-        {
-          "title": "女子3万全款购入宝鸡40平米住宅",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%903%E4%B8%87%E5%85%A8%E6%AC%BE%E8%B4%AD%E5%85%A5%E5%AE%9D%E9%B8%A140%E5%B9%B3%E7%B1%B3%E4%BD%8F%E5%AE%85%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时42分 ~ 06时33分]"
-        },
-        {
-          "title": "物业费的欠费原因",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%A9%E4%B8%9A%E8%B4%B9%E7%9A%84%E6%AC%A0%E8%B4%B9%E5%8E%9F%E5%9B%A0&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时43分 ~ 15时44分]"
-        },
-        {
-          "title": "伊朗外交部发言人：与阿曼的谈判富有建设性且积极。",
-          "url": "https://flash.jin10.com/detail/20260810154228229800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "房地产板块早盘活跃，京投发展涨停，城建发展、我爱我家、金融街、三湘印象、大悦城跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3147198",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "安邦护卫：拟2.8亿元投资建设杭州金融安全服务运营中心项目",
-          "url": "https://flash.jin10.com/detail/20260810154111538800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
+          "time_info": "[00时07分 ~ 00时08分]"
         },
         {
           "title": "浙江温州一建筑被台风吹塌不实",
@@ -110,30 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时10分 ~ 23时01分]"
-        },
-        {
-          "title": "“温州一建筑被台风吹塌”不实",
-          "url": "https://www.toutiao.com/trending/7671612619727359507/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时10分 ~ 23时01分]"
-        },
-        {
-          "title": "物业撤场后小区有何变化",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%A9%E4%B8%9A%E6%92%A4%E5%9C%BA%E5%90%8E%E5%B0%8F%E5%8C%BA%E6%9C%89%E4%BD%95%E5%8F%98%E5%8C%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时33分 ~ 05时34分]"
+          "time_info": "[00时07分 ~ 00时08分]"
         },
         {
           "title": "实拍哥伦比亚地震：房屋边晃边塌",
@@ -144,117 +38,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时59分 ~ 23时01分]"
+          "time_info": "[00时07分 ~ 00时08分]"
         },
         {
-          "title": "哥伦比亚强震已致人员受伤和建筑物受损",
-          "url": "https://wallstreetcn.com/livenews/3147568",
+          "title": "巴里克（Barrick）与纽蒙特（Newmont）的交易价值大约40亿美元。 巴里克今年不会启动Reko Diq建设。",
+          "url": "https://wallstreetcn.com/livenews/3147588",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时01分"
-        },
-        {
-          "title": "恒逸石化：子公司拟投资48.7亿元建设年产40万吨PA6熔体直纺项目",
-          "url": "https://flash.jin10.com/detail/20260810205621925800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "摩根士丹利：继续对MiniMax持建设性观点，即将发布的M3升级版本以及M3 Pro将成为重要催化剂。不过认为其增长更多将在后期释放，将目标价下调至900港元。",
-          "url": "https://wallstreetcn.com/livenews/3147177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "加沙约14万栋建筑被完全摧毁",
-          "url": "https://www.toutiao.com/trending/7671876542372298795/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "两部门：持续推进现代煤炭市场建设",
-          "url": "https://wallstreetcn.com/livenews/3147372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
-          "title": "海南打通土地二级市场全流程“网购”通道",
-          "url": "https://wallstreetcn.com/livenews/3147243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "财政部、应急管理部紧急预拨1.8亿元中央自然灾害救灾资金，支持浙江、内蒙古等7省（区）及新疆生产建设兵团做好自然灾害应急抢险救灾工作。（财政部网站）",
-          "url": "https://wallstreetcn.com/livenews/3147444",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "央行：强化金融市场制度建设，维护金融市场平稳运行",
-          "url": "https://flash.jin10.com/detail/20260810182321006800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "市场消息：哥伦比亚的首都波哥大发生地震，建筑物摇晃。",
-          "url": "https://flash.jin10.com/detail/20260810203820568800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "A股机器人概念股表现活跃，北投科技直线涨停，华中数控、百达精工、建设工业、东土科技、捷强装备涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3147319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
+          "time_info": "00时08分"
         }
       ]
     }
