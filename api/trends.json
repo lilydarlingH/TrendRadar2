@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T02:59:58.039230+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-08-11T03:58:20.352992+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 03时58分]"
         },
         {
           "title": "浙江温州一建筑被台风吹塌不实",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 03时58分]"
         },
         {
           "title": "实拍哥伦比亚地震：房屋边晃边塌",
@@ -37,8 +37,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 03时58分]"
         },
         {
           "title": "巴里克（Barrick）与纽蒙特（Newmont）的交易价值大约40亿美元。 巴里克今年不会启动Reko Diq建设。",
@@ -58,7 +58,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         }
