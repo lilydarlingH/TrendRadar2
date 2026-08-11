@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T19:45:07.149357+08:00",
-  "total_titles_processed": 1593,
+  "generated_at": "2026-08-11T21:07:59.802602+08:00",
+  "total_titles_processed": 1702,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
         {
           "title": "“温州一建筑被台风吹塌”不实",
@@ -90,6 +90,18 @@
           "time_info": "[04时45分 ~ 05时43分]"
         },
         {
+          "title": "DeepSeek招土木工程师，科技大厂争锋延伸至传统资源领域",
+          "url": "https://wallstreetcn.com/livenews/3148048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 21时07分]"
+        },
+        {
           "title": "英伟达CEO黄仁勋：相关交易将支持AI的大范围建设。 （与5000亿美元融资相关的）所有资金都是第三方资本。 对于新一轮人工智能融资计划，无人拒绝。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3147688",
           "source": "华尔街见闻-快讯",
@@ -102,15 +114,37 @@
           "time_info": "[05时43分 ~ 06时39分]"
         },
         {
-          "title": "DeepSeek招土木工程师，科技大厂争锋延伸至传统资源领域",
-          "url": "https://wallstreetcn.com/livenews/3148048",
+          "title": "我国聚变加料领域首项ISO国际标准正式发布",
+          "url": "https://flash.jin10.com/detail/20260811203714387800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
+          "title": "钛能化学：全资子公司拟投资54.62亿元建设年产60万吨磷酸铁项目",
+          "url": "https://wallstreetcn.com/livenews/3148077",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时45分"
+          "time_info": "21时07分"
+        },
+        {
+          "title": "钛能化学：拟与磷化集团共同投资建设年产40万吨钛白粉及140万吨七水硫酸亚铁项目",
+          "url": "https://flash.jin10.com/detail/20260811203618619800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "标普500指数初步收跌0.1%，房地产、公用事业、科技板块至少跌1%，能源板块涨4.4%。 纳斯达克100指数初步收跌0.4%，半导体指数跌2.9%。",
@@ -130,9 +164,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
+        },
+        {
+          "title": "钛能化学：全资子公司拟投资54.62亿元建设年产60万吨磷酸铁锂/磷酸铁钠前驱体（磷酸铁）项目",
+          "url": "https://flash.jin10.com/detail/20260811203427315800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "雅本化学：拟定增募资不超过8.41亿元，用于年产35吨高端医药中间体中试项目、新建年产2019吨原料药及中间体项目（一期） 、新建年产140吨医药原料药项目、新建年产50吨瑞格列汀、2吨SERD抑制剂项目、研发中心建设项目、补充流动资金。",
@@ -141,7 +186,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -163,7 +208,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -276,6 +321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
+        },
+        {
+          "title": "强瑞技术：拟定增募资不超过10.5亿元，用于AI服务器精密液冷部件产品及服务器自动化组装、检测设备研发与制造项目、高端半导体设备精密零部件生产制造项目、强瑞技术龙华区总部基地建设项目、补充流动资金。",
+          "url": "https://wallstreetcn.com/livenews/3148057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "钱七虎谈盾构隧道工程的智能建造",
