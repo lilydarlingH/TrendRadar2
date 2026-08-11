@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T21:07:59.802602+08:00",
-  "total_titles_processed": 1702,
+  "generated_at": "2026-08-11T22:59:43.104832+08:00",
+  "total_titles_processed": 1839,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "“温州一建筑被台风吹塌”不实",
@@ -65,6 +65,17 @@
           "time_info": "[15时09分 ~ 19时44分]"
         },
         {
+          "title": "美国全国房地产经纪人协会首席经济学家劳伦斯·云（Lawrence Yun）：“即便在过去几个月房贷利率上升的环境下，房屋销售依然保持了惊人的稳定性。” “毫无疑问，如果平均房贷利率能回落到6%附近，房地产市场将会蓬勃发展。”",
+          "url": "https://wallstreetcn.com/livenews/3148121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "周一（8月10日），美股行业ETF普遍收跌，全球航空业ETF跌3.38%，半导体ETF跌2.28%，全球科技股指数ETF、科技行业ETF至多跌1.03%，网络股指数ETF涨1.29%，能源业ETF涨4.68%。 标普500指数的11个板块中，房地产板块收跌1.23%，公用事业、信息技术/科技板块至多跌1.11%，能源板块涨4.63%。",
           "url": "https://wallstreetcn.com/livenews/3147681",
           "source": "华尔街见闻-快讯",
@@ -120,7 +131,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -131,7 +142,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -142,7 +153,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -175,7 +186,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -189,6 +200,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
+        },
+        {
+          "title": "我国聚变加料领域首项ISO国际标准正式发布",
+          "url": "https://wallstreetcn.com/livenews/3148114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "中指研究院：前7个月全国法拍住宅成交同比增长超四成",
@@ -329,7 +351,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
