@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T05:50:04.205009+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2026-08-12T07:41:57.506272+08:00",
+  "total_titles_processed": 653,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             1,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 05时50分]"
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 07时41分]"
         },
         {
           "title": "印度想摆脱对华光伏依赖为何弄巧成拙",
@@ -60,7 +61,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
         }
