@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T01:59:13.737223+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-08-13T03:07:43.564543+08:00",
+  "total_titles_processed": 351,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 03时07分]"
         },
         {
           "title": "【每日收评】双创指数均涨超1%，算力硬件股全线反弹，房地产板块异军突起",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 03时07分]"
         }
       ]
     }
