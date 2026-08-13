@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T18:09:47.860861+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2026-08-13T21:13:02.911175+08:00",
+  "total_titles_processed": 1372,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "我国加快自然资源一张图建设",
@@ -31,27 +31,29 @@
           "time_info": "[01时58分 ~ 07时43分]"
         },
         {
-          "title": "泽连斯基声称收复745平方公里土地，“一切在计划中”",
-          "url": "https://news.ifeng.com/c/8vYbmXBfZZC",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 18时09分]"
-        },
-        {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
           "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
           "source": "澎湃新闻",
           "ranks": [
             9,
-            7
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 21时13分]"
+        },
+        {
+          "title": "泽连斯基声称收复745平方公里土地，“一切在计划中”",
+          "url": "https://news.ifeng.com/c/8vYbmXBfZZC",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时20分 ~ 18时09分]"
+          "time_info": "[16时22分 ~ 21时13分]"
         },
         {
           "title": "中国种植的土地那么大，为什么感觉东北大米比较出名又好吃？",
@@ -64,6 +66,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时02分 ~ 12时21分]"
+        },
+        {
+          "title": "多晶硅连续两周无成交价 中游已“涨声”连连 光伏价格传导迎关键考验",
+          "url": "https://www.cls.cn/detail/2453703",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 21时13分]"
         },
         {
           "title": "周三（8月12日），美股行业ETF普遍收涨，半导体ETF收涨2.32%，KBW银行ETF涨1.08%，房地产ETF涨0.91%，机器人与人工智能ETF涨0.88%，地区银行ETF涨0.74%。太阳能ETF则收跌0.70%，可选消费ETF收跌1.15%。",
@@ -95,7 +108,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -117,7 +130,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -128,7 +141,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -161,7 +174,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
