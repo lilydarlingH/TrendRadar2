@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T00:05:33.638737+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-08-14T03:09:06.546476+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 03时09分]"
         },
         {
           "title": "多晶硅连续两周无成交价 中游已“涨声”连连 光伏价格传导迎关键考验",
@@ -26,30 +27,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 03时09分]"
         },
         {
           "title": "泽连斯基声称收复745平方公里土地，“一切在计划中”",
           "url": "https://news.ifeng.com/c/8vYbmXBfZZC",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 03时09分]"
         },
         {
           "title": "上海投资超550亿启动吴淞江工程",
           "url": "https://www.toutiao.com/trending/7673154497254113322/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 03时09分]"
         },
         {
           "title": "39度高温物业管家喊话全楼关空调",
