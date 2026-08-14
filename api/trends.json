@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T18:04:22.171030+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2026-08-14T21:08:05.732838+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -126,6 +126,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时47分 ~ 06时43分]"
+        },
+        {
+          "title": "穆迪：高温和水资源风险正开始“拖累”欧洲房地产行业的资产价值。此类影响若未被定价，可能悄无声息地侵蚀农业、服装制造和半导体等行业企业的现金流和投资组合回报。",
+          "url": "https://flash.jin10.com/detail/20260814204235626800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "美媒：肯尼迪中心决定将特朗普名字印在大楼外墙上",
