@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T09:59:50.238202+08:00",
-  "total_titles_processed": 777,
+  "generated_at": "2026-08-14T12:14:48.723138+08:00",
+  "total_titles_processed": 931,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -43,6 +43,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时05分 ~ 06时43分]"
+        },
+        {
+          "title": "我国全面推进美丽中国建设",
+          "url": "https://www.toutiao.com/trending/7672972233591095359/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         },
         {
           "title": "39度高温物业管家喊话全楼关空调",
@@ -117,15 +128,59 @@
           "time_info": "07时44分"
         },
         {
+          "title": "成都正建设“穿堂风”通道",
+          "url": "https://www.toutiao.com/trending/7673306702489927706/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "各地推动老旧小区电梯更新改造",
+          "url": "https://www.toutiao.com/trending/7672906508631392266/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
           "title": "多地探索物业困局破解之道",
           "url": "https://www.toutiao.com/trending/7673521674193633330/",
           "source": "今日头条",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "人形机器人试验方法系列国家标准编制工作启动",
+          "url": "https://flash.jin10.com/detail/20260814111126950800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "胖东来郑州店招聘公告",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E9%83%91%E5%B7%9E%E5%BA%97%E6%8B%9B%E8%81%98%E5%85%AC%E5%91%8A%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         }
       ]
     }
