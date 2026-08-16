@@ -1,33 +1,22 @@
 {
-  "generated_at": "2026-08-16T07:22:26.354412+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-16T09:20:37.499594+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
-          "title": "日本千叶县暴雨已致9人死亡 超千栋房屋被淹",
-          "url": "https://flash.jin10.com/detail/20260816060133064800",
-          "source": "金十数据",
+          "title": "非沪籍居民及境外人士置换性购房政策微调？上海房地产交易中心热线回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33788970",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "程福波到中国石油调研强调：坚决扛牢能源安全使命，加快建设世界一流综合性能源化工企业",
-          "url": "https://wallstreetcn.com/livenews/3150005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 09时20分]"
         },
         {
           "title": "于东来称胖东来首批刑释职工 30 人无一离职，如何评价这一招聘计划的实际效果？其他企业能效仿吗？",
@@ -41,37 +30,74 @@
           "time_info": "07时22分"
         },
         {
-          "title": "非沪籍居民及境外人士置换性购房政策微调？上海房地产交易中心热线回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33788970",
-          "source": "澎湃新闻",
+          "title": "福建：完善AI基础设施建设，加快构建全省一体化算力网",
+          "url": "https://wallstreetcn.com/livenews/3150009",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "日本千叶县暴雨已致9人死亡 超千栋房屋被淹",
+          "url": "https://flash.jin10.com/detail/20260816060133064800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 09时20分]"
+        },
+        {
+          "title": "程福波到中国石油调研强调：坚决扛牢能源安全使命，加快建设世界一流综合性能源化工企业",
+          "url": "https://wallstreetcn.com/livenews/3150005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 09时20分]"
         },
         {
           "title": "胖东来招聘刑满释放人员",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357614&amp;topic_name=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8B%9B%E8%81%98%E5%88%91%E6%BB%A1%E9%87%8A%E6%94%BE%E4%BA%BA%E5%91%98",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 09时20分]"
         },
         {
           "title": "业主反映新物业入驻车辆进出被拦，社区回应警方已介入，物业回应拦车系登记",
           "url": "https://m.thepaper.cn/newsDetail_forward_33785692",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            15
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 09时20分]"
+        },
+        {
+          "title": "福建：完善AI基础设施建设，加快构建全省一体化算力网",
+          "url": "https://flash.jin10.com/detail/20260816080958361800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时22分"
+          "time_info": "09时20分"
         },
         {
           "title": "据阿拉比亚电视台：马里卜地方当局表示，袭击造成了人员受伤，民众的房屋、车辆及财产遭受损失。",
