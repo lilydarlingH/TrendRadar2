@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T05:22:31.900198+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-08-17T09:18:19.278534+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 09时18分]"
         },
         {
           "title": "韩国总统李在明称房地产泡沫已不容忽视，韩国楼市现在泡沫严重吗？",
@@ -27,11 +27,12 @@
             14,
             10,
             9,
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 09时18分]"
         },
         {
           "title": "胖东来招聘刑满释放人员",
@@ -39,11 +40,12 @@
           "source": "贴吧",
           "ranks": [
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 09时18分]"
         },
         {
           "title": "中石化炼化工程：股东应占利润11.37亿元 同比减少18%",
