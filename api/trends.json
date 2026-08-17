@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T11:02:47.612734+08:00",
-  "total_titles_processed": 769,
+  "generated_at": "2026-08-17T11:59:45.948582+08:00",
+  "total_titles_processed": 864,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             21,
             23,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 11时02分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 11时59分]"
         },
         {
           "title": "韩国总统李在明称房地产泡沫已不容忽视，韩国楼市现在泡沫严重吗？",
@@ -64,11 +65,24 @@
           "url": "https://www.zhihu.com/question/2072365745934005252",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 11时59分]"
+        },
+        {
+          "title": "胖东来再启刑释人员招聘，专家称“不宜神化但提供了现实样本”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33795425",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 11时59分]"
         },
         {
           "title": "加拿大总理卡尼：我们致力于在全国各地建设更多经济适用房。正因如此，我们推出了“加拿大住房计划”。通过加拿大工人、加拿大材料和加拿大技术，快速大规模地建设住房。",
@@ -80,17 +94,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
-        },
-        {
-          "title": "胖东来再启刑释人员招聘，专家称“不宜神化但提供了现实样本”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33795425",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
         }
       ]
     }
