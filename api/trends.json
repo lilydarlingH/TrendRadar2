@@ -1,255 +1,33 @@
 {
-  "generated_at": "2026-08-17T23:27:32.032213+08:00",
-  "total_titles_processed": 1745,
+  "generated_at": "2026-08-18T11:47:07.447520+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 20,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "中国工程机械5年出口规模3倍增长",
-          "url": "https://www.douyin.com/hot/2612202",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 09时18分]"
-        },
-        {
-          "title": "东莞 17 亿元全额付款土地被无偿收回，官方公告称已解除出让合同，怎样从法律角度解读？",
-          "url": "https://www.zhihu.com/question/2072365745934005252",
-          "source": "知乎",
-          "ranks": [
-            7,
-            3,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时02分 ~ 20时45分]"
-        },
-        {
-          "title": "胖东来再启刑释人员招聘，专家称“不宜神化但提供了现实样本”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33795425",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            13,
-            11,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时02分 ~ 23时27分]"
-        },
-        {
-          "title": "胖东来招聘刑满释放人员",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357614&amp;topic_name=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8B%9B%E8%81%98%E5%88%91%E6%BB%A1%E9%87%8A%E6%94%BE%E4%BA%BA%E5%91%98",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            23,
-            24,
-            25,
-            26,
-            27,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 18时34分]"
-        },
-        {
-          "title": "韩国总统李在明称房地产泡沫已不容忽视，韩国楼市现在泡沫严重吗？",
-          "url": "https://www.zhihu.com/question/2071334965493682184",
-          "source": "知乎",
-          "ranks": [
-            13,
-            14,
-            10,
-            9,
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 09时18分]"
-        },
-        {
-          "title": "物业费“降价潮”来了吗",
-          "url": "https://www.baidu.com/s?wd=%E7%89%A9%E4%B8%9A%E8%B4%B9%E2%80%9C%E9%99%8D%E4%BB%B7%E6%BD%AE%E2%80%9D%E6%9D%A5%E4%BA%86%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时34分 ~ 22时29分]"
-        },
-        {
-          "title": "中石化炼化工程：股东应占利润11.37亿元 同比减少18%",
-          "url": "https://wallstreetcn.com/livenews/3150055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 05时22分]"
-        },
-        {
-          "title": "国家统计局：7月份一二三线城市商品住宅销售价格同比降幅总体继续收窄",
-          "url": "https://www.cls.cn/detail/2455912",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 20时45分]"
-        },
         {
           "title": "商场外墙广告“C位”让给科学家：从山东开始，内蒙古、安徽多地跟进",
           "url": "https://m.thepaper.cn/newsDetail_forward_33799676",
           "source": "澎湃新闻",
           "ranks": [
-            11,
-            10
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时29分 ~ 23时27分]"
+          "time_info": "[11时46分 ~ 11时47分]"
         },
         {
-          "title": "多地商场外墙广告“C位”让给科学家",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%95%86%E5%9C%BA%E5%A4%96%E5%A2%99%E5%B9%BF%E5%91%8A%E2%80%9CC%E4%BD%8D%E2%80%9D%E8%AE%A9%E7%BB%99%E7%A7%91%E5%AD%A6%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时29分 ~ 23时27分]"
-        },
-        {
-          "title": "“三北”工程攻坚战年均完成建设任务8000万亩以上",
-          "url": "https://wallstreetcn.com/livenews/3150211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时50分"
-        },
-        {
-          "title": "加拿大总理卡尼：我们致力于在全国各地建设更多经济适用房。正因如此，我们推出了“加拿大住房计划”。通过加拿大工人、加拿大材料和加拿大技术，快速大规模地建设住房。",
-          "url": "https://flash.jin10.com/detail/20260817003208964800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "国家能源局：加快推进大型风电光伏基地项目建设工作",
-          "url": "https://wallstreetcn.com/livenews/3150327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时55分"
-        },
-        {
-          "title": "聚和材料：国内生产基地尚在建设中，短期内不会对公司业绩产生较大影响",
-          "url": "https://wallstreetcn.com/livenews/3150537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时29分"
-        },
-        {
-          "title": "全美住宅建筑商协会（NAHB）首席经济学家Robert Dietz：我们最新的美国建筑商调查继续显示住宅建筑市场存在疲软迹象。 8月是连续第16个月至少有30%的建筑商报告下调价格以支撑需求，也是HMI连续第16个月低于40。",
-          "url": "https://wallstreetcn.com/livenews/3150565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时27分"
-        },
-        {
-          "title": "美国住宅建筑商信心指数仅微幅上升，成本压力制约行业复苏",
-          "url": "https://wallstreetcn.com/livenews/3150563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时27分"
-        },
-        {
-          "title": "日丰股份：拟投资7亿元建设光纤预制棒及光纤项目",
-          "url": "https://wallstreetcn.com/livenews/3150472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
-          "title": "斯菱智驱：拟定增募资不超过18亿元，用于汽车零部件和机器人零部件智能制造生产基地建设项目、补充流动资金项目。",
-          "url": "https://wallstreetcn.com/livenews/3150399",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时34分"
-        },
-        {
-          "title": "美团启动2027届校园招聘，新增十余种AI原生岗位",
-          "url": "https://wallstreetcn.com/livenews/3150521",
-          "source": "华尔街见闻-快讯",
+          "title": "物业费降价潮背后原因何在",
+          "url": "https://www.toutiao.com/trending/7675016839499353642/",
+          "source": "今日头条",
           "ranks": [
             28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时29分"
-        },
-        {
-          "title": "国家统计局：7月一二三线城市商品住宅销售价格同比降幅总体继续收窄",
-          "url": "https://wallstreetcn.com/livenews/3150309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时55分"
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时47分]"
         }
       ]
     }
