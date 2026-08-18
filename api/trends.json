@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-18T12:37:51.644709+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-08-18T17:49:09.175369+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "DeepSeek招聘土木人才释放一个信号",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%8B%9B%E8%81%98%E5%9C%9F%E6%9C%A8%E4%BA%BA%E6%89%8D%E9%87%8A%E6%94%BE%E4%B8%80%E4%B8%AA%E4%BF%A1%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 17时49分]"
+        },
         {
           "title": "商场外墙广告“C位”让给科学家：从山东开始，内蒙古、安徽多地跟进",
           "url": "https://m.thepaper.cn/newsDetail_forward_33799676",
@@ -16,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时46分 ~ 12时37分]"
+          "appearance_count": 5,
+          "time_info": "[11时46分 ~ 17时49分]"
         },
         {
           "title": "物业费降价潮背后原因何在",
@@ -37,7 +48,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         },
@@ -48,7 +59,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         }
