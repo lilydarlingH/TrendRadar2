@@ -1,77 +1,132 @@
 {
-  "generated_at": "2026-08-19T11:33:33.233209+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-08-20T14:47:53.091350+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "土地 地产 宅基地 住宅 房屋 房建 建设 施工 建筑 工程 在建 工地 物业 招标 评标 招聘 专家+招 专家+征 专家+聘 建造 造价 装饰 装修 水电 电梯 外墙 暖通 地暖 光伏 国家标准 行业标准 地方标准 工法 科研项目 一人公司 项目管理 CCAA 审核员 ISO -广告",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
         {
-          "title": "胖东来招聘不含性侵犯罪人员",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358767&amp;topic_name=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8B%9B%E8%81%98%E4%B8%8D%E5%90%AB%E6%80%A7%E4%BE%B5%E7%8A%AF%E7%BD%AA%E4%BA%BA%E5%91%98",
-          "source": "贴吧",
+          "title": "恒大集团、恒大地产、许家印等案宣判",
+          "url": "https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E9%9B%86%E5%9B%A2%E3%80%81%E6%81%92%E5%A4%A7%E5%9C%B0%E4%BA%A7%E3%80%81%E8%AE%B8%E5%AE%B6%E5%8D%B0%E7%AD%89%E6%A1%88%E5%AE%A3%E5%88%A4",
+          "source": "百度热搜",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时33分"
+          "time_info": "14时47分"
         },
         {
-          "title": "公积金条例迎大规模修订：装修、物业费可提取 灵活就业人员可自愿缴存",
-          "url": "https://www.cls.cn/detail/2457602",
-          "source": "财联社热门",
+          "title": "许家印被判处无期徒刑，恒大集团、恒大地产等案一审宣判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33816463",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时33分"
+          "time_info": "14时47分"
         },
         {
-          "title": "如何看待胖东来澄清称招聘不包含性侵、严重暴力等犯罪人员？这一回应能打消此前的质疑吗？",
-          "url": "https://www.zhihu.com/question/2073306220648035519",
+          "title": "恒大集团、恒大地产等案一审宣判，许家印被判处无期徒刑，恒大集团被罚 88.2 亿元，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2073743307616817593",
           "source": "知乎",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时33分"
+          "time_info": "14时47分"
         },
         {
-          "title": "上海张江高新技术产业开发区发展“十五五”规划：加快大飞机关键材料与核心零部件检验检测等平台建设",
-          "url": "https://wallstreetcn.com/livenews/3151447",
+          "title": "许家印被判处无期徒刑 恒大集团、恒大地产等案一审宣判",
+          "url": "https://www.cls.cn/detail/2458950",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "上海优化房地产政策",
+          "url": "https://www.douyin.com/hot/2616803",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "教师招聘笔试前13名落选、后5名进体检名单？佛山通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33810219",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "上海：到2030年，全球著名体育城市建设取得新进展，“一城一都四中心”发展格局更加成熟稳固",
+          "url": "https://wallstreetcn.com/livenews/3152123",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时33分"
+          "time_info": "14时47分"
         },
         {
-          "title": "卖21吨银条赚2.47亿的物业公司被套了",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%9621%E5%90%A8%E9%93%B6%E6%9D%A1%E8%B5%9A2.47%E4%BA%BF%E7%9A%84%E7%89%A9%E4%B8%9A%E5%85%AC%E5%8F%B8%E8%A2%AB%E5%A5%97%E4%BA%86",
-          "source": "百度热搜",
+          "title": "胖东来招聘不含性侵犯罪人员",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358767&amp;topic_name=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8B%9B%E8%81%98%E4%B8%8D%E5%90%AB%E6%80%A7%E4%BE%B5%E7%8A%AF%E7%BD%AA%E4%BA%BA%E5%91%98",
+          "source": "贴吧",
           "ranks": [
-            12
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时33分"
+          "time_info": "14时47分"
         },
         {
-          "title": "胖东来招聘不包含性侵犯罪人员",
-          "url": "https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8B%9B%E8%81%98%E4%B8%8D%E5%8C%85%E5%90%AB%E6%80%A7%E4%BE%B5%E7%8A%AF%E7%BD%AA%E4%BA%BA%E5%91%98",
-          "source": "百度热搜",
+          "title": "A股房地产板块短线拉升，城投控股涨停，福星股份此前封板，特发服务、信达地产、市北高新、华发股份、上实发展等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3152102",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时33分"
+          "time_info": "14时47分"
+        },
+        {
+          "title": "河南某小区凭高考成绩减免物业费，有人质疑减免的物业费是否变相由其他业主承担，如何看待这一举措？",
+          "url": "https://www.zhihu.com/question/2073084961134063902",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "正荣地产向债权人送交境外债务重组计划条款书。",
+          "url": "https://wallstreetcn.com/livenews/3152091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         }
       ]
     }
